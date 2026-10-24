@@ -238,14 +238,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 924,
-        "wpm": 57,
+        "allTimeRaces": 931,
+        "wpm": 54,
         "highestWPM": 66,
-        "teamRaces": 117,
+        "teamRaces": 118,
         "acc": 94.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1792858987
+        "lastLogin": 1792862884
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78848,
+        "races": 78849,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 286,
+        "races": 259,
         "avgWPM": 58,
-        "avgAcc": 93.2,
+        "avgAcc": 93.13,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792861634530
+    "_syncedAt": 1792863348532
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792861653397
+    "_syncedAt": 1792863367367
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792861672186
+    "_syncedAt": 1792863386140
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1454,11 +1454,11 @@
         "displayName": "ticklemonsterr",
         "role": "member",
         "joinStamp": 1792790899,
-        "allTimeRaces": 2965,
-        "wpm": 81,
+        "allTimeRaces": 2968,
+        "wpm": 82,
         "highestWPM": 101,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 3,
+        "acc": 93.81,
         "season": null,
         "status": "active",
         "lastLogin": 1792861782
@@ -1881,7 +1881,7 @@
         "acc": 94.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792792276
+        "lastLogin": 1792862699
       },
       {
         "username": "nev444ehh",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121995,
+        "races": 121998,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 708,
+        "races": 694,
         "avgWPM": 74,
-        "avgAcc": 95.03,
+        "avgAcc": 95.13,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792861841358
+    "_syncedAt": 1792863555352
   }
 }

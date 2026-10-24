@@ -9,10 +9,10 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 64,
+        "races": 66,
         "wpm": 90.8,
-        "accuracy": 93.36,
-        "points": 8689,
+        "accuracy": 93.33,
+        "points": 8957,
         "tier": "A"
       },
       {
@@ -43,6 +43,19 @@
       },
       {
         "rank": 4,
+        "tag": "IMT",
+        "username": "Joe and Uh",
+        "displayName": "Joe and Uh",
+        "nickname": "Pro Pacer",
+        "squad": "Starter Fund",
+        "races": 23,
+        "wpm": 89.7,
+        "accuracy": 96.57,
+        "points": 3217,
+        "tier": "A"
+      },
+      {
+        "rank": 5,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -53,19 +66,6 @@
         "accuracy": 93.62,
         "points": 2884,
         "tier": "B"
-      },
-      {
-        "rank": 5,
-        "tag": "IMT",
-        "username": "Joe and Uh",
-        "displayName": "Joe and Uh",
-        "nickname": "Pro Pacer",
-        "squad": "Starter Fund",
-        "races": 18,
-        "wpm": 91.3,
-        "accuracy": 97.02,
-        "points": 2543,
-        "tier": "A"
       },
       {
         "rank": 6,
@@ -105,8 +105,21 @@
         "accuracy": 90.69,
         "points": 653,
         "tier": "B"
+      },
+      {
+        "rank": 9,
+        "tag": "THB0S",
+        "username": "ticklemonsterr",
+        "displayName": "ticklemonsterr",
+        "nickname": "Green Streak",
+        "squad": null,
+        "races": 3,
+        "wpm": 82.6,
+        "accuracy": 93.4,
+        "points": 396,
+        "tier": "B"
       }
     ],
-    "_syncedAt": 1792861634225
+    "_syncedAt": 1792863348332
   }
 }

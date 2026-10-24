@@ -195,11 +195,11 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1217,
-      "wpm": 94,
+      "allTimeRaces": 1220,
+      "wpm": 89,
       "highestWPM": 109,
-      "teamRaces": 30,
-      "acc": 96.83,
+      "teamRaces": 35,
+      "acc": 96.6,
       "season": null,
       "status": "active",
       "lastLogin": 1792860432
@@ -478,11 +478,11 @@
       "allTimeRaces": 5082,
       "wpm": 91,
       "highestWPM": 127,
-      "teamRaces": 2655,
+      "teamRaces": 2657,
       "acc": 92.61,
       "season": null,
       "status": "active",
-      "lastLogin": 1792857131
+      "lastLogin": 1792862017
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -524,7 +524,7 @@
       "acc": 92.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1792844924
+      "lastLogin": 1792861665
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58928,
+      "races": 58935,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 936,
+      "races": 909,
       "avgWPM": 88,
-      "avgAcc": 95.44,
+      "avgAcc": 95.47,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792861537667
+  "_syncedAt": 1792863253514
 }
