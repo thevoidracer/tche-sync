@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2992,
+    "profileViews": 2993,
     "leagueTier": 12,
     "racers": [
       {
@@ -238,14 +238,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 900,
-        "wpm": 59,
+        "allTimeRaces": 916,
+        "wpm": 58,
         "highestWPM": 66,
-        "teamRaces": 93,
-        "acc": 95.13,
+        "teamRaces": 99,
+        "acc": 95.04,
         "season": null,
         "status": "active",
-        "lastLogin": 1792758184
+        "lastLogin": 1792858987
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78824,
+        "races": 78830,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 300,
-        "avgWPM": 60,
-        "avgAcc": 93.04,
+        "races": 299,
+        "avgWPM": 59,
+        "avgAcc": 93.03,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792858001415
+    "_syncedAt": 1792859877836
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 159,
-        "avgWPM": 82,
-        "avgAcc": 93.46,
+        "races": 118,
+        "avgWPM": 80,
+        "avgAcc": 93.43,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792858020414
+    "_syncedAt": 1792859896635
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792858039371
+    "_syncedAt": 1792859915520
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1990,14 +1990,14 @@
         "members": 49
       },
       "daily": {
-        "races": 762,
-        "avgWPM": 75,
-        "avgAcc": 94.97,
+        "races": 729,
+        "avgWPM": 74,
+        "avgAcc": 95.02,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792858209149
+    "_syncedAt": 1792860085014
   }
 }

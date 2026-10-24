@@ -2,33 +2,18 @@
   "hours": [
     {
       "hour": "2026-10-23 16:00:00",
-      "racer": "KirbyDelta",
-      "races": 45
-    },
-    {
-      "hour": "2026-10-23 16:00:00",
-      "racer": "WindMaker",
-      "races": 24
-    },
-    {
-      "hour": "2026-10-23 16:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 20
-    },
-    {
-      "hour": "2026-10-23 16:00:00",
-      "racer": "The Big Yahu",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-23 16:00:00",
       "racer": "loganim12btw",
       "races": 6
     },
     {
       "hour": "2026-10-23 16:00:00",
-      "racer": "StefanO",
-      "races": 4
+      "racer": "KirbyDelta",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-23 16:00:00",
+      "racer": "WindMaker",
+      "races": 1
     },
     {
       "hour": "2026-10-23 17:00:00",
@@ -97,12 +82,12 @@
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Void Racer",
       "races": 9
     },
     {
       "hour": "2026-10-23 19:00:00",
-      "racer": "Void Racer",
+      "racer": "Namedisplayed",
       "races": 9
     },
     {
@@ -274,8 +259,18 @@
       "hour": "2026-10-24 15:00:00",
       "racer": "Joe and Uh",
       "races": 2
+    },
+    {
+      "hour": "2026-10-24 16:00:00",
+      "racer": "Void Racer",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-24 16:00:00",
+      "racer": "Joe and Uh",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792857958965
+  "_syncedAt": 1792859836651
 }

@@ -5,7 +5,7 @@
   "activePercent": 98,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2070,
+  "profileViews": 2071,
   "leagueTier": 12,
   "racers": [
     {
@@ -198,8 +198,8 @@
       "allTimeRaces": 1201,
       "wpm": 89,
       "highestWPM": 109,
-      "teamRaces": 14,
-      "acc": 96.4,
+      "teamRaces": 16,
+      "acc": 96.3,
       "season": null,
       "status": "active",
       "lastLogin": 1792857273
@@ -475,10 +475,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5048,
-      "wpm": 92,
+      "allTimeRaces": 5058,
+      "wpm": 91,
       "highestWPM": 127,
-      "teamRaces": 2622,
+      "teamRaces": 2633,
       "acc": 92.6,
       "season": null,
       "status": "active",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58879,
+      "races": 58892,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 996,
+      "races": 913,
       "avgWPM": 87,
-      "avgAcc": 95.41,
+      "avgAcc": 95.43,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792857895676
+  "_syncedAt": 1792859765331
 }

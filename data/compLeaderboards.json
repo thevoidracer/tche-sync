@@ -17,6 +17,19 @@
       },
       {
         "rank": 2,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Dominator 2.5k",
+        "races": 42,
+        "wpm": 89.4,
+        "accuracy": 93.63,
+        "points": 5691,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -27,19 +40,6 @@
         "accuracy": 90.36,
         "points": 5023,
         "tier": "C"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "The Smasher",
-        "squad": "Dominator 2.5k",
-        "races": 31,
-        "wpm": 88.6,
-        "accuracy": 93.88,
-        "points": 4199,
-        "tier": "A"
       },
       {
         "rank": 4,
@@ -69,6 +69,19 @@
       },
       {
         "rank": 6,
+        "tag": "KEYCAT",
+        "username": "Ace_TypingLegend",
+        "displayName": "Ace_TypingLegend",
+        "nickname": "Mystery Man",
+        "squad": "Starter!!",
+        "races": 6,
+        "wpm": 55.4,
+        "accuracy": 93.3,
+        "points": 715,
+        "tier": "B"
+      },
+      {
+        "rank": 7,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -81,19 +94,19 @@
         "tier": "B"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
         "nickname": "Pro Pacer",
         "squad": "Starter Fund",
-        "races": 2,
-        "wpm": 94.4,
-        "accuracy": 96.01,
-        "points": 283,
+        "races": 4,
+        "wpm": 86.6,
+        "accuracy": 95.72,
+        "points": 549,
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792858001230
+    "_syncedAt": 1792859877691
   }
 }
