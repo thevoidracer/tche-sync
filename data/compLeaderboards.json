@@ -87,10 +87,10 @@
         "displayName": "I_Am_So_Cheesy",
         "nickname": "Spring Speedster",
         "squad": "Entrepreneur 500",
-        "races": 17,
-        "wpm": 48.3,
-        "accuracy": 93.45,
-        "points": 1972,
+        "races": 24,
+        "wpm": 49.5,
+        "accuracy": 92.57,
+        "points": 2772,
         "tier": "C"
       },
       {
@@ -135,6 +135,19 @@
       {
         "rank": 11,
         "tag": "THB0S",
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Ghost Lap",
+        "squad": "Active!",
+        "races": 4,
+        "wpm": 58.1,
+        "accuracy": 92.93,
+        "points": 480,
+        "tier": "C"
+      },
+      {
+        "rank": 12,
+        "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
         "nickname": "Green Streak",
@@ -144,8 +157,21 @@
         "accuracy": 93.4,
         "points": 396,
         "tier": "B"
+      },
+      {
+        "rank": 13,
+        "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 104.3,
+        "accuracy": 87.5,
+        "points": 133,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792868983503
+    "_syncedAt": 1792870388700
   }
 }

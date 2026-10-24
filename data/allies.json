@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2994,
+    "profileViews": 2995,
     "leagueTier": 12,
     "racers": [
       {
@@ -189,7 +189,7 @@
         "acc": 94.76,
         "season": null,
         "status": "active",
-        "lastLogin": 1792781442
+        "lastLogin": 1792870259
       },
       {
         "username": "fresh_shrimpy",
@@ -385,7 +385,7 @@
         "acc": 93.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1792855166
+        "lastLogin": 1792869115
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -656,7 +656,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792868983676
+    "_syncedAt": 1792870388866
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 67,
+        "races": 61,
         "avgWPM": 82,
-        "avgAcc": 93.17,
+        "avgAcc": 93.27,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792869002582
+    "_syncedAt": 1792870407750
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792869025190
+    "_syncedAt": 1792870426624
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4446,
+    "profileViews": 4447,
     "leagueTier": 12,
     "racers": [
       {
@@ -1622,11 +1622,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792699949,
-        "allTimeRaces": 8070,
+        "allTimeRaces": 8071,
         "wpm": 62,
         "highestWPM": 84,
-        "teamRaces": 340,
-        "acc": 94.38,
+        "teamRaces": 341,
+        "acc": 94.37,
         "season": null,
         "status": "active",
         "lastLogin": 1792868285
@@ -1797,7 +1797,7 @@
         "acc": 92.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792858024
+        "lastLogin": 1792869246
       },
       {
         "username": "sara0010",
@@ -1811,7 +1811,7 @@
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1792809916
+        "lastLogin": 1792869406
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122001,
+        "races": 122002,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 600,
-        "avgWPM": 74,
-        "avgAcc": 95.44,
+        "races": 581,
+        "avgWPM": 73,
+        "avgAcc": 95.3,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792869194787
+    "_syncedAt": 1792870596073
   }
 }

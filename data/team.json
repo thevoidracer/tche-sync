@@ -258,7 +258,7 @@
       "acc": 96.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1792845561
+      "lastLogin": 1792869176
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -338,8 +338,8 @@
       "allTimeRaces": 5245,
       "wpm": 98,
       "highestWPM": 117,
-      "teamRaces": 84,
-      "acc": 91.26,
+      "teamRaces": 85,
+      "acc": 91.23,
       "season": null,
       "status": "active",
       "lastLogin": 1792868505
@@ -517,14 +517,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 823,
-      "wpm": 56,
+      "allTimeRaces": 831,
+      "wpm": 52,
       "highestWPM": 108,
-      "teamRaces": 575,
-      "acc": 92.13,
+      "teamRaces": 583,
+      "acc": 92.12,
       "season": null,
       "status": "active",
-      "lastLogin": 1792861665
+      "lastLogin": 1792869238
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59003,
+      "races": 59012,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 901,
+      "races": 861,
       "avgWPM": 86,
-      "avgAcc": 95.42,
+      "avgAcc": 95.41,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792868883151
+  "_syncedAt": 1792870292569
 }
