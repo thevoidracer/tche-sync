@@ -517,14 +517,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 832,
-      "wpm": 52,
+      "allTimeRaces": 835,
+      "wpm": 51,
       "highestWPM": 108,
-      "teamRaces": 583,
-      "acc": 92.12,
+      "teamRaces": 587,
+      "acc": 92.13,
       "season": null,
       "status": "active",
-      "lastLogin": 1792881126
+      "lastLogin": 1792881966
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -657,31 +657,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 280,
-      "wpm": 94,
+      "allTimeRaces": 281,
+      "wpm": 92,
       "highestWPM": 111,
       "teamRaces": 37,
       "acc": 91.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1792844472
+      "lastLogin": 1792882804
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 59012,
+      "races": 59016,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 649,
+      "races": 653,
       "avgWPM": 86,
-      "avgAcc": 96.03,
+      "avgAcc": 96.02,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792881214710
+  "_syncedAt": 1792882884913
 }
