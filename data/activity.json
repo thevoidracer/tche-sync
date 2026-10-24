@@ -2,12 +2,12 @@
   "hours": [
     {
       "hour": "2026-10-23 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 27
+      "racer": "Namedisplayed",
+      "races": 16
     },
     {
       "hour": "2026-10-23 20:00:00",
-      "racer": "Namedisplayed",
+      "racer": "-HyperTyper-",
       "races": 16
     },
     {
@@ -18,12 +18,7 @@
     {
       "hour": "2026-10-23 20:00:00",
       "racer": "Void Racer",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-23 20:00:00",
-      "racer": "Kingzillao9",
-      "races": 10
+      "races": 6
     },
     {
       "hour": "2026-10-23 20:00:00",
@@ -197,5 +192,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792872842496
+  "_syncedAt": 1792874230895
 }

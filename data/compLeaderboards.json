@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 21,
+        "wpm": 88.4,
+        "accuracy": 95.48,
+        "points": 2891,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -94,7 +107,20 @@
         "tier": "C"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "tag": "THB0S",
+        "username": "GetGooder",
+        "displayName": "GetGooder",
+        "nickname": "Taco Lover",
+        "squad": "Active!",
+        "races": 19,
+        "wpm": 80.2,
+        "accuracy": 96.24,
+        "points": 2562,
+        "tier": "B"
+      },
+      {
+        "rank": 10,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -107,7 +133,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 11,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -120,7 +146,20 @@
         "tier": "B"
       },
       {
-        "rank": 10,
+        "rank": 12,
+        "tag": "THB0S",
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Ghost Lap",
+        "squad": "Active!",
+        "races": 9,
+        "wpm": 59.5,
+        "accuracy": 92.36,
+        "points": 1078,
+        "tier": "C"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -133,33 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 11,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 4,
-        "wpm": 83.7,
-        "accuracy": 94.29,
-        "points": 535,
-        "tier": "A"
-      },
-      {
-        "rank": 12,
-        "tag": "THB0S",
-        "username": "Mwhit4",
-        "displayName": "Mwhit4",
-        "nickname": "Ghost Lap",
-        "squad": "Active!",
-        "races": 4,
-        "wpm": 58.1,
-        "accuracy": 92.93,
-        "points": 480,
-        "tier": "C"
-      },
-      {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -172,7 +185,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -185,6 +198,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792872885093
+    "_syncedAt": 1792874274441
   }
 }
