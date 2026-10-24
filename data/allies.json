@@ -648,15 +648,15 @@
         "members": 45
       },
       "daily": {
-        "races": 237,
+        "races": 217,
         "avgWPM": 57,
-        "avgAcc": 93.03,
+        "avgAcc": 92.87,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792867111603
+    "_syncedAt": 1792868983676
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 73,
+        "races": 67,
         "avgWPM": 82,
-        "avgAcc": 93.2,
+        "avgAcc": 93.17,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792867130438
+    "_syncedAt": 1792869002582
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792867149216
+    "_syncedAt": 1792869025190
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1622,14 +1622,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1792699949,
-        "allTimeRaces": 8067,
-        "wpm": 65,
+        "allTimeRaces": 8070,
+        "wpm": 62,
         "highestWPM": 84,
-        "teamRaces": 337,
+        "teamRaces": 340,
         "acc": 94.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1792846690
+        "lastLogin": 1792868285
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1984,13 +1984,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 121998,
+        "races": 122001,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 618,
+        "races": 600,
         "avgWPM": 74,
         "avgAcc": 95.44,
         "members": 49
@@ -1998,6 +1998,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792867318279
+    "_syncedAt": 1792869194787
   }
 }

@@ -335,14 +335,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5244,
+      "allTimeRaces": 5245,
       "wpm": 98,
       "highestWPM": 117,
       "teamRaces": 84,
       "acc": 91.26,
       "season": null,
       "status": "active",
-      "lastLogin": 1792797203
+      "lastLogin": 1792868505
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -517,11 +517,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 821,
+      "allTimeRaces": 823,
       "wpm": 56,
       "highestWPM": 108,
-      "teamRaces": 572,
-      "acc": 92.14,
+      "teamRaces": 575,
+      "acc": 92.13,
       "season": null,
       "status": "active",
       "lastLogin": 1792861665
@@ -622,7 +622,7 @@
       "acc": 91.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1792766251
+      "lastLogin": 1792867654
     },
     {
       "username": "falconsteve2",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59000,
+      "races": 59003,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 944,
-      "avgWPM": 87,
-      "avgAcc": 95.44,
+      "races": 901,
+      "avgWPM": 86,
+      "avgAcc": 95.42,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792867014796
+  "_syncedAt": 1792868883151
 }

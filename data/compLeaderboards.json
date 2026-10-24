@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Entrepreneur 500",
+        "races": 17,
+        "wpm": 48.3,
+        "accuracy": 93.45,
+        "points": 1972,
+        "tier": "C"
+      },
+      {
+        "rank": 8,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -92,19 +105,6 @@
         "accuracy": 93.5,
         "points": 1777,
         "tier": "A"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "I_Am_So_Cheesy",
-        "displayName": "I_Am_So_Cheesy",
-        "nickname": "Spring Speedster",
-        "squad": "Entrepreneur 500",
-        "races": 14,
-        "wpm": 46.8,
-        "accuracy": 94.45,
-        "points": 1632,
-        "tier": "C"
       },
       {
         "rank": 9,
@@ -146,6 +146,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792867111452
+    "_syncedAt": 1792868983503
   }
 }
