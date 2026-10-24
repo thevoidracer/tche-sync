@@ -5,7 +5,7 @@
   "activePercent": 98,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2071,
+  "profileViews": 2072,
   "leagueTier": 12,
   "racers": [
     {
@@ -195,14 +195,14 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1201,
-      "wpm": 89,
+      "allTimeRaces": 1217,
+      "wpm": 94,
       "highestWPM": 109,
-      "teamRaces": 16,
-      "acc": 96.3,
+      "teamRaces": 30,
+      "acc": 96.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1792857273
+      "lastLogin": 1792860432
     },
     {
       "username": "teraceeben21",
@@ -475,11 +475,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5058,
+      "allTimeRaces": 5082,
       "wpm": 91,
       "highestWPM": 127,
-      "teamRaces": 2633,
-      "acc": 92.6,
+      "teamRaces": 2655,
+      "acc": 92.61,
       "season": null,
       "status": "active",
       "lastLogin": 1792857131
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58892,
+      "races": 58928,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 913,
-      "avgWPM": 87,
-      "avgAcc": 95.43,
+      "races": 936,
+      "avgWPM": 88,
+      "avgAcc": 95.44,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792859765331
+  "_syncedAt": 1792861537667
 }

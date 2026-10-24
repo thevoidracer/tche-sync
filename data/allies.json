@@ -238,11 +238,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 916,
-        "wpm": 58,
+        "allTimeRaces": 924,
+        "wpm": 57,
         "highestWPM": 66,
-        "teamRaces": 99,
-        "acc": 95.04,
+        "teamRaces": 117,
+        "acc": 94.88,
         "season": null,
         "status": "active",
         "lastLogin": 1792858987
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78830,
+        "races": 78848,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 299,
-        "avgWPM": 59,
-        "avgAcc": 93.03,
+        "races": 286,
+        "avgWPM": 58,
+        "avgAcc": 93.2,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792859877836
+    "_syncedAt": 1792861634530
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 118,
+        "races": 112,
         "avgWPM": 80,
-        "avgAcc": 93.43,
+        "avgAcc": 93.48,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792859896635
+    "_syncedAt": 1792861653397
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792859915520
+    "_syncedAt": 1792861672186
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1307,7 +1307,7 @@
         "acc": 95.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1792771811
+        "lastLogin": 1792860662
       },
       {
         "username": "jckrayzie",
@@ -1335,7 +1335,7 @@
         "acc": 96.79,
         "season": null,
         "status": "active",
-        "lastLogin": 1792771860
+        "lastLogin": 1792860779
       },
       {
         "username": "1vxymphasdf",
@@ -1461,7 +1461,7 @@
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1792857750
+        "lastLogin": 1792861782
       },
       {
         "username": "baglepet000",
@@ -1990,14 +1990,14 @@
         "members": 49
       },
       "daily": {
-        "races": 729,
+        "races": 708,
         "avgWPM": 74,
-        "avgAcc": 95.02,
+        "avgAcc": 95.03,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792860085014
+    "_syncedAt": 1792861841358
   }
 }
