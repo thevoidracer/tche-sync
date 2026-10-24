@@ -9,11 +9,11 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 66,
-        "wpm": 90.8,
+        "races": 67,
+        "wpm": 90.5,
         "accuracy": 93.33,
-        "points": 8957,
-        "tier": "A"
+        "points": 9083,
+        "tier": "B"
       },
       {
         "rank": 2,
@@ -30,6 +30,19 @@
       },
       {
         "rank": 3,
+        "tag": "KEYCAT",
+        "username": "Ace_TypingLegend",
+        "displayName": "Ace_TypingLegend",
+        "nickname": "Mystery Man",
+        "squad": "Starter!!",
+        "races": 47,
+        "wpm": 56.7,
+        "accuracy": 93.37,
+        "points": 5633,
+        "tier": "B"
+      },
+      {
+        "rank": 4,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -42,7 +55,7 @@
         "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -53,19 +66,6 @@
         "accuracy": 96.57,
         "points": 3217,
         "tier": "A"
-      },
-      {
-        "rank": 5,
-        "tag": "KEYCAT",
-        "username": "Ace_TypingLegend",
-        "displayName": "Ace_TypingLegend",
-        "nickname": "Mystery Man",
-        "squad": "Starter!!",
-        "races": 24,
-        "wpm": 56.7,
-        "accuracy": 93.62,
-        "points": 2884,
-        "tier": "B"
       },
       {
         "rank": 6,
@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Entrepreneur 500",
+        "races": 14,
+        "wpm": 46.8,
+        "accuracy": 94.45,
+        "points": 1632,
+        "tier": "C"
+      },
+      {
+        "rank": 8,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -94,7 +107,20 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Ghost Lap",
+        "squad": "Side Hustler 100",
+        "races": 11,
+        "wpm": 79.4,
+        "accuracy": 95.85,
+        "points": 1473,
+        "tier": "B"
+      },
+      {
+        "rank": 10,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -107,7 +133,7 @@
         "tier": "B"
       },
       {
-        "rank": 9,
+        "rank": 11,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -120,6 +146,6 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1792863348332
+    "_syncedAt": 1792864951977
   }
 }

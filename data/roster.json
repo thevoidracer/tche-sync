@@ -14,11 +14,11 @@
       "nickname": "The Smasher",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 91,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 127,
-      "lifetimeRaces": 5082,
-      "teamRaces": 2657,
+      "lifetimeRaces": 5083,
+      "teamRaces": 2658,
       "joined": "06/10/26"
     },
     {
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 45,
+      "avgWPM": 57,
       "topWPM": 108,
-      "lifetimeRaces": 806,
-      "teamRaces": 558,
+      "lifetimeRaces": 820,
+      "teamRaces": 572,
       "joined": "10/07/26"
     },
     {
@@ -417,11 +417,11 @@
       "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 75,
+      "tier": "B",
+      "avgWPM": 81,
       "topWPM": 102,
-      "lifetimeRaces": 6600,
-      "teamRaces": 575,
+      "lifetimeRaces": 6616,
+      "teamRaces": 586,
       "joined": "10/15/26"
     },
     {
@@ -509,10 +509,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 89,
       "topWPM": 109,
-      "lifetimeRaces": 1217,
-      "teamRaces": 32,
+      "lifetimeRaces": 1220,
+      "teamRaces": 35,
       "joined": "10/21/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792863308270
+  "_syncedAt": 1792864909678
 }
