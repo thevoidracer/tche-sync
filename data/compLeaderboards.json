@@ -70,6 +70,19 @@
       {
         "rank": 6,
         "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Nitro Rich",
+        "squad": "Officer",
+        "races": 33,
+        "wpm": 94.4,
+        "accuracy": 92.04,
+        "points": 4472,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
+        "tag": "THB0S",
         "username": "Sara10",
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
@@ -81,7 +94,7 @@
         "tier": "A"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -107,7 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -120,7 +133,7 @@
         "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -144,19 +157,6 @@
         "accuracy": 96.87,
         "points": 1531,
         "tier": "B"
-      },
-      {
-        "rank": 12,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Nitro Rich",
-        "squad": "Officer",
-        "races": 11,
-        "wpm": 94.4,
-        "accuracy": 93.24,
-        "points": 1510,
-        "tier": "A"
       },
       {
         "rank": 13,
@@ -237,6 +237,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792877757494
+    "_syncedAt": 1792879451732
   }
 }
