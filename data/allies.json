@@ -648,15 +648,15 @@
         "members": 45
       },
       "daily": {
-        "races": 160,
+        "races": 158,
         "avgWPM": 60,
-        "avgAcc": 92.9,
+        "avgAcc": 92.92,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792879451877
+    "_syncedAt": 1792881311829
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792879470623
+    "_syncedAt": 1792881331660
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1297,16 +1297,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792879489503
+    "_syncedAt": 1792881350514
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 46,
+    "members": 47,
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4450,
+    "profileViews": 4452,
     "leagueTier": 12,
     "racers": [
       {
@@ -1370,10 +1370,10 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12118,
-        "wpm": 93,
+        "allTimeRaces": 12122,
+        "wpm": 90,
         "highestWPM": 116,
-        "teamRaces": 5150,
+        "teamRaces": 5161,
         "acc": 92.33,
         "season": null,
         "status": "active",
@@ -1419,7 +1419,7 @@
         "acc": 93.72,
         "season": null,
         "status": "active",
-        "lastLogin": 1792813583
+        "lastLogin": 1792880206
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1471,8 +1471,8 @@
         "allTimeRaces": 2971,
         "wpm": 83,
         "highestWPM": 101,
-        "teamRaces": 5,
-        "acc": 93.76,
+        "teamRaces": 6,
+        "acc": 93.74,
         "season": null,
         "status": "active",
         "lastLogin": 1792878908
@@ -1734,11 +1734,11 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14298,
-        "wpm": 74,
+        "allTimeRaces": 14303,
+        "wpm": 76,
         "highestWPM": 100,
-        "teamRaces": 1005,
-        "acc": 95.93,
+        "teamRaces": 1009,
+        "acc": 95.92,
         "season": null,
         "status": "active",
         "lastLogin": 1792879412
@@ -1776,10 +1776,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18804,
-        "wpm": 86,
+        "allTimeRaces": 18824,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 18341,
+        "teamRaces": 18354,
         "acc": 93.97,
         "season": null,
         "status": "active",
@@ -1952,24 +1952,38 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792609542
+      },
+      {
+        "username": "getcooked_2",
+        "displayName": "getcooked_2",
+        "role": "member",
+        "joinStamp": 1792880455,
+        "allTimeRaces": 33,
+        "wpm": 87,
+        "highestWPM": 99,
+        "teamRaces": 10,
+        "acc": 96.23,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1792879664
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 122120,
+        "races": 122159,
         "avgWPM": 67,
         "avgAcc": 93.97,
-        "members": 46
+        "members": 47
       },
       "daily": {
-        "races": 503,
-        "avgWPM": 74,
-        "avgAcc": 95.14,
-        "members": 46
+        "races": 542,
+        "avgWPM": 75,
+        "avgAcc": 95.13,
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792879659074
+    "_syncedAt": 1792881519864
   }
 }

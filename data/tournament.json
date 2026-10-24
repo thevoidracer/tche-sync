@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792879431357
+        "_syncedAt": 1792881290467
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1646,7 +1646,7 @@
               "players": [
                 {
                   "seed": "4",
-                  "racer": "Spy on teams",
+                  "racer": "Sakupen",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -1698,7 +1698,7 @@
                 },
                 {
                   "seed": "52",
-                  "racer": "Not_Ime",
+                  "racer": "IMIME_IMIME",
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
@@ -1786,7 +1786,7 @@
                 },
                 {
                   "seed": "53",
-                  "racer": "RALSEI",
+                  "racer": "weak kingsley",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2116,7 +2116,7 @@
                 },
                 {
                   "seed": "38",
-                  "racer": "Jamusisthebestever",
+                  "racer": "Jamusisthebeaver",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2630,7 +2630,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 4431
+                  "score": 5510
                 },
                 {
                   "seed": "18",
@@ -2696,7 +2696,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 4472
+                  "score": 7204
                 },
                 {
                   "seed": "43",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792879447411
+        "_syncedAt": 1792881307276
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792879447414
+  "_syncedAt": 1792881307280
 }

@@ -30,6 +30,19 @@
       },
       {
         "rank": 3,
+        "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Nitro Rich",
+        "squad": "Officer",
+        "races": 53,
+        "wpm": 93.7,
+        "accuracy": 92.56,
+        "points": 7204,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -42,7 +55,7 @@
         "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
@@ -55,7 +68,20 @@
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 40,
+        "wpm": 87.7,
+        "accuracy": 95.78,
+        "points": 5510,
+        "tier": "B"
+      },
+      {
+        "rank": 7,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -68,42 +94,16 @@
         "tier": "C"
       },
       {
-        "rank": 6,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Nitro Rich",
-        "squad": "Officer",
-        "races": 33,
-        "wpm": 94.4,
-        "accuracy": 92.04,
-        "points": 4472,
-        "tier": "A"
-      },
-      {
-        "rank": 7,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 32,
-        "wpm": 88.7,
-        "accuracy": 95.93,
-        "points": 4431,
-        "tier": "A"
-      },
-      {
         "rank": 8,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
         "nickname": "Taco Lover",
         "squad": "Active!",
-        "races": 26,
-        "wpm": 79,
-        "accuracy": 95.92,
-        "points": 3480,
+        "races": 30,
+        "wpm": 78.2,
+        "accuracy": 95.81,
+        "points": 3999,
         "tier": "B"
       },
       {
@@ -186,6 +186,19 @@
       },
       {
         "rank": 15,
+        "tag": "THB0S",
+        "username": "ticklemonsterr",
+        "displayName": "ticklemonsterr",
+        "nickname": "Green Streak",
+        "squad": null,
+        "races": 6,
+        "wpm": 84.7,
+        "accuracy": 93.33,
+        "points": 797,
+        "tier": "B"
+      },
+      {
+        "rank": 16,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -195,19 +208,6 @@
         "wpm": 88,
         "accuracy": 90.69,
         "points": 653,
-        "tier": "B"
-      },
-      {
-        "rank": 16,
-        "tag": "THB0S",
-        "username": "ticklemonsterr",
-        "displayName": "ticklemonsterr",
-        "nickname": "Green Streak",
-        "squad": null,
-        "races": 3,
-        "wpm": 82.6,
-        "accuracy": 93.4,
-        "points": 396,
         "tier": "B"
       },
       {
@@ -235,8 +235,21 @@
         "accuracy": 87.5,
         "points": 133,
         "tier": "A"
+      },
+      {
+        "rank": 19,
+        "tag": "THB0S",
+        "username": "getcooked_2",
+        "displayName": "getcooked_2",
+        "nickname": "Wampus Thwamper",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792879451732
+    "_syncedAt": 1792881311672
   }
 }
