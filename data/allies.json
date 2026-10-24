@@ -385,7 +385,7 @@
         "acc": 93.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1792869115
+        "lastLogin": 1792875793
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -406,14 +406,14 @@
         "displayName": "Glitter_Girl_18",
         "role": "member",
         "joinStamp": 1792614323,
-        "allTimeRaces": 311,
-        "wpm": 38,
+        "allTimeRaces": 313,
+        "wpm": 39,
         "highestWPM": 51,
-        "teamRaces": 24,
-        "acc": 97.18,
+        "teamRaces": 26,
+        "acc": 97.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1792848698
+        "lastLogin": 1792874955
       },
       {
         "username": "quickbrownpony",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78893,
+        "races": 78895,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 196,
-        "avgWPM": 58,
-        "avgAcc": 92.75,
+        "races": 183,
+        "avgWPM": 59,
+        "avgAcc": 92.7,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792874274943
+    "_syncedAt": 1792875881587
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 46,
-        "avgWPM": 81,
-        "avgAcc": 92.79,
+        "races": 40,
+        "avgWPM": 80,
+        "avgAcc": 92.5,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792874294037
+    "_syncedAt": 1792875903373
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792874313168
+    "_syncedAt": 1792875932635
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1720,10 +1720,10 @@
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6252,
-        "wpm": 71,
+        "allTimeRaces": 6260,
+        "wpm": 69,
         "highestWPM": 98,
-        "teamRaces": 104,
+        "teamRaces": 114,
         "acc": 84.87,
         "season": null,
         "status": "active",
@@ -1797,17 +1797,17 @@
         "acc": 92.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792869246
+        "lastLogin": 1792875128
       },
       {
         "username": "sara0010",
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18799,
-        "wpm": 89,
+        "allTimeRaces": 18800,
+        "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 18337,
+        "teamRaces": 18340,
         "acc": 93.97,
         "season": null,
         "status": "active",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122062,
+        "races": 122075,
         "avgWPM": 67,
-        "avgAcc": 93.98,
+        "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 516,
-        "avgWPM": 69,
-        "avgAcc": 95.47,
+        "races": 496,
+        "avgWPM": 70,
+        "avgAcc": 95.36,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792874482892
+    "_syncedAt": 1792876102256
   }
 }

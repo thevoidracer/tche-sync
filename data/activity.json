@@ -1,31 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-23 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 16
-    },
-    {
-      "hour": "2026-10-23 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 16
-    },
-    {
-      "hour": "2026-10-23 20:00:00",
-      "racer": "KirbyDelta",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-23 20:00:00",
-      "racer": "Void Racer",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-23 20:00:00",
-      "racer": "falcon 6x",
-      "races": 2
-    },
-    {
       "hour": "2026-10-23 21:00:00",
       "racer": "KirbyDelta",
       "races": 38
@@ -192,5 +167,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792874230895
+  "_syncedAt": 1792875835572
 }
