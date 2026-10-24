@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2995,
+    "profileViews": 2996,
     "leagueTier": 12,
     "racers": [
       {
@@ -648,15 +648,15 @@
         "members": 45
       },
       "daily": {
-        "races": 183,
+        "races": 179,
         "avgWPM": 59,
-        "avgAcc": 92.7,
+        "avgAcc": 92.78,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792875881587
+    "_syncedAt": 1792877757798
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 40,
-        "avgWPM": 80,
-        "avgAcc": 92.5,
+        "races": 25,
+        "avgWPM": 79,
+        "avgAcc": 93.43,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792875903373
+    "_syncedAt": 1792877785591
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792875932635
+    "_syncedAt": 1792877804249
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4448,
+    "profileViews": 4449,
     "leagueTier": 12,
     "racers": [
       {
@@ -1356,14 +1356,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12069,
-        "wpm": 88,
+        "allTimeRaces": 12092,
+        "wpm": 92,
         "highestWPM": 116,
-        "teamRaces": 5108,
-        "acc": 92.32,
+        "teamRaces": 5119,
+        "acc": 92.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1792873303
+        "lastLogin": 1792876924
       },
       {
         "username": "frareynolds",
@@ -1461,7 +1461,7 @@
         "acc": 93.81,
         "season": null,
         "status": "active",
-        "lastLogin": 1792861782
+        "lastLogin": 1792876616
       },
       {
         "username": "baglepet000",
@@ -1797,7 +1797,7 @@
         "acc": 92.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792875128
+        "lastLogin": 1792877729
       },
       {
         "username": "sara0010",
@@ -1881,7 +1881,7 @@
         "acc": 94.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792862699
+        "lastLogin": 1792877616
       },
       {
         "username": "nev444ehh",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122075,
+        "races": 122086,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 496,
-        "avgWPM": 70,
-        "avgAcc": 95.36,
+        "races": 469,
+        "avgWPM": 72,
+        "avgAcc": 95.37,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792876102256
+    "_syncedAt": 1792877973292
   }
 }
