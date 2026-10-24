@@ -648,15 +648,15 @@
         "members": 45
       },
       "daily": {
-        "races": 217,
+        "races": 199,
         "avgWPM": 57,
-        "avgAcc": 92.87,
+        "avgAcc": 92.74,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792870388866
+    "_syncedAt": 1792871999846
   },
   "SVC": {
     "tag": "SVC",
@@ -665,7 +665,7 @@
     "activePercent": 64,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2041,
+    "profileViews": 2042,
     "leagueTier": 10,
     "racers": [
       {
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 61,
-        "avgWPM": 82,
-        "avgAcc": 93.27,
+        "races": 54,
+        "avgWPM": 81,
+        "avgAcc": 93.01,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792870407750
+    "_syncedAt": 1792872019047
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792870426624
+    "_syncedAt": 1792872037960
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4447,
+    "profileViews": 4448,
     "leagueTier": 12,
     "racers": [
       {
@@ -1804,14 +1804,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18768,
+        "allTimeRaces": 18777,
         "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 18308,
-        "acc": 93.96,
+        "teamRaces": 18312,
+        "acc": 93.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1792869406
+        "lastLogin": 1792871547
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122002,
+        "races": 122006,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 581,
-        "avgWPM": 73,
-        "avgAcc": 95.3,
+        "races": 513,
+        "avgWPM": 69,
+        "avgAcc": 95.23,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792870596073
+    "_syncedAt": 1792872207579
   }
 }
