@@ -237,11 +237,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6622,
-      "wpm": 79,
+      "allTimeRaces": 6650,
+      "wpm": 77,
       "highestWPM": 102,
-      "teamRaces": 596,
-      "acc": 93.5,
+      "teamRaces": 625,
+      "acc": 93.54,
       "season": null,
       "status": "active",
       "lastLogin": 1792863612
@@ -482,7 +482,7 @@
       "acc": 92.61,
       "season": null,
       "status": "active",
-      "lastLogin": 1792862017
+      "lastLogin": 1792865238
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -517,8 +517,8 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 820,
-      "wpm": 57,
+      "allTimeRaces": 821,
+      "wpm": 56,
       "highestWPM": 108,
       "teamRaces": 572,
       "acc": 92.14,
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 58971,
+      "races": 59000,
       "avgWPM": 76,
       "avgAcc": 95.01,
       "members": 47
     },
     "daily": {
-      "races": 931,
+      "races": 944,
       "avgWPM": 87,
-      "avgAcc": 95.48,
+      "avgAcc": 95.44,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792864848801
+  "_syncedAt": 1792867014796
 }

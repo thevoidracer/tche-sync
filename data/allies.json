@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2993,
+    "profileViews": 2994,
     "leagueTier": 12,
     "racers": [
       {
@@ -238,11 +238,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "member",
         "joinStamp": 1792527933,
-        "allTimeRaces": 961,
-        "wpm": 56,
+        "allTimeRaces": 969,
+        "wpm": 55,
         "highestWPM": 68,
-        "teamRaces": 150,
-        "acc": 94.6,
+        "teamRaces": 162,
+        "acc": 94.42,
         "season": null,
         "status": "active",
         "lastLogin": 1792862884
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78881,
+        "races": 78893,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 227,
+        "races": 237,
         "avgWPM": 57,
-        "avgAcc": 93.08,
+        "avgAcc": 93.03,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792864952155
+    "_syncedAt": 1792867111603
   },
   "SVC": {
     "tag": "SVC",
@@ -1223,15 +1223,15 @@
         "members": 39
       },
       "daily": {
-        "races": 84,
-        "avgWPM": 79,
-        "avgAcc": 93.01,
+        "races": 73,
+        "avgWPM": 82,
+        "avgAcc": 93.2,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792864971288
+    "_syncedAt": 1792867130438
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
         "acc": 93.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1792624604
+        "lastLogin": 1792865207
       }
     ],
     "aggregates": {
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792864990312
+    "_syncedAt": 1792867149216
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1990,14 +1990,14 @@
         "members": 49
       },
       "daily": {
-        "races": 679,
+        "races": 618,
         "avgWPM": 74,
-        "avgAcc": 95.13,
+        "avgAcc": 95.44,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792865160016
+    "_syncedAt": 1792867318279
   }
 }
