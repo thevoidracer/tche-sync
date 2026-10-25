@@ -224,11 +224,11 @@
         "displayName": "20_chars",
         "role": "member",
         "joinStamp": 1792892371,
-        "allTimeRaces": 2230,
-        "wpm": 46,
+        "allTimeRaces": 2240,
+        "wpm": 43,
         "highestWPM": 84,
-        "teamRaces": 14,
-        "acc": 89.42,
+        "teamRaces": 33,
+        "acc": 89.91,
         "season": null,
         "status": "active",
         "lastLogin": 1792896246
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78940,
+        "races": 78959,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 46
       },
       "daily": {
-        "races": 155,
+        "races": 174,
         "avgWPM": 51,
-        "avgAcc": 93.73,
+        "avgAcc": 93.4,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792897127804
+    "_syncedAt": 1792898421110
   },
   "SVC": {
     "tag": "SVC",
@@ -1240,7 +1240,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792897176862
+    "_syncedAt": 1792898471411
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1306,7 +1306,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792897264293
+    "_syncedAt": 1792898550525
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1813,10 +1813,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18862,
-        "wpm": 87,
+        "allTimeRaces": 18871,
+        "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 18401,
+        "teamRaces": 18408,
         "acc": 93.98,
         "season": null,
         "status": "active",
@@ -1925,14 +1925,14 @@
         "displayName": "BRADYDARACER",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2301,
-        "wpm": 91,
+        "allTimeRaces": 2308,
+        "wpm": 94,
         "highestWPM": 117,
-        "teamRaces": 2287,
+        "teamRaces": 2288,
         "acc": 95.55,
         "season": null,
         "status": "active",
-        "lastLogin": 1792812296
+        "lastLogin": 1792898243
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -2007,20 +2007,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122424,
+        "races": 122432,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 696,
+        "races": 704,
         "avgWPM": 80,
-        "avgAcc": 94.18,
+        "avgAcc": 94.2,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792897434133
+    "_syncedAt": 1792898719904
   }
 }
