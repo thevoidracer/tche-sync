@@ -9,10 +9,10 @@
         "displayName": "-Tag_Typ3r-",
         "nickname": "RIP",
         "squad": null,
-        "races": 89,
-        "wpm": 112.9,
-        "accuracy": 92.02,
-        "points": 12811,
+        "races": 133,
+        "wpm": 110.7,
+        "accuracy": 91.6,
+        "points": 18927,
         "tier": "A"
       },
       {
@@ -39,7 +39,7 @@
         "wpm": 90.5,
         "accuracy": 93.33,
         "points": 9083,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 4,
@@ -61,10 +61,10 @@
         "displayName": "Joereynolds",
         "nickname": "Nitro Rich",
         "squad": "Officer",
-        "races": 53,
-        "wpm": 93.7,
-        "accuracy": 92.56,
-        "points": 7204,
+        "races": 59,
+        "wpm": 93.3,
+        "accuracy": 92.6,
+        "points": 8011,
         "tier": "A"
       },
       {
@@ -74,10 +74,10 @@
         "displayName": "GetGooder",
         "nickname": "Taco Lover",
         "squad": "Active!",
-        "races": 53,
-        "wpm": 79.9,
-        "accuracy": 95.59,
-        "points": 7092,
+        "races": 56,
+        "wpm": 79.2,
+        "accuracy": 95.44,
+        "points": 7460,
         "tier": "B"
       },
       {
@@ -173,6 +173,32 @@
       },
       {
         "rank": 14,
+        "tag": "KEYCAT",
+        "username": "vertur",
+        "displayName": "vertur",
+        "nickname": "Pumpkin Peddler",
+        "squad": "Starter!!",
+        "races": 22,
+        "wpm": 44.4,
+        "accuracy": 96.57,
+        "points": 2596,
+        "tier": "C"
+      },
+      {
+        "rank": 15,
+        "tag": "THB0S",
+        "username": "TheMrMe",
+        "displayName": "TheMrMe",
+        "nickname": "Street Spectre",
+        "squad": "Active!",
+        "races": 13,
+        "wpm": 94.5,
+        "accuracy": 97.61,
+        "points": 1869,
+        "tier": "A"
+      },
+      {
+        "rank": 16,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -185,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 15,
+        "rank": 17,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -198,7 +224,20 @@
         "tier": "B"
       },
       {
-        "rank": 16,
+        "rank": 18,
+        "tag": "THB0S",
+        "username": "FireworkLauncher",
+        "displayName": "FireworkLauncher",
+        "nickname": "マスター・レーサー",
+        "squad": "OG's still racing",
+        "races": 13,
+        "wpm": 61.9,
+        "accuracy": 90.01,
+        "points": 1532,
+        "tier": "C"
+      },
+      {
+        "rank": 19,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -211,7 +250,7 @@
         "tier": "B"
       },
       {
-        "rank": 17,
+        "rank": 20,
         "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
@@ -224,7 +263,7 @@
         "tier": "B"
       },
       {
-        "rank": 18,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -237,7 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 19,
+        "rank": 22,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -250,20 +289,7 @@
         "tier": "B"
       },
       {
-        "rank": 20,
-        "tag": "THB0S",
-        "username": "TheMrMe",
-        "displayName": "TheMrMe",
-        "nickname": "Street Spectre",
-        "squad": "Active!",
-        "races": 2,
-        "wpm": 90.8,
-        "accuracy": 96.01,
-        "points": 279,
-        "tier": "A"
-      },
-      {
-        "rank": 21,
+        "rank": 23,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -276,7 +302,7 @@
         "tier": "C"
       },
       {
-        "rank": 22,
+        "rank": 24,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -289,6 +315,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792887296723
+    "_syncedAt": 1792889377728
   }
 }

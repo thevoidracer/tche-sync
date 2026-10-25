@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 2997,
+    "profileViews": 2999,
     "leagueTier": 12,
     "racers": [
       {
@@ -364,11 +364,11 @@
         "displayName": "vertur",
         "role": "member",
         "joinStamp": 1792431116,
-        "allTimeRaces": 1426,
-        "wpm": 53,
+        "allTimeRaces": 1444,
+        "wpm": 43,
         "highestWPM": 65,
-        "teamRaces": 111,
-        "acc": 92.47,
+        "teamRaces": 133,
+        "acc": 93.09,
         "season": null,
         "status": "active",
         "lastLogin": 1792886951
@@ -539,7 +539,7 @@
         "acc": 93.21,
         "season": null,
         "status": "active",
-        "lastLogin": 1792864321
+        "lastLogin": 1792888958
       },
       {
         "username": "happygoluckygirl07",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 78895,
+        "races": 78917,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 110,
-        "avgWPM": 53,
-        "avgAcc": 93.85,
+        "races": 132,
+        "avgWPM": 52,
+        "avgAcc": 94.27,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792887296848
+    "_syncedAt": 1792889377940
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792887349070
+    "_syncedAt": 1792889428777
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1297,7 +1297,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792887397804
+    "_syncedAt": 1792889477825
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1306,7 +1306,7 @@
     "activePercent": 91,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4453,
+    "profileViews": 4454,
     "leagueTier": 12,
     "racers": [
       {
@@ -1373,7 +1373,7 @@
         "allTimeRaces": 12128,
         "wpm": 88,
         "highestWPM": 116,
-        "teamRaces": 5163,
+        "teamRaces": 5167,
         "acc": 92.33,
         "season": null,
         "status": "active",
@@ -1387,7 +1387,7 @@
         "allTimeRaces": 6994,
         "wpm": 62,
         "highestWPM": 90,
-        "teamRaces": 3089,
+        "teamRaces": 3099,
         "acc": 91.42,
         "season": null,
         "status": "active",
@@ -1440,11 +1440,11 @@
         "displayName": "-Tag_Typ3r-",
         "role": "member",
         "joinStamp": 1792883096,
-        "allTimeRaces": 18539,
-        "wpm": 106,
+        "allTimeRaces": 18558,
+        "wpm": 107,
         "highestWPM": 150,
-        "teamRaces": 156,
-        "acc": 92.13,
+        "teamRaces": 187,
+        "acc": 92.02,
         "season": null,
         "status": "active",
         "lastLogin": 1792882925
@@ -1951,7 +1951,7 @@
         "acc": 93.81,
         "season": null,
         "status": "active",
-        "lastLogin": 1792846365
+        "lastLogin": 1792887574
       },
       {
         "username": "malott12",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122324,
+        "races": 122369,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 48
       },
       "daily": {
-        "races": 629,
+        "races": 651,
         "avgWPM": 81,
-        "avgAcc": 94.44,
+        "avgAcc": 94.07,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792887566967
+    "_syncedAt": 1792889647441
   }
 }
