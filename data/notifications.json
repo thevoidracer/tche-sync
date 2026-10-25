@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "key": "milestone:a0604971cedb19bc8237c0b2bd3de21e:1000",
+      "type": "milestone",
+      "text": "VOID_REIGN crossed 1,000 lifetime races!",
+      "meta": {
+        "username": "a0604971cedb19bc8237c0b2bd3de21e",
+        "milestone": 1000
+      },
+      "createdAt": 1792965799569
+    },
+    {
       "key": "new-member:2a4c23d957bacad1e38074dc8f3ddc39",
       "type": "new-member",
       "text": "SKZ FIRAH joined the team.",
@@ -422,5 +432,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792964150148
+  "_syncedAt": 1792965799569
 }

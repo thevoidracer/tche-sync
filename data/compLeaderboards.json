@@ -5,6 +5,32 @@
       {
         "rank": 1,
         "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "Night Patrol",
+        "squad": "Dominator 2.5k",
+        "races": 180,
+        "wpm": 90.5,
+        "accuracy": 93.09,
+        "points": 24335,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
+        "username": "VOID_REIGN",
+        "displayName": "VOID_REIGN",
+        "nickname": "Spring Speedster",
+        "squad": "Entrepreneur 500",
+        "races": 207,
+        "wpm": 52.7,
+        "accuracy": 91.21,
+        "points": 23858,
+        "tier": "C"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
         "nickname": "Original Gangster",
@@ -14,32 +40,6 @@
         "accuracy": 97.04,
         "points": 23041,
         "tier": "A"
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "Night Patrol",
-        "squad": "Dominator 2.5k",
-        "races": 167,
-        "wpm": 90.6,
-        "accuracy": 93.15,
-        "points": 22603,
-        "tier": "A"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "VOID_REIGN",
-        "displayName": "VOID_REIGN",
-        "nickname": "Spring Speedster",
-        "squad": "Entrepreneur 500",
-        "races": 179,
-        "wpm": 52.4,
-        "accuracy": 91.14,
-        "points": 20588,
-        "tier": "C"
       },
       {
         "rank": 4,
@@ -61,10 +61,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 132,
-        "wpm": 87.8,
-        "accuracy": 95.52,
-        "points": 18144,
+        "races": 135,
+        "wpm": 88,
+        "accuracy": 95.53,
+        "points": 18568,
         "tier": "A"
       },
       {
@@ -74,10 +74,10 @@
         "displayName": "-HyperTyper-",
         "nickname": "Crazy About Typing",
         "squad": "Side Hustler 100",
-        "races": 109,
+        "races": 110,
         "wpm": 93.1,
-        "accuracy": 90.11,
-        "points": 14395,
+        "accuracy": 90.12,
+        "points": 14530,
         "tier": "A"
       },
       {
@@ -178,14 +178,27 @@
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
         "squad": "Starter Fund",
-        "races": 54,
-        "wpm": 89.9,
-        "accuracy": 90.95,
-        "points": 7119,
+        "races": 56,
+        "wpm": 90.2,
+        "accuracy": 90.96,
+        "points": 7391,
         "tier": "A"
       },
       {
         "rank": 15,
+        "tag": "KEYCAT",
+        "username": "20_chars",
+        "displayName": "20_chars",
+        "nickname": "Sp00ked",
+        "squad": "Starter!!",
+        "races": 53,
+        "wpm": 45.1,
+        "accuracy": 89.39,
+        "points": 5805,
+        "tier": "C"
+      },
+      {
+        "rank": 16,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -195,19 +208,6 @@
         "wpm": 41.7,
         "accuracy": 90.36,
         "points": 5023,
-        "tier": "C"
-      },
-      {
-        "rank": 16,
-        "tag": "KEYCAT",
-        "username": "20_chars",
-        "displayName": "20_chars",
-        "nickname": "Sp00ked",
-        "squad": "Starter!!",
-        "races": 44,
-        "wpm": 44.9,
-        "accuracy": 89.12,
-        "points": 4801,
         "tier": "C"
       },
       {
@@ -368,6 +368,19 @@
       },
       {
         "rank": 29,
+        "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Starter Fund",
+        "races": 12,
+        "wpm": 77.3,
+        "accuracy": 92.08,
+        "points": 1532,
+        "tier": "C"
+      },
+      {
+        "rank": 30,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -380,7 +393,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "aiden67676767676767",
         "displayName": "aiden67676767676767",
@@ -393,7 +406,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -403,19 +416,6 @@
         "wpm": 29.1,
         "accuracy": 82.63,
         "points": 1325,
-        "tier": "C"
-      },
-      {
-        "rank": 32,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Starter Fund",
-        "races": 10,
-        "wpm": 76.4,
-        "accuracy": 91.67,
-        "points": 1267,
         "tier": "C"
       },
       {
@@ -510,6 +510,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792964154340
+    "_syncedAt": 1792965803799
   }
 }

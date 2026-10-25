@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2091,
+  "profileViews": 2094,
   "leagueTier": 12,
   "racers": [
     {
@@ -419,14 +419,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1594,
-      "wpm": 90,
+      "allTimeRaces": 1598,
+      "wpm": 92,
       "highestWPM": 122,
-      "teamRaces": 61,
-      "acc": 91.7,
+      "teamRaces": 65,
+      "acc": 91.72,
       "season": null,
       "status": "active",
-      "lastLogin": 1792959495
+      "lastLogin": 1792964805
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5185,
-      "wpm": 92,
+      "allTimeRaces": 5196,
+      "wpm": 90,
       "highestWPM": 127,
-      "teamRaces": 2758,
+      "teamRaces": 2771,
       "acc": 92.64,
       "season": null,
       "status": "active",
@@ -531,11 +531,11 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 662,
-      "wpm": 76,
+      "allTimeRaces": 665,
+      "wpm": 78,
       "highestWPM": 90,
-      "teamRaces": 10,
-      "acc": 92.31,
+      "teamRaces": 13,
+      "acc": 92.97,
       "season": null,
       "status": "active",
       "lastLogin": 1792958692
@@ -545,11 +545,11 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 991,
-      "wpm": 55,
+      "allTimeRaces": 1028,
+      "wpm": 54,
       "highestWPM": 108,
-      "teamRaces": 737,
-      "acc": 92.03,
+      "teamRaces": 778,
+      "acc": 92.04,
       "season": null,
       "status": "active",
       "lastLogin": 1792962705
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 389,
+      "allTimeRaces": 390,
       "wpm": 93,
       "highestWPM": 111,
-      "teamRaces": 146,
+      "teamRaces": 147,
       "acc": 91.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1792961420
+      "lastLogin": 1792964842
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 59703,
+      "races": 59765,
       "avgWPM": 76,
       "avgAcc": 94.99,
       "members": 49
     },
     "daily": {
-      "races": 691,
-      "avgWPM": 80,
-      "avgAcc": 93.68,
+      "races": 753,
+      "avgWPM": 79,
+      "avgAcc": 93.6,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792964058047
+  "_syncedAt": 1792965698840
 }

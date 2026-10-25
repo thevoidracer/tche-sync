@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3005,
+    "profileViews": 3006,
     "leagueTier": 12,
     "racers": [
       {
@@ -385,7 +385,7 @@
         "acc": 97.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1792874955
+        "lastLogin": 1792965704
       },
       {
         "username": "quickbrownpony",
@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792964154496
+    "_syncedAt": 1792965803992
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792964179585
+    "_syncedAt": 1792965822899
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1193,7 +1193,7 @@
     "activePercent": 0,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
-    "profileViews": 17,
+    "profileViews": 18,
     "leagueTier": 2,
     "racers": [
       {
@@ -1201,11 +1201,11 @@
         "displayName": "-HyperTyper-",
         "role": "member",
         "joinStamp": 1792877955,
-        "allTimeRaces": 2927,
+        "allTimeRaces": 2934,
         "wpm": 71,
         "highestWPM": 124,
-        "teamRaces": 27,
-        "acc": 98.85,
+        "teamRaces": 51,
+        "acc": 98.87,
         "season": null,
         "status": "active",
         "lastLogin": 1792962700
@@ -1241,21 +1241,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 36,
-        "avgWPM": 76,
-        "avgAcc": 97.3,
+        "races": 60,
+        "avgWPM": 75,
+        "avgAcc": 97.91,
         "members": 3
       },
       "daily": {
-        "races": 27,
+        "races": 51,
         "avgWPM": 71,
-        "avgAcc": 98.85,
+        "avgAcc": 98.87,
         "members": 3
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792964258743
+    "_syncedAt": 1792965901864
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4478,
+    "profileViews": 4479,
     "leagueTier": 12,
     "racers": [
       {
@@ -1608,14 +1608,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3150,
-        "wpm": 95,
+        "allTimeRaces": 3158,
+        "wpm": 93,
         "highestWPM": 109,
-        "teamRaces": 1189,
+        "teamRaces": 1191,
         "acc": 94.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1792851579
+        "lastLogin": 1792965458
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1734,10 +1734,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18900,
-        "wpm": 90,
+        "allTimeRaces": 18903,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 18440,
+        "teamRaces": 18443,
         "acc": 93.98,
         "season": null,
         "status": "active",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122712,
+        "races": 122717,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 48
       },
       "daily": {
-        "races": 614,
-        "avgWPM": 84,
-        "avgAcc": 94.37,
+        "races": 597,
+        "avgWPM": 83,
+        "avgAcc": 94.46,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792964428438
+    "_syncedAt": 1792966071358
   }
 }
