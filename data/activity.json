@@ -1,24 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-10-24 00:00:00",
-      "racer": "Void Racer",
-      "races": 4
-    },
-    {
-      "hour": "2026-10-24 00:00:00",
-      "racer": "rorok09",
-      "races": 1
-    },
-    {
       "hour": "2026-10-24 01:00:00",
       "racer": "rorok09",
-      "races": 66
+      "races": 50
     },
     {
       "hour": "2026-10-24 01:00:00",
       "racer": "Void Racer",
-      "races": 12
+      "races": 7
     },
     {
       "hour": "2026-10-24 01:00:00",
@@ -144,8 +134,18 @@
       "hour": "2026-10-24 23:00:00",
       "racer": "-HyperTyper-",
       "races": 39
+    },
+    {
+      "hour": "2026-10-25 00:00:00",
+      "racer": "Void Racer",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-25 01:00:00",
+      "racer": "Void Racer",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792889336288
+  "_syncedAt": 1792891529207
 }

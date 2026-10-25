@@ -17,6 +17,19 @@
       },
       {
         "rank": 2,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "The Smasher",
+        "squad": "Dominator 2.5k",
+        "races": 95,
+        "wpm": 90.8,
+        "accuracy": 93.58,
+        "points": 12926,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
         "tag": "THB0S",
         "username": "Sara10",
         "displayName": "Sara10",
@@ -26,19 +39,6 @@
         "wpm": 88.8,
         "accuracy": 95.42,
         "points": 9507,
-        "tier": "A"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "The Smasher",
-        "squad": "Dominator 2.5k",
-        "races": 67,
-        "wpm": 90.5,
-        "accuracy": 93.33,
-        "points": 9083,
         "tier": "A"
       },
       {
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "KEYCAT",
+        "username": "vertur",
+        "displayName": "vertur",
+        "nickname": "Pumpkin Peddler",
+        "squad": "Starter!!",
+        "races": 28,
+        "wpm": 45.5,
+        "accuracy": 94.99,
+        "points": 3265,
+        "tier": "B"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "getcooked_2",
         "displayName": "getcooked_2",
@@ -170,19 +183,6 @@
         "accuracy": 95.86,
         "points": 2608,
         "tier": "A"
-      },
-      {
-        "rank": 14,
-        "tag": "KEYCAT",
-        "username": "vertur",
-        "displayName": "vertur",
-        "nickname": "Pumpkin Peddler",
-        "squad": "Starter!!",
-        "races": 22,
-        "wpm": 44.4,
-        "accuracy": 96.57,
-        "points": 2596,
-        "tier": "C"
       },
       {
         "rank": 15,
@@ -313,8 +313,34 @@
         "accuracy": 87.5,
         "points": 133,
         "tier": "A"
+      },
+      {
+        "rank": 25,
+        "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "B"
+      },
+      {
+        "rank": 26,
+        "tag": "THB0S",
+        "username": "Calypso",
+        "displayName": "Calypso",
+        "nickname": "Aye-aye Captain!",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "A"
       }
     ],
-    "_syncedAt": 1792889377728
+    "_syncedAt": 1792891575082
   }
 }
