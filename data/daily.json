@@ -1,27 +1,27 @@
 {
   "racers": [
     {
-      "rank": 20,
+      "rank": 25,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 413,
-      "accuracy": 96.88,
-      "wpm": 89.1,
-      "points": 57838,
+      "races": 378,
+      "accuracy": 96.9,
+      "wpm": 89.5,
+      "points": 53013,
       "ppr": 140
     },
     {
-      "rank": 147,
+      "rank": 122,
       "username": "taylorja32",
       "displayName": "Void Racer",
-      "races": 95,
-      "accuracy": 93.41,
-      "wpm": 90.6,
-      "points": 12892,
+      "races": 107,
+      "accuracy": 93.59,
+      "wpm": 90.7,
+      "points": 14554,
       "ppr": 136
     },
     {
-      "rank": 259,
+      "rank": 255,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 50,
@@ -31,7 +31,7 @@
       "ppr": 131
     },
     {
-      "rank": 290,
+      "rank": 288,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 39,
@@ -41,7 +41,7 @@
       "ppr": 132
     },
     {
-      "rank": 334,
+      "rank": 327,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 36,
@@ -51,7 +51,7 @@
       "ppr": 116
     },
     {
-      "rank": 383,
+      "rank": 377,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "races": 23,
@@ -61,17 +61,27 @@
       "ppr": 140
     },
     {
-      "rank": 493,
-      "username": "735493474a38feb614a4a76e3cde2c1a",
-      "displayName": "UJAADDAH",
-      "races": 12,
-      "accuracy": 90.83,
-      "wpm": 88.8,
-      "points": 1574,
-      "ppr": 131
+      "rank": 461,
+      "username": "ace1inee",
+      "displayName": "asteroids",
+      "races": 14,
+      "accuracy": 95.03,
+      "wpm": 90.4,
+      "points": 1931,
+      "ppr": 138
     },
     {
-      "rank": 655,
+      "rank": 546,
+      "username": "735493474a38feb614a4a76e3cde2c1a",
+      "displayName": "UJAADDAH",
+      "races": 8,
+      "accuracy": 90.37,
+      "wpm": 88,
+      "points": 1041,
+      "ppr": 130
+    },
+    {
+      "rank": 654,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -81,5 +91,5 @@
       "ppr": 133
     }
   ],
-  "_syncedAt": 1792891525304
+  "_syncedAt": 1792893309690
 }

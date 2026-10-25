@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 89,
       "topWPM": 127,
-      "lifetimeRaces": 5108,
-      "teamRaces": 2679,
+      "lifetimeRaces": 5123,
+      "teamRaces": 2698,
       "joined": "06/10/26"
     },
     {
@@ -618,8 +618,21 @@
       "lifetimeRaces": 1545,
       "teamRaces": 12,
       "joined": "10/24/26"
+    },
+    {
+      "username": "ace1inee",
+      "displayName": "asteroids",
+      "nickname": "A E S T H E T I C",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 90,
+      "topWPM": 108,
+      "lifetimeRaces": 3228,
+      "teamRaces": 14,
+      "joined": "10/25/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792891529206
+  "_syncedAt": 1792893312965
 }

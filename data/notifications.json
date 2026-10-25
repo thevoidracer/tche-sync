@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:ace1inee",
+      "type": "new-member",
+      "text": "asteroids joined the team.",
+      "meta": {
+        "username": "ace1inee"
+      },
+      "createdAt": 1792893350203
+    },
+    {
       "key": "tour-win:57:Match 2318",
       "type": "tournament-win",
       "text": "Void Racer won their Sweet 16 * match vs KirbyDelta in IMT Ally Celebration Tournament.",
@@ -404,5 +413,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792891570961
+  "_syncedAt": 1792893350203
 }
