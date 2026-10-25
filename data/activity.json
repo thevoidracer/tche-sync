@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-24 23:00:00",
       "racer": "-HyperTyper-",
-      "races": 39
+      "races": 32
     },
     {
       "hour": "2026-10-25 00:00:00",
@@ -224,8 +224,13 @@
       "hour": "2026-10-25 22:00:00",
       "racer": "UJAADDAH",
       "races": 3
+    },
+    {
+      "hour": "2026-10-25 23:00:00",
+      "racer": "VOID_REIGN",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792969506814
+  "_syncedAt": 1792970306103
 }
