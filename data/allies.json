@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3006,
+    "profileViews": 3007,
     "leagueTier": 12,
     "racers": [
       {
@@ -56,14 +56,14 @@
         "displayName": "Jamusisthebeaver",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 621,
-        "wpm": 45,
+        "allTimeRaces": 638,
+        "wpm": 40,
         "highestWPM": 105,
-        "teamRaces": 316,
-        "acc": 93.13,
+        "teamRaces": 330,
+        "acc": 93.21,
         "season": null,
         "status": "active",
-        "lastLogin": 1792848272
+        "lastLogin": 1792966550
       },
       {
         "username": "8b752d6e29182fdb8861d032e7780a60",
@@ -378,11 +378,11 @@
         "displayName": "Glitter_Girl_18",
         "role": "member",
         "joinStamp": 1792614323,
-        "allTimeRaces": 313,
-        "wpm": 39,
+        "allTimeRaces": 335,
+        "wpm": 41,
         "highestWPM": 51,
-        "teamRaces": 26,
-        "acc": 97.25,
+        "teamRaces": 43,
+        "acc": 96.1,
         "season": null,
         "status": "active",
         "lastLogin": 1792965704
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79105,
+        "races": 79136,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 210,
-        "avgWPM": 58,
-        "avgAcc": 91.68,
+        "races": 241,
+        "avgWPM": 56,
+        "avgAcc": 91.95,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792965803992
+    "_syncedAt": 1792967629881
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792965822899
+    "_syncedAt": 1792967648880
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792965901864
+    "_syncedAt": 1792967728138
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4479,
+    "profileViews": 4480,
     "leagueTier": 12,
     "racers": [
       {
@@ -1370,14 +1370,14 @@
         "displayName": "Violets-NTGfor30mil",
         "role": "member",
         "joinStamp": 1792390803,
-        "allTimeRaces": 60795,
-        "wpm": 69,
+        "allTimeRaces": 60796,
+        "wpm": 73,
         "highestWPM": 117,
-        "teamRaces": 68,
-        "acc": 92.61,
+        "teamRaces": 69,
+        "acc": 92.65,
         "season": null,
         "status": "active",
-        "lastLogin": 1792407496
+        "lastLogin": 1792966995
       },
       {
         "username": "toptyper1",
@@ -1391,7 +1391,7 @@
         "acc": 93.71,
         "season": null,
         "status": "active",
-        "lastLogin": 1792898836
+        "lastLogin": 1792967501
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1611,7 +1611,7 @@
         "allTimeRaces": 3158,
         "wpm": 93,
         "highestWPM": 109,
-        "teamRaces": 1191,
+        "teamRaces": 1197,
         "acc": 94.05,
         "season": null,
         "status": "active",
@@ -1741,7 +1741,7 @@
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792964345
+        "lastLogin": 1792966812
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122717,
+        "races": 122724,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 48
       },
       "daily": {
-        "races": 597,
+        "races": 565,
         "avgWPM": 83,
-        "avgAcc": 94.46,
+        "avgAcc": 94.41,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792966071358
+    "_syncedAt": 1792967897817
   }
 }

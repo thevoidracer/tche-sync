@@ -188,7 +188,7 @@
     {
       "hour": "2026-10-25 21:00:00",
       "racer": "VOID_REIGN",
-      "races": 48
+      "races": 61
     },
     {
       "hour": "2026-10-25 21:00:00",
@@ -208,14 +208,29 @@
     {
       "hour": "2026-10-25 21:00:00",
       "racer": "SKZ FIRAH",
-      "races": 6
+      "races": 7
     },
     {
       "hour": "2026-10-25 21:00:00",
       "racer": "UJAADDAH",
-      "races": 2
+      "races": 4
+    },
+    {
+      "hour": "2026-10-25 22:00:00",
+      "racer": "VOID_REIGN",
+      "races": 20
+    },
+    {
+      "hour": "2026-10-25 22:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-25 22:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792965756324
+  "_syncedAt": 1792967588559
 }
