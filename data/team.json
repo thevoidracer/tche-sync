@@ -237,14 +237,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6650,
-      "wpm": 77,
+      "allTimeRaces": 6658,
+      "wpm": 79,
       "highestWPM": 102,
       "teamRaces": 625,
       "acc": 93.54,
       "season": null,
       "status": "active",
-      "lastLogin": 1792863612
+      "lastLogin": 1792957704
     },
     {
       "username": "cash4087",
@@ -447,14 +447,14 @@
       "displayName": "RonaldoSuiii777",
       "role": "member",
       "joinStamp": 1791229293,
-      "allTimeRaces": 3230,
-      "wpm": 55,
+      "allTimeRaces": 3249,
+      "wpm": 50,
       "highestWPM": 107,
-      "teamRaces": 172,
-      "acc": 92.7,
+      "teamRaces": 180,
+      "acc": 92.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1792817912
+      "lastLogin": 1792957314
     },
     {
       "username": "booomtype",
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5148,
-      "wpm": 92,
+      "allTimeRaces": 5158,
+      "wpm": 87,
       "highestWPM": 127,
-      "teamRaces": 2720,
+      "teamRaces": 2726,
       "acc": 92.64,
       "season": null,
       "status": "active",
@@ -545,14 +545,14 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 923,
-      "wpm": 55,
+      "allTimeRaces": 955,
+      "wpm": 56,
       "highestWPM": 108,
-      "teamRaces": 672,
-      "acc": 92.08,
+      "teamRaces": 697,
+      "acc": 92.03,
       "season": null,
       "status": "active",
-      "lastLogin": 1792954864
+      "lastLogin": 1792957283
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59487,
+      "races": 59526,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 49
     },
     "daily": {
-      "races": 475,
-      "avgWPM": 83,
-      "avgAcc": 94.04,
+      "races": 514,
+      "avgWPM": 81,
+      "avgAcc": 93.92,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792956759440
+  "_syncedAt": 1792958326726
 }

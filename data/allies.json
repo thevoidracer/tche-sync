@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3004,
+    "profileViews": 3005,
     "leagueTier": 12,
     "racers": [
       {
@@ -350,14 +350,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13963,
-        "wpm": 80,
+        "allTimeRaces": 13981,
+        "wpm": 78,
         "highestWPM": 111,
-        "teamRaces": 11755,
+        "teamRaces": 11773,
         "acc": 93.21,
         "season": null,
         "status": "active",
-        "lastLogin": 1792952067
+        "lastLogin": 1792956883
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79067,
+        "races": 79085,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 174,
-        "avgWPM": 57,
-        "avgAcc": 92.06,
+        "races": 192,
+        "avgWPM": 60,
+        "avgAcc": 91.75,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792956857261
+    "_syncedAt": 1792958423259
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792956876303
+    "_syncedAt": 1792958447975
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792956955542
+    "_syncedAt": 1792958527163
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1943,7 +1943,7 @@
         "members": 48
       },
       "daily": {
-        "races": 690,
+        "races": 686,
         "avgWPM": 84,
         "avgAcc": 94.34,
         "members": 48
@@ -1951,6 +1951,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792957125660
+    "_syncedAt": 1792958697160
   }
 }
