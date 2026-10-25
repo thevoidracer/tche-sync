@@ -545,10 +545,10 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1059,
-      "wpm": 51,
+      "allTimeRaces": 1065,
+      "wpm": 52,
       "highestWPM": 108,
-      "teamRaces": 809,
+      "teamRaces": 817,
       "acc": 91.97,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59802,
+      "races": 59810,
       "avgWPM": 76,
       "avgAcc": 94.99,
       "members": 49
     },
     "daily": {
-      "races": 790,
-      "avgWPM": 78,
-      "avgAcc": 93.5,
+      "races": 794,
+      "avgWPM": 77,
+      "avgAcc": 93.49,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792967531379
+  "_syncedAt": 1792969444378
 }

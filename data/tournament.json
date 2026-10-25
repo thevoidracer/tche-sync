@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792967608662
+        "_syncedAt": 1792969528430
       }
     },
     {
@@ -2638,10 +2638,10 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 1095
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2322",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792967625263
+        "_syncedAt": 1792969544963
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792967625265
+  "_syncedAt": 1792969544965
 }

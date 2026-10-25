@@ -56,11 +56,11 @@
         "displayName": "Jamusisthebeaver",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 638,
-        "wpm": 40,
+        "allTimeRaces": 640,
+        "wpm": 39,
         "highestWPM": 105,
-        "teamRaces": 330,
-        "acc": 93.21,
+        "teamRaces": 335,
+        "acc": 93.24,
         "season": null,
         "status": "active",
         "lastLogin": 1792966550
@@ -378,11 +378,11 @@
         "displayName": "Glitter_Girl_18",
         "role": "member",
         "joinStamp": 1792614323,
-        "allTimeRaces": 335,
-        "wpm": 41,
+        "allTimeRaces": 344,
+        "wpm": 40,
         "highestWPM": 51,
-        "teamRaces": 43,
-        "acc": 96.1,
+        "teamRaces": 57,
+        "acc": 95.68,
         "season": null,
         "status": "active",
         "lastLogin": 1792965704
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79136,
+        "races": 79155,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 241,
-        "avgWPM": 56,
-        "avgAcc": 91.95,
+        "races": 260,
+        "avgWPM": 55,
+        "avgAcc": 92.09,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792967629881
+    "_syncedAt": 1792969549591
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792967648880
+    "_syncedAt": 1792969568870
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792967728138
+    "_syncedAt": 1792969648025
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1888,14 +1888,14 @@
         "displayName": "NitroLegends",
         "role": "officer",
         "joinStamp": 1792035997,
-        "allTimeRaces": 3066,
-        "wpm": 48,
+        "allTimeRaces": 3079,
+        "wpm": 51,
         "highestWPM": 74,
-        "teamRaces": 880,
-        "acc": 93.81,
+        "teamRaces": 893,
+        "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1792951411
+        "lastLogin": 1792968498
       },
       {
         "username": "1d5cf30eea705bfa2602c36a6458cabb",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122724,
+        "races": 122737,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 48
       },
       "daily": {
-        "races": 565,
-        "avgWPM": 83,
-        "avgAcc": 94.41,
+        "races": 517,
+        "avgWPM": 82,
+        "avgAcc": 94.37,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792967897817
+    "_syncedAt": 1792969817748
   }
 }
