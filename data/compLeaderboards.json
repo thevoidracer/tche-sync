@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 86,
+        "wpm": 93.2,
+        "accuracy": 89.69,
+        "points": 11306,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
         "tag": "THB0S",
         "username": "Martin",
         "displayName": "Martin",
@@ -92,19 +105,6 @@
         "accuracy": 95.44,
         "points": 11056,
         "tier": "B"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 82,
-        "wpm": 93.4,
-        "accuracy": 89.57,
-        "points": 10773,
-        "tier": "A"
       },
       {
         "rank": 9,
@@ -458,6 +458,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792946608229
+    "_syncedAt": 1792948098355
   }
 }
