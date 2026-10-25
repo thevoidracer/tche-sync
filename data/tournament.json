@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792886303049
+        "_syncedAt": 1792887276118
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Natuski",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -1698,7 +1698,7 @@
                 },
                 {
                   "seed": "52",
-                  "racer": "IMIME_IMIME",
+                  "racer": "Not_Ime",
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
@@ -1912,7 +1912,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -1998,7 +1998,7 @@
               "players": [
                 {
                   "seed": "3",
-                  "racer": "Hot Chocolate",
+                  "racer": "Myst_ry",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2210,7 +2210,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Natuski",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2402,7 +2402,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2444,7 +2444,7 @@
               "players": [
                 {
                   "seed": "3",
-                  "racer": "Hot Chocolate",
+                  "racer": "Myst_ry",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2546,7 +2546,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Natuski",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2650,7 +2650,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": null
                 },
@@ -2670,7 +2670,7 @@
               "players": [
                 {
                   "seed": "3",
-                  "racer": "Hot Chocolate",
+                  "racer": "Myst_ry",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792886319645
+        "_syncedAt": 1792887292905
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792886319647
+  "_syncedAt": 1792887292908
 }

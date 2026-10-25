@@ -9,10 +9,10 @@
         "displayName": "-Tag_Typ3r-",
         "nickname": "RIP",
         "squad": null,
-        "races": 74,
-        "wpm": 114.1,
-        "accuracy": 92.17,
-        "points": 10711,
+        "races": 89,
+        "wpm": 112.9,
+        "accuracy": 92.02,
+        "points": 12811,
         "tier": "A"
       },
       {
@@ -74,10 +74,10 @@
         "displayName": "GetGooder",
         "nickname": "Taco Lover",
         "squad": "Active!",
-        "races": 50,
-        "wpm": 79.8,
-        "accuracy": 95.63,
-        "points": 6690,
+        "races": 53,
+        "wpm": 79.9,
+        "accuracy": 95.59,
+        "points": 7092,
         "tier": "B"
       },
       {
@@ -251,6 +251,19 @@
       },
       {
         "rank": 20,
+        "tag": "THB0S",
+        "username": "TheMrMe",
+        "displayName": "TheMrMe",
+        "nickname": "Street Spectre",
+        "squad": "Active!",
+        "races": 2,
+        "wpm": 90.8,
+        "accuracy": 96.01,
+        "points": 279,
+        "tier": "A"
+      },
+      {
+        "rank": 21,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -263,7 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -276,6 +289,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792886323797
+    "_syncedAt": 1792887296723
   }
 }
