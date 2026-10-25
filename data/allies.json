@@ -662,15 +662,15 @@
         "members": 46
       },
       "daily": {
-        "races": 165,
+        "races": 164,
         "avgWPM": 51,
-        "avgAcc": 93.73,
+        "avgAcc": 93.77,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792902334271
+    "_syncedAt": 1792904417932
   },
   "SVC": {
     "tag": "SVC",
@@ -1240,7 +1240,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792902405630
+    "_syncedAt": 1792904487447
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1306,7 +1306,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792902484967
+    "_syncedAt": 1792904566544
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1315,7 +1315,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4461,
+    "profileViews": 4462,
     "leagueTier": 12,
     "racers": [
       {
@@ -1813,10 +1813,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18887,
-        "wpm": 81,
+        "allTimeRaces": 18900,
+        "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18427,
+        "teamRaces": 18440,
         "acc": 93.98,
         "season": null,
         "status": "active",
@@ -1890,7 +1890,7 @@
         "acc": 94.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1792877616
+        "lastLogin": 1792904439
       },
       {
         "username": "nev444ehh",
@@ -2007,20 +2007,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122466,
+        "races": 122479,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 705,
-        "avgWPM": 81,
-        "avgAcc": 94.33,
+        "races": 718,
+        "avgWPM": 82,
+        "avgAcc": 94.34,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792902654780
+    "_syncedAt": 1792904736008
   }
 }

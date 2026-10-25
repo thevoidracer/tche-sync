@@ -2,11 +2,11 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 46,
-        "races": 163,
-        "accuracy": 93.31,
+        "rank": 47,
+        "races": 162,
+        "accuracy": 93.35,
         "wpm": 51.4,
-        "points": 19117,
+        "points": 19011,
         "ppr": 117
       },
       "season": {
@@ -42,7 +42,7 @@
     "points": 257949,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792902405439
+    "_syncedAt": 1792904487208
   },
   "SVC": {
     "timeframes": {
@@ -80,7 +80,7 @@
     "points": 110116,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792902484710
+    "_syncedAt": 1792904566373
   },
   "IMTR": {
     "timeframes": {
@@ -97,32 +97,32 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792902654562
+    "_syncedAt": 1792904735768
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 20,
-        "races": 724,
-        "accuracy": 93.88,
-        "wpm": 82.7,
-        "points": 96081,
+        "races": 737,
+        "accuracy": 93.89,
+        "wpm": 82.8,
+        "points": 97864,
         "ppr": 133
       },
       "season": {
         "rank": 25,
-        "races": 5400,
-        "accuracy": 93.58,
+        "races": 5413,
+        "accuracy": 93.59,
         "wpm": 72.7,
-        "points": 688938,
+        "points": 690720,
         "ppr": 128
       },
       "week": {
         "rank": 25,
-        "races": 5586,
-        "accuracy": 93.56,
-        "wpm": 71.9,
-        "points": 710577,
+        "races": 5562,
+        "accuracy": 93.57,
+        "wpm": 72.2,
+        "points": 708195,
         "ppr": 127
       },
       "weekly": null,
@@ -136,12 +136,12 @@
       }
     },
     "rank": 25,
-    "races": 5400,
-    "accuracy": 93.58,
+    "races": 5413,
+    "accuracy": 93.59,
     "wpm": 72.7,
-    "points": 688938,
+    "points": 690720,
     "ppr": 128,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792902707176
+    "_syncedAt": 1792904806888
   }
 }
