@@ -2,7 +2,7 @@
   "hours": [
     {
       "hour": "2026-10-24 22:00:00",
-      "racer": "I_Am_So_Cheesy",
+      "racer": "VOID_REIGN",
       "races": 4
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "hour": "2026-10-25 02:00:00",
-      "racer": "I_Am_So_Cheesy",
+      "racer": "VOID_REIGN",
       "races": 40
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "hour": "2026-10-25 09:00:00",
-      "racer": "I_Am_So_Cheesy",
+      "racer": "VOID_REIGN",
       "races": 17
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "hour": "2026-10-25 18:00:00",
-      "racer": "I_Am_So_Cheesy",
+      "racer": "VOID_REIGN",
       "races": 20
     },
     {
@@ -127,7 +127,7 @@
     },
     {
       "hour": "2026-10-25 19:00:00",
-      "racer": "I_Am_So_Cheesy",
+      "racer": "VOID_REIGN",
       "races": 45
     },
     {
@@ -152,6 +152,11 @@
     },
     {
       "hour": "2026-10-25 20:00:00",
+      "racer": "-HyperTyper-",
+      "races": 15
+    },
+    {
+      "hour": "2026-10-25 20:00:00",
       "racer": "Void Racer",
       "races": 13
     },
@@ -162,18 +167,18 @@
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "I_Am_So_Cheesy",
+      "racer": "VOID_REIGN",
       "races": 8
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 7
+      "racer": "SKZ FIRAH",
+      "races": 6
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 4
+      "racer": "Nitrex",
+      "races": 1
     },
     {
       "hour": "2026-10-25 20:00:00",
@@ -181,11 +186,26 @@
       "races": 1
     },
     {
-      "hour": "2026-10-25 20:00:00",
-      "racer": "Nitrex",
-      "races": 1
+      "hour": "2026-10-25 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 19
+    },
+    {
+      "hour": "2026-10-25 21:00:00",
+      "racer": "VOID_REIGN",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-25 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-25 21:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792962257964
+  "_syncedAt": 1792964111768
 }

@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 76,
+      "rank": 78,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 165,
@@ -11,23 +11,23 @@
       "ppr": 140
     },
     {
-      "rank": 117,
+      "rank": 106,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
-      "displayName": "I_Am_So_Cheesy",
-      "races": 134,
-      "accuracy": 90.97,
+      "displayName": "VOID_REIGN",
+      "races": 145,
+      "accuracy": 90.98,
       "wpm": 52.7,
-      "points": 15400,
+      "points": 16670,
       "ppr": 115
     },
     {
-      "rank": 147,
+      "rank": 123,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
-      "races": 93,
-      "accuracy": 89.87,
-      "wpm": 93.2,
-      "points": 12252,
+      "races": 109,
+      "accuracy": 90.11,
+      "wpm": 93.1,
+      "points": 14395,
       "ppr": 132
     },
     {
@@ -41,7 +41,7 @@
       "ppr": 135
     },
     {
-      "rank": 253,
+      "rank": 262,
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
       "races": 49,
@@ -51,7 +51,17 @@
       "ppr": 132
     },
     {
-      "rank": 312,
+      "rank": 266,
+      "username": "kirbydelta",
+      "displayName": "KirbyDelta",
+      "races": 49,
+      "accuracy": 93.7,
+      "wpm": 78.1,
+      "points": 6385,
+      "ppr": 130
+    },
+    {
+      "rank": 326,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 33,
@@ -61,17 +71,7 @@
       "ppr": 139
     },
     {
-      "rank": 343,
-      "username": "kirbydelta",
-      "displayName": "KirbyDelta",
-      "races": 30,
-      "accuracy": 94.25,
-      "wpm": 79,
-      "points": 3944,
-      "ppr": 131
-    },
-    {
-      "rank": 423,
+      "rank": 429,
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
       "displayName": "RonaldoSuiii777",
       "races": 20,
@@ -81,17 +81,17 @@
       "ppr": 118
     },
     {
-      "rank": 598,
+      "rank": 535,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
-      "races": 4,
-      "accuracy": 91.56,
-      "wpm": 78.2,
-      "points": 510,
+      "races": 10,
+      "accuracy": 91.67,
+      "wpm": 76.4,
+      "points": 1267,
       "ppr": 127
     },
     {
-      "rank": 647,
+      "rank": 646,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -101,5 +101,5 @@
       "ppr": 136
     }
   ],
-  "_syncedAt": 1792962254078
+  "_syncedAt": 1792964108215
 }
