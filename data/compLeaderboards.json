@@ -9,10 +9,10 @@
         "displayName": "VOID_REIGN",
         "nickname": "Spring Speedster",
         "squad": "Entrepreneur 500",
-        "races": 260,
+        "races": 266,
         "wpm": 52.6,
-        "accuracy": 90.98,
-        "points": 29875,
+        "accuracy": 90.96,
+        "points": 30558,
         "tier": "C"
       },
       {
@@ -22,11 +22,11 @@
         "displayName": "Void Racer",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 180,
-        "wpm": 90.5,
-        "accuracy": 93.09,
-        "points": 24335,
-        "tier": "A"
+        "races": 185,
+        "wpm": 90.4,
+        "accuracy": 93.06,
+        "points": 24996,
+        "tier": "B"
       },
       {
         "rank": 3,
@@ -186,6 +186,19 @@
       },
       {
         "rank": 15,
+        "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 53,
+        "wpm": 41.7,
+        "accuracy": 90.66,
+        "points": 5807,
+        "tier": "C"
+      },
+      {
+        "rank": 16,
         "tag": "KEYCAT",
         "username": "20_chars",
         "displayName": "20_chars",
@@ -195,19 +208,6 @@
         "wpm": 45.1,
         "accuracy": 89.39,
         "points": 5805,
-        "tier": "C"
-      },
-      {
-        "rank": 16,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 46,
-        "wpm": 41.7,
-        "accuracy": 90.36,
-        "points": 5023,
         "tier": "C"
       },
       {
@@ -243,11 +243,11 @@
         "displayName": "CrazyTyper",
         "nickname": "Not So Koi",
         "squad": "Officer",
-        "races": 31,
-        "wpm": 59.5,
-        "accuracy": 93.11,
-        "points": 3745,
-        "tier": "C"
+        "races": 33,
+        "wpm": 59.8,
+        "accuracy": 93.14,
+        "points": 3993,
+        "tier": "B"
       },
       {
         "rank": 20,
@@ -524,6 +524,19 @@
       },
       {
         "rank": 41,
+        "tag": "IMT",
+        "username": "Bobby Junior",
+        "displayName": "Bobby Junior",
+        "nickname": "Catty Wampus",
+        "squad": "Starter Fund",
+        "races": 1,
+        "wpm": 75.2,
+        "accuracy": 96.93,
+        "points": 133,
+        "tier": "C"
+      },
+      {
+        "rank": 42,
         "tag": "THB0S",
         "username": "Violets-NTGfor30mil",
         "displayName": "Violets-NTGfor30mil",
@@ -536,7 +549,7 @@
         "tier": "B"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -549,6 +562,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792970348661
+    "_syncedAt": 1792972015611
   }
 }

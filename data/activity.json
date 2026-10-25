@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-24 23:00:00",
       "racer": "-HyperTyper-",
-      "races": 32
+      "races": 1
     },
     {
       "hour": "2026-10-25 00:00:00",
@@ -172,12 +172,12 @@
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "Nitrex",
+      "racer": "RonaldoSuiii777",
       "races": 1
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "RonaldoSuiii777",
+      "racer": "Nitrex",
       "races": 1
     },
     {
@@ -228,9 +228,19 @@
     {
       "hour": "2026-10-25 23:00:00",
       "racer": "VOID_REIGN",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-25 23:00:00",
+      "racer": "Void Racer",
+      "races": 5
+    },
+    {
+      "hour": "2026-10-25 23:00:00",
+      "racer": "Bobby Junior",
       "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792970306103
+  "_syncedAt": 1792971974058
 }

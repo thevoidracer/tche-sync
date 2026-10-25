@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2095,
+  "profileViews": 2096,
   "leagueTier": 12,
   "racers": [
     {
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5197,
-      "wpm": 89,
+      "allTimeRaces": 5201,
+      "wpm": 88,
       "highestWPM": 127,
-      "teamRaces": 2771,
+      "teamRaces": 2776,
       "acc": 92.64,
       "season": null,
       "status": "active",
@@ -503,14 +503,14 @@
       "displayName": "Bobby Junior",
       "role": "member",
       "joinStamp": 1792456341,
-      "allTimeRaces": 1156,
+      "allTimeRaces": 1157,
       "wpm": 75,
       "highestWPM": 228,
-      "teamRaces": 21,
-      "acc": 95.49,
+      "teamRaces": 22,
+      "acc": 95.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1792623464
+      "lastLogin": 1792970672
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -548,8 +548,8 @@
       "allTimeRaces": 1072,
       "wpm": 50,
       "highestWPM": 108,
-      "teamRaces": 818,
-      "acc": 91.97,
+      "teamRaces": 824,
+      "acc": 91.96,
       "season": null,
       "status": "active",
       "lastLogin": 1792962705
@@ -692,24 +692,24 @@
       "acc": 91.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1792964842
+      "lastLogin": 1792970709
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 59811,
+      "races": 59823,
       "avgWPM": 76,
       "avgAcc": 94.99,
       "members": 49
     },
     "daily": {
-      "races": 788,
+      "races": 769,
       "avgWPM": 77,
-      "avgAcc": 93.49,
+      "avgAcc": 93.64,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792970239505
+  "_syncedAt": 1792971919587
 }
