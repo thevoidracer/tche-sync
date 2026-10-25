@@ -48,10 +48,10 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 117,
-        "wpm": 90.8,
-        "accuracy": 93.58,
-        "points": 15918,
+        "races": 119,
+        "wpm": 90.6,
+        "accuracy": 93.53,
+        "points": 16175,
         "tier": "A"
       },
       {
@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Entrepreneur 500",
+        "races": 106,
+        "wpm": 50.9,
+        "accuracy": 91.61,
+        "points": 12183,
+        "tier": "C"
+      },
+      {
+        "rank": 8,
         "tag": "THB0S",
         "username": "Martin",
         "displayName": "Martin",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -105,19 +118,6 @@
         "accuracy": 89.69,
         "points": 11306,
         "tier": "A"
-      },
-      {
-        "rank": 9,
-        "tag": "IMT",
-        "username": "I_Am_So_Cheesy",
-        "displayName": "I_Am_So_Cheesy",
-        "nickname": "Spring Speedster",
-        "squad": "Entrepreneur 500",
-        "races": 86,
-        "wpm": 50.1,
-        "accuracy": 91.84,
-        "points": 9876,
-        "tier": "C"
       },
       {
         "rank": 10,
@@ -160,6 +160,19 @@
       },
       {
         "rank": 13,
+        "tag": "KEYCAT",
+        "username": "Cats_4_Eva",
+        "displayName": "Cats_4_Eva",
+        "nickname": "I Love Cats",
+        "squad": "KEYCAT Captain ⚞^. .^⚟",
+        "races": 49,
+        "wpm": 79.8,
+        "accuracy": 88.94,
+        "points": 6096,
+        "tier": "A"
+      },
+      {
+        "rank": 14,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -172,7 +185,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "Spy on teams",
         "displayName": "Spy on teams",
@@ -185,7 +198,7 @@
         "tier": "C"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -198,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -211,7 +224,7 @@
         "tier": "C"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -224,7 +237,7 @@
         "tier": "C"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -237,7 +250,7 @@
         "tier": "B"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "KEYCAT",
         "username": "20_chars",
         "displayName": "20_chars",
@@ -250,7 +263,7 @@
         "tier": "C"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "THB0S",
         "username": "getcooked_2",
         "displayName": "getcooked_2",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "THB0S",
         "username": "BRADYDARACER",
         "displayName": "BRADYDARACER",
@@ -286,19 +299,6 @@
         "wpm": 94.2,
         "accuracy": 97.41,
         "points": 2292,
-        "tier": "A"
-      },
-      {
-        "rank": 23,
-        "tag": "KEYCAT",
-        "username": "Cats_4_Eva",
-        "displayName": "Cats_4_Eva",
-        "nickname": "I Love Cats",
-        "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 15,
-        "wpm": 81.8,
-        "accuracy": 89.39,
-        "points": 1889,
         "tier": "A"
       },
       {
@@ -484,6 +484,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792953536992
+    "_syncedAt": 1792955447494
   }
 }

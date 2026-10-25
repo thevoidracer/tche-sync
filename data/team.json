@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2082,
+  "profileViews": 2086,
   "leagueTier": 12,
   "racers": [
     {
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5134,
+      "allTimeRaces": 5138,
       "wpm": 90,
       "highestWPM": 127,
-      "teamRaces": 2708,
+      "teamRaces": 2710,
       "acc": 92.64,
       "season": null,
       "status": "active",
@@ -543,16 +543,16 @@
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
-      "role": "member",
+      "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 892,
-      "wpm": 69,
+      "allTimeRaces": 913,
+      "wpm": 57,
       "highestWPM": 108,
-      "teamRaces": 644,
-      "acc": 92.13,
+      "teamRaces": 664,
+      "acc": 92.11,
       "season": null,
       "status": "active",
-      "lastLogin": 1792919068
+      "lastLogin": 1792954864
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -641,7 +641,7 @@
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
-      "role": "officer",
+      "role": "member",
       "joinStamp": 1789836736,
       "allTimeRaces": 4804,
       "wpm": 87,
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59447,
+      "races": 59469,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 49
     },
     "daily": {
-      "races": 447,
-      "avgWPM": 83,
-      "avgAcc": 94.17,
+      "races": 466,
+      "avgWPM": 82,
+      "avgAcc": 94.09,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792953439097
+  "_syncedAt": 1792955342431
 }

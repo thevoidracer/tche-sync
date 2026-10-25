@@ -17,8 +17,8 @@
       "tier": "A",
       "avgWPM": 90,
       "topWPM": 127,
-      "lifetimeRaces": 5134,
-      "teamRaces": 2708,
+      "lifetimeRaces": 5138,
+      "teamRaces": 2710,
       "joined": "06/10/26"
     },
     {
@@ -207,7 +207,7 @@
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "viewmyvioletgarage",
       "nickname": "Titan",
-      "role": "officer",
+      "role": "member",
       "squad": "Investor 1k",
       "tier": "B",
       "avgWPM": 87,
@@ -311,13 +311,13 @@
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "nickname": "Spring Speedster",
-      "role": "member",
+      "role": "officer",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 69,
+      "avgWPM": 57,
       "topWPM": 108,
-      "lifetimeRaces": 892,
-      "teamRaces": 644,
+      "lifetimeRaces": 913,
+      "teamRaces": 664,
       "joined": "10/07/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792953496397
+  "_syncedAt": 1792955405102
 }
