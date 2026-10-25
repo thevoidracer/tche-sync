@@ -307,14 +307,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3229,
-      "wpm": 90,
+      "allTimeRaces": 3231,
+      "wpm": 92,
       "highestWPM": 108,
       "teamRaces": 19,
       "acc": 95.33,
       "season": null,
       "status": "active",
-      "lastLogin": 1792890909
+      "lastLogin": 1792920873
     },
     {
       "username": "sterling757",
@@ -531,11 +531,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 877,
-      "wpm": 52,
+      "allTimeRaces": 892,
+      "wpm": 69,
       "highestWPM": 108,
-      "teamRaces": 627,
-      "acc": 92.06,
+      "teamRaces": 638,
+      "acc": 92.12,
       "season": null,
       "status": "active",
       "lastLogin": 1792919068
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59175,
+      "races": 59186,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 341,
-      "avgWPM": 80,
-      "avgAcc": 93.57,
+      "races": 352,
+      "avgWPM": 78,
+      "avgAcc": 93.61,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792919218148
+  "_syncedAt": 1792920988019
 }

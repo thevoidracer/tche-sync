@@ -43,6 +43,19 @@
       },
       {
         "rank": 4,
+        "tag": "IMT",
+        "username": "I_Am_So_Cheesy",
+        "displayName": "I_Am_So_Cheesy",
+        "nickname": "Spring Speedster",
+        "squad": "Entrepreneur 500",
+        "races": 80,
+        "wpm": 49.9,
+        "accuracy": 91.74,
+        "points": 9169,
+        "tier": "C"
+      },
+      {
+        "rank": 5,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -55,7 +68,7 @@
         "tier": "B"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -66,19 +79,6 @@
         "accuracy": 92.6,
         "points": 8011,
         "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "I_Am_So_Cheesy",
-        "displayName": "I_Am_So_Cheesy",
-        "nickname": "Spring Speedster",
-        "squad": "Entrepreneur 500",
-        "races": 69,
-        "wpm": 50.7,
-        "accuracy": 91.19,
-        "points": 7886,
-        "tier": "C"
       },
       {
         "rank": 7,
@@ -317,6 +317,45 @@
       {
         "rank": 25,
         "tag": "THB0S",
+        "username": "aiden67676767676767",
+        "displayName": "aiden67676767676767",
+        "nickname": "I Hate Words",
+        "squad": null,
+        "races": 14,
+        "wpm": 43.2,
+        "accuracy": 89.18,
+        "points": 1518,
+        "tier": "C"
+      },
+      {
+        "rank": 26,
+        "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Active!",
+        "races": 14,
+        "wpm": 29.1,
+        "accuracy": 82.63,
+        "points": 1325,
+        "tier": "C"
+      },
+      {
+        "rank": 27,
+        "tag": "KEYCAT",
+        "username": "HappyPurpleLlama",
+        "displayName": "HappyPurpleLlama",
+        "nickname": "First Trimester",
+        "squad": "Starter!!",
+        "races": 10,
+        "wpm": 30.2,
+        "accuracy": 96.15,
+        "points": 1107,
+        "tier": "C"
+      },
+      {
+        "rank": 28,
+        "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
         "nickname": "Wampus Patrol",
@@ -328,7 +367,7 @@
         "tier": "B"
       },
       {
-        "rank": 26,
+        "rank": 29,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -341,33 +380,7 @@
         "tier": "C"
       },
       {
-        "rank": 27,
-        "tag": "THB0S",
-        "username": "aiden67676767676767",
-        "displayName": "aiden67676767676767",
-        "nickname": "I Hate Words",
-        "squad": null,
-        "races": 6,
-        "wpm": 42.3,
-        "accuracy": 88.72,
-        "points": 645,
-        "tier": "C"
-      },
-      {
-        "rank": 28,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Active!",
-        "races": 5,
-        "wpm": 24.6,
-        "accuracy": 98.71,
-        "points": 554,
-        "tier": "C"
-      },
-      {
-        "rank": 29,
+        "rank": 30,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -380,7 +393,7 @@
         "tier": "C"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -393,7 +406,7 @@
         "tier": "A"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -406,6 +419,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792919371404
+    "_syncedAt": 1792921096160
   }
 }
