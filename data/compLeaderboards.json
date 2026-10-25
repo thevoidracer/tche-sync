@@ -21,7 +21,7 @@
         "username": "-Tag_Typ3r-",
         "displayName": "-Tag_Typ3r-",
         "nickname": "RIP",
-        "squad": null,
+        "squad": "Active!",
         "races": 133,
         "wpm": 110.7,
         "accuracy": 91.6,
@@ -96,6 +96,19 @@
       {
         "rank": 8,
         "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 82,
+        "wpm": 93.4,
+        "accuracy": 89.57,
+        "points": 10773,
+        "tier": "A"
+      },
+      {
+        "rank": 9,
+        "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
         "nickname": "Spring Speedster",
@@ -105,19 +118,6 @@
         "accuracy": 91.84,
         "points": 9876,
         "tier": "C"
-      },
-      {
-        "rank": 9,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 71,
-        "wpm": 93.3,
-        "accuracy": 89.46,
-        "points": 9315,
-        "tier": "A"
       },
       {
         "rank": 10,
@@ -359,7 +359,7 @@
         "username": "aiden67676767676767",
         "displayName": "aiden67676767676767",
         "nickname": "I Hate Words",
-        "squad": null,
+        "squad": "Newbies!",
         "races": 14,
         "wpm": 43.2,
         "accuracy": 89.18,
@@ -450,7 +450,7 @@
         "username": "Calypso",
         "displayName": "Calypso",
         "nickname": "Aye-aye Captain!",
-        "squad": null,
+        "squad": "Newbies!",
         "races": 0,
         "wpm": 0,
         "accuracy": 0,
@@ -458,6 +458,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792944419703
+    "_syncedAt": 1792946608229
   }
 }
