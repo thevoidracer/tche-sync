@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792900820445
+        "_syncedAt": 1792902312204
       }
     },
     {
@@ -1824,7 +1824,7 @@
                   "seed": "2",
                   "racer": "Sara10",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 21454
                 },
@@ -2358,7 +2358,7 @@
                   "seed": "2",
                   "racer": "Sara10",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 13524
                 },
@@ -2628,9 +2628,9 @@
                   "seed": "2",
                   "racer": "Sara10",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
-                  "score": 14734
+                  "score": 15676
                 },
                 {
                   "seed": "18",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792900837683
+        "_syncedAt": 1792902329595
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792900837688
+  "_syncedAt": 1792902329598
 }

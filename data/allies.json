@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 46,
-    "activePercent": 88,
+    "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 3001,
@@ -662,15 +662,15 @@
         "members": 46
       },
       "daily": {
-        "races": 174,
+        "races": 165,
         "avgWPM": 51,
-        "avgAcc": 93.4,
+        "avgAcc": 93.73,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792900842201
+    "_syncedAt": 1792902334271
   },
   "SVC": {
     "tag": "SVC",
@@ -1240,7 +1240,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792900891467
+    "_syncedAt": 1792902405630
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1306,13 +1306,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792900970610
+    "_syncedAt": 1792902484967
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 49,
-    "activePercent": 91,
+    "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
     "profileViews": 4461,
@@ -1414,7 +1414,7 @@
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1792893694
+        "lastLogin": 1792902504
       },
       {
         "username": "joe772",
@@ -1813,10 +1813,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18878,
-        "wpm": 88,
+        "allTimeRaces": 18887,
+        "wpm": 81,
         "highestWPM": 123,
-        "teamRaces": 18416,
+        "teamRaces": 18427,
         "acc": 93.98,
         "season": null,
         "status": "active",
@@ -2007,20 +2007,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122455,
+        "races": 122466,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 49
       },
       "daily": {
-        "races": 708,
+        "races": 705,
         "avgWPM": 81,
-        "avgAcc": 94.31,
+        "avgAcc": 94.33,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792901140252
+    "_syncedAt": 1792902654780
   }
 }
