@@ -74,14 +74,27 @@
         "displayName": "Ace_TypingLegend",
         "nickname": "Mystery Man",
         "squad": "Starter!!",
-        "races": 101,
-        "wpm": 56.5,
-        "accuracy": 93.29,
-        "points": 12083,
+        "races": 104,
+        "wpm": 56.4,
+        "accuracy": 93.35,
+        "points": 12449,
         "tier": "B"
       },
       {
         "rank": 7,
+        "tag": "THB0S",
+        "username": "Martin",
+        "displayName": "Martin",
+        "nickname": "Nitro Drift",
+        "squad": "Active!",
+        "races": 75,
+        "wpm": 78.8,
+        "accuracy": 95.45,
+        "points": 9981,
+        "tier": "B"
+      },
+      {
+        "rank": 8,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -94,7 +107,7 @@
         "tier": "C"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -107,7 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -120,7 +133,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -130,19 +143,6 @@
         "wpm": 79.2,
         "accuracy": 95.44,
         "points": 7460,
-        "tier": "B"
-      },
-      {
-        "rank": 11,
-        "tag": "THB0S",
-        "username": "Martin",
-        "displayName": "Martin",
-        "nickname": "Nitro Drift",
-        "squad": "Active!",
-        "races": 50,
-        "wpm": 78.5,
-        "accuracy": 95.69,
-        "points": 6663,
         "tier": "B"
       },
       {
@@ -165,10 +165,10 @@
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
         "squad": "Starter Fund",
-        "races": 41,
-        "wpm": 90.6,
-        "accuracy": 91.2,
-        "points": 5433,
+        "races": 45,
+        "wpm": 89.8,
+        "accuracy": 91.09,
+        "points": 5939,
         "tier": "B"
       },
       {
@@ -369,6 +369,19 @@
       {
         "rank": 29,
         "tag": "THB0S",
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Ghost Lap",
+        "squad": "Active!",
+        "races": 11,
+        "wpm": 60.6,
+        "accuracy": 92.7,
+        "points": 1329,
+        "tier": "C"
+      },
+      {
+        "rank": 30,
+        "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
         "nickname": "Crazy About Typing",
@@ -377,19 +390,6 @@
         "wpm": 29.1,
         "accuracy": 82.63,
         "points": 1325,
-        "tier": "C"
-      },
-      {
-        "rank": 30,
-        "tag": "THB0S",
-        "username": "Mwhit4",
-        "displayName": "Mwhit4",
-        "nickname": "Ghost Lap",
-        "squad": "Active!",
-        "races": 10,
-        "wpm": 60.5,
-        "accuracy": 92.81,
-        "points": 1209,
         "tier": "C"
       },
       {
@@ -458,6 +458,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792940766871
+    "_syncedAt": 1792942666276
   }
 }

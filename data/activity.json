@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-24 15:00:00",
       "racer": "Void Racer",
-      "races": 17
+      "races": 5
     },
     {
       "hour": "2026-10-24 15:00:00",
@@ -159,8 +159,13 @@
       "hour": "2026-10-25 14:00:00",
       "racer": "Void Racer",
       "races": 9
+    },
+    {
+      "hour": "2026-10-25 15:00:00",
+      "racer": "UJAADDAH",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792940721474
+  "_syncedAt": 1792942623134
 }
