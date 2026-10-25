@@ -4,6 +4,19 @@
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 165,
+        "wpm": 87.8,
+        "accuracy": 97.04,
+        "points": 23041,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
         "tag": "THB0S",
         "username": "-Tag_Typ3r-",
         "displayName": "-Tag_Typ3r-",
@@ -16,7 +29,7 @@
         "tier": "A"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "tag": "THB0S",
         "username": "Sara10",
         "displayName": "Sara10",
@@ -29,33 +42,33 @@
         "tier": "A"
       },
       {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 130,
-        "wpm": 87.3,
-        "accuracy": 96.96,
-        "points": 18104,
-        "tier": "B"
-      },
-      {
         "rank": 4,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 107,
-        "wpm": 90.7,
-        "accuracy": 93.59,
-        "points": 14554,
+        "races": 109,
+        "wpm": 90.8,
+        "accuracy": 93.62,
+        "points": 14837,
         "tier": "A"
       },
       {
         "rank": 5,
+        "tag": "THB0S",
+        "username": "JCKrayzie",
+        "displayName": "JCKrayzie",
+        "nickname": "Original Gangster",
+        "squad": "Newbies!",
+        "races": 89,
+        "wpm": 108.3,
+        "accuracy": 97.68,
+        "points": 13401,
+        "tier": "A"
+      },
+      {
+        "rank": 6,
         "tag": "IMT",
         "username": "I_Am_So_Cheesy",
         "displayName": "I_Am_So_Cheesy",
@@ -68,20 +81,33 @@
         "tier": "C"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
         "nickname": "Mystery Man",
         "squad": "Starter!!",
-        "races": 69,
-        "wpm": 56.7,
-        "accuracy": 93.1,
-        "points": 8244,
+        "races": 82,
+        "wpm": 56.4,
+        "accuracy": 93.26,
+        "points": 9805,
         "tier": "B"
       },
       {
-        "rank": 7,
+        "rank": 8,
+        "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Starter Fund",
+        "races": 67,
+        "wpm": 93.6,
+        "accuracy": 89.47,
+        "points": 8800,
+        "tier": "A"
+      },
+      {
+        "rank": 9,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -94,20 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
-        "tag": "THB0S",
-        "username": "JCKrayzie",
-        "displayName": "JCKrayzie",
-        "nickname": "Original Gangster",
-        "squad": "Newbies!",
-        "races": 50,
-        "wpm": 108.6,
-        "accuracy": 97.66,
-        "points": 7534,
-        "tier": "A"
-      },
-      {
-        "rank": 9,
+        "rank": 10,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -118,19 +131,6 @@
         "accuracy": 95.44,
         "points": 7460,
         "tier": "B"
-      },
-      {
-        "rank": 10,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Starter Fund",
-        "races": 50,
-        "wpm": 93.6,
-        "accuracy": 89.84,
-        "points": 6594,
-        "tier": "A"
       },
       {
         "rank": 11,
@@ -161,6 +161,19 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "UJAADDAH",
+        "displayName": "UJAADDAH",
+        "nickname": "Endurance Racer",
+        "squad": "Starter Fund",
+        "races": 35,
+        "wpm": 90.3,
+        "accuracy": 90.97,
+        "points": 4621,
+        "tier": "B"
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
@@ -172,7 +185,20 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
+        "tag": "THB0S",
+        "username": "Gt650,",
+        "displayName": "Gt650,",
+        "nickname": "Keyboard Cat",
+        "squad": "Active!",
+        "races": 43,
+        "wpm": 35.2,
+        "accuracy": 89.72,
+        "points": 4538,
+        "tier": "C"
+      },
+      {
+        "rank": 16,
         "tag": "THB0S",
         "username": "Martin",
         "displayName": "Martin",
@@ -183,32 +209,6 @@
         "accuracy": 95.51,
         "points": 4509,
         "tier": "B"
-      },
-      {
-        "rank": 15,
-        "tag": "IMT",
-        "username": "UJAADDAH",
-        "displayName": "UJAADDAH",
-        "nickname": "Endurance Racer",
-        "squad": "Starter Fund",
-        "races": 31,
-        "wpm": 90.9,
-        "accuracy": 91.26,
-        "points": 4114,
-        "tier": "B"
-      },
-      {
-        "rank": 16,
-        "tag": "THB0S",
-        "username": "Gt650,",
-        "displayName": "Gt650,",
-        "nickname": "Keyboard Cat",
-        "squad": "Active!",
-        "races": 36,
-        "wpm": 35.7,
-        "accuracy": 90.91,
-        "points": 3857,
-        "tier": "C"
       },
       {
         "rank": 17,
@@ -458,6 +458,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792937199052
+    "_syncedAt": 1792938983553
   }
 }

@@ -6,11 +6,6 @@
       "races": 14
     },
     {
-      "hour": "2026-10-24 14:00:00",
-      "racer": "UJAADDAH",
-      "races": 5
-    },
-    {
       "hour": "2026-10-24 15:00:00",
       "racer": "Void Racer",
       "races": 17
@@ -149,8 +144,28 @@
       "hour": "2026-10-25 13:00:00",
       "racer": "rorok09",
       "races": 2
+    },
+    {
+      "hour": "2026-10-25 14:00:00",
+      "racer": "rorok09",
+      "races": 35
+    },
+    {
+      "hour": "2026-10-25 14:00:00",
+      "racer": "-HyperTyper-",
+      "races": 17
+    },
+    {
+      "hour": "2026-10-25 14:00:00",
+      "racer": "UJAADDAH",
+      "races": 4
+    },
+    {
+      "hour": "2026-10-25 14:00:00",
+      "racer": "Void Racer",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792937156021
+  "_syncedAt": 1792938940458
 }
