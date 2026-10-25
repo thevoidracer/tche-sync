@@ -17,6 +17,19 @@
       },
       {
         "rank": 2,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 107,
+        "wpm": 88.2,
+        "accuracy": 95.55,
+        "points": 14734,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -27,19 +40,6 @@
         "accuracy": 93.59,
         "points": 14554,
         "tier": "A"
-      },
-      {
-        "rank": 3,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 94,
-        "wpm": 88.2,
-        "accuracy": 95.61,
-        "points": 12951,
-        "tier": "B"
       },
       {
         "rank": 4,
@@ -178,10 +178,10 @@
         "displayName": "20_chars",
         "nickname": "Sp00ked",
         "squad": null,
-        "races": 32,
-        "wpm": 44.6,
+        "races": 33,
+        "wpm": 44.5,
         "accuracy": 88.78,
-        "points": 3475,
+        "points": 3582,
         "tier": "C"
       },
       {
@@ -239,6 +239,19 @@
       {
         "rank": 19,
         "tag": "THB0S",
+        "username": "BRADYDARACER",
+        "displayName": "BRADYDARACER",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Officer",
+        "races": 16,
+        "wpm": 94.2,
+        "accuracy": 97.41,
+        "points": 2292,
+        "tier": "A"
+      },
+      {
+        "rank": 20,
+        "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
         "nickname": "Street Spectre",
@@ -250,7 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -276,7 +289,7 @@
         "tier": "B"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "THB0S",
         "username": "FireworkLauncher",
         "displayName": "FireworkLauncher",
@@ -289,7 +302,7 @@
         "tier": "C"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -302,7 +315,7 @@
         "tier": "B"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
@@ -315,7 +328,7 @@
         "tier": "B"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -328,7 +341,7 @@
         "tier": "C"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -341,7 +354,7 @@
         "tier": "C"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -354,7 +367,7 @@
         "tier": "A"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -367,6 +380,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792898420967
+    "_syncedAt": 1792900842019
   }
 }
