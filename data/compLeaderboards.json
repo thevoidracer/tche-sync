@@ -100,10 +100,10 @@
         "displayName": "-HyperTyper-",
         "nickname": "Crazy About Typing",
         "squad": "Side Hustler 100",
-        "races": 87,
+        "races": 93,
         "wpm": 93.2,
-        "accuracy": 89.74,
-        "points": 11446,
+        "accuracy": 89.87,
+        "points": 12252,
         "tier": "A"
       },
       {
@@ -126,10 +126,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Ghost Lap",
         "squad": "Entrepreneur 500",
-        "races": 75,
-        "wpm": 78.1,
-        "accuracy": 94.55,
-        "points": 9859,
+        "races": 80,
+        "wpm": 78.2,
+        "accuracy": 94.48,
+        "points": 10514,
         "tier": "C"
       },
       {
@@ -178,10 +178,10 @@
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
         "squad": "Starter Fund",
-        "races": 53,
-        "wpm": 90.2,
-        "accuracy": 91.01,
-        "points": 6999,
+        "races": 54,
+        "wpm": 89.9,
+        "accuracy": 90.95,
+        "points": 7119,
         "tier": "A"
       },
       {
@@ -437,11 +437,11 @@
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
         "nickname": "Touching Grass",
-        "squad": null,
-        "races": 3,
-        "wpm": 76,
-        "accuracy": 90.49,
-        "points": 375,
+        "squad": "Starter Fund",
+        "races": 4,
+        "wpm": 78.2,
+        "accuracy": 91.56,
+        "points": 510,
         "tier": "C"
       },
       {
@@ -497,6 +497,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792960779646
+    "_syncedAt": 1792962298905
   }
 }

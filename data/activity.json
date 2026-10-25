@@ -148,7 +148,7 @@
     {
       "hour": "2026-10-25 20:00:00",
       "racer": "KirbyDelta",
-      "races": 16
+      "races": 21
     },
     {
       "hour": "2026-10-25 20:00:00",
@@ -157,18 +157,23 @@
     },
     {
       "hour": "2026-10-25 20:00:00",
+      "racer": "UJAADDAH",
+      "races": 9
+    },
+    {
+      "hour": "2026-10-25 20:00:00",
       "racer": "I_Am_So_Cheesy",
       "races": 8
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "UJAADDAH",
-      "races": 8
+      "racer": "-HyperTyper-",
+      "races": 7
     },
     {
       "hour": "2026-10-25 20:00:00",
       "racer": "SKZ FIRAH",
-      "races": 3
+      "races": 4
     },
     {
       "hour": "2026-10-25 20:00:00",
@@ -179,13 +184,8 @@
       "hour": "2026-10-25 20:00:00",
       "racer": "Nitrex",
       "races": 1
-    },
-    {
-      "hour": "2026-10-25 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792960738670
+  "_syncedAt": 1792962257964
 }
