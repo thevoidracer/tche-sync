@@ -1,17 +1,7 @@
 {
   "racers": [
     {
-      "rank": 81,
-      "username": "75ece50e19f0ca3d92787e4a86138578",
-      "displayName": "rorok09",
-      "races": 151,
-      "accuracy": 96.99,
-      "wpm": 88.6,
-      "points": 21134,
-      "ppr": 140
-    },
-    {
-      "rank": 124,
+      "rank": 122,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 107,
@@ -21,7 +11,17 @@
       "ppr": 136
     },
     {
-      "rank": 206,
+      "rank": 159,
+      "username": "75ece50e19f0ca3d92787e4a86138578",
+      "displayName": "rorok09",
+      "races": 81,
+      "accuracy": 97.16,
+      "wpm": 88.3,
+      "points": 11345,
+      "ppr": 140
+    },
+    {
+      "rank": 203,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 76,
@@ -31,7 +31,7 @@
       "ppr": 114
     },
     {
-      "rank": 256,
+      "rank": 253,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 50,
@@ -41,7 +41,7 @@
       "ppr": 131
     },
     {
-      "rank": 293,
+      "rank": 292,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 39,
@@ -61,7 +61,7 @@
       "ppr": 133
     },
     {
-      "rank": 387,
+      "rank": 386,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "races": 23,
@@ -71,7 +71,7 @@
       "ppr": 140
     },
     {
-      "rank": 419,
+      "rank": 420,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 19,
@@ -91,5 +91,5 @@
       "ppr": 133
     }
   ],
-  "_syncedAt": 1792909057785
+  "_syncedAt": 1792912281093
 }

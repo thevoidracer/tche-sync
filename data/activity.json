@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-24 06:00:00",
-      "racer": "rorok09",
-      "races": 64
-    },
-    {
       "hour": "2026-10-24 07:00:00",
       "racer": "rorok09",
-      "races": 43
+      "races": 37
     },
     {
       "hour": "2026-10-24 08:00:00",
@@ -132,5 +127,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792909061250
+  "_syncedAt": 1792912284514
 }
