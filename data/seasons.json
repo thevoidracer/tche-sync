@@ -293,13 +293,13 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 84,
+          "rank": 83,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 946,
-          "accuracy": 96.84,
+          "races": 980,
+          "accuracy": 96.86,
           "wpm": 88.4,
-          "points": 132127,
+          "points": 136890,
           "ppr": 140
         },
         {
@@ -323,7 +323,7 @@
           "ppr": 115
         },
         {
-          "rank": 250,
+          "rank": 252,
           "username": "nathanmduncan",
           "displayName": "Nathan",
           "races": 399,
@@ -333,7 +333,7 @@
           "ppr": 142
         },
         {
-          "rank": 261,
+          "rank": 262,
           "username": "kirbydelta",
           "displayName": "KirbyDelta",
           "races": 425,
@@ -383,7 +383,7 @@
           "ppr": 96
         },
         {
-          "rank": 577,
+          "rank": 578,
           "username": "teraceeben21",
           "displayName": "t_unknown",
           "races": 181,
@@ -513,7 +513,7 @@
           "ppr": 137
         },
         {
-          "rank": 1300,
+          "rank": 1301,
           "username": "7e2ebd57815c8b20f963c1e4b569628c",
           "displayName": "Joe and Uh",
           "races": 35,
@@ -523,7 +523,7 @@
           "ppr": 140
         },
         {
-          "rank": 1328,
+          "rank": 1329,
           "username": "ace1inee",
           "displayName": "asteroids",
           "races": 33,
@@ -533,7 +533,7 @@
           "ppr": 139
         },
         {
-          "rank": 1351,
+          "rank": 1352,
           "username": "735493474a38feb614a4a76e3cde2c1a",
           "displayName": "UJAADDAH",
           "races": 33,
@@ -673,7 +673,7 @@
           "ppr": 140
         },
         {
-          "rank": 1921,
+          "rank": 1922,
           "username": "1ea0b919208e21b376a29ac0befb794c",
           "displayName": "StefanO",
           "races": 8,
@@ -684,7 +684,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1792928126914
+      "_syncedAt": 1792929819866
     }
   },
   "order": [
@@ -692,5 +692,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1792928126914
+  "_syncedAt": 1792929819866
 }

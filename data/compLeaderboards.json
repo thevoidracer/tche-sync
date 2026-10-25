@@ -31,6 +31,19 @@
       {
         "rank": 3,
         "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 124,
+        "wpm": 87.3,
+        "accuracy": 96.95,
+        "points": 17266,
+        "tier": "B"
+      },
+      {
+        "rank": 4,
+        "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "The Smasher",
@@ -40,19 +53,6 @@
         "accuracy": 93.59,
         "points": 14554,
         "tier": "A"
-      },
-      {
-        "rank": 4,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 103,
-        "wpm": 87.2,
-        "accuracy": 96.88,
-        "points": 14327,
-        "tier": "B"
       },
       {
         "rank": 5,
@@ -432,6 +432,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792928188553
+    "_syncedAt": 1792929884320
   }
 }
