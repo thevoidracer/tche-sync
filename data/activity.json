@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-24 02:00:00",
       "racer": "rorok09",
-      "races": 62
+      "races": 5
     },
     {
       "hour": "2026-10-24 03:00:00",
@@ -142,10 +142,15 @@
     },
     {
       "hour": "2026-10-25 02:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 40
+    },
+    {
+      "hour": "2026-10-25 02:00:00",
       "racer": "UJAADDAH",
-      "races": 5
+      "races": 17
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792894770830
+  "_syncedAt": 1792897080470
 }

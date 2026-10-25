@@ -419,11 +419,11 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1558,
-      "wpm": 92,
+      "allTimeRaces": 1566,
+      "wpm": 93,
       "highestWPM": 122,
-      "teamRaces": 21,
-      "acc": 91.85,
+      "teamRaces": 33,
+      "acc": 92.03,
       "season": null,
       "status": "active",
       "lastLogin": 1792893085
@@ -531,11 +531,11 @@
       "displayName": "I_Am_So_Cheesy",
       "role": "member",
       "joinStamp": 1791380526,
-      "allTimeRaces": 835,
-      "wpm": 51,
+      "allTimeRaces": 875,
+      "wpm": 50,
       "highestWPM": 108,
-      "teamRaces": 587,
-      "acc": 92.13,
+      "teamRaces": 627,
+      "acc": 92.06,
       "season": null,
       "status": "active",
       "lastLogin": 1792894125
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59123,
+      "races": 59175,
       "avgWPM": 76,
       "avgAcc": 95,
       "members": 48
     },
     "daily": {
-      "races": 648,
-      "avgWPM": 86,
-      "avgAcc": 95.62,
+      "races": 643,
+      "avgWPM": 84,
+      "avgAcc": 95.23,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792894652802
+  "_syncedAt": 1792896974741
 }

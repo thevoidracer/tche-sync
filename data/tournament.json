@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792894791379
+        "_syncedAt": 1792897104664
       }
     },
     {
@@ -1912,7 +1912,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -2402,7 +2402,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2630,7 +2630,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 9650
+                  "score": 12667
                 },
                 {
                   "seed": "18",
@@ -2650,9 +2650,9 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
-                  "score": 1687
+                  "score": 3745
                 },
                 {
                   "seed": "10",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792894808212
+        "_syncedAt": 1792897123210
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792894808215
+  "_syncedAt": 1792897123212
 }
