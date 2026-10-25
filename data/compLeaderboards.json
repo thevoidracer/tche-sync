@@ -35,10 +35,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 124,
+        "races": 128,
         "wpm": 87.3,
-        "accuracy": 96.95,
-        "points": 17266,
+        "accuracy": 96.94,
+        "points": 17824,
         "tier": "B"
       },
       {
@@ -203,7 +203,7 @@
         "username": "20_chars",
         "displayName": "20_chars",
         "nickname": "Sp00ked",
-        "squad": null,
+        "squad": "Starter!!",
         "races": 33,
         "wpm": 44.5,
         "accuracy": 88.78,
@@ -432,6 +432,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792929884320
+    "_syncedAt": 1792932171979
   }
 }

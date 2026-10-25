@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 45,
+    "members": 42,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -189,21 +189,7 @@
         "acc": 94.76,
         "season": null,
         "status": "active",
-        "lastLogin": 1792870259
-      },
-      {
-        "username": "7604263cc5b3ae1cda6af38e9a437c85",
-        "displayName": "Two-time colony",
-        "role": "member",
-        "joinStamp": 1790699277,
-        "allTimeRaces": 180,
-        "wpm": 32,
-        "highestWPM": 47,
-        "teamRaces": 54,
-        "acc": 94.88,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791375129
+        "lastLogin": 1792931292
       },
       {
         "username": "ecf6fca5d4cfd6db9bf37ea626d00c4b",
@@ -236,7 +222,7 @@
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
         "displayName": "Ace_TypingLegend",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1792527933,
         "allTimeRaces": 969,
         "wpm": 55,
@@ -304,20 +290,6 @@
         "lastLogin": 1792524383
       },
       {
-        "username": "d805338153c36671f411566bd44c1b95",
-        "displayName": "Sabrina_the_pain",
-        "role": "member",
-        "joinStamp": 1790344997,
-        "allTimeRaces": 175,
-        "wpm": 23,
-        "highestWPM": 35,
-        "teamRaces": 31,
-        "acc": 93.46,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791564324
-      },
-      {
         "username": "87fcfdfb0800cb09690e8a373dc58063",
         "displayName": "weak kingsley",
         "role": "member",
@@ -334,7 +306,7 @@
       {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
         "displayName": "ECLIPS - MARIO CART",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1763243275,
         "allTimeRaces": 3430,
         "wpm": 42,
@@ -427,7 +399,7 @@
         "acc": 93.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1792781061
+        "lastLogin": 1792931244
       },
       {
         "username": "soap2x",
@@ -570,20 +542,6 @@
         "lastLogin": 1792919214
       },
       {
-        "username": "speed_demon17888",
-        "displayName": "Stacy Mcgill",
-        "role": "member",
-        "joinStamp": 1789994024,
-        "allTimeRaces": 401,
-        "wpm": 45,
-        "highestWPM": 64,
-        "teamRaces": 82,
-        "acc": 93.81,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1791560628
-      },
-      {
         "username": "mazen_67",
         "displayName": "mazen_67",
         "role": "member",
@@ -645,18 +603,18 @@
         "races": 78969,
         "avgWPM": 55,
         "avgAcc": 93.53,
-        "members": 45
+        "members": 42
       },
       "daily": {
         "races": 174,
         "avgWPM": 50,
         "avgAcc": 93.85,
-        "members": 45
+        "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792929884498
+    "_syncedAt": 1792932172128
   },
   "SVC": {
     "tag": "SVC",
@@ -1226,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792929903557
+    "_syncedAt": 1792932191071
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1292,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792929982809
+    "_syncedAt": 1792932269890
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1988,7 +1946,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1792609542
+        "lastLogin": 1792930319
       },
       {
         "username": "getcooked_2",
@@ -2013,14 +1971,14 @@
         "members": 50
       },
       "daily": {
-        "races": 707,
-        "avgWPM": 81,
-        "avgAcc": 94.14,
+        "races": 684,
+        "avgWPM": 82,
+        "avgAcc": 94.18,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792930152604
+    "_syncedAt": 1792932439384
   }
 }
