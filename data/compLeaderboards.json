@@ -48,10 +48,10 @@
         "displayName": "Void Racer",
         "nickname": "The Smasher",
         "squad": "Dominator 2.5k",
-        "races": 119,
-        "wpm": 90.6,
-        "accuracy": 93.53,
-        "points": 16175,
+        "races": 122,
+        "wpm": 90.8,
+        "accuracy": 93.5,
+        "points": 16584,
         "tier": "A"
       },
       {
@@ -87,10 +87,10 @@
         "displayName": "I_Am_So_Cheesy",
         "nickname": "Spring Speedster",
         "squad": "Entrepreneur 500",
-        "races": 106,
-        "wpm": 50.9,
+        "races": 107,
+        "wpm": 51,
         "accuracy": 91.61,
-        "points": 12183,
+        "points": 12300,
         "tier": "C"
       },
       {
@@ -484,6 +484,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1792955447494
+    "_syncedAt": 1792956856911
   }
 }

@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-24 19:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 8
-    },
-    {
       "hour": "2026-10-24 22:00:00",
       "racer": "I_Am_So_Cheesy",
       "races": 4
@@ -129,8 +124,18 @@
       "hour": "2026-10-25 18:00:00",
       "racer": "SKZ FIRAH",
       "races": 0
+    },
+    {
+      "hour": "2026-10-25 19:00:00",
+      "racer": "Void Racer",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-25 19:00:00",
+      "racer": "I_Am_So_Cheesy",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792955405103
+  "_syncedAt": 1792956814727
 }
