@@ -118,9 +118,19 @@
     {
       "hour": "2026-10-25 09:00:00",
       "racer": "I_Am_So_Cheesy",
-      "races": 11
+      "races": 17
+    },
+    {
+      "hour": "2026-10-25 09:00:00",
+      "racer": "asteroids",
+      "races": 14
+    },
+    {
+      "hour": "2026-10-25 09:00:00",
+      "racer": "rorok09",
+      "races": 9
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792921053882
+  "_syncedAt": 1792922798396
 }
