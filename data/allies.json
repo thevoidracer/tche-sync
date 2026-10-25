@@ -606,7 +606,7 @@
         "members": 42
       },
       "daily": {
-        "races": 174,
+        "races": 172,
         "avgWPM": 50,
         "avgAcc": 93.85,
         "members": 42
@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792932172128
+    "_syncedAt": 1792934217476
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792932191071
+    "_syncedAt": 1792934236204
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792932269890
+    "_syncedAt": 1792934315178
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1862,7 +1862,7 @@
         "acc": 86.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1792815486
+        "lastLogin": 1792934453
       },
       {
         "username": "legendsince2026",
@@ -1936,17 +1936,17 @@
       },
       {
         "username": "malott12",
-        "displayName": "FastestEver808",
+        "displayName": "Martin",
         "role": "member",
         "joinStamp": 1791137268,
-        "allTimeRaces": 284,
-        "wpm": 79,
+        "allTimeRaces": 313,
+        "wpm": 77,
         "highestWPM": 100,
-        "teamRaces": 190,
-        "acc": 96.11,
+        "teamRaces": 217,
+        "acc": 96.07,
         "season": null,
         "status": "active",
-        "lastLogin": 1792930319
+        "lastLogin": 1792932630
       },
       {
         "username": "getcooked_2",
@@ -1965,20 +1965,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122507,
+        "races": 122534,
         "avgWPM": 67,
         "avgAcc": 93.97,
         "members": 50
       },
       "daily": {
-        "races": 684,
-        "avgWPM": 82,
-        "avgAcc": 94.18,
+        "races": 667,
+        "avgWPM": 84,
+        "avgAcc": 94.23,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792932439384
+    "_syncedAt": 1792934484648
   }
 }

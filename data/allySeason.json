@@ -49,7 +49,7 @@
     "points": 259032,
     "ppr": 121,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792932190768
+    "_syncedAt": 1792934236056
   },
   "SVC": {
     "timeframes": {
@@ -87,7 +87,7 @@
     "points": 110116,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792932269762
+    "_syncedAt": 1792934315056
   },
   "IMTR": {
     "timeframes": {
@@ -104,41 +104,41 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792932438979
+    "_syncedAt": 1792934484501
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 20,
-        "races": 703,
-        "accuracy": 93.71,
-        "wpm": 83.2,
-        "points": 93279,
-        "ppr": 133
+        "races": 675,
+        "accuracy": 93.75,
+        "wpm": 85.2,
+        "points": 90234,
+        "ppr": 134
       },
       "season": {
         "rank": 25,
-        "races": 5441,
-        "accuracy": 93.57,
+        "races": 5457,
+        "accuracy": 93.58,
         "wpm": 72.5,
-        "points": 693732,
+        "points": 695864,
         "ppr": 128
       },
       "week": {
         "rank": 25,
-        "races": 5500,
-        "accuracy": 93.59,
-        "wpm": 72.5,
-        "points": 701445,
+        "races": 5516,
+        "accuracy": 93.6,
+        "wpm": 72.6,
+        "points": 703577,
         "ppr": 128
       },
       "weekly": {
-        "rank": 41,
-        "races": 28,
-        "accuracy": 86.68,
-        "wpm": 36.4,
-        "points": 2869,
-        "ppr": 102
+        "rank": 35,
+        "races": 44,
+        "accuracy": 91.87,
+        "wpm": 52.2,
+        "points": 5098,
+        "ppr": 116
       },
       "alltime": {
         "rank": 42,
@@ -150,12 +150,12 @@
       }
     },
     "rank": 25,
-    "races": 5441,
-    "accuracy": 93.57,
+    "races": 5457,
+    "accuracy": 93.58,
     "wpm": 72.5,
-    "points": 693732,
+    "points": 695864,
     "ppr": 128,
     "source": "ntstartrack.org",
-    "_syncedAt": 1792932458067
+    "_syncedAt": 1792934503386
   }
 }

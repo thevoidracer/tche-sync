@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1792932151834
+        "_syncedAt": 1792934196384
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1698,7 +1698,7 @@
                 },
                 {
                   "seed": "52",
-                  "racer": "IMIME_IMIME",
+                  "racer": "Not_Ime",
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
@@ -1786,7 +1786,7 @@
                 },
                 {
                   "seed": "53",
-                  "racer": "weak kingsley",
+                  "racer": "RALSEI",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2116,7 +2116,7 @@
                 },
                 {
                   "seed": "38",
-                  "racer": "Jamusisthebeaver",
+                  "racer": "Jamusisthebestever",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 137
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1792932167927
+        "_syncedAt": 1792934213226
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792932167930
+  "_syncedAt": 1792934213229
 }
