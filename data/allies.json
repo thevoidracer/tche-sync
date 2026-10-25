@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 46,
+    "members": 45,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -190,20 +190,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792870259
-      },
-      {
-        "username": "fresh_shrimpy",
-        "displayName": "that guy",
-        "role": "member",
-        "joinStamp": 1792566237,
-        "allTimeRaces": 862,
-        "wpm": 59,
-        "highestWPM": 75,
-        "teamRaces": 33,
-        "acc": 94.17,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792922993
       },
       {
         "username": "7604263cc5b3ae1cda6af38e9a437c85",
@@ -659,18 +645,18 @@
         "races": 78969,
         "avgWPM": 55,
         "avgAcc": 93.53,
-        "members": 46
+        "members": 45
       },
       "daily": {
         "races": 174,
         "avgWPM": 50,
         "avgAcc": 93.85,
-        "members": 46
+        "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792924622946
+    "_syncedAt": 1792926370271
   },
   "SVC": {
     "tag": "SVC",
@@ -1240,7 +1226,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792924641906
+    "_syncedAt": 1792926389054
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1306,7 +1292,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792924721132
+    "_syncedAt": 1792926468039
   },
   "THB0S": {
     "tag": "THB0S",
@@ -2035,6 +2021,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792924890637
+    "_syncedAt": 1792926637492
   }
 }

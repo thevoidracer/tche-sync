@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 46,
+      "rank": 37,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 36,
-      "accuracy": 96.82,
-      "wpm": 88,
-      "points": 5020,
+      "races": 51,
+      "accuracy": 96.66,
+      "wpm": 87.7,
+      "points": 7091,
       "ppr": 139
     },
     {
-      "rank": 80,
+      "rank": 83,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "I_Am_So_Cheesy",
       "races": 17,
@@ -21,7 +21,7 @@
       "ppr": 117
     },
     {
-      "rank": 81,
+      "rank": 84,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 14,
@@ -31,5 +31,5 @@
       "ppr": 140
     }
   ],
-  "_syncedAt": 1792924568672
+  "_syncedAt": 1792926317374
 }
