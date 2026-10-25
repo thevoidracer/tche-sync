@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-24 17:00:00",
-      "racer": "KirbyDelta",
-      "races": 21
-    },
-    {
-      "hour": "2026-10-24 17:00:00",
-      "racer": "I_Am_So_Cheesy",
-      "races": 14
-    },
-    {
-      "hour": "2026-10-24 17:00:00",
-      "racer": "Void Racer",
-      "races": 1
-    },
-    {
       "hour": "2026-10-24 18:00:00",
       "racer": "KirbyDelta",
       "races": 29
@@ -147,5 +132,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792949695375
+  "_syncedAt": 1792951341800
 }
