@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-24 15:00:00",
-      "racer": "Void Racer",
-      "races": 5
-    },
-    {
-      "hour": "2026-10-24 15:00:00",
-      "racer": "Joe and Uh",
-      "races": 2
-    },
-    {
       "hour": "2026-10-24 16:00:00",
       "racer": "Void Racer",
       "races": 33
@@ -167,5 +157,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792942623134
+  "_syncedAt": 1792944377268
 }
