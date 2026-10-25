@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-24 01:00:00",
-      "racer": "rorok09",
-      "races": 15
-    },
-    {
-      "hour": "2026-10-24 01:00:00",
-      "racer": "UJAADDAH",
-      "races": 3
-    },
-    {
       "hour": "2026-10-24 02:00:00",
       "racer": "rorok09",
-      "races": 66
+      "races": 62
     },
     {
       "hour": "2026-10-24 03:00:00",
@@ -143,9 +133,19 @@
     {
       "hour": "2026-10-25 01:00:00",
       "racer": "asteroids",
-      "races": 14
+      "races": 19
+    },
+    {
+      "hour": "2026-10-25 01:00:00",
+      "racer": "UJAADDAH",
+      "races": 4
+    },
+    {
+      "hour": "2026-10-25 02:00:00",
+      "racer": "UJAADDAH",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792893312966
+  "_syncedAt": 1792894770830
 }
