@@ -350,14 +350,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 13914,
-        "wpm": 80,
+        "allTimeRaces": 13938,
+        "wpm": 79,
         "highestWPM": 111,
-        "teamRaces": 11706,
+        "teamRaces": 11721,
         "acc": 93.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1792946203
+        "lastLogin": 1792952067
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -504,14 +504,14 @@
         "displayName": "Void Racer alt",
         "role": "officer",
         "joinStamp": 1791232953,
-        "allTimeRaces": 305,
-        "wpm": 74,
+        "allTimeRaces": 306,
+        "wpm": 110,
         "highestWPM": 113,
-        "teamRaces": 61,
-        "acc": 93.21,
+        "teamRaces": 62,
+        "acc": 93.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1792892359
+        "lastLogin": 1792951783
       },
       {
         "username": "happygoluckygirl07",
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79017,
+        "races": 79033,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 136,
-        "avgWPM": 49,
-        "avgAcc": 93.26,
+        "races": 140,
+        "avgWPM": 52,
+        "avgAcc": 92.91,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792951383260
+    "_syncedAt": 1792953537160
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792951402076
+    "_syncedAt": 1792953555942
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792951480971
+    "_syncedAt": 1792953634917
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1259,7 +1259,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4471,
+    "profileViews": 4476,
     "leagueTier": 12,
     "racers": [
       {
@@ -1951,6 +1951,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792951649936
+    "_syncedAt": 1792953804333
   }
 }

@@ -17,8 +17,8 @@
       "tier": "A",
       "avgWPM": 90,
       "topWPM": 127,
-      "lifetimeRaces": 5132,
-      "teamRaces": 2707,
+      "lifetimeRaces": 5134,
+      "teamRaces": 2708,
       "joined": "06/10/26"
     },
     {
@@ -631,8 +631,21 @@
       "lifetimeRaces": 3243,
       "teamRaces": 33,
       "joined": "10/25/26"
+    },
+    {
+      "username": "2a4c23d957bacad1e38074dc8f3ddc39",
+      "displayName": "SKZ FIRAH",
+      "nickname": "Touching Grass",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 71,
+      "topWPM": 90,
+      "lifetimeRaces": 652,
+      "teamRaces": 0,
+      "joined": "10/25/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792951341799
+  "_syncedAt": 1792953496397
 }

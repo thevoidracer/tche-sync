@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:2a4c23d957bacad1e38074dc8f3ddc39",
+      "type": "new-member",
+      "text": "SKZ FIRAH joined the team.",
+      "meta": {
+        "username": "2a4c23d957bacad1e38074dc8f3ddc39"
+      },
+      "createdAt": 1792953532993
+    },
+    {
       "key": "new-member:ace1inee",
       "type": "new-member",
       "text": "asteroids joined the team.",
@@ -413,5 +422,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792951379084
+  "_syncedAt": 1792953532993
 }

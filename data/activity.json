@@ -2,11 +2,6 @@
   "hours": [
     {
       "hour": "2026-10-24 18:00:00",
-      "racer": "KirbyDelta",
-      "races": 29
-    },
-    {
-      "hour": "2026-10-24 18:00:00",
       "racer": "I_Am_So_Cheesy",
       "races": 3
     },
@@ -129,8 +124,18 @@
       "hour": "2026-10-25 16:00:00",
       "racer": "-HyperTyper-",
       "races": 15
+    },
+    {
+      "hour": "2026-10-25 18:00:00",
+      "racer": "Void Racer",
+      "races": 1
+    },
+    {
+      "hour": "2026-10-25 18:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 0
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792951341800
+  "_syncedAt": 1792953496398
 }
