@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Tracker✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2124,
+  "profileViews": 2125,
   "leagueTier": 12,
   "racers": [
     {
@@ -482,7 +482,7 @@
       "acc": 92.66,
       "season": null,
       "status": "active",
-      "lastLogin": 1793045463
+      "lastLogin": 1793053588
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -517,14 +517,14 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 696,
-      "wpm": 69,
+      "allTimeRaces": 699,
+      "wpm": 68,
       "highestWPM": 98,
-      "teamRaces": 44,
-      "acc": 92.54,
+      "teamRaces": 46,
+      "acc": 92.49,
       "season": null,
       "status": "active",
-      "lastLogin": 1793040511
+      "lastLogin": 1793053380
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -545,11 +545,11 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1395,
+      "allTimeRaces": 1398,
       "wpm": 85,
       "highestWPM": 100,
-      "teamRaces": 46,
-      "acc": 96.81,
+      "teamRaces": 49,
+      "acc": 96.75,
       "season": null,
       "status": "active",
       "lastLogin": 1793051660
@@ -671,31 +671,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 391,
-      "wpm": 91,
+      "allTimeRaces": 392,
+      "wpm": 92,
       "highestWPM": 111,
-      "teamRaces": 148,
-      "acc": 91.22,
+      "teamRaces": 149,
+      "acc": 91.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1793047915
+      "lastLogin": 1793051942
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 60500,
+      "races": 60506,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 751,
-      "avgWPM": 79,
-      "avgAcc": 93.61,
+      "races": 704,
+      "avgWPM": 80,
+      "avgAcc": 93.74,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793051790946
+  "_syncedAt": 1793053869188
 }

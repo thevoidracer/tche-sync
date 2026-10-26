@@ -6,7 +6,7 @@
     "activePercent": 97,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3027,
+    "profileViews": 3028,
     "leagueTier": 12,
     "racers": [
       {
@@ -56,11 +56,11 @@
         "displayName": "Leo Torres",
         "role": "member",
         "joinStamp": 1793047425,
-        "allTimeRaces": 892,
+        "allTimeRaces": 899,
         "wpm": 58,
         "highestWPM": 76,
-        "teamRaces": 6,
-        "acc": 90.61,
+        "teamRaces": 20,
+        "acc": 88.39,
         "season": null,
         "status": "active",
         "lastLogin": 1793049808
@@ -392,14 +392,14 @@
         "displayName": "Glitter_Girl_18",
         "role": "member",
         "joinStamp": 1792614323,
-        "allTimeRaces": 351,
-        "wpm": 43,
+        "allTimeRaces": 352,
+        "wpm": 44,
         "highestWPM": 51,
-        "teamRaces": 64,
-        "acc": 95.89,
+        "teamRaces": 65,
+        "acc": 95.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1793050379
+        "lastLogin": 1793053419
       },
       {
         "username": "quickbrownpony",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79547,
+        "races": 79562,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 442,
-        "avgWPM": 62,
-        "avgAcc": 93.52,
+        "races": 426,
+        "avgWPM": 63,
+        "avgAcc": 93.27,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793051888176
+    "_syncedAt": 1793053979371
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793051907045
+    "_syncedAt": 1793053998491
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793051925823
+    "_syncedAt": 1793054017453
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4503,
+    "profileViews": 4504,
     "leagueTier": 12,
     "racers": [
       {
@@ -1713,21 +1713,21 @@
         "acc": 96.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792988758
+        "lastLogin": 1793053744
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3694,
+        "allTimeRaces": 3709,
         "wpm": 46,
-        "highestWPM": 60,
-        "teamRaces": 2156,
-        "acc": 92.04,
+        "highestWPM": 61,
+        "teamRaces": 2171,
+        "acc": 92.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793048600
+        "lastLogin": 1793052705
       },
       {
         "username": "sara0010",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123536,
+        "races": 123551,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 47
       },
       "daily": {
-        "races": 819,
+        "races": 827,
         "avgWPM": 76,
-        "avgAcc": 94.7,
+        "avgAcc": 94.64,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793052095365
+    "_syncedAt": 1793054187351
   }
 }

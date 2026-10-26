@@ -1,34 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-25 21:00:00",
-      "racer": "VOID_REIGN",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-25 21:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-25 21:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
       "hour": "2026-10-25 22:00:00",
       "racer": "VOID_REIGN",
-      "races": 39
-    },
-    {
-      "hour": "2026-10-25 22:00:00",
-      "racer": "UJAADDAH",
-      "races": 3
-    },
-    {
-      "hour": "2026-10-25 22:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 3
+      "races": 8
     },
     {
       "hour": "2026-10-25 23:00:00",
@@ -112,12 +87,12 @@
     },
     {
       "hour": "2026-10-26 13:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "kdjkldglkdghklfghfkg",
       "races": 13
     },
     {
       "hour": "2026-10-26 13:00:00",
-      "racer": "kdjkldglkdghklfghfkg",
+      "racer": "VOID_REIGN",
       "races": 13
     },
     {
@@ -152,12 +127,12 @@
     },
     {
       "hour": "2026-10-26 14:00:00",
-      "racer": "UJAADDAH",
+      "racer": "kdjkldglkdghklfghfkg",
       "races": 12
     },
     {
       "hour": "2026-10-26 14:00:00",
-      "racer": "kdjkldglkdghklfghfkg",
+      "racer": "UJAADDAH",
       "races": 12
     },
     {
@@ -309,8 +284,23 @@
       "hour": "2026-10-26 21:00:00",
       "racer": "StefanO",
       "races": 12
+    },
+    {
+      "hour": "2026-10-26 21:00:00",
+      "racer": "RationalGoldApe",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-26 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 1
+    },
+    {
+      "hour": "2026-10-26 22:00:00",
+      "racer": "RationalGoldApe",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793051844183
+  "_syncedAt": 1793053932267
 }
