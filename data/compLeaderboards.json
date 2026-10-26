@@ -187,6 +187,19 @@
       {
         "rank": 15,
         "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Spectral Speedster",
+        "squad": "Active!",
+        "races": 101,
+        "wpm": 42.1,
+        "accuracy": 90.18,
+        "points": 11026,
+        "tier": "C"
+      },
+      {
+        "rank": 16,
+        "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
         "nickname": "Nitro Rich",
@@ -196,19 +209,6 @@
         "accuracy": 93.69,
         "points": 10807,
         "tier": "A"
-      },
-      {
-        "rank": 16,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Spectral Speedster",
-        "squad": "Active!",
-        "races": 93,
-        "wpm": 41.9,
-        "accuracy": 90.4,
-        "points": 10168,
-        "tier": "C"
       },
       {
         "rank": 17,
@@ -342,6 +342,19 @@
       },
       {
         "rank": 27,
+        "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Starter Fund",
+        "races": 48,
+        "wpm": 75.3,
+        "accuracy": 91.96,
+        "points": 6075,
+        "tier": "C"
+      },
+      {
+        "rank": 28,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -352,19 +365,6 @@
         "accuracy": 93.69,
         "points": 6034,
         "tier": "B"
-      },
-      {
-        "rank": 28,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Starter Fund",
-        "races": 44,
-        "wpm": 75.7,
-        "accuracy": 91.94,
-        "points": 5576,
-        "tier": "C"
       },
       {
         "rank": 29,
@@ -407,6 +407,19 @@
       },
       {
         "rank": 32,
+        "tag": "KEYCAT",
+        "username": "Jamusisthebeaver",
+        "displayName": "Jamusisthebeaver",
+        "nickname": "Nitro Drift",
+        "squad": "Novice 300!",
+        "races": 43,
+        "wpm": 47.9,
+        "accuracy": 93.48,
+        "points": 4983,
+        "tier": "B"
+      },
+      {
+        "rank": 33,
         "tag": "THB0S",
         "username": "aiden67676767676767",
         "displayName": "aiden67676767676767",
@@ -419,20 +432,20 @@
         "tier": "C"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "KEYCAT",
-        "username": "Jamusisthebeaver",
-        "displayName": "Jamusisthebeaver",
-        "nickname": "Mystery Man",
-        "squad": "Novice 300!",
-        "races": 40,
-        "wpm": 48,
-        "accuracy": 93.8,
-        "points": 4652,
-        "tier": "B"
+        "username": "Glitter_Girl_18",
+        "displayName": "Glitter_Girl_18",
+        "nickname": "Pro Pacer",
+        "squad": "Starter!!",
+        "races": 41,
+        "wpm": 39.9,
+        "accuracy": 94.95,
+        "points": 4670,
+        "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -443,19 +456,6 @@
         "accuracy": 95.34,
         "points": 4583,
         "tier": "A"
-      },
-      {
-        "rank": 35,
-        "tag": "KEYCAT",
-        "username": "Glitter_Girl_18",
-        "displayName": "Glitter_Girl_18",
-        "nickname": "Pro Pacer",
-        "squad": "Starter!!",
-        "races": 40,
-        "wpm": 39.8,
-        "accuracy": 94.88,
-        "points": 4551,
-        "tier": "C"
       },
       {
         "rank": 36,
@@ -1225,7 +1225,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793053979168
+    "_syncedAt": 1793055606327
   },
   "1437": {
     "eventId": "1437",
@@ -1311,6 +1311,19 @@
       {
         "rank": 7,
         "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Starter Fund",
+        "races": 32,
+        "wpm": 74.6,
+        "accuracy": 91.91,
+        "points": 4039,
+        "tier": "C"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
         "nickname": "Pro Pacer",
@@ -1320,19 +1333,6 @@
         "accuracy": 95.7,
         "points": 4121,
         "tier": "B"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Starter Fund",
-        "races": 28,
-        "wpm": 75.2,
-        "accuracy": 91.86,
-        "points": 3539,
-        "tier": "C"
       },
       {
         "rank": 9,
@@ -1517,6 +1517,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793053974549
+    "_syncedAt": 1793055601206
   }
 }

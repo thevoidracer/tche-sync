@@ -1,6 +1,6 @@
 {
   "tag": "IMT",
-  "name": "Immortal Legends",
+  "name": "Weekly Cash Comps",
   "members": 48,
   "activePercent": 97,
   "createdStamp": 1781128952,
@@ -76,7 +76,7 @@
       "acc": 94.9,
       "season": null,
       "status": "active",
-      "lastLogin": 1793034128
+      "lastLogin": 1793054106
     },
     {
       "username": "470256",
@@ -517,11 +517,11 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 699,
-      "wpm": 68,
+      "allTimeRaces": 700,
+      "wpm": 67,
       "highestWPM": 98,
-      "teamRaces": 46,
-      "acc": 92.49,
+      "teamRaces": 48,
+      "acc": 92.56,
       "season": null,
       "status": "active",
       "lastLogin": 1793053380
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60506,
+      "races": 60508,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 704,
-      "avgWPM": 80,
-      "avgAcc": 93.74,
+      "races": 698,
+      "avgWPM": 81,
+      "avgAcc": 93.75,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793053869188
+  "_syncedAt": 1793055503121
 }
