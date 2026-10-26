@@ -9,10 +9,10 @@
         "displayName": "VOID_REIGN",
         "nickname": "Quicker Than the Fox",
         "squad": "Entrepreneur 500",
-        "races": 300,
-        "wpm": 52.6,
-        "accuracy": 90.99,
-        "points": 34483,
+        "races": 320,
+        "wpm": 52.7,
+        "accuracy": 90.88,
+        "points": 36749,
         "tier": "C"
       },
       {
@@ -61,10 +61,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 142,
+        "races": 145,
         "wpm": 87.9,
-        "accuracy": 95.49,
-        "points": 19519,
+        "accuracy": 95.43,
+        "points": 19919,
         "tier": "A"
       },
       {
@@ -139,10 +139,10 @@
         "displayName": "Srivanth",
         "nickname": "Nitro Rich",
         "squad": "Loyal",
-        "races": 65,
-        "wpm": 88.8,
-        "accuracy": 93.48,
-        "points": 8773,
+        "races": 66,
+        "wpm": 88.9,
+        "accuracy": 93.54,
+        "points": 8919,
         "tier": "B"
       },
       {
@@ -225,6 +225,19 @@
       },
       {
         "rank": 18,
+        "tag": "THB0S",
+        "username": "CrazyTyper",
+        "displayName": "CrazyTyper",
+        "nickname": "Not So Koi",
+        "squad": "Officer",
+        "races": 43,
+        "wpm": 60.1,
+        "accuracy": 93.65,
+        "points": 5236,
+        "tier": "B"
+      },
+      {
+        "rank": 19,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -237,7 +250,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -248,19 +261,6 @@
         "accuracy": 89.72,
         "points": 4538,
         "tier": "C"
-      },
-      {
-        "rank": 20,
-        "tag": "THB0S",
-        "username": "CrazyTyper",
-        "displayName": "CrazyTyper",
-        "nickname": "Not So Koi",
-        "squad": "Officer",
-        "races": 33,
-        "wpm": 59.8,
-        "accuracy": 93.14,
-        "points": 3993,
-        "tier": "B"
       },
       {
         "rank": 21,
@@ -601,6 +601,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792978756583
+    "_syncedAt": 1792981115699
   }
 }
