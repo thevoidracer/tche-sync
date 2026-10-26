@@ -600,7 +600,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792987534483
+    "_syncedAt": 1792989719733
   },
   "SVC": {
     "tag": "SVC",
@@ -1170,7 +1170,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792987561524
+    "_syncedAt": 1792989745544
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792987640464
+    "_syncedAt": 1792989824704
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1650,14 +1650,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1591,
-        "wpm": 102,
+        "allTimeRaces": 1607,
+        "wpm": 103,
         "highestWPM": 121,
-        "teamRaces": 1140,
-        "acc": 96.27,
+        "teamRaces": 1156,
+        "acc": 96.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1792962577
+        "lastLogin": 1792988758
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1748,14 +1748,14 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5900,
+        "allTimeRaces": 5901,
         "wpm": 82,
         "highestWPM": 109,
-        "teamRaces": 293,
-        "acc": 94.98,
+        "teamRaces": 294,
+        "acc": 94.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1792978332
+        "lastLogin": 1792989019
       },
       {
         "username": "nev444ehh",
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122964,
+        "races": 122981,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 45
       },
       "daily": {
-        "races": 503,
-        "avgWPM": 77,
-        "avgAcc": 95.38,
+        "races": 509,
+        "avgWPM": 78,
+        "avgAcc": 95.44,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792987809637
+    "_syncedAt": 1792989994300
   }
 }
