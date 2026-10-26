@@ -600,7 +600,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793011662435
+    "_syncedAt": 1793014231275
   },
   "SVC": {
     "tag": "SVC",
@@ -1170,7 +1170,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793011681198
+    "_syncedAt": 1793014250583
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1194,7 +1194,7 @@
         "acc": 98.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1792969671
+        "lastLogin": 1793013010
       },
       {
         "username": "king_cheeseman",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793011760282
+    "_syncedAt": 1793014329824
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1636,14 +1636,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14324,
-        "wpm": 80,
+        "allTimeRaces": 14334,
+        "wpm": 65,
         "highestWPM": 100,
-        "teamRaces": 1035,
+        "teamRaces": 1045,
         "acc": 95.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1792886166
+        "lastLogin": 1793012578
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1664,11 +1664,11 @@
         "displayName": "Spy on teams",
         "role": "member",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3662,
+        "allTimeRaces": 3681,
         "wpm": 41,
         "highestWPM": 60,
-        "teamRaces": 2123,
-        "acc": 92.05,
+        "teamRaces": 2143,
+        "acc": 92.06,
         "season": null,
         "status": "active",
         "lastLogin": 1793011840
@@ -1886,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123007,
+        "races": 123037,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 45
       },
       "daily": {
-        "races": 500,
-        "avgWPM": 78,
-        "avgAcc": 95.33,
+        "races": 530,
+        "avgWPM": 76,
+        "avgAcc": 95.3,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793011929876
+    "_syncedAt": 1793014499493
   }
 }

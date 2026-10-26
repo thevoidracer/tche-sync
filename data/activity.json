@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-25 10:00:00",
-      "racer": "rorok09",
-      "races": 25
-    },
-    {
       "hour": "2026-10-25 11:00:00",
       "racer": "rorok09",
-      "races": 65
+      "races": 38
     },
     {
       "hour": "2026-10-25 13:00:00",
@@ -122,12 +117,12 @@
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "Nitrex",
+      "racer": "RonaldoSuiii777",
       "races": 1
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "RonaldoSuiii777",
+      "racer": "Nitrex",
       "races": 1
     },
     {
@@ -207,5 +202,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793011621015
+  "_syncedAt": 1793014190067
 }

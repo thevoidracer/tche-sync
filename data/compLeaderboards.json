@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "GetGooder",
+        "displayName": "GetGooder",
+        "nickname": "Taco Lover",
+        "squad": "Active!",
+        "races": 65,
+        "wpm": 77.1,
+        "accuracy": 95.47,
+        "points": 8598,
+        "tier": "B"
+      },
+      {
+        "rank": 13,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -172,7 +185,20 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
+        "tag": "THB0S",
+        "username": "Spy on teams",
+        "displayName": "Spy on teams",
+        "nickname": "Epic Nitro User",
+        "squad": "Active!",
+        "races": 73,
+        "wpm": 41.4,
+        "accuracy": 91.27,
+        "points": 8041,
+        "tier": "C"
+      },
+      {
+        "rank": 16,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -183,32 +209,6 @@
         "accuracy": 92.6,
         "points": 8011,
         "tier": "A"
-      },
-      {
-        "rank": 15,
-        "tag": "THB0S",
-        "username": "GetGooder",
-        "displayName": "GetGooder",
-        "nickname": "Taco Lover",
-        "squad": "Active!",
-        "races": 56,
-        "wpm": 79.2,
-        "accuracy": 95.44,
-        "points": 7460,
-        "tier": "B"
-      },
-      {
-        "rank": 16,
-        "tag": "THB0S",
-        "username": "Spy on teams",
-        "displayName": "Spy on teams",
-        "nickname": "Epic Nitro User",
-        "squad": "Active!",
-        "races": 53,
-        "wpm": 41.7,
-        "accuracy": 90.66,
-        "points": 5807,
-        "tier": "C"
       },
       {
         "rank": 17,
@@ -614,6 +614,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1793011662299
+    "_syncedAt": 1793014231104
   }
 }
