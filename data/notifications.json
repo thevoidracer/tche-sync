@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "key": "tour-loss:57:Match 2322",
+      "type": "tournament-loss",
+      "text": "Unknown was eliminated in the Sweet 16 * of IMT Ally Celebration Tournament.",
+      "meta": {
+        "matchId": "Match 2322",
+        "username": "Unknown",
+        "tournamentId": "57"
+      },
+      "createdAt": 1793031627124
+    },
+    {
+      "key": "tour-loss:57:Match 2323",
+      "type": "tournament-loss",
+      "text": "WindMaker was eliminated in the Sweet 16 * of IMT Ally Celebration Tournament.",
+      "meta": {
+        "matchId": "Match 2323",
+        "username": "WindMaker",
+        "tournamentId": "57"
+      },
+      "createdAt": 1793031627124
+    },
+    {
       "key": "new-member:c3b559e21447f9028631f1bbb7e9ab04",
       "type": "new-member",
       "text": "Jhungi joined the team.",
@@ -472,5 +494,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793028459811
+  "_syncedAt": 1793031627124
 }

@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793028442523
+        "_syncedAt": 1793031609758
       }
     },
     {
@@ -2550,7 +2550,7 @@
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 4420
+                  "score": 6344
                 }
               ],
               "winner": 0
@@ -2660,10 +2660,10 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 2637
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2323",
@@ -2682,10 +2682,10 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 1308
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2324",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793028459802
+        "_syncedAt": 1793031627116
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793028459808
+  "_syncedAt": 1793031627121
 }
