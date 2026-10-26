@@ -421,6 +421,19 @@
       {
         "rank": 33,
         "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Active!",
+        "races": 20,
+        "wpm": 26.3,
+        "accuracy": 85.28,
+        "points": 1930,
+        "tier": "C"
+      },
+      {
+        "rank": 34,
+        "tag": "THB0S",
         "username": "Lachlan676767676767",
         "displayName": "Lachlan676767676767",
         "nickname": "Epic Nitro User",
@@ -432,7 +445,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "THB0S",
         "username": "ticklemonsterr",
         "displayName": "ticklemonsterr",
@@ -445,7 +458,7 @@
         "tier": "B"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "THB0S",
         "username": "NitroLegends",
         "displayName": "NitroLegends",
@@ -458,7 +471,7 @@
         "tier": "C"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "THB0S",
         "username": "FireworkLauncher",
         "displayName": "FireworkLauncher",
@@ -471,7 +484,7 @@
         "tier": "B"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -482,19 +495,6 @@
         "accuracy": 96.87,
         "points": 1531,
         "tier": "B"
-      },
-      {
-        "rank": 38,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Active!",
-        "races": 14,
-        "wpm": 29.1,
-        "accuracy": 82.63,
-        "points": 1325,
-        "tier": "C"
       },
       {
         "rank": 39,
@@ -614,6 +614,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1793003015573
+    "_syncedAt": 1793004774567
   }
 }
