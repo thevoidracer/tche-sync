@@ -69,11 +69,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 5039,
-      "wpm": 95,
+      "allTimeRaces": 5060,
+      "wpm": 96,
       "highestWPM": 115,
-      "teamRaces": 857,
-      "acc": 94.91,
+      "teamRaces": 880,
+      "acc": 94.92,
       "season": null,
       "status": "active",
       "lastLogin": 1793034128
@@ -191,20 +191,6 @@
       "lastLogin": 1793017318
     },
     {
-      "username": "6f89f1bde5b8c5cc3b94c3286fb614dc",
-      "displayName": "Shane and Eury",
-      "role": "member",
-      "joinStamp": 1791484464,
-      "allTimeRaces": 1355,
-      "wpm": 84,
-      "highestWPM": 103,
-      "teamRaces": 25,
-      "acc": 92.74,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792507340
-    },
-    {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "role": "member",
@@ -251,11 +237,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6777,
-      "wpm": 79,
+      "allTimeRaces": 6800,
+      "wpm": 80,
       "highestWPM": 102,
-      "teamRaces": 744,
-      "acc": 93.57,
+      "teamRaces": 775,
+      "acc": 93.56,
       "season": null,
       "status": "active",
       "lastLogin": 1793032972
@@ -377,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1508,
-      "wpm": 92,
+      "allTimeRaces": 1520,
+      "wpm": 97,
       "highestWPM": 119,
-      "teamRaces": 1161,
+      "teamRaces": 1173,
       "acc": 94.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1793023664
+      "lastLogin": 1793035360
     },
     {
       "username": "imenishat",
@@ -468,7 +454,7 @@
       "acc": 92.9,
       "season": null,
       "status": "active",
-      "lastLogin": 1793026953
+      "lastLogin": 1793035085
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -489,10 +475,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5277,
+      "allTimeRaces": 5278,
       "wpm": 92,
       "highestWPM": 127,
-      "teamRaces": 2852,
+      "teamRaces": 2853,
       "acc": 92.66,
       "season": null,
       "status": "active",
@@ -517,14 +503,14 @@
       "displayName": "Noah0821",
       "role": "member",
       "joinStamp": 1790624292,
-      "allTimeRaces": 736,
-      "wpm": 62,
+      "allTimeRaces": 746,
+      "wpm": 57,
       "highestWPM": 109,
-      "teamRaces": 176,
-      "acc": 94.55,
+      "teamRaces": 186,
+      "acc": 94.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1792689235
+      "lastLogin": 1793034992
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -566,7 +552,7 @@
       "acc": 96.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1793029788
+      "lastLogin": 1793035403
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -595,6 +581,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1792773903
+    },
+    {
+      "username": "220c8a080156dd343f8e79451ff336d8",
+      "displayName": "izersss",
+      "role": "member",
+      "joinStamp": 1793034609,
+      "allTimeRaces": 1618,
+      "wpm": 62,
+      "highestWPM": 76,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1793032524
     },
     {
       "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60329,
+      "races": 60406,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 49
     },
     "daily": {
-      "races": 883,
+      "races": 960,
       "avgWPM": 76,
-      "avgAcc": 93.13,
+      "avgAcc": 93.23,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793034453152
+  "_syncedAt": 1793036580425
 }

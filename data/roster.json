@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 89,
-    "tierB": 80,
+    "tierA": 90,
+    "tierB": 82,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -17,8 +17,8 @@
       "tier": "A",
       "avgWPM": 92,
       "topWPM": 127,
-      "lifetimeRaces": 5277,
-      "teamRaces": 2852,
+      "lifetimeRaces": 5278,
+      "teamRaces": 2853,
       "joined": "06/10/26"
     },
     {
@@ -92,7 +92,7 @@
       "nickname": "I Have Fans!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 125,
       "lifetimeRaces": 4443,
@@ -106,10 +106,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 97,
       "topWPM": 119,
-      "lifetimeRaces": 1508,
-      "teamRaces": 1161,
+      "lifetimeRaces": 1520,
+      "teamRaces": 1169,
       "joined": "08/31/26"
     },
     {
@@ -118,7 +118,7 @@
       "nickname": "The Caped Crusader",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 102,
       "lifetimeRaces": 2723,
@@ -223,10 +223,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 62,
+      "avgWPM": 57,
       "topWPM": 109,
-      "lifetimeRaces": 736,
-      "teamRaces": 176,
+      "lifetimeRaces": 746,
+      "teamRaces": 186,
       "joined": "09/28/26"
     },
     {
@@ -274,7 +274,7 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 104,
       "lifetimeRaces": 1465,
@@ -288,10 +288,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 96,
       "topWPM": 115,
-      "lifetimeRaces": 5037,
-      "teamRaces": 857,
+      "lifetimeRaces": 5060,
+      "teamRaces": 878,
       "joined": "10/06/26"
     },
     {
@@ -332,19 +332,6 @@
       "lifetimeRaces": 20616,
       "teamRaces": 264,
       "joined": "10/07/26"
-    },
-    {
-      "username": "6f89f1bde5b8c5cc3b94c3286fb614dc",
-      "displayName": "Shane and Eury",
-      "nickname": ":D",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 84,
-      "topWPM": 103,
-      "lifetimeRaces": 1355,
-      "teamRaces": 25,
-      "joined": "10/08/26"
     },
     {
       "username": "crxy99",
@@ -404,11 +391,11 @@
       "nickname": "Quicker Than the Fox",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 102,
-      "lifetimeRaces": 6775,
-      "teamRaces": 744,
+      "lifetimeRaces": 6800,
+      "teamRaces": 775,
       "joined": "10/15/26"
     },
     {
@@ -625,7 +612,7 @@
       "nickname": "Sp00ked",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 98,
       "lifetimeRaces": 690,
@@ -638,14 +625,27 @@
       "nickname": "Novice Navigator",
       "role": "member",
       "squad": null,
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 100,
       "lifetimeRaces": 1601,
       "teamRaces": 4,
       "joined": "10/26/26"
+    },
+    {
+      "username": "220c8a080156dd343f8e79451ff336d8",
+      "displayName": "izersss",
+      "nickname": "Yo",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 62,
+      "topWPM": 76,
+      "lifetimeRaces": 1618,
+      "teamRaces": 0,
+      "joined": "10/26/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793034508145
+  "_syncedAt": 1793036635799
 }

@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:220c8a080156dd343f8e79451ff336d8",
+      "type": "new-member",
+      "text": "izersss joined the team.",
+      "meta": {
+        "username": "220c8a080156dd343f8e79451ff336d8"
+      },
+      "createdAt": 1793036673801
+    },
+    {
       "key": "tour-loss:57:Match 2322",
       "type": "tournament-loss",
       "text": "Unknown was eliminated in the Sweet 16 * of IMT Ally Celebration Tournament.",
@@ -494,5 +503,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793034545512
+  "_syncedAt": 1793036673801
 }
