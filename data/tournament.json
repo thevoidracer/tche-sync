@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793006959412
+        "_syncedAt": 1793010230484
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Natuski",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1698,7 +1698,7 @@
                 },
                 {
                   "seed": "52",
-                  "racer": "Not_Ime",
+                  "racer": "IMIME_IMIME",
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
@@ -1786,7 +1786,7 @@
                 },
                 {
                   "seed": "53",
-                  "racer": "RALSEI",
+                  "racer": "weak kingsley",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2210,7 +2210,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Natuski",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2546,7 +2546,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Natuski",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793006975673
+        "_syncedAt": 1793010247975
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793006975675
+  "_syncedAt": 1793010247976
 }
