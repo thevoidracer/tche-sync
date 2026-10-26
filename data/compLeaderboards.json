@@ -61,11 +61,11 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 145,
-        "wpm": 87.9,
-        "accuracy": 95.43,
-        "points": 19919,
-        "tier": "A"
+        "races": 150,
+        "wpm": 87.7,
+        "accuracy": 95.32,
+        "points": 20572,
+        "tier": "B"
       },
       {
         "rank": 6,
@@ -238,6 +238,19 @@
       },
       {
         "rank": 19,
+        "tag": "THB0S",
+        "username": "aiden67676767676767",
+        "displayName": "aiden67676767676767",
+        "nickname": "I Hate Words",
+        "squad": "Newbies!",
+        "races": 45,
+        "wpm": 45.8,
+        "accuracy": 89.19,
+        "points": 4933,
+        "tier": "C"
+      },
+      {
+        "rank": 20,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -250,7 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -263,7 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -276,7 +289,7 @@
         "tier": "C"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -289,7 +302,7 @@
         "tier": "B"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "THB0S",
         "username": "Hot Chocolate",
         "displayName": "Hot Chocolate",
@@ -302,7 +315,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "THB0S",
         "username": "-Rocky-",
         "displayName": "-Rocky-",
@@ -315,7 +328,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -328,7 +341,7 @@
         "tier": "A"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
@@ -341,7 +354,7 @@
         "tier": "A"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "THB0S",
         "username": "getcooked_2",
         "displayName": "getcooked_2",
@@ -352,19 +365,6 @@
         "accuracy": 95.86,
         "points": 2608,
         "tier": "A"
-      },
-      {
-        "rank": 28,
-        "tag": "THB0S",
-        "username": "aiden67676767676767",
-        "displayName": "aiden67676767676767",
-        "nickname": "I Hate Words",
-        "squad": "Newbies!",
-        "races": 24,
-        "wpm": 44.8,
-        "accuracy": 88.43,
-        "points": 2598,
-        "tier": "C"
       },
       {
         "rank": 29,
@@ -601,6 +601,6 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1792981115699
+    "_syncedAt": 1792983710287
   }
 }
