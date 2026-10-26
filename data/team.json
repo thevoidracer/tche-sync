@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1528,
+      "allTimeRaces": 1532,
       "wpm": 92,
       "highestWPM": 119,
-      "teamRaces": 1181,
-      "acc": 94.38,
+      "teamRaces": 1185,
+      "acc": 94.37,
       "season": null,
       "status": "active",
-      "lastLogin": 1793044623
+      "lastLogin": 1793047531
     },
     {
       "username": "imenishat",
@@ -475,10 +475,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5280,
-      "wpm": 91,
+      "allTimeRaces": 5287,
+      "wpm": 88,
       "highestWPM": 127,
-      "teamRaces": 2853,
+      "teamRaces": 2862,
       "acc": 92.66,
       "season": null,
       "status": "active",
@@ -671,31 +671,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 390,
-      "wpm": 93,
+      "allTimeRaces": 391,
+      "wpm": 91,
       "highestWPM": 111,
       "teamRaces": 147,
       "acc": 91.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1793013079
+      "lastLogin": 1793047915
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 60474,
+      "races": 60487,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 877,
+      "races": 857,
       "avgWPM": 78,
-      "avgAcc": 93.44,
+      "avgAcc": 93.46,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793045889841
+  "_syncedAt": 1793048337030
 }
