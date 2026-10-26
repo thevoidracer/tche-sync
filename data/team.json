@@ -489,14 +489,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5201,
+      "allTimeRaces": 5202,
       "wpm": 88,
       "highestWPM": 127,
       "teamRaces": 2776,
       "acc": 92.64,
       "season": null,
       "status": "active",
-      "lastLogin": 1792969942
+      "lastLogin": 1792975768
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -545,11 +545,11 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1072,
-      "wpm": 50,
+      "allTimeRaces": 1101,
+      "wpm": 56,
       "highestWPM": 108,
-      "teamRaces": 824,
-      "acc": 91.96,
+      "teamRaces": 853,
+      "acc": 91.97,
       "season": null,
       "status": "active",
       "lastLogin": 1792962705
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 59823,
+      "races": 59852,
       "avgWPM": 76,
-      "avgAcc": 94.99,
+      "avgAcc": 94.98,
       "members": 49
     },
     "daily": {
-      "races": 768,
+      "races": 792,
       "avgWPM": 76,
-      "avgAcc": 93.64,
+      "avgAcc": 93.59,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1792972908906
+  "_syncedAt": 1792976374365
 }

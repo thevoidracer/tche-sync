@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-25 00:00:00",
-      "racer": "Void Racer",
-      "races": 11
-    },
-    {
       "hour": "2026-10-25 01:00:00",
       "racer": "Void Racer",
       "races": 29
@@ -234,8 +229,13 @@
       "hour": "2026-10-25 23:00:00",
       "racer": "Bobby Junior",
       "races": 1
+    },
+    {
+      "hour": "2026-10-26 00:00:00",
+      "racer": "VOID_REIGN",
+      "races": 29
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1792972965285
+  "_syncedAt": 1792976430680
 }
