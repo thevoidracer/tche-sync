@@ -84,11 +84,11 @@
         "displayName": "Jamusisthebeaver",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 671,
-        "wpm": 50,
+        "allTimeRaces": 681,
+        "wpm": 51,
         "highestWPM": 105,
-        "teamRaces": 366,
-        "acc": 93.21,
+        "teamRaces": 376,
+        "acc": 93.17,
         "season": null,
         "status": "active",
         "lastLogin": 1793054770
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79575,
+        "races": 79585,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 420,
-        "avgWPM": 64,
-        "avgAcc": 93.22,
+        "races": 430,
+        "avgWPM": 63,
+        "avgAcc": 93.2,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793055606568
+    "_syncedAt": 1793056932949
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793055630469
+    "_syncedAt": 1793056952044
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793055649506
+    "_syncedAt": 1793056970906
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1398,11 +1398,11 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1674,
-        "wpm": 62,
+        "allTimeRaces": 1690,
+        "wpm": 63,
         "highestWPM": 87,
-        "teamRaces": 1365,
-        "acc": 93.73,
+        "teamRaces": 1380,
+        "acc": 93.74,
         "season": null,
         "status": "active",
         "lastLogin": 1793055563
@@ -1867,7 +1867,7 @@
         "acc": 91.84,
         "season": null,
         "status": "active",
-        "lastLogin": 1792976547
+        "lastLogin": 1793056473
       },
       {
         "username": "500big",
@@ -1888,14 +1888,14 @@
         "displayName": "aiden67676767676767",
         "role": "member",
         "joinStamp": 1792918377,
-        "allTimeRaces": 471,
-        "wpm": 47,
-        "highestWPM": 55,
-        "teamRaces": 45,
-        "acc": 90.24,
+        "allTimeRaces": 476,
+        "wpm": 50,
+        "highestWPM": 58,
+        "teamRaces": 47,
+        "acc": 90.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1792980506
+        "lastLogin": 1793056683
       },
       {
         "username": "malott12",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123551,
+        "races": 123568,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 47
       },
       "daily": {
-        "races": 818,
+        "races": 829,
         "avgWPM": 76,
-        "avgAcc": 94.63,
+        "avgAcc": 94.62,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793055819321
+    "_syncedAt": 1793057140300
   }
 }

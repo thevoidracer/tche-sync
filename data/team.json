@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Tracker✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2125,
+  "profileViews": 2126,
   "leagueTier": 12,
   "racers": [
     {
@@ -69,11 +69,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 5064,
-      "wpm": 95,
+      "allTimeRaces": 5077,
+      "wpm": 96,
       "highestWPM": 115,
-      "teamRaces": 884,
-      "acc": 94.9,
+      "teamRaces": 896,
+      "acc": 94.91,
       "season": null,
       "status": "active",
       "lastLogin": 1793054106
@@ -405,14 +405,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1627,
-      "wpm": 88,
+      "allTimeRaces": 1637,
+      "wpm": 94,
       "highestWPM": 122,
-      "teamRaces": 94,
-      "acc": 91.04,
+      "teamRaces": 104,
+      "acc": 91.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1793025675
+      "lastLogin": 1793056107
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60508,
+      "races": 60530,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 698,
+      "races": 712,
       "avgWPM": 81,
       "avgAcc": 93.75,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793055503121
+  "_syncedAt": 1793056831599
 }
