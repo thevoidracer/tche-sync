@@ -56,11 +56,11 @@
         "displayName": "Leo Torres",
         "role": "member",
         "joinStamp": 1793047425,
-        "allTimeRaces": 883,
-        "wpm": 65,
+        "allTimeRaces": 892,
+        "wpm": 58,
         "highestWPM": 76,
-        "teamRaces": 4,
-        "acc": 91.89,
+        "teamRaces": 6,
+        "acc": 90.61,
         "season": null,
         "status": "active",
         "lastLogin": 1793049808
@@ -84,14 +84,14 @@
         "displayName": "Jamusisthebeaver",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 660,
-        "wpm": 49,
+        "allTimeRaces": 661,
+        "wpm": 50,
         "highestWPM": 105,
-        "teamRaces": 355,
-        "acc": 93.24,
+        "teamRaces": 356,
+        "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793036662
+        "lastLogin": 1793051171
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -353,8 +353,8 @@
         "allTimeRaces": 1474,
         "wpm": 49,
         "highestWPM": 65,
-        "teamRaces": 161,
-        "acc": 92.89,
+        "teamRaces": 163,
+        "acc": 92.95,
         "season": null,
         "status": "active",
         "lastLogin": 1793048235
@@ -392,14 +392,14 @@
         "displayName": "Glitter_Girl_18",
         "role": "member",
         "joinStamp": 1792614323,
-        "allTimeRaces": 345,
-        "wpm": 40,
+        "allTimeRaces": 351,
+        "wpm": 43,
         "highestWPM": 51,
-        "teamRaces": 58,
-        "acc": 95.75,
+        "teamRaces": 64,
+        "acc": 95.89,
         "season": null,
         "status": "active",
-        "lastLogin": 1793047832
+        "lastLogin": 1793050379
       },
       {
         "username": "quickbrownpony",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79536,
+        "races": 79547,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 440,
+        "races": 442,
         "avgWPM": 62,
-        "avgAcc": 93.46,
+        "avgAcc": 93.52,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793049972284
+    "_syncedAt": 1793051888176
   },
   "SVC": {
     "tag": "SVC",
@@ -1037,14 +1037,14 @@
         "displayName": "viperr",
         "role": "member",
         "joinStamp": 1789829356,
-        "allTimeRaces": 3382,
-        "wpm": 81,
+        "allTimeRaces": 3385,
+        "wpm": 78,
         "highestWPM": 101,
-        "teamRaces": 105,
-        "acc": 91.83,
+        "teamRaces": 108,
+        "acc": 91.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1792791826
+        "lastLogin": 1793050307
       },
       {
         "username": "naussica",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40937,
+        "races": 40940,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 39
       },
       "daily": {
-        "races": 226,
+        "races": 229,
         "avgWPM": 83,
-        "avgAcc": 94.46,
+        "avgAcc": 94.44,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793049993031
+    "_syncedAt": 1793051907045
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1265,16 +1265,11 @@
         "avgAcc": 97.91,
         "members": 3
       },
-      "daily": {
-        "races": 41,
-        "avgWPM": 72,
-        "avgAcc": 98.8,
-        "members": 3
-      },
+      "daily": null,
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793050011973
+    "_syncedAt": 1793051925823
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1283,7 +1278,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4502,
+    "profileViews": 4503,
     "leagueTier": 12,
     "racers": [
       {
@@ -1953,14 +1948,14 @@
         "members": 47
       },
       "daily": {
-        "races": 824,
+        "races": 819,
         "avgWPM": 76,
-        "avgAcc": 94.71,
+        "avgAcc": 94.7,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793050181554
+    "_syncedAt": 1793052095365
   }
 }

@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Tracker✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2123,
+  "profileViews": 2124,
   "leagueTier": 12,
   "racers": [
     {
@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 781,
-      "wpm": 62,
+      "allTimeRaces": 793,
+      "wpm": 67,
       "highestWPM": 84,
-      "teamRaces": 280,
-      "acc": 94.57,
+      "teamRaces": 292,
+      "acc": 94.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1793029867
+      "lastLogin": 1793050082
     },
     {
       "username": "c3b559e21447f9028631f1bbb7e9ab04",
@@ -552,7 +552,7 @@
       "acc": 96.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1793042443
+      "lastLogin": 1793051660
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60488,
+      "races": 60500,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 806,
-      "avgWPM": 78,
-      "avgAcc": 93.51,
+      "races": 751,
+      "avgWPM": 79,
+      "avgAcc": 93.61,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793049869784
+  "_syncedAt": 1793051790946
 }
