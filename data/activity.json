@@ -11,11 +11,6 @@
       "races": 3
     },
     {
-      "hour": "2026-10-25 18:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 0
-    },
-    {
       "hour": "2026-10-25 19:00:00",
       "racer": "VOID_REIGN",
       "races": 45
@@ -172,12 +167,12 @@
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "- 9te -",
+      "racer": "disgratedboy191",
       "races": 7
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "disgratedboy191",
+      "racer": "- 9te -",
       "races": 7
     },
     {
@@ -323,7 +318,12 @@
     {
       "hour": "2026-10-26 17:00:00",
       "racer": "insta _trewatkins",
-      "races": 21
+      "races": 27
+    },
+    {
+      "hour": "2026-10-26 17:00:00",
+      "racer": "Namedisplayed",
+      "races": 12
     },
     {
       "hour": "2026-10-26 17:00:00",
@@ -332,8 +332,13 @@
     },
     {
       "hour": "2026-10-26 17:00:00",
-      "racer": "Namedisplayed",
-      "races": 8
+      "racer": "SKZ FIRAH",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-26 17:00:00",
+      "racer": "RationalGoldApe",
+      "races": 3
     },
     {
       "hour": "2026-10-26 17:00:00",
@@ -347,5 +352,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793036635801
+  "_syncedAt": 1793038693395
 }
