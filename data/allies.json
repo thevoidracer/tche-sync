@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 42,
+    "members": 41,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -64,20 +64,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792966550
-      },
-      {
-        "username": "8b752d6e29182fdb8861d032e7780a60",
-        "displayName": "TheDoctor225181",
-        "role": "officer",
-        "joinStamp": 1784274178,
-        "allTimeRaces": 4021,
-        "wpm": 81,
-        "highestWPM": 97,
-        "teamRaces": 3220,
-        "acc": 95.48,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792728269
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -603,18 +589,18 @@
         "races": 79155,
         "avgWPM": 55,
         "avgAcc": 93.53,
-        "members": 42
+        "members": 41
       },
       "daily": {
-        "races": 205,
+        "races": 196,
         "avgWPM": 58,
-        "avgAcc": 91.92,
-        "members": 42
+        "avgAcc": 91.99,
+        "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792983710443
+    "_syncedAt": 1792985373759
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1170,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792983729329
+    "_syncedAt": 1792985392885
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792983808307
+    "_syncedAt": 1792985478607
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1354,7 +1340,7 @@
       {
         "username": "strive_rip",
         "displayName": "Calypso",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1792891343,
         "allTimeRaces": 159140,
         "wpm": 95,
@@ -1692,10 +1678,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18923,
+        "allTimeRaces": 18930,
         "wpm": 87,
         "highestWPM": 123,
-        "teamRaces": 18460,
+        "teamRaces": 18470,
         "acc": 93.98,
         "season": null,
         "status": "active",
@@ -1900,20 +1886,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 122954,
+        "races": 122964,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 45
       },
       "daily": {
-        "races": 530,
+        "races": 514,
         "avgWPM": 78,
-        "avgAcc": 95.45,
+        "avgAcc": 95.4,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1792983977606
+    "_syncedAt": 1792985648440
   }
 }
