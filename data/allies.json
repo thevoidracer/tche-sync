@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793056932949
+    "_syncedAt": 1793058865806
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793056952044
+    "_syncedAt": 1793058884674
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793056970906
+    "_syncedAt": 1793058903531
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4505,
+    "profileViews": 4506,
     "leagueTier": 12,
     "racers": [
       {
@@ -1398,11 +1398,11 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1690,
-        "wpm": 63,
+        "allTimeRaces": 1691,
+        "wpm": 59,
         "highestWPM": 87,
-        "teamRaces": 1380,
-        "acc": 93.74,
+        "teamRaces": 1385,
+        "acc": 93.75,
         "season": null,
         "status": "active",
         "lastLogin": 1793055563
@@ -1482,14 +1482,14 @@
         "displayName": "ticklemonsterr",
         "role": "member",
         "joinStamp": 1792790899,
-        "allTimeRaces": 2977,
-        "wpm": 84,
+        "allTimeRaces": 2983,
+        "wpm": 82,
         "highestWPM": 101,
-        "teamRaces": 12,
-        "acc": 92.83,
+        "teamRaces": 15,
+        "acc": 92.84,
         "season": null,
         "status": "active",
-        "lastLogin": 1792882315
+        "lastLogin": 1793057917
       },
       {
         "username": "baglepet000",
@@ -1727,7 +1727,7 @@
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793049734
+        "lastLogin": 1793058331
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1888,11 +1888,11 @@
         "displayName": "aiden67676767676767",
         "role": "member",
         "joinStamp": 1792918377,
-        "allTimeRaces": 476,
-        "wpm": 50,
+        "allTimeRaces": 486,
+        "wpm": 46,
         "highestWPM": 58,
-        "teamRaces": 47,
-        "acc": 90.32,
+        "teamRaces": 57,
+        "acc": 89.97,
         "season": null,
         "status": "active",
         "lastLogin": 1793056683
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123568,
+        "races": 123586,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 47
       },
       "daily": {
-        "races": 829,
-        "avgWPM": 76,
-        "avgAcc": 94.62,
+        "races": 840,
+        "avgWPM": 75,
+        "avgAcc": 94.58,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793057140300
+    "_syncedAt": 1793059073090
   }
 }

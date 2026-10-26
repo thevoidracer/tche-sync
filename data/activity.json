@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-25 23:00:00",
-      "racer": "Void Racer",
-      "races": 4
-    },
-    {
-      "hour": "2026-10-25 23:00:00",
-      "racer": "Bobby Junior",
-      "races": 1
-    },
-    {
       "hour": "2026-10-26 00:00:00",
       "racer": "VOID_REIGN",
       "races": 29
@@ -77,12 +67,12 @@
     },
     {
       "hour": "2026-10-26 13:00:00",
-      "racer": "kdjkldglkdghklfghfkg",
+      "racer": "VOID_REIGN",
       "races": 13
     },
     {
       "hour": "2026-10-26 13:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "kdjkldglkdghklfghfkg",
       "races": 13
     },
     {
@@ -297,15 +287,15 @@
     },
     {
       "hour": "2026-10-26 23:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
+      "racer": "insta _trewatkins",
+      "races": 33
     },
     {
       "hour": "2026-10-26 23:00:00",
-      "racer": "insta _trewatkins",
-      "races": 1
+      "racer": "UJAADDAH",
+      "races": 13
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793056888823
+  "_syncedAt": 1793058819452
 }
