@@ -15,9 +15,9 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 91,
       "topWPM": 127,
-      "lifetimeRaces": 5278,
+      "lifetimeRaces": 5280,
       "teamRaces": 2853,
       "joined": "06/10/26"
     },
@@ -106,10 +106,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 97,
+      "avgWPM": 92,
       "topWPM": 119,
-      "lifetimeRaces": 1520,
-      "teamRaces": 1173,
+      "lifetimeRaces": 1528,
+      "teamRaces": 1181,
       "joined": "08/31/26"
     },
     {
@@ -469,11 +469,11 @@
       "nickname": "Pro Pacer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 93,
+      "tier": "B",
+      "avgWPM": 83,
       "topWPM": 109,
-      "lifetimeRaces": 1232,
-      "teamRaces": 42,
+      "lifetimeRaces": 1250,
+      "teamRaces": 65,
       "joined": "10/21/26"
     },
     {
@@ -611,7 +611,7 @@
       "displayName": "Jhungi",
       "nickname": "Novice Navigator",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "B",
       "avgWPM": 89,
       "topWPM": 100,
@@ -624,7 +624,7 @@
       "displayName": "izersss",
       "nickname": "Yo",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 62,
       "topWPM": 76,
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793044116006
+  "_syncedAt": 1793045943116
 }

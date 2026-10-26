@@ -4,8 +4,8 @@
   "members": 48,
   "activePercent": 97,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Website✨Tournament NOW!✨CASH to active racers!!!",
-  "profileViews": 2120,
+  "otherInfo": "꧁IMT꧂✨2 Tournaments Won✨15 races/join✨100 races/week✨31mil NTC given✨Website: https://tinyurl.com/IMT-Tracker✨Tournament NOW!✨CASH to active racers!!!",
+  "profileViews": 2121,
   "leagueTier": 12,
   "racers": [
     {
@@ -195,11 +195,11 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1234,
-      "wpm": 94,
+      "allTimeRaces": 1250,
+      "wpm": 83,
       "highestWPM": 109,
-      "teamRaces": 42,
-      "acc": 96.34,
+      "teamRaces": 65,
+      "acc": 96.27,
       "season": null,
       "status": "active",
       "lastLogin": 1793043122
@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1520,
-      "wpm": 97,
+      "allTimeRaces": 1528,
+      "wpm": 92,
       "highestWPM": 119,
-      "teamRaces": 1173,
-      "acc": 94.39,
+      "teamRaces": 1181,
+      "acc": 94.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1793035360
+      "lastLogin": 1793044623
     },
     {
       "username": "imenishat",
@@ -468,21 +468,21 @@
       "acc": 96.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1792698951
+      "lastLogin": 1793045061
     },
     {
       "username": "taylorja32",
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5278,
-      "wpm": 92,
+      "allTimeRaces": 5280,
+      "wpm": 91,
       "highestWPM": 127,
       "teamRaces": 2853,
       "acc": 92.66,
       "season": null,
       "status": "active",
-      "lastLogin": 1793034402
+      "lastLogin": 1793045463
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60443,
+      "races": 60474,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 938,
-      "avgWPM": 77,
-      "avgAcc": 93.36,
+      "races": 877,
+      "avgWPM": 78,
+      "avgAcc": 93.44,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793044061990
+  "_syncedAt": 1793045889841
 }

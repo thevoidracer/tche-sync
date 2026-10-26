@@ -1,39 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-10-25 19:00:00",
-      "racer": "VOID_REIGN",
-      "races": 26
-    },
-    {
-      "hour": "2026-10-25 19:00:00",
-      "racer": "RonaldoSuiii777",
-      "races": 19
-    },
-    {
-      "hour": "2026-10-25 19:00:00",
-      "racer": "KirbyDelta",
-      "races": 9
-    },
-    {
-      "hour": "2026-10-25 19:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-25 20:00:00",
-      "racer": "KirbyDelta",
-      "races": 21
-    },
-    {
       "hour": "2026-10-25 20:00:00",
       "racer": "-HyperTyper-",
       "races": 15
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "Void Racer",
-      "races": 13
+      "racer": "KirbyDelta",
+      "races": 10
     },
     {
       "hour": "2026-10-25 20:00:00",
@@ -42,18 +17,13 @@
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "VOID_REIGN",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-25 20:00:00",
       "racer": "SKZ FIRAH",
       "races": 6
     },
     {
       "hour": "2026-10-25 20:00:00",
-      "racer": "RonaldoSuiii777",
-      "races": 1
+      "racer": "Void Racer",
+      "races": 2
     },
     {
       "hour": "2026-10-25 20:00:00",
@@ -167,12 +137,12 @@
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "Jhungi",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "Jhungi",
       "races": 1
     },
     {
@@ -237,12 +207,12 @@
     },
     {
       "hour": "2026-10-26 14:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "SKZ FIRAH",
       "races": 7
     },
     {
       "hour": "2026-10-26 14:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "PootsyWafflebiscuits",
       "races": 7
     },
     {
@@ -342,6 +312,11 @@
     },
     {
       "hour": "2026-10-26 19:00:00",
+      "racer": "Joe and Uh",
+      "races": 22
+    },
+    {
+      "hour": "2026-10-26 19:00:00",
       "racer": "RationalGoldApe",
       "races": 11
     },
@@ -352,10 +327,20 @@
     },
     {
       "hour": "2026-10-26 19:00:00",
+      "racer": "Namedisplayed",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-26 20:00:00",
       "racer": "Joe and Uh",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-26 20:00:00",
+      "racer": "Namedisplayed",
       "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793044116008
+  "_syncedAt": 1793045943213
 }
