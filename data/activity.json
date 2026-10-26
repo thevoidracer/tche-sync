@@ -3,12 +3,7 @@
     {
       "hour": "2026-10-25 19:00:00",
       "racer": "VOID_REIGN",
-      "races": 44
-    },
-    {
-      "hour": "2026-10-25 19:00:00",
-      "racer": "Void Racer",
-      "races": 21
+      "races": 26
     },
     {
       "hour": "2026-10-25 19:00:00",
@@ -19,6 +14,11 @@
       "hour": "2026-10-25 19:00:00",
       "racer": "KirbyDelta",
       "races": 9
+    },
+    {
+      "hour": "2026-10-25 19:00:00",
+      "racer": "Void Racer",
+      "races": 8
     },
     {
       "hour": "2026-10-25 20:00:00",
@@ -167,12 +167,12 @@
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "Jhungi",
       "races": 1
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "Jhungi",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -339,8 +339,23 @@
       "hour": "2026-10-26 17:00:00",
       "racer": "izersss",
       "races": 0
+    },
+    {
+      "hour": "2026-10-26 19:00:00",
+      "racer": "RationalGoldApe",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-26 19:00:00",
+      "racer": "VOID_REIGN",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-26 19:00:00",
+      "racer": "Joe and Uh",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793042024903
+  "_syncedAt": 1793044116008
 }
