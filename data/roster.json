@@ -14,11 +14,11 @@
       "nickname": "Night Patrol",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 88,
+      "tier": "A",
+      "avgWPM": 92,
       "topWPM": 127,
-      "lifetimeRaces": 5202,
-      "teamRaces": 2777,
+      "lifetimeRaces": 5277,
+      "teamRaces": 2846,
       "joined": "06/10/26"
     },
     {
@@ -30,8 +30,8 @@
       "tier": "B",
       "avgWPM": 88,
       "topWPM": 110,
-      "lifetimeRaces": 20221,
-      "teamRaces": 2582,
+      "lifetimeRaces": 20241,
+      "teamRaces": 2594,
       "joined": "06/24/26"
     },
     {
@@ -87,19 +87,6 @@
       "joined": "08/02/26"
     },
     {
-      "username": "6b69b592e2c64fe8af00aa5e4724f4ca",
-      "displayName": "euihttttttttt",
-      "nickname": "I Hate Words",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 76,
-      "topWPM": 105,
-      "lifetimeRaces": 1560,
-      "teamRaces": 90,
-      "joined": "08/14/26"
-    },
-    {
       "username": "booomtype",
       "displayName": "YellowBronzeCoral",
       "nickname": "I Have Fans!",
@@ -115,14 +102,14 @@
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
-      "nickname": "Original Gangster",
+      "nickname": "Champion Chaser",
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 96,
       "topWPM": 119,
-      "lifetimeRaces": 1465,
-      "teamRaces": 1118,
+      "lifetimeRaces": 1484,
+      "teamRaces": 1137,
       "joined": "08/31/26"
     },
     {
@@ -223,10 +210,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "B",
-      "avgWPM": 81,
+      "avgWPM": 82,
       "topWPM": 104,
-      "lifetimeRaces": 2011,
-      "teamRaces": 556,
+      "lifetimeRaces": 2018,
+      "teamRaces": 563,
       "joined": "09/26/26"
     },
     {
@@ -262,10 +249,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 76,
       "topWPM": 93,
-      "lifetimeRaces": 2392,
-      "teamRaces": 497,
+      "lifetimeRaces": 2399,
+      "teamRaces": 504,
       "joined": "10/05/26"
     },
     {
@@ -314,10 +301,10 @@
       "role": "officer",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 53,
+      "avgWPM": 57,
       "topWPM": 108,
-      "lifetimeRaces": 1126,
-      "teamRaces": 878,
+      "lifetimeRaces": 1166,
+      "teamRaces": 917,
       "joined": "10/07/26"
     },
     {
@@ -414,14 +401,14 @@
     {
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "nickname": "Ghost Lap",
+      "nickname": "Night Patrol",
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 76,
       "topWPM": 102,
-      "lifetimeRaces": 6700,
-      "teamRaces": 675,
+      "lifetimeRaces": 6750,
+      "teamRaces": 719,
       "joined": "10/15/26"
     },
     {
@@ -509,10 +496,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 89,
+      "avgWPM": 90,
       "topWPM": 109,
-      "lifetimeRaces": 1220,
-      "teamRaces": 35,
+      "lifetimeRaces": 1221,
+      "teamRaces": 36,
       "joined": "10/21/26"
     },
     {
@@ -535,10 +522,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 54,
+      "avgWPM": 56,
       "topWPM": 78,
-      "lifetimeRaces": 1369,
-      "teamRaces": 100,
+      "lifetimeRaces": 1377,
+      "teamRaces": 102,
       "joined": "10/22/26"
     },
     {
@@ -639,13 +626,26 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 75,
-      "topWPM": 90,
-      "lifetimeRaces": 668,
-      "teamRaces": 16,
+      "avgWPM": 79,
+      "topWPM": 93,
+      "lifetimeRaces": 673,
+      "teamRaces": 20,
       "joined": "10/25/26"
+    },
+    {
+      "username": "c3b559e21447f9028631f1bbb7e9ab04",
+      "displayName": "Jhungi",
+      "nickname": "Novice Navigator",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 89,
+      "topWPM": 100,
+      "lifetimeRaces": 1601,
+      "teamRaces": 4,
+      "joined": "10/26/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793014190066
+  "_syncedAt": 1793022996616
 }
