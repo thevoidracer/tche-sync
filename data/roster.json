@@ -301,9 +301,9 @@
       "role": "officer",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 57,
+      "avgWPM": 59,
       "topWPM": 108,
-      "lifetimeRaces": 1166,
+      "lifetimeRaces": 1172,
       "teamRaces": 918,
       "joined": "10/07/26"
     },
@@ -435,19 +435,6 @@
       "topWPM": 100,
       "lifetimeRaces": 1384,
       "teamRaces": 35,
-      "joined": "10/19/26"
-    },
-    {
-      "username": "cf965bc78b0355a2f7b880c0ea04b6e8",
-      "displayName": "reteyrhyj",
-      "nickname": "Spartan",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 74,
-      "topWPM": 103,
-      "lifetimeRaces": 5360,
-      "teamRaces": 63,
       "joined": "10/19/26"
     },
     {
@@ -647,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793038693394
+  "_syncedAt": 1793042024799
 }
