@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "key": "tour-win:57:Match 2319",
+      "type": "tournament-win",
+      "text": "Nitrex won their Sweet 16 * match vs The Ghost in IMT Ally Celebration Tournament.",
+      "meta": {
+        "matchId": "Match 2319",
+        "username": "Nitrex",
+        "tournamentId": "57"
+      },
+      "createdAt": 1792991835291
+    },
+    {
       "key": "milestone:a0604971cedb19bc8237c0b2bd3de21e:1000",
       "type": "milestone",
       "text": "VOID_REIGN crossed 1,000 lifetime races!",
@@ -432,5 +443,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1792989715030
+  "_syncedAt": 1792991835291
 }
