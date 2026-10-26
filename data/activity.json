@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-25 16:00:00",
-      "racer": "-HyperTyper-",
-      "races": 15
-    },
-    {
       "hour": "2026-10-25 18:00:00",
       "racer": "VOID_REIGN",
       "races": 20
@@ -187,12 +182,12 @@
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "Jhungi",
       "races": 1
     },
     {
       "hour": "2026-10-26 12:00:00",
-      "racer": "Jhungi",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -207,12 +202,12 @@
     },
     {
       "hour": "2026-10-26 13:00:00",
-      "racer": "kdjkldglkdghklfghfkg",
+      "racer": "VOID_REIGN",
       "races": 13
     },
     {
       "hour": "2026-10-26 13:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "kdjkldglkdghklfghfkg",
       "races": 13
     },
     {
@@ -247,22 +242,22 @@
     },
     {
       "hour": "2026-10-26 14:00:00",
-      "racer": "UJAADDAH",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-26 14:00:00",
       "racer": "kdjkldglkdghklfghfkg",
       "races": 12
     },
     {
       "hour": "2026-10-26 14:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 7
+      "racer": "UJAADDAH",
+      "races": 12
     },
     {
       "hour": "2026-10-26 14:00:00",
       "racer": "PootsyWafflebiscuits",
+      "races": 7
+    },
+    {
+      "hour": "2026-10-26 14:00:00",
+      "racer": "SKZ FIRAH",
       "races": 7
     },
     {
@@ -298,7 +293,17 @@
     {
       "hour": "2026-10-26 16:00:00",
       "racer": "WindMaker",
-      "races": 9
+      "races": 21
+    },
+    {
+      "hour": "2026-10-26 16:00:00",
+      "racer": "KirbyDelta",
+      "races": 19
+    },
+    {
+      "hour": "2026-10-26 16:00:00",
+      "racer": "The Big Yahu",
+      "races": 10
     },
     {
       "hour": "2026-10-26 16:00:00",
@@ -308,9 +313,9 @@
     {
       "hour": "2026-10-26 16:00:00",
       "racer": "SKZ FIRAH",
-      "races": 1
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793031589126
+  "_syncedAt": 1793034508147
 }

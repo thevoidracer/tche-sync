@@ -326,11 +326,11 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 88,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 127,
-      "lifetimeRaces": 20606,
-      "teamRaces": 254,
+      "lifetimeRaces": 20616,
+      "teamRaces": 264,
       "joined": "10/07/26"
     },
     {
@@ -401,14 +401,14 @@
     {
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "nickname": "Night Patrol",
+      "nickname": "Quicker Than the Fox",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 76,
+      "tier": "B",
+      "avgWPM": 80,
       "topWPM": 102,
-      "lifetimeRaces": 6750,
-      "teamRaces": 725,
+      "lifetimeRaces": 6775,
+      "teamRaces": 744,
       "joined": "10/15/26"
     },
     {
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 96,
       "topWPM": 120,
-      "lifetimeRaces": 3952,
-      "teamRaces": 297,
+      "lifetimeRaces": 3958,
+      "teamRaces": 309,
       "joined": "10/16/26"
     },
     {
@@ -629,7 +629,7 @@
       "avgWPM": 81,
       "topWPM": 98,
       "lifetimeRaces": 690,
-      "teamRaces": 37,
+      "teamRaces": 38,
       "joined": "10/25/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793031589125
+  "_syncedAt": 1793034508145
 }
