@@ -464,10 +464,10 @@
         "displayName": "dark type",
         "nickname": "Crazy About Typing",
         "squad": "Active!",
-        "races": 55,
+        "races": 57,
         "wpm": 28.4,
-        "accuracy": 82.56,
-        "points": 5185,
+        "accuracy": 82.27,
+        "points": 5356,
         "tier": "C"
       },
       {
@@ -527,7 +527,7 @@
         "tag": "KEYCAT",
         "username": "Faster than fast",
         "displayName": "Faster than fast",
-        "nickname": "I Hate Words",
+        "nickname": "Mystery Man",
         "squad": "Starter!!",
         "races": 31,
         "wpm": 60.6,
@@ -1264,7 +1264,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793093252599
+    "_syncedAt": 1793095573663
   },
   "1437": {
     "eventId": "1437",
@@ -1569,6 +1569,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793093248193
+    "_syncedAt": 1793095569216
   }
 }
