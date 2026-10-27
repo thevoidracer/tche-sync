@@ -2,35 +2,35 @@
   "timeframes": {
     "24h": {
       "rank": 32,
-      "races": 595,
-      "accuracy": 92.91,
-      "wpm": 82.6,
-      "points": 78110,
+      "races": 604,
+      "accuracy": 92.97,
+      "wpm": 82.8,
+      "points": 79411,
       "ppr": 131
     },
     "season": {
       "rank": 24,
-      "races": 7121,
-      "accuracy": 93.66,
+      "races": 7134,
+      "accuracy": 93.67,
       "wpm": 82.4,
-      "points": 941634,
+      "points": 943480,
       "ppr": 132
     },
     "week": {
-      "rank": 22,
-      "races": 5627,
-      "accuracy": 93.8,
-      "wpm": 83.3,
-      "points": 747523,
+      "rank": 23,
+      "races": 5603,
+      "accuracy": 93.81,
+      "wpm": 83.2,
+      "points": 744413,
       "ppr": 133
     },
     "weekly": {
       "rank": 25,
-      "races": 1920,
-      "accuracy": 93.18,
-      "wpm": 80,
-      "points": 250481,
-      "ppr": 130
+      "races": 1933,
+      "accuracy": 93.2,
+      "wpm": 80.1,
+      "points": 252328,
+      "ppr": 131
     },
     "alltime": {
       "rank": 95,
@@ -42,11 +42,11 @@
     }
   },
   "rank": 24,
-  "races": 7121,
-  "accuracy": 93.66,
+  "races": 7134,
+  "accuracy": 93.67,
   "wpm": 82.4,
-  "points": 941634,
+  "points": 943480,
   "ppr": 132,
   "source": "ntstartrack.org",
-  "_syncedAt": 1793138270953
+  "_syncedAt": 1793139995529
 }
