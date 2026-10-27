@@ -446,6 +446,19 @@
       },
       {
         "rank": 35,
+        "tag": "KEYCAT",
+        "username": "haleyyrose",
+        "displayName": "haleyyrose",
+        "nickname": "Filthy Rich",
+        "squad": "Rookie 500!",
+        "races": 44,
+        "wpm": 81.8,
+        "accuracy": 94.79,
+        "points": 5877,
+        "tier": "A"
+      },
+      {
+        "rank": 36,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -458,7 +471,7 @@
         "tier": "C"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -471,7 +484,7 @@
         "tier": "B"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
@@ -484,7 +497,7 @@
         "tier": "A"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -497,7 +510,7 @@
         "tier": "C"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -510,7 +523,7 @@
         "tier": "B"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "SVC",
         "username": "emmett",
         "displayName": "emmett",
@@ -523,7 +536,7 @@
         "tier": "B"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -534,19 +547,6 @@
         "accuracy": 90.68,
         "points": 4051,
         "tier": "C"
-      },
-      {
-        "rank": 42,
-        "tag": "KEYCAT",
-        "username": "haleyyrose",
-        "displayName": "haleyyrose",
-        "nickname": "Filthy Rich",
-        "squad": "Rookie 500!",
-        "races": 29,
-        "wpm": 80.1,
-        "accuracy": 94.48,
-        "points": 3837,
-        "tier": "A"
       },
       {
         "rank": 43,
@@ -1264,7 +1264,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793099984114
+    "_syncedAt": 1793102370740
   },
   "1437": {
     "eventId": "1437",
@@ -1569,6 +1569,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793099979932
+    "_syncedAt": 1793102366432
   }
 }

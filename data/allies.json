@@ -371,7 +371,7 @@
         "acc": 93.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793054324
+        "lastLogin": 1793101013
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -399,7 +399,7 @@
         "acc": 95.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1793053419
+        "lastLogin": 1793101770
       },
       {
         "username": "quickbrownpony",
@@ -490,14 +490,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5250,
-        "wpm": 78,
+        "allTimeRaces": 5267,
+        "wpm": 83,
         "highestWPM": 112,
-        "teamRaces": 814,
-        "acc": 94.91,
+        "teamRaces": 829,
+        "acc": 94.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1793031891
+        "lastLogin": 1793100622
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -539,7 +539,7 @@
         "acc": 93.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1793066791
+        "lastLogin": 1793100087
       },
       {
         "username": "happygoluckygirl07",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79650,
+        "races": 79665,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 495,
+        "races": 510,
         "avgWPM": 64,
-        "avgAcc": 93.63,
+        "avgAcc": 93.7,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793099984242
+    "_syncedAt": 1793102370872
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793100003057
+    "_syncedAt": 1793102389709
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1226,7 +1226,7 @@
     "activePercent": 33,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
-    "profileViews": 20,
+    "profileViews": 21,
     "leagueTier": 2,
     "racers": [
       {
@@ -1255,7 +1255,7 @@
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1793069412
+        "lastLogin": 1793100401
       },
       {
         "username": "the_only_winner123",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793100022008
+    "_syncedAt": 1793102420299
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4516,
+    "profileViews": 4517,
     "leagueTier": 12,
     "racers": [
       {
@@ -1920,7 +1920,7 @@
         "members": 44
       },
       "daily": {
-        "races": 789,
+        "races": 788,
         "avgWPM": 76,
         "avgAcc": 94.33,
         "members": 44
@@ -1928,6 +1928,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793100191545
+    "_syncedAt": 1793102590054
   }
 }
