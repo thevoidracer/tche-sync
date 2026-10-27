@@ -602,11 +602,11 @@
         "displayName": "Faster than fast",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 521,
-        "wpm": 62,
+        "allTimeRaces": 537,
+        "wpm": 59,
         "highestWPM": 77,
-        "teamRaces": 40,
-        "acc": 96.39,
+        "teamRaces": 64,
+        "acc": 96.47,
         "season": null,
         "status": "active",
         "lastLogin": 1793090545
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79601,
+        "races": 79625,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 446,
+        "races": 470,
         "avgWPM": 64,
-        "avgAcc": 93.35,
+        "avgAcc": 93.5,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793090904230
+    "_syncedAt": 1793093252754
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793090923577
+    "_syncedAt": 1793093271663
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793090942663
+    "_syncedAt": 1793093290592
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1846,11 +1846,11 @@
         "displayName": "dark type",
         "role": "member",
         "joinStamp": 1785487372,
-        "allTimeRaces": 2913,
-        "wpm": 33,
+        "allTimeRaces": 2925,
+        "wpm": 23,
         "highestWPM": 47,
-        "teamRaces": 2543,
-        "acc": 83.14,
+        "teamRaces": 2558,
+        "acc": 83.19,
         "season": null,
         "status": "active",
         "lastLogin": 1793090674
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123803,
+        "races": 123818,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 44
       },
       "daily": {
-        "races": 809,
+        "races": 811,
         "avgWPM": 76,
-        "avgAcc": 94.28,
+        "avgAcc": 94.39,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793091112467
+    "_syncedAt": 1793093460258
   }
 }
