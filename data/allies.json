@@ -245,7 +245,7 @@
         "acc": 94.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1793046721
+        "lastLogin": 1793098439
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -605,8 +605,8 @@
         "allTimeRaces": 562,
         "wpm": 65,
         "highestWPM": 77,
-        "teamRaces": 88,
-        "acc": 96.43,
+        "teamRaces": 89,
+        "acc": 96.4,
         "season": null,
         "status": "active",
         "lastLogin": 1793094795
@@ -628,13 +628,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79649,
+        "races": 79650,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 494,
+        "races": 495,
         "avgWPM": 64,
         "avgAcc": 93.63,
         "members": 44
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793097901881
+    "_syncedAt": 1793099984242
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793097926947
+    "_syncedAt": 1793100003057
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
         "acc": 98.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1793013010
+        "lastLogin": 1793099840
       },
       {
         "username": "king_cheeseman",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793097945887
+    "_syncedAt": 1793100022008
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1920,14 +1920,14 @@
         "members": 44
       },
       "daily": {
-        "races": 818,
-        "avgWPM": 75,
-        "avgAcc": 94.34,
+        "races": 789,
+        "avgWPM": 76,
+        "avgAcc": 94.33,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793098115538
+    "_syncedAt": 1793100191545
   }
 }

@@ -356,6 +356,19 @@
       {
         "rank": 28,
         "tag": "KEYCAT",
+        "username": "I am it",
+        "displayName": "I am it",
+        "nickname": "Mystery Man",
+        "squad": "Starter!!",
+        "races": 56,
+        "wpm": 62.2,
+        "accuracy": 96.32,
+        "points": 7070,
+        "tier": "B"
+      },
+      {
+        "rank": 29,
+        "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
         "nickname": "Nitro Drift",
@@ -367,7 +380,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "aiden67676767676767",
         "displayName": "aiden67676767676767",
@@ -393,7 +406,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "Adam Smasher",
         "displayName": "Adam Smasher",
@@ -406,7 +419,7 @@
         "tier": "B"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -419,7 +432,7 @@
         "tier": "C"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -432,7 +445,7 @@
         "tier": "B"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -445,7 +458,7 @@
         "tier": "C"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -455,19 +468,6 @@
         "wpm": 90.3,
         "accuracy": 94.16,
         "points": 5740,
-        "tier": "B"
-      },
-      {
-        "rank": 36,
-        "tag": "KEYCAT",
-        "username": "I am it",
-        "displayName": "I am it",
-        "nickname": "Mystery Man",
-        "squad": "Starter!!",
-        "races": 45,
-        "wpm": 61.5,
-        "accuracy": 96.35,
-        "points": 5670,
         "tier": "B"
       },
       {
@@ -1264,7 +1264,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793097901709
+    "_syncedAt": 1793099984114
   },
   "1437": {
     "eventId": "1437",
@@ -1569,6 +1569,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793097896811
+    "_syncedAt": 1793099979932
   }
 }
