@@ -293,14 +293,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3243,
-      "wpm": 91,
-      "highestWPM": 108,
-      "teamRaces": 33,
-      "acc": 95.55,
+      "allTimeRaces": 3253,
+      "wpm": 88,
+      "highestWPM": 109,
+      "teamRaces": 37,
+      "acc": 95.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1792920873
+      "lastLogin": 1793081460
     },
     {
       "username": "sterling757",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60577,
+      "races": 60581,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 699,
+      "races": 703,
       "avgWPM": 84,
-      "avgAcc": 93.85,
+      "avgAcc": 93.87,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793080663007
+  "_syncedAt": 1793082427418
 }

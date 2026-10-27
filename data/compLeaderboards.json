@@ -446,6 +446,19 @@
       },
       {
         "rank": 35,
+        "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Starter Fund",
+        "races": 37,
+        "wpm": 90.8,
+        "accuracy": 95.39,
+        "points": 5131,
+        "tier": "B"
+      },
+      {
+        "rank": 36,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -456,19 +469,6 @@
         "accuracy": 95.09,
         "points": 5022,
         "tier": "C"
-      },
-      {
-        "rank": 36,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Starter Fund",
-        "races": 33,
-        "wpm": 91.4,
-        "accuracy": 95.34,
-        "points": 4583,
-        "tier": "A"
       },
       {
         "rank": 37,
@@ -1251,7 +1251,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793080760952
+    "_syncedAt": 1793082531093
   },
   "1437": {
     "eventId": "1437",
@@ -1519,6 +1519,19 @@
       {
         "rank": 21,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Starter Fund",
+        "races": 4,
+        "wpm": 86.2,
+        "accuracy": 95.79,
+        "points": 548,
+        "tier": "B"
+      },
+      {
+        "rank": 22,
+        "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
         "nickname": "Crazy About Typing",
@@ -1530,7 +1543,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "izersss",
         "displayName": "izersss",
@@ -1543,6 +1556,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793080756552
+    "_syncedAt": 1793082526271
   }
 }
