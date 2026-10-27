@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
+    "tierA": 89,
     "tierB": 82,
     "weeklyReq": 100
   },
@@ -274,7 +274,7 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 104,
       "lifetimeRaces": 1465,
@@ -287,7 +287,7 @@
       "nickname": "B.U.S. Driver",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 115,
       "lifetimeRaces": 5111,
@@ -612,7 +612,7 @@
       "nickname": "Novice Navigator",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 100,
       "lifetimeRaces": 1601,
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793077166534
+  "_syncedAt": 1793078726283
 }
