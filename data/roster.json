@@ -148,7 +148,7 @@
       "avgWPM": 57,
       "topWPM": 82,
       "lifetimeRaces": 9288,
-      "teamRaces": 1240,
+      "teamRaces": 1242,
       "joined": "09/09/26"
     },
     {
@@ -274,11 +274,11 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 92,
       "topWPM": 104,
-      "lifetimeRaces": 1465,
-      "teamRaces": 49,
+      "lifetimeRaces": 1470,
+      "teamRaces": 50,
       "joined": "10/06/26"
     },
     {
@@ -470,10 +470,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 90,
+      "avgWPM": 93,
       "topWPM": 111,
-      "lifetimeRaces": 1270,
-      "teamRaces": 85,
+      "lifetimeRaces": 1282,
+      "teamRaces": 91,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793128375161
+  "_syncedAt": 1793130401688
 }
