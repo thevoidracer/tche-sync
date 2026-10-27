@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 44,
-    "activePercent": 97,
+    "activePercent": 93,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 3030,
@@ -385,7 +385,7 @@
         "acc": 95.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1792895216
+        "lastLogin": 1793073011
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -581,7 +581,7 @@
         "acc": 88.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1793027926
+        "lastLogin": 1793074521
       },
       {
         "username": "dirk_nowitzki41",
@@ -642,13 +642,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793072861783
+    "_syncedAt": 1793075057556
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 39,
-    "activePercent": 64,
+    "activePercent": 61,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
     "profileViews": 2044,
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793072884054
+    "_syncedAt": 1793075076829
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,16 +1283,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793072902837
+    "_syncedAt": 1793075095934
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 46,
-    "activePercent": 97,
+    "members": 44,
+    "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4514,
+    "profileViews": 4515,
     "leagueTier": 12,
     "racers": [
       {
@@ -1454,14 +1454,14 @@
         "displayName": "-Tag_Typ3r-",
         "role": "member",
         "joinStamp": 1792883096,
-        "allTimeRaces": 18562,
-        "wpm": 106,
+        "allTimeRaces": 18589,
+        "wpm": 107,
         "highestWPM": 150,
-        "teamRaces": 191,
-        "acc": 92.09,
+        "teamRaces": 210,
+        "acc": 92.34,
         "season": null,
         "status": "active",
-        "lastLogin": 1793045386
+        "lastLogin": 1793073721
       },
       {
         "username": "pigglepigglepiggle",
@@ -1532,20 +1532,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793034250
-      },
-      {
-        "username": "759381d95dc79e8900bb2858e3359086",
-        "displayName": "longreux",
-        "role": "member",
-        "joinStamp": 1792637620,
-        "allTimeRaces": 1292,
-        "wpm": 88,
-        "highestWPM": 107,
-        "teamRaces": 172,
-        "acc": 95.72,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792819629
       },
       {
         "username": "2e29e6b624c2ea07f714c2b7b0875007",
@@ -1924,38 +1910,24 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793017423
-      },
-      {
-        "username": "getcooked_2",
-        "displayName": "getcooked_2",
-        "role": "member",
-        "joinStamp": 1792880455,
-        "allTimeRaces": 34,
-        "wpm": 87,
-        "highestWPM": 99,
-        "teamRaces": 19,
-        "acc": 96.02,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1792879664
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 123766,
+        "races": 123785,
         "avgWPM": 67,
         "avgAcc": 93.98,
-        "members": 46
+        "members": 44
       },
       "daily": {
-        "races": 802,
-        "avgWPM": 74,
-        "avgAcc": 94.29,
-        "members": 46
+        "races": 821,
+        "avgWPM": 75,
+        "avgAcc": 94.31,
+        "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793073072244
+    "_syncedAt": 1793075265744
   }
 }
