@@ -69,6 +69,19 @@
       },
       {
         "rank": 6,
+        "tag": "THB0S",
+        "username": "-Tag_Typ3r-",
+        "displayName": "-Tag_Typ3r-",
+        "nickname": "RIP",
+        "squad": "Active!",
+        "races": 174,
+        "wpm": 110,
+        "accuracy": 92.26,
+        "points": 24882,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
         "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
@@ -81,7 +94,7 @@
         "tier": "A"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -105,19 +118,6 @@
         "accuracy": 93.65,
         "points": 20487,
         "tier": "B"
-      },
-      {
-        "rank": 9,
-        "tag": "THB0S",
-        "username": "-Tag_Typ3r-",
-        "displayName": "-Tag_Typ3r-",
-        "nickname": "RIP",
-        "squad": "Active!",
-        "races": 143,
-        "wpm": 110.1,
-        "accuracy": 91.86,
-        "points": 20369,
-        "tier": "A"
       },
       {
         "rank": 10,
@@ -1251,7 +1251,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793075057361
+    "_syncedAt": 1793077213791
   },
   "1437": {
     "eventId": "1437",
@@ -1543,6 +1543,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793075052145
+    "_syncedAt": 1793077207581
   }
 }
