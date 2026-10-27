@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament LIVE ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2149,
+  "profileViews": 2151,
   "leagueTier": 12,
   "racers": [
     {
@@ -478,25 +478,25 @@
       "allTimeRaces": 5334,
       "wpm": 101,
       "highestWPM": 127,
-      "teamRaces": 2907,
+      "teamRaces": 2909,
       "acc": 92.67,
       "season": null,
       "status": "active",
-      "lastLogin": 1793139551
+      "lastLogin": 1793140117
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
       "displayName": "Bobby Junior",
       "role": "member",
       "joinStamp": 1792456341,
-      "allTimeRaces": 1157,
-      "wpm": 75,
+      "allTimeRaces": 1180,
+      "wpm": 78,
       "highestWPM": 228,
-      "teamRaces": 22,
-      "acc": 95.56,
+      "teamRaces": 37,
+      "acc": 95.51,
       "season": null,
       "status": "active",
-      "lastLogin": 1792970672
+      "lastLogin": 1793140440
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -524,7 +524,7 @@
       "acc": 92.49,
       "season": null,
       "status": "active",
-      "lastLogin": 1793117110
+      "lastLogin": 1793140479
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61117,
+      "races": 61134,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 613,
-      "avgWPM": 83,
-      "avgAcc": 93.4,
+      "races": 626,
+      "avgWPM": 82,
+      "avgAcc": 93.45,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793139956144
+  "_syncedAt": 1793141836095
 }
