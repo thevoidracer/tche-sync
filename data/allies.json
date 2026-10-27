@@ -6,7 +6,7 @@
     "activePercent": 93,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3030,
+    "profileViews": 3031,
     "leagueTier": 12,
     "racers": [
       {
@@ -70,14 +70,14 @@
         "displayName": "EtherealYellowSnipe",
         "role": "member",
         "joinStamp": 1793027234,
-        "allTimeRaces": 497,
+        "allTimeRaces": 501,
         "wpm": 62,
         "highestWPM": 77,
-        "teamRaces": 20,
-        "acc": 93.87,
+        "teamRaces": 24,
+        "acc": 94.04,
         "season": null,
         "status": "active",
-        "lastLogin": 1793026468
+        "lastLogin": 1793103639
       },
       {
         "username": "adde0f9a93c81f15800f19720c04f793",
@@ -224,14 +224,14 @@
         "displayName": "Adam Smasher",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2311,
-        "wpm": 67,
+        "allTimeRaces": 2312,
+        "wpm": 66,
         "highestWPM": 94,
-        "teamRaces": 1266,
+        "teamRaces": 1267,
         "acc": 90.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1793036552
+        "lastLogin": 1793103912
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -245,7 +245,7 @@
         "acc": 94.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1793098439
+        "lastLogin": 1793102425
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -490,14 +490,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5267,
-        "wpm": 83,
+        "allTimeRaces": 5268,
+        "wpm": 82,
         "highestWPM": 112,
-        "teamRaces": 829,
+        "teamRaces": 832,
         "acc": 94.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1793100622
+        "lastLogin": 1793103290
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -511,7 +511,7 @@
         "acc": 92.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793023201
+        "lastLogin": 1793103506
       },
       {
         "username": "watermelonsupreme",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79665,
+        "races": 79673,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 510,
+        "races": 512,
         "avgWPM": 64,
-        "avgAcc": 93.7,
+        "avgAcc": 93.74,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793102370872
+    "_syncedAt": 1793104245721
   },
   "SVC": {
     "tag": "SVC",
@@ -1009,14 +1009,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 845,
-        "wpm": 74,
+        "allTimeRaces": 846,
+        "wpm": 73,
         "highestWPM": 107,
         "teamRaces": 429,
         "acc": 93.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1793017264
+        "lastLogin": 1793103805
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1209,15 +1209,15 @@
         "members": 39
       },
       "daily": {
-        "races": 234,
+        "races": 229,
         "avgWPM": 83,
-        "avgAcc": 94.43,
+        "avgAcc": 94.46,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793102389709
+    "_syncedAt": 1793104275445
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793102420299
+    "_syncedAt": 1793104294572
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1292,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4517,
+    "profileViews": 4519,
     "leagueTier": 12,
     "racers": [
       {
@@ -1727,7 +1727,7 @@
         "acc": 93.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793063281
+        "lastLogin": 1793103722
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1920,14 +1920,14 @@
         "members": 44
       },
       "daily": {
-        "races": 788,
+        "races": 785,
         "avgWPM": 76,
-        "avgAcc": 94.33,
+        "avgAcc": 94.32,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793102590054
+    "_syncedAt": 1793104464386
   }
 }

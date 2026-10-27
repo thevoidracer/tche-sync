@@ -9,10 +9,10 @@
         "displayName": "VOID_REIGN",
         "nickname": "Quicker Than the Fox",
         "squad": "Entrepreneur 500",
-        "races": 367,
-        "wpm": 53.3,
-        "accuracy": 90.89,
-        "points": 42243,
+        "races": 373,
+        "wpm": 53.4,
+        "accuracy": 90.92,
+        "points": 42970,
         "tier": "C"
       },
       {
@@ -22,11 +22,11 @@
         "displayName": "Void Racer",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 271,
-        "wpm": 90.6,
-        "accuracy": 92.91,
-        "points": 36587,
-        "tier": "B"
+        "races": 276,
+        "wpm": 90.7,
+        "accuracy": 92.92,
+        "points": 37273,
+        "tier": "A"
       },
       {
         "rank": 3,
@@ -434,6 +434,19 @@
       {
         "rank": 34,
         "tag": "KEYCAT",
+        "username": "haleyyrose",
+        "displayName": "haleyyrose",
+        "nickname": "Filthy Rich",
+        "squad": "Rookie 500!",
+        "races": 46,
+        "wpm": 81.7,
+        "accuracy": 94.73,
+        "points": 6138,
+        "tier": "A"
+      },
+      {
+        "rank": 35,
+        "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
         "nickname": "Pumpkin Peddler",
@@ -443,19 +456,6 @@
         "accuracy": 93.69,
         "points": 6034,
         "tier": "B"
-      },
-      {
-        "rank": 35,
-        "tag": "KEYCAT",
-        "username": "haleyyrose",
-        "displayName": "haleyyrose",
-        "nickname": "Filthy Rich",
-        "squad": "Rookie 500!",
-        "races": 44,
-        "wpm": 81.8,
-        "accuracy": 94.79,
-        "points": 5877,
-        "tier": "A"
       },
       {
         "rank": 36,
@@ -1264,7 +1264,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793102370740
+    "_syncedAt": 1793104245477
   },
   "1437": {
     "eventId": "1437",
@@ -1302,11 +1302,11 @@
         "displayName": "Void Racer",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 78,
-        "wpm": 90.8,
-        "accuracy": 92.6,
-        "points": 10501,
-        "tier": "B"
+        "races": 83,
+        "wpm": 90.9,
+        "accuracy": 92.66,
+        "points": 11187,
+        "tier": "A"
       },
       {
         "rank": 4,
@@ -1324,6 +1324,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "VOID_REIGN",
+        "displayName": "VOID_REIGN",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Entrepreneur 500",
+        "races": 53,
+        "wpm": 57.6,
+        "accuracy": 91.15,
+        "points": 6223,
+        "tier": "C"
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
@@ -1333,19 +1346,6 @@
         "accuracy": 88.75,
         "points": 6088,
         "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "VOID_REIGN",
-        "displayName": "VOID_REIGN",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
-        "races": 47,
-        "wpm": 57.1,
-        "accuracy": 90.97,
-        "points": 5496,
-        "tier": "C"
       },
       {
         "rank": 7,
@@ -1569,6 +1569,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793102366432
+    "_syncedAt": 1793104240786
   }
 }

@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 119,
+      "rank": 118,
       "username": "tre1typer",
       "displayName": "insta _trewatkins",
       "races": 100,
@@ -21,17 +21,7 @@
       "ppr": 129
     },
     {
-      "rank": 163,
-      "username": "taylorja32",
-      "displayName": "Void Racer",
-      "races": 85,
-      "accuracy": 92.55,
-      "wpm": 91.2,
-      "points": 11456,
-      "ppr": 135
-    },
-    {
-      "rank": 218,
+      "rank": 221,
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "races": 67,
@@ -39,6 +29,16 @@
       "wpm": 93.3,
       "points": 9165,
       "ppr": 137
+    },
+    {
+      "rank": 226,
+      "username": "taylorja32",
+      "displayName": "Void Racer",
+      "races": 67,
+      "accuracy": 92.77,
+      "wpm": 91,
+      "points": 9044,
+      "ppr": 135
     },
     {
       "rank": 366,
@@ -61,17 +61,17 @@
       "ppr": 138
     },
     {
-      "rank": 406,
+      "rank": 475,
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "VOID_REIGN",
-      "races": 47,
-      "accuracy": 90.97,
-      "wpm": 57.1,
-      "points": 5496,
+      "races": 39,
+      "accuracy": 90.1,
+      "wpm": 59.6,
+      "points": 4561,
       "ppr": 117
     },
     {
-      "rank": 478,
+      "rank": 479,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 32,
@@ -79,16 +79,6 @@
       "wpm": 88.2,
       "points": 4500,
       "ppr": 141
-    },
-    {
-      "rank": 514,
-      "username": "2a4c23d957bacad1e38074dc8f3ddc39",
-      "displayName": "SKZ FIRAH",
-      "races": 33,
-      "accuracy": 91.92,
-      "wpm": 74.8,
-      "points": 4168,
-      "ppr": 126
     },
     {
       "rank": 520,
@@ -101,7 +91,17 @@
       "ppr": 137
     },
     {
-      "rank": 650,
+      "rank": 530,
+      "username": "2a4c23d957bacad1e38074dc8f3ddc39",
+      "displayName": "SKZ FIRAH",
+      "races": 32,
+      "accuracy": 91.87,
+      "wpm": 74.6,
+      "points": 4036,
+      "ppr": 126
+    },
+    {
+      "rank": 653,
       "username": "10712a0152fd25105448b6ef1298504b",
       "displayName": "RationalGoldApe",
       "races": 23,
@@ -111,7 +111,7 @@
       "ppr": 138
     },
     {
-      "rank": 671,
+      "rank": 672,
       "username": "cash4087",
       "displayName": "WindMaker",
       "races": 21,
@@ -121,7 +121,7 @@
       "ppr": 144
     },
     {
-      "rank": 713,
+      "rank": 714,
       "username": "bc6469247e9ac57a0a45c6c345d4bb57",
       "displayName": "kdjkldglkdghklfghfkg",
       "races": 25,
@@ -131,7 +131,7 @@
       "ppr": 111
     },
     {
-      "rank": 746,
+      "rank": 744,
       "username": "jonathan711111",
       "displayName": "Unknown",
       "races": 18,
@@ -141,7 +141,7 @@
       "ppr": 146
     },
     {
-      "rank": 754,
+      "rank": 752,
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "races": 19,
@@ -151,7 +151,7 @@
       "ppr": 136
     },
     {
-      "rank": 948,
+      "rank": 947,
       "username": "1ea0b919208e21b376a29ac0befb794c",
       "displayName": "StefanO",
       "races": 12,
@@ -161,7 +161,7 @@
       "ppr": 127
     },
     {
-      "rank": 976,
+      "rank": 977,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "races": 10,
@@ -181,7 +181,7 @@
       "ppr": 123
     },
     {
-      "rank": 1069,
+      "rank": 1067,
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "disgratedboy191",
       "races": 7,
@@ -191,7 +191,7 @@
       "ppr": 132
     },
     {
-      "rank": 1085,
+      "rank": 1084,
       "username": "47f3f60e491637ed70f8ada27ed45f03",
       "displayName": "- 9te -",
       "races": 7,
@@ -201,7 +201,7 @@
       "ppr": 123
     },
     {
-      "rank": 1158,
+      "rank": 1156,
       "username": "c3b559e21447f9028631f1bbb7e9ab04",
       "displayName": "Jhungi",
       "races": 4,
@@ -211,7 +211,7 @@
       "ppr": 139
     },
     {
-      "rank": 1275,
+      "rank": 1268,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 2,
@@ -221,5 +221,5 @@
       "ppr": 126
     }
   ],
-  "_syncedAt": 1793102323541
+  "_syncedAt": 1793104194858
 }

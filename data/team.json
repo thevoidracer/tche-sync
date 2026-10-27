@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament LIVE ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2132,
+  "profileViews": 2133,
   "leagueTier": 12,
   "racers": [
     {
@@ -475,14 +475,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5287,
-      "wpm": 88,
+      "allTimeRaces": 5299,
+      "wpm": 98,
       "highestWPM": 127,
-      "teamRaces": 2862,
+      "teamRaces": 2867,
       "acc": 92.66,
       "season": null,
       "status": "active",
-      "lastLogin": 1793100440
+      "lastLogin": 1793103227
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -531,14 +531,14 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1173,
+      "allTimeRaces": 1184,
       "wpm": 59,
       "highestWPM": 108,
-      "teamRaces": 925,
-      "acc": 91.91,
+      "teamRaces": 931,
+      "acc": 91.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1793041229
+      "lastLogin": 1793103281
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60621,
+      "races": 60632,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 743,
-      "avgWPM": 84,
-      "avgAcc": 93.97,
+      "races": 716,
+      "avgWPM": 85,
+      "avgAcc": 94,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793102270563
+  "_syncedAt": 1793104138204
 }
