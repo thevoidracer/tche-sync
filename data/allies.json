@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793062854169
+    "_syncedAt": 1793065045534
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793062875064
+    "_syncedAt": 1793065064663
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793062893874
+    "_syncedAt": 1793065083537
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1734,14 +1734,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18930,
+        "allTimeRaces": 18933,
         "wpm": 87,
         "highestWPM": 123,
-        "teamRaces": 18470,
+        "teamRaces": 18471,
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793059912
+        "lastLogin": 1793063281
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1853,7 +1853,7 @@
         "acc": 95.56,
         "season": null,
         "status": "active",
-        "lastLogin": 1793054876
+        "lastLogin": 1793064193
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123648,
+        "races": 123649,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 47
       },
       "daily": {
-        "races": 825,
-        "avgWPM": 73,
-        "avgAcc": 94.16,
+        "races": 735,
+        "avgWPM": 71,
+        "avgAcc": 93.95,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793063063491
+    "_syncedAt": 1793065252919
   }
 }
