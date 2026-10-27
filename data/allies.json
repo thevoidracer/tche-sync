@@ -602,14 +602,14 @@
         "displayName": "Faster than fast",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 506,
-        "wpm": 61,
+        "allTimeRaces": 513,
+        "wpm": 63,
         "highestWPM": 77,
-        "teamRaces": 33,
-        "acc": 96.33,
+        "teamRaces": 40,
+        "acc": 96.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1793018472
+        "lastLogin": 1793085674
       },
       {
         "username": "makawgamer88",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79594,
+        "races": 79601,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 439,
+        "races": 446,
         "avgWPM": 64,
-        "avgAcc": 93.3,
+        "avgAcc": 93.35,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793085595061
+    "_syncedAt": 1793088935292
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793085614227
+    "_syncedAt": 1793088954821
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793085633044
+    "_syncedAt": 1793088973870
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1928,6 +1928,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793085802543
+    "_syncedAt": 1793089143863
   }
 }
