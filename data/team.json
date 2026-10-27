@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament LIVE ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2133,
+  "profileViews": 2134,
   "leagueTier": 12,
   "racers": [
     {
@@ -62,7 +62,7 @@
       "acc": 95.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1793017640
+      "lastLogin": 1793104953
     },
     {
       "username": "tre1typer",
@@ -195,14 +195,14 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1250,
-      "wpm": 83,
-      "highestWPM": 109,
-      "teamRaces": 65,
-      "acc": 96.27,
+      "allTimeRaces": 1255,
+      "wpm": 87,
+      "highestWPM": 111,
+      "teamRaces": 70,
+      "acc": 96.29,
       "season": null,
       "status": "active",
-      "lastLogin": 1793043122
+      "lastLogin": 1793105258
     },
     {
       "username": "teraceeben21",
@@ -349,28 +349,28 @@
       "displayName": "disgratedboy191",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2399,
-      "wpm": 76,
+      "allTimeRaces": 2407,
+      "wpm": 75,
       "highestWPM": 93,
-      "teamRaces": 504,
-      "acc": 93.85,
+      "teamRaces": 512,
+      "acc": 93.84,
       "season": null,
       "status": "active",
-      "lastLogin": 1793019073
+      "lastLogin": 1793104558
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
-      "role": "member",
+      "role": "officer",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1532,
-      "wpm": 92,
+      "allTimeRaces": 1543,
+      "wpm": 91,
       "highestWPM": 119,
-      "teamRaces": 1185,
-      "acc": 94.37,
+      "teamRaces": 1196,
+      "acc": 94.36,
       "season": null,
       "status": "active",
-      "lastLogin": 1793047531
+      "lastLogin": 1793104526
     },
     {
       "username": "imenishat",
@@ -475,10 +475,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5299,
-      "wpm": 98,
+      "allTimeRaces": 5324,
+      "wpm": 89,
       "highestWPM": 127,
-      "teamRaces": 2867,
+      "teamRaces": 2899,
       "acc": 92.66,
       "season": null,
       "status": "active",
@@ -517,14 +517,14 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 701,
-      "wpm": 67,
+      "allTimeRaces": 702,
+      "wpm": 66,
       "highestWPM": 98,
-      "teamRaces": 49,
-      "acc": 92.57,
+      "teamRaces": 50,
+      "acc": 92.54,
       "season": null,
       "status": "active",
-      "lastLogin": 1793059769
+      "lastLogin": 1793104512
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -534,8 +534,8 @@
       "allTimeRaces": 1184,
       "wpm": 59,
       "highestWPM": 108,
-      "teamRaces": 931,
-      "acc": 91.92,
+      "teamRaces": 936,
+      "acc": 91.91,
       "season": null,
       "status": "active",
       "lastLogin": 1793103281
@@ -613,7 +613,7 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "role": "officer",
+      "role": "member",
       "joinStamp": 1788972945,
       "allTimeRaces": 9231,
       "wpm": 65,
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60632,
+      "races": 60694,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 716,
+      "races": 686,
       "avgWPM": 85,
-      "avgAcc": 94,
+      "avgAcc": 93.99,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793104138204
+  "_syncedAt": 1793107210257
 }
