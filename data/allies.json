@@ -676,15 +676,15 @@
         "members": 47
       },
       "daily": {
-        "races": 443,
-        "avgWPM": 63,
-        "avgAcc": 94.06,
+        "races": 423,
+        "avgWPM": 64,
+        "avgAcc": 94.1,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793141939162
+    "_syncedAt": 1793143301830
   },
   "SVC": {
     "tag": "SVC",
@@ -1259,7 +1259,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793141958269
+    "_syncedAt": 1793143323229
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1311,7 +1311,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793141977239
+    "_syncedAt": 1793143342029
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1328,11 +1328,11 @@
         "displayName": "ella winters",
         "role": "member",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101105,
-        "wpm": 95,
+        "allTimeRaces": 101127,
+        "wpm": 91,
         "highestWPM": 156,
-        "teamRaces": 53,
-        "acc": 96.5,
+        "teamRaces": 72,
+        "acc": 96.43,
         "season": null,
         "status": "active",
         "lastLogin": 1793138324
@@ -1356,10 +1356,10 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10073,
-        "wpm": 115,
+        "allTimeRaces": 10078,
+        "wpm": 114,
         "highestWPM": 135,
-        "teamRaces": 642,
+        "teamRaces": 650,
         "acc": 98.17,
         "season": null,
         "status": "active",
@@ -1998,20 +1998,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 124669,
+        "races": 124696,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 48
       },
       "daily": {
-        "races": 1118,
-        "avgWPM": 85,
-        "avgAcc": 95.23,
+        "races": 1128,
+        "avgWPM": 86,
+        "avgAcc": 95.29,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793142147093
+    "_syncedAt": 1793143511419
   }
 }
