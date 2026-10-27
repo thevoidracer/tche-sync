@@ -4,29 +4,29 @@
     "racers": [
       {
         "rank": 1,
-        "tag": "IMT",
-        "username": "VOID_REIGN",
-        "displayName": "VOID_REIGN",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
-        "races": 378,
-        "wpm": 53.4,
-        "accuracy": 90.89,
-        "points": 43535,
-        "tier": "C"
-      },
-      {
-        "rank": 2,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
         "nickname": "Original Gangster",
         "squad": "Newbies!",
-        "races": 276,
-        "wpm": 109,
-        "accuracy": 98.14,
-        "points": 41848,
+        "races": 307,
+        "wpm": 108.8,
+        "accuracy": 98.16,
+        "points": 46522,
         "tier": "A"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
+        "username": "VOID_REIGN",
+        "displayName": "VOID_REIGN",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Entrepreneur 500",
+        "races": 395,
+        "wpm": 53.6,
+        "accuracy": 90.81,
+        "points": 45490,
+        "tier": "C"
       },
       {
         "rank": 3,
@@ -43,6 +43,19 @@
       },
       {
         "rank": 4,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Entrepreneur 500",
+        "races": 250,
+        "wpm": 78.6,
+        "accuracy": 93.7,
+        "points": 32627,
+        "tier": "B"
+      },
+      {
+        "rank": 5,
         "tag": "THB0S",
         "username": "Sara10",
         "displayName": "Sara10",
@@ -53,19 +66,6 @@
         "accuracy": 95.21,
         "points": 31969,
         "tier": "A"
-      },
-      {
-        "rank": 5,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
-        "races": 225,
-        "wpm": 78.2,
-        "accuracy": 93.72,
-        "points": 29336,
-        "tier": "C"
       },
       {
         "rank": 6,
@@ -126,10 +126,10 @@
         "displayName": "type for huzz",
         "nickname": "Rookie Racer",
         "squad": "Active!",
-        "races": 122,
-        "wpm": 111.2,
+        "races": 123,
+        "wpm": 111.1,
         "accuracy": 93.46,
-        "points": 17739,
+        "points": 17880,
         "tier": "A"
       },
       {
@@ -317,6 +317,19 @@
       {
         "rank": 25,
         "tag": "KEYCAT",
+        "username": "haleyyrose",
+        "displayName": "haleyyrose",
+        "nickname": "Filthy Rich",
+        "squad": "Rookie 500!",
+        "races": 74,
+        "wpm": 78.3,
+        "accuracy": 94.23,
+        "points": 9704,
+        "tier": "B"
+      },
+      {
+        "rank": 26,
+        "tag": "KEYCAT",
         "username": "Adam Smasher",
         "displayName": "Adam Smasher",
         "nickname": "I Love Cats",
@@ -326,19 +339,6 @@
         "accuracy": 89.54,
         "points": 9673,
         "tier": "B"
-      },
-      {
-        "rank": 26,
-        "tag": "KEYCAT",
-        "username": "haleyyrose",
-        "displayName": "haleyyrose",
-        "nickname": "Filthy Rich",
-        "squad": "Rookie 500!",
-        "races": 70,
-        "wpm": 79.6,
-        "accuracy": 94.43,
-        "points": 9240,
-        "tier": "A"
       },
       {
         "rank": 27,
@@ -537,6 +537,19 @@
       },
       {
         "rank": 42,
+        "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Side Hustler 100",
+        "races": 40,
+        "wpm": 104.4,
+        "accuracy": 96.26,
+        "points": 5860,
+        "tier": "A"
+      },
+      {
+        "rank": 43,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -549,7 +562,7 @@
         "tier": "C"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "tag": "IMT",
         "username": "kdjkldglkdghklfghfkg",
         "displayName": "kdjkldglkdghklfghfkg",
@@ -562,7 +575,7 @@
         "tier": "C"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
@@ -575,7 +588,7 @@
         "tier": "A"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -588,7 +601,7 @@
         "tier": "C"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -601,7 +614,7 @@
         "tier": "C"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -614,7 +627,7 @@
         "tier": "C"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "tag": "KEYCAT",
         "username": "Leo Torres",
         "displayName": "Leo Torres",
@@ -627,7 +640,7 @@
         "tier": "B"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "tag": "SVC",
         "username": "emmett",
         "displayName": "emmett",
@@ -640,7 +653,7 @@
         "tier": "B"
       },
       {
-        "rank": 50,
+        "rank": 51,
         "tag": "THB0S",
         "username": "FireworkLauncher",
         "displayName": "FireworkLauncher",
@@ -653,7 +666,7 @@
         "tier": "B"
       },
       {
-        "rank": 51,
+        "rank": 52,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -666,7 +679,7 @@
         "tier": "B"
       },
       {
-        "rank": 52,
+        "rank": 53,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -679,7 +692,7 @@
         "tier": "A"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -692,7 +705,7 @@
         "tier": "B"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "tag": "KEYCAT",
         "username": "CATS R GR8",
         "displayName": "CATS R GR8",
@@ -705,7 +718,7 @@
         "tier": "B"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -718,7 +731,7 @@
         "tier": "B"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "tag": "KEYCAT",
         "username": "Green, Grassy Cat",
         "displayName": "Green, Grassy Cat",
@@ -728,19 +741,6 @@
         "wpm": 76.3,
         "accuracy": 95.92,
         "points": 2650,
-        "tier": "A"
-      },
-      {
-        "rank": 57,
-        "tag": "IMT",
-        "username": "Unknown",
-        "displayName": "Unknown",
-        "nickname": "Olde School",
-        "squad": "Side Hustler 100",
-        "races": 18,
-        "wpm": 103.9,
-        "accuracy": 96.42,
-        "points": 2637,
         "tier": "A"
       },
       {
@@ -836,6 +836,19 @@
       },
       {
         "rank": 65,
+        "tag": "IMT",
+        "username": "GroundedAquaEmu",
+        "displayName": "GroundedAquaEmu",
+        "nickname": "Trail Angel",
+        "squad": "Starter Fund",
+        "races": 15,
+        "wpm": 96.4,
+        "accuracy": 96.78,
+        "points": 2152,
+        "tier": "A"
+      },
+      {
+        "rank": 66,
         "tag": "KEYCAT",
         "username": "ORANGELILLIANAK",
         "displayName": "ORANGELILLIANAK",
@@ -848,7 +861,7 @@
         "tier": "B"
       },
       {
-        "rank": 66,
+        "rank": 67,
         "tag": "SVC",
         "username": "Im not warmed up",
         "displayName": "Im not warmed up",
@@ -861,7 +874,7 @@
         "tier": "C"
       },
       {
-        "rank": 67,
+        "rank": 68,
         "tag": "THB0S",
         "username": "gamingwithrylan9",
         "displayName": "gamingwithrylan9",
@@ -874,7 +887,20 @@
         "tier": "C"
       },
       {
-        "rank": 68,
+        "rank": 69,
+        "tag": "SVC",
+        "username": "SensitiveGoldCobra",
+        "displayName": "SensitiveGoldCobra",
+        "nickname": "Millionaire",
+        "squad": null,
+        "races": 13,
+        "wpm": 88.1,
+        "accuracy": 97.62,
+        "points": 1828,
+        "tier": "B"
+      },
+      {
+        "rank": 70,
         "tag": "IMT",
         "username": "Amaterasu",
         "displayName": "Amaterasu",
@@ -887,7 +913,7 @@
         "tier": "B"
       },
       {
-        "rank": 69,
+        "rank": 71,
         "tag": "THB0S",
         "username": "Lachlan676767676767",
         "displayName": "Lachlan676767676767",
@@ -900,7 +926,7 @@
         "tier": "C"
       },
       {
-        "rank": 70,
+        "rank": 72,
         "tag": "SVC",
         "username": "LovelyJadeWombat",
         "displayName": "LovelyJadeWombat",
@@ -913,7 +939,7 @@
         "tier": "A"
       },
       {
-        "rank": 71,
+        "rank": 73,
         "tag": "THB0S",
         "username": "Tbone11",
         "displayName": "Tbone11",
@@ -926,7 +952,7 @@
         "tier": "C"
       },
       {
-        "rank": 72,
+        "rank": 74,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -939,7 +965,7 @@
         "tier": "B"
       },
       {
-        "rank": 73,
+        "rank": 75,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -952,7 +978,7 @@
         "tier": "C"
       },
       {
-        "rank": 74,
+        "rank": 76,
         "tag": "SVC",
         "username": "p800000",
         "displayName": "p800000",
@@ -965,7 +991,7 @@
         "tier": "C"
       },
       {
-        "rank": 75,
+        "rank": 77,
         "tag": "IMT",
         "username": "The Big Yahu",
         "displayName": "The Big Yahu",
@@ -978,7 +1004,7 @@
         "tier": "A"
       },
       {
-        "rank": 76,
+        "rank": 78,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -991,7 +1017,7 @@
         "tier": "A"
       },
       {
-        "rank": 77,
+        "rank": 79,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -1004,7 +1030,7 @@
         "tier": "C"
       },
       {
-        "rank": 78,
+        "rank": 80,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -1017,7 +1043,7 @@
         "tier": "B"
       },
       {
-        "rank": 79,
+        "rank": 81,
         "tag": "KEYCAT",
         "username": "InventiveSapphirePartridge",
         "displayName": "InventiveSapphirePartridge",
@@ -1030,7 +1056,7 @@
         "tier": "A"
       },
       {
-        "rank": 80,
+        "rank": 82,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -1043,7 +1069,20 @@
         "tier": "C"
       },
       {
-        "rank": 81,
+        "rank": 83,
+        "tag": "THB0S",
+        "username": "God First",
+        "displayName": "God First",
+        "nickname": "Legendary Lapper",
+        "squad": null,
+        "races": 10,
+        "wpm": 57.4,
+        "accuracy": 93.84,
+        "points": 1208,
+        "tier": "B"
+      },
+      {
+        "rank": 84,
         "tag": "KEYCAT",
         "username": "HappyPurpleLlama",
         "displayName": "HappyPurpleLlama",
@@ -1056,7 +1095,7 @@
         "tier": "C"
       },
       {
-        "rank": 82,
+        "rank": 85,
         "tag": "THB0S",
         "username": "alex NT",
         "displayName": "alex NT",
@@ -1069,7 +1108,7 @@
         "tier": "A"
       },
       {
-        "rank": 83,
+        "rank": 86,
         "tag": "THB0S",
         "username": "nev444ehh",
         "displayName": "nev444ehh",
@@ -1082,20 +1121,7 @@
         "tier": "A"
       },
       {
-        "rank": 84,
-        "tag": "THB0S",
-        "username": "God First",
-        "displayName": "God First",
-        "nickname": "Legendary Lapper",
-        "squad": null,
-        "races": 8,
-        "wpm": 56.2,
-        "accuracy": 93.2,
-        "points": 955,
-        "tier": "C"
-      },
-      {
-        "rank": 85,
+        "rank": 87,
         "tag": "KEYCAT",
         "username": "AquaCopperGuppy",
         "displayName": "AquaCopperGuppy",
@@ -1108,7 +1134,7 @@
         "tier": "A"
       },
       {
-        "rank": 86,
+        "rank": 88,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -1121,7 +1147,7 @@
         "tier": "B"
       },
       {
-        "rank": 87,
+        "rank": 89,
         "tag": "SVC",
         "username": "-Exotic19-",
         "displayName": "-Exotic19-",
@@ -1134,7 +1160,7 @@
         "tier": "B"
       },
       {
-        "rank": 88,
+        "rank": 90,
         "tag": "THB0S",
         "username": "Dj2tuff",
         "displayName": "Dj2tuff",
@@ -1147,20 +1173,7 @@
         "tier": "C"
       },
       {
-        "rank": 89,
-        "tag": "IMT",
-        "username": "GroundedAquaEmu",
-        "displayName": "GroundedAquaEmu",
-        "nickname": "Trail Angel",
-        "squad": "Starter Fund",
-        "races": 4,
-        "wpm": 103.3,
-        "accuracy": 98.36,
-        "points": 597,
-        "tier": "A"
-      },
-      {
-        "rank": 90,
+        "rank": 91,
         "tag": "KEYCAT",
         "username": "weak kingsley",
         "displayName": "weak kingsley",
@@ -1173,7 +1186,7 @@
         "tier": "C"
       },
       {
-        "rank": 91,
+        "rank": 92,
         "tag": "IMT",
         "username": "Jhungi",
         "displayName": "Jhungi",
@@ -1186,7 +1199,7 @@
         "tier": "B"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "tag": "THB0S",
         "username": "ben the fem",
         "displayName": "ben the fem",
@@ -1199,7 +1212,7 @@
         "tier": "B"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "tag": "KEYCAT",
         "username": "Barcelona",
         "displayName": "Barcelona",
@@ -1212,7 +1225,7 @@
         "tier": "C"
       },
       {
-        "rank": 94,
+        "rank": 95,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1225,7 +1238,7 @@
         "tier": "B"
       },
       {
-        "rank": 95,
+        "rank": 96,
         "tag": "THB0S",
         "username": "zynx_tb",
         "displayName": "zynx_tb",
@@ -1238,7 +1251,7 @@
         "tier": "B"
       },
       {
-        "rank": 96,
+        "rank": 97,
         "tag": "KEYCAT",
         "username": "TerrificPurpleSalamander",
         "displayName": "TerrificPurpleSalamander",
@@ -1251,7 +1264,7 @@
         "tier": "B"
       },
       {
-        "rank": 97,
+        "rank": 98,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -1264,7 +1277,7 @@
         "tier": "A"
       },
       {
-        "rank": 98,
+        "rank": 99,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1277,7 +1290,7 @@
         "tier": "A"
       },
       {
-        "rank": 99,
+        "rank": 100,
         "tag": "THB0S",
         "username": "The Ghost",
         "displayName": "The Ghost",
@@ -1290,7 +1303,7 @@
         "tier": "B"
       },
       {
-        "rank": 100,
+        "rank": 101,
         "tag": "KEYCAT",
         "username": "2_eus40",
         "displayName": "2_eus40",
@@ -1303,7 +1316,7 @@
         "tier": "A"
       },
       {
-        "rank": 101,
+        "rank": 102,
         "tag": "KEYCAT",
         "username": "UnpretentiousGoldSquirrel",
         "displayName": "UnpretentiousGoldSquirrel",
@@ -1316,7 +1329,7 @@
         "tier": "A"
       },
       {
-        "rank": 102,
+        "rank": 103,
         "tag": "KEYCAT",
         "username": "Void Racer alt",
         "displayName": "Void Racer alt",
@@ -1329,7 +1342,7 @@
         "tier": "A"
       },
       {
-        "rank": 103,
+        "rank": 104,
         "tag": "SVC",
         "username": "Rico_main",
         "displayName": "Rico_main",
@@ -1342,7 +1355,7 @@
         "tier": "A"
       },
       {
-        "rank": 104,
+        "rank": 105,
         "tag": "KEYCAT",
         "username": "HastyBeanAttack",
         "displayName": "HastyBeanAttack",
@@ -1355,7 +1368,7 @@
         "tier": "A"
       },
       {
-        "rank": 105,
+        "rank": 106,
         "tag": "IMT",
         "username": "Bobby Junior",
         "displayName": "Bobby Junior",
@@ -1368,7 +1381,7 @@
         "tier": "C"
       },
       {
-        "rank": 106,
+        "rank": 107,
         "tag": "IMT",
         "username": "YellowBronzeCoral",
         "displayName": "YellowBronzeCoral",
@@ -1381,7 +1394,7 @@
         "tier": "C"
       },
       {
-        "rank": 107,
+        "rank": 108,
         "tag": "THB0S",
         "username": "Violets-NTGfor30mil",
         "displayName": "Violets-NTGfor30mil",
@@ -1394,7 +1407,7 @@
         "tier": "B"
       },
       {
-        "rank": 108,
+        "rank": 109,
         "tag": "SVC",
         "username": "Aiden2fast",
         "displayName": "Aiden2fast",
@@ -1407,7 +1420,7 @@
         "tier": "C"
       },
       {
-        "rank": 109,
+        "rank": 110,
         "tag": "THB0S",
         "username": "bedroque",
         "displayName": "bedroque",
@@ -1420,7 +1433,7 @@
         "tier": "B"
       },
       {
-        "rank": 110,
+        "rank": 111,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -1433,7 +1446,7 @@
         "tier": "A"
       },
       {
-        "rank": 111,
+        "rank": 112,
         "tag": "THB0S",
         "username": "I AM ABIGAILLLLLLLLL",
         "displayName": "I AM ABIGAILLLLLLLLL",
@@ -1446,7 +1459,7 @@
         "tier": "B"
       },
       {
-        "rank": 112,
+        "rank": 113,
         "tag": "IMT",
         "username": "izersss",
         "displayName": "izersss",
@@ -1459,7 +1472,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793121060688
+    "_syncedAt": 1793123470671
   },
   "1437": {
     "eventId": "1437",
@@ -1471,11 +1484,11 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Entrepreneur 500",
-        "races": 125,
-        "wpm": 78.6,
-        "accuracy": 93.4,
-        "points": 16261,
-        "tier": null
+        "races": 150,
+        "wpm": 79.1,
+        "accuracy": 93.42,
+        "points": 19552,
+        "tier": "$2,000,000"
       },
       {
         "rank": 2,
@@ -1519,6 +1532,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "VOID_REIGN",
+        "displayName": "VOID_REIGN",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Entrepreneur 500",
+        "races": 75,
+        "wpm": 57.6,
+        "accuracy": 90.53,
+        "points": 8745,
+        "tier": null
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
         "nickname": "Nitro Libre",
@@ -1527,19 +1553,6 @@
         "wpm": 90.7,
         "accuracy": 97.59,
         "points": 8226,
-        "tier": null
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "VOID_REIGN",
-        "displayName": "VOID_REIGN",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
-        "races": 58,
-        "wpm": 57.4,
-        "accuracy": 90.94,
-        "points": 6787,
         "tier": null
       },
       {
@@ -1610,6 +1623,19 @@
       {
         "rank": 12,
         "tag": "IMT",
+        "username": "Unknown",
+        "displayName": "Unknown",
+        "nickname": "Olde School",
+        "squad": "Side Hustler 100",
+        "races": 40,
+        "wpm": 104.4,
+        "accuracy": 96.26,
+        "points": 5860,
+        "tier": null
+      },
+      {
+        "rank": 13,
+        "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
@@ -1621,7 +1647,7 @@
         "tier": null
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -1634,7 +1660,7 @@
         "tier": null
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -1647,7 +1673,7 @@
         "tier": null
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -1657,19 +1683,6 @@
         "wpm": 84,
         "accuracy": 95.04,
         "points": 2699,
-        "tier": null
-      },
-      {
-        "rank": 16,
-        "tag": "IMT",
-        "username": "Unknown",
-        "displayName": "Unknown",
-        "nickname": "Olde School",
-        "squad": "Side Hustler 100",
-        "races": 18,
-        "wpm": 103.9,
-        "accuracy": 96.42,
-        "points": 2637,
         "tier": null
       },
       {
@@ -1688,6 +1701,19 @@
       {
         "rank": 18,
         "tag": "IMT",
+        "username": "GroundedAquaEmu",
+        "displayName": "GroundedAquaEmu",
+        "nickname": "Trail Angel",
+        "squad": "Starter Fund",
+        "races": 15,
+        "wpm": 96.4,
+        "accuracy": 96.78,
+        "points": 2152,
+        "tier": null
+      },
+      {
+        "rank": 19,
+        "tag": "IMT",
         "username": "Amaterasu",
         "displayName": "Amaterasu",
         "nickname": "Nitro-Opulent",
@@ -1699,7 +1725,7 @@
         "tier": null
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -1712,7 +1738,7 @@
         "tier": null
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "The Big Yahu",
         "displayName": "The Big Yahu",
@@ -1725,7 +1751,7 @@
         "tier": null
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
@@ -1738,7 +1764,7 @@
         "tier": null
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -1748,19 +1774,6 @@
         "wpm": 80.2,
         "accuracy": 87.76,
         "points": 861,
-        "tier": null
-      },
-      {
-        "rank": 23,
-        "tag": "IMT",
-        "username": "GroundedAquaEmu",
-        "displayName": "GroundedAquaEmu",
-        "nickname": "Trail Angel",
-        "squad": "Starter Fund",
-        "races": 4,
-        "wpm": 103.3,
-        "accuracy": 98.36,
-        "points": 597,
         "tier": null
       },
       {
@@ -1816,6 +1829,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793121056102
+    "_syncedAt": 1793123465817
   }
 }

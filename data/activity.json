@@ -3,27 +3,7 @@
     {
       "hour": "2026-10-26 17:00:00",
       "racer": "insta _trewatkins",
-      "races": 23
-    },
-    {
-      "hour": "2026-10-26 17:00:00",
-      "racer": "KirbyDelta",
-      "races": 19
-    },
-    {
-      "hour": "2026-10-26 17:00:00",
-      "racer": "Namedisplayed",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-26 17:00:00",
-      "racer": "Noah0821",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-26 17:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 6
+      "races": 4
     },
     {
       "hour": "2026-10-26 17:00:00",
@@ -32,8 +12,8 @@
     },
     {
       "hour": "2026-10-26 17:00:00",
-      "racer": "Void Racer",
-      "races": 1
+      "racer": "SKZ FIRAH",
+      "races": 2
     },
     {
       "hour": "2026-10-26 19:00:00",
@@ -137,12 +117,12 @@
     },
     {
       "hour": "2026-10-27 12:00:00",
-      "racer": "Namedisplayed",
+      "racer": "VOID_REIGN",
       "races": 11
     },
     {
       "hour": "2026-10-27 12:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "Namedisplayed",
       "races": 11
     },
     {
@@ -227,12 +207,12 @@
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "t_unknown",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "UJAADDAH",
+      "racer": "t_unknown",
       "races": 1
     },
     {
@@ -259,8 +239,28 @@
       "hour": "2026-10-27 16:00:00",
       "racer": "GroundedAquaEmu",
       "races": 4
+    },
+    {
+      "hour": "2026-10-27 17:00:00",
+      "racer": "KirbyDelta",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-27 17:00:00",
+      "racer": "Unknown",
+      "races": 22
+    },
+    {
+      "hour": "2026-10-27 17:00:00",
+      "racer": "VOID_REIGN",
+      "races": 17
+    },
+    {
+      "hour": "2026-10-27 17:00:00",
+      "racer": "GroundedAquaEmu",
+      "races": 11
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793121015348
+  "_syncedAt": 1793123423509
 }

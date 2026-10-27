@@ -103,7 +103,7 @@
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "nickname": "Champion Chaser",
-      "role": "officer",
+      "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
       "avgWPM": 93,
@@ -142,7 +142,7 @@
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "nickname": "I Love Nitros",
-      "role": "member",
+      "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 55,
@@ -236,10 +236,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 94,
       "topWPM": 106,
-      "lifetimeRaces": 1306,
-      "teamRaces": 74,
+      "lifetimeRaces": 1313,
+      "teamRaces": 85,
       "joined": "09/29/26"
     },
     {
@@ -301,10 +301,10 @@
       "role": "officer",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 56,
+      "avgWPM": 59,
       "topWPM": 108,
-      "lifetimeRaces": 1189,
-      "teamRaces": 936,
+      "lifetimeRaces": 1201,
+      "teamRaces": 953,
       "joined": "10/07/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 104,
+      "avgWPM": 107,
       "topWPM": 132,
-      "lifetimeRaces": 6944,
-      "teamRaces": 202,
+      "lifetimeRaces": 6962,
+      "teamRaces": 224,
       "joined": "10/14/26"
     },
     {
@@ -391,11 +391,11 @@
       "nickname": "Quicker Than the Fox",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 79,
+      "tier": "B",
+      "avgWPM": 83,
       "topWPM": 102,
-      "lifetimeRaces": 6825,
-      "teamRaces": 800,
+      "lifetimeRaces": 6850,
+      "teamRaces": 825,
       "joined": "10/15/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793121015347
+  "_syncedAt": 1793123423508
 }
