@@ -13,28 +13,28 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20279,
-      "wpm": 96,
+      "allTimeRaces": 20282,
+      "wpm": 91,
       "highestWPM": 110,
-      "teamRaces": 2640,
+      "teamRaces": 2643,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793108606
+      "lastLogin": 1793123593
     },
     {
       "username": "jonathan711111",
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 6962,
-      "wpm": 107,
+      "allTimeRaces": 6967,
+      "wpm": 102,
       "highestWPM": 132,
       "teamRaces": 224,
       "acc": 96.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1793120556
+      "lastLogin": 1793125792
     },
     {
       "username": "vlambjr",
@@ -86,7 +86,7 @@
       "allTimeRaces": 1315,
       "wpm": 95,
       "highestWPM": 106,
-      "teamRaces": 85,
+      "teamRaces": 87,
       "acc": 97.22,
       "season": null,
       "status": "active",
@@ -258,7 +258,7 @@
       "acc": 96.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793116385
+      "lastLogin": 1793123981
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -559,14 +559,14 @@
       "displayName": "Victoria Ram",
       "role": "member",
       "joinStamp": 1791380695,
-      "allTimeRaces": 914,
-      "wpm": 84,
+      "allTimeRaces": 916,
+      "wpm": 83,
       "highestWPM": 94,
       "teamRaces": 35,
       "acc": 96.54,
       "season": null,
       "status": "active",
-      "lastLogin": 1792162866
+      "lastLogin": 1793125876
     },
     {
       "username": "53f35d28a54dfa99bfab7ecbf663428e",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60973,
+      "races": 60978,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 567,
+      "races": 559,
       "avgWPM": 82,
-      "avgAcc": 93.19,
+      "avgAcc": 93.24,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793123369963
+  "_syncedAt": 1793126030425
 }
