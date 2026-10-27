@@ -3,12 +3,7 @@
     {
       "hour": "2026-10-26 23:00:00",
       "racer": "insta _trewatkins",
-      "races": 35
-    },
-    {
-      "hour": "2026-10-26 23:00:00",
-      "racer": "UJAADDAH",
-      "races": 3
+      "races": 8
     },
     {
       "hour": "2026-10-27 00:00:00",
@@ -62,12 +57,12 @@
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "KirbyDelta",
+      "racer": "PootsyWafflebiscuits",
       "races": 20
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "KirbyDelta",
       "races": 20
     },
     {
@@ -274,8 +269,13 @@
       "hour": "2026-10-27 22:00:00",
       "racer": "GroundedAquaEmu",
       "races": 5
+    },
+    {
+      "hour": "2026-10-27 23:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793143255982
+  "_syncedAt": 1793145223311
 }

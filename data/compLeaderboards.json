@@ -152,10 +152,10 @@
         "displayName": "Spy on teams",
         "nickname": "Spectral Speedster",
         "squad": "Active!",
-        "races": 144,
-        "wpm": 42.3,
-        "accuracy": 90.39,
-        "points": 15766,
+        "races": 145,
+        "wpm": 42.2,
+        "accuracy": 90.44,
+        "points": 15883,
         "tier": "C"
       },
       {
@@ -278,6 +278,19 @@
       {
         "rank": 22,
         "tag": "THB0S",
+        "username": "ella winters",
+        "displayName": "ella winters",
+        "nickname": "I Like Friends",
+        "squad": null,
+        "races": 84,
+        "wpm": 92.3,
+        "accuracy": 96.27,
+        "points": 11817,
+        "tier": "A"
+      },
+      {
+        "rank": 23,
+        "tag": "THB0S",
         "username": "Martin",
         "displayName": "Martin",
         "nickname": "Nitro Drift",
@@ -289,7 +302,7 @@
         "tier": "B"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "KEYCAT",
         "username": "UREALF8TE",
         "displayName": "UREALF8TE",
@@ -302,7 +315,7 @@
         "tier": "C"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -315,7 +328,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -328,7 +341,7 @@
         "tier": "A"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "THB0S",
         "username": "-Rocky-",
         "displayName": "-Rocky-",
@@ -341,7 +354,7 @@
         "tier": "A"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "THB0S",
         "username": "Hot Chocolate",
         "displayName": "Hot Chocolate",
@@ -354,7 +367,7 @@
         "tier": "A"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -367,7 +380,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "KEYCAT",
         "username": "I am it",
         "displayName": "I am it",
@@ -380,7 +393,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "KEYCAT",
         "username": "Adam Smasher",
         "displayName": "Adam Smasher",
@@ -393,7 +406,7 @@
         "tier": "B"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -406,7 +419,7 @@
         "tier": "B"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -419,7 +432,7 @@
         "tier": "A"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "SVC",
         "username": "SensitiveGoldCobra",
         "displayName": "SensitiveGoldCobra",
@@ -432,7 +445,7 @@
         "tier": "B"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
@@ -445,20 +458,20 @@
         "tier": "B"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "THB0S",
-        "username": "ella winters",
-        "displayName": "ella winters",
-        "nickname": "I Like Friends",
-        "squad": null,
-        "races": 59,
-        "wpm": 92.6,
-        "accuracy": 96.24,
-        "points": 8308,
-        "tier": "A"
+        "username": "CrazyTyper",
+        "displayName": "CrazyTyper",
+        "nickname": "Not So Koi",
+        "squad": "Officer",
+        "races": 64,
+        "wpm": 59.7,
+        "accuracy": 94.07,
+        "points": 7817,
+        "tier": "C"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -468,19 +481,6 @@
         "wpm": 49.5,
         "accuracy": 84.63,
         "points": 7812,
-        "tier": "C"
-      },
-      {
-        "rank": 37,
-        "tag": "THB0S",
-        "username": "CrazyTyper",
-        "displayName": "CrazyTyper",
-        "nickname": "Not So Koi",
-        "squad": "Officer",
-        "races": 63,
-        "wpm": 59.7,
-        "accuracy": 94.09,
-        "points": 7698,
         "tier": "C"
       },
       {
@@ -516,10 +516,10 @@
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
         "squad": "Starter Fund",
-        "races": 53,
-        "wpm": 75.1,
-        "accuracy": 91.88,
-        "points": 6698,
+        "races": 54,
+        "wpm": 75.3,
+        "accuracy": 91.94,
+        "points": 6833,
         "tier": "C"
       },
       {
@@ -1537,7 +1537,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793143301636
+    "_syncedAt": 1793145267570
   },
   "1437": {
     "eventId": "1437",
@@ -1705,10 +1705,10 @@
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
         "squad": "Starter Fund",
-        "races": 37,
-        "wpm": 74.5,
-        "accuracy": 91.8,
-        "points": 4662,
+        "races": 38,
+        "wpm": 74.8,
+        "accuracy": 91.88,
+        "points": 4797,
         "tier": null
       },
       {
@@ -1933,6 +1933,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793143297129
+    "_syncedAt": 1793145263177
   }
 }
