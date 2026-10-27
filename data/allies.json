@@ -448,11 +448,11 @@
         "displayName": "InventiveSapphirePartridge",
         "role": "member",
         "joinStamp": 1793060013,
-        "allTimeRaces": 870,
-        "wpm": 86,
+        "allTimeRaces": 872,
+        "wpm": 88,
         "highestWPM": 101,
-        "teamRaces": 6,
-        "acc": 96.95,
+        "teamRaces": 9,
+        "acc": 96.66,
         "season": null,
         "status": "active",
         "lastLogin": 1793058647
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79591,
+        "races": 79594,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 436,
+        "races": 439,
         "avgWPM": 64,
-        "avgAcc": 93.27,
+        "avgAcc": 93.3,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793060590396
+    "_syncedAt": 1793062854169
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793060609640
+    "_syncedAt": 1793062875064
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793060628643
+    "_syncedAt": 1793062893874
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4509,
+    "profileViews": 4510,
     "leagueTier": 12,
     "racers": [
       {
@@ -1356,11 +1356,11 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12129,
-        "wpm": 87,
+        "allTimeRaces": 12141,
+        "wpm": 94,
         "highestWPM": 116,
-        "teamRaces": 5167,
-        "acc": 92.33,
+        "teamRaces": 5180,
+        "acc": 92.34,
         "season": null,
         "status": "active",
         "lastLogin": 1793059579
@@ -1370,11 +1370,11 @@
         "displayName": "FireworkLauncher",
         "role": "member",
         "joinStamp": 1785290295,
-        "allTimeRaces": 7004,
-        "wpm": 71,
+        "allTimeRaces": 7012,
+        "wpm": 72,
         "highestWPM": 90,
-        "teamRaces": 3099,
-        "acc": 91.42,
+        "teamRaces": 3117,
+        "acc": 91.4,
         "season": null,
         "status": "active",
         "lastLogin": 1793059548
@@ -1499,8 +1499,8 @@
         "allTimeRaces": 2985,
         "wpm": 83,
         "highestWPM": 101,
-        "teamRaces": 18,
-        "acc": 92.7,
+        "teamRaces": 20,
+        "acc": 92.84,
         "season": null,
         "status": "active",
         "lastLogin": 1793057917
@@ -1804,11 +1804,11 @@
         "displayName": "The Ghost",
         "role": "member",
         "joinStamp": 1791602438,
-        "allTimeRaces": 5901,
-        "wpm": 82,
+        "allTimeRaces": 5902,
+        "wpm": 81,
         "highestWPM": 109,
-        "teamRaces": 294,
-        "acc": 94.99,
+        "teamRaces": 295,
+        "acc": 94.98,
         "season": null,
         "status": "active",
         "lastLogin": 1793060215
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123614,
+        "races": 123648,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 47
       },
       "daily": {
-        "races": 868,
-        "avgWPM": 75,
-        "avgAcc": 94.54,
+        "races": 825,
+        "avgWPM": 73,
+        "avgAcc": 94.16,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793060798259
+    "_syncedAt": 1793063063491
   }
 }
