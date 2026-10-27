@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 86,
+      "tier": "A",
+      "avgWPM": 96,
       "topWPM": 110,
-      "lifetimeRaces": 20253,
-      "teamRaces": 2614,
+      "lifetimeRaces": 20279,
+      "teamRaces": 2634,
       "joined": "06/24/26"
     },
     {
@@ -379,9 +379,9 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 84,
       "topWPM": 111,
-      "lifetimeRaces": 5335,
+      "lifetimeRaces": 5336,
       "teamRaces": 306,
       "joined": "10/15/26"
     },
@@ -392,10 +392,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 80,
+      "avgWPM": 79,
       "topWPM": 102,
-      "lifetimeRaces": 6800,
-      "teamRaces": 775,
+      "lifetimeRaces": 6825,
+      "teamRaces": 795,
       "joined": "10/15/26"
     },
     {
@@ -483,10 +483,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 94,
       "topWPM": 215,
-      "lifetimeRaces": 809,
-      "teamRaces": 29,
+      "lifetimeRaces": 818,
+      "teamRaces": 38,
       "joined": "10/22/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 53,
+      "avgWPM": 56,
       "topWPM": 78,
-      "lifetimeRaces": 1394,
-      "teamRaces": 125,
+      "lifetimeRaces": 1407,
+      "teamRaces": 133,
       "joined": "10/22/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793107271442
+  "_syncedAt": 1793110408370
 }

@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793107291541
+        "_syncedAt": 1793110428740
       }
     },
     {
@@ -1698,7 +1698,7 @@
                 },
                 {
                   "seed": "52",
-                  "racer": "IMIME_IMIME",
+                  "racer": "Not_Ime",
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
@@ -2564,7 +2564,7 @@
                   "teamTag": "IMT",
                   "gold": true,
                   "placeholder": false,
-                  "score": 26019
+                  "score": 28666
                 },
                 {
                   "seed": "24",
@@ -2638,7 +2638,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 3491
+                  "score": 4429
                 }
               ],
               "winner": 0
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793107308672
+        "_syncedAt": 1793110445691
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793107308675
+  "_syncedAt": 1793110445695
 }

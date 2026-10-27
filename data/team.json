@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament LIVE ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2134,
+  "profileViews": 2137,
   "leagueTier": 12,
   "racers": [
     {
@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20253,
-      "wpm": 86,
+      "allTimeRaces": 20279,
+      "wpm": 96,
       "highestWPM": 110,
-      "teamRaces": 2614,
+      "teamRaces": 2640,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793021411
+      "lastLogin": 1793108606
     },
     {
       "username": "jonathan711111",
@@ -202,21 +202,21 @@
       "acc": 96.29,
       "season": null,
       "status": "active",
-      "lastLogin": 1793105258
+      "lastLogin": 1793108591
     },
     {
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5335,
-      "wpm": 85,
+      "allTimeRaces": 5336,
+      "wpm": 84,
       "highestWPM": 111,
-      "teamRaces": 306,
-      "acc": 94.89,
+      "teamRaces": 307,
+      "acc": 94.88,
       "season": null,
       "status": "active",
-      "lastLogin": 1793027433
+      "lastLogin": 1793109518
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -237,14 +237,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6800,
-      "wpm": 80,
+      "allTimeRaces": 6825,
+      "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 775,
-      "acc": 93.56,
+      "teamRaces": 800,
+      "acc": 93.61,
       "season": null,
       "status": "active",
-      "lastLogin": 1793032972
+      "lastLogin": 1793108788
     },
     {
       "username": "cash4087",
@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "officer",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1543,
+      "allTimeRaces": 1545,
       "wpm": 91,
       "highestWPM": 119,
       "teamRaces": 1196,
       "acc": 94.36,
       "season": null,
       "status": "active",
-      "lastLogin": 1793104526
+      "lastLogin": 1793110242
     },
     {
       "username": "imenishat",
@@ -482,7 +482,7 @@
       "acc": 92.66,
       "season": null,
       "status": "active",
-      "lastLogin": 1793103227
+      "lastLogin": 1793109598
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -573,14 +573,14 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 809,
-      "wpm": 92,
+      "allTimeRaces": 818,
+      "wpm": 94,
       "highestWPM": 215,
-      "teamRaces": 29,
-      "acc": 92.25,
+      "teamRaces": 38,
+      "acc": 92.13,
       "season": null,
       "status": "active",
-      "lastLogin": 1792773903
+      "lastLogin": 1793107281
     },
     {
       "username": "220c8a080156dd343f8e79451ff336d8",
@@ -601,14 +601,14 @@
       "displayName": "kdjkldglkdghklfghfkg",
       "role": "member",
       "joinStamp": 1792679716,
-      "allTimeRaces": 1394,
-      "wpm": 53,
+      "allTimeRaces": 1408,
+      "wpm": 55,
       "highestWPM": 78,
-      "teamRaces": 125,
-      "acc": 89.46,
+      "teamRaces": 139,
+      "acc": 89.45,
       "season": null,
       "status": "active",
-      "lastLogin": 1793022434
+      "lastLogin": 1793108847
     },
     {
       "username": "me_likey_typey",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60694,
+      "races": 60769,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 686,
-      "avgWPM": 85,
-      "avgAcc": 93.99,
+      "races": 631,
+      "avgWPM": 86,
+      "avgAcc": 94.05,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793107210257
+  "_syncedAt": 1793110352133
 }
