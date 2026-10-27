@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793069056687
+    "_syncedAt": 1793071003725
   },
   "SVC": {
     "tag": "SVC",
@@ -886,8 +886,8 @@
         "allTimeRaces": 764,
         "wpm": 89,
         "highestWPM": 122,
-        "teamRaces": 215,
-        "acc": 93.42,
+        "teamRaces": 220,
+        "acc": 93.43,
         "season": null,
         "status": "active",
         "lastLogin": 1793068808
@@ -1203,26 +1203,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 40940,
+        "races": 40945,
         "avgWPM": 82,
         "avgAcc": 94.27,
         "members": 39
       },
       "daily": {
-        "races": 229,
+        "races": 234,
         "avgWPM": 83,
-        "avgAcc": 94.44,
+        "avgAcc": 94.43,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793069076064
+    "_syncedAt": 1793071022634
   },
   "IMTR": {
     "tag": "IMTR",
     "name": "IMT Retired Racers",
-    "members": 2,
+    "members": 3,
     "activePercent": 33,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
@@ -1244,6 +1244,20 @@
         "lastLogin": 1793013010
       },
       {
+        "username": "king_cheeseman",
+        "displayName": "PracticalTealBug",
+        "role": "member",
+        "joinStamp": 1793069501,
+        "allTimeRaces": 16152,
+        "wpm": 85,
+        "highestWPM": 118,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1793069412
+      },
+      {
         "username": "the_only_winner123",
         "displayName": "the_only_winner123",
         "role": "officer",
@@ -1263,13 +1277,13 @@
         "races": 60,
         "avgWPM": 75,
         "avgAcc": 97.91,
-        "members": 2
+        "members": 3
       },
       "daily": null,
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793069094969
+    "_syncedAt": 1793071041444
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1292,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4512,
+    "profileViews": 4513,
     "leagueTier": 12,
     "racers": [
       {
@@ -1307,7 +1321,7 @@
         "acc": 97.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793041973
+        "lastLogin": 1793070865
       },
       {
         "username": "mcculpar",
@@ -1580,14 +1594,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8606,
-        "wpm": 60,
+        "allTimeRaces": 8619,
+        "wpm": 68,
         "highestWPM": 95,
-        "teamRaces": 1059,
-        "acc": 97.29,
+        "teamRaces": 1071,
+        "acc": 97.3,
         "season": null,
         "status": "active",
-        "lastLogin": 1792975699
+        "lastLogin": 1793070103
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1720,11 +1734,11 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 18971,
-        "wpm": 98,
+        "allTimeRaces": 18990,
+        "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 18505,
-        "acc": 93.98,
+        "teamRaces": 18530,
+        "acc": 93.99,
         "season": null,
         "status": "active",
         "lastLogin": 1793063281
@@ -1928,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 123708,
+        "races": 123745,
         "avgWPM": 67,
         "avgAcc": 93.98,
         "members": 46
       },
       "daily": {
-        "races": 768,
+        "races": 781,
         "avgWPM": 74,
-        "avgAcc": 94.15,
+        "avgAcc": 94.24,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793069264508
+    "_syncedAt": 1793071210857
   }
 }
