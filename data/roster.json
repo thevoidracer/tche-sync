@@ -287,11 +287,11 @@
       "nickname": "B.U.S. Driver",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "A",
-      "avgWPM": 94,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 115,
-      "lifetimeRaces": 5102,
-      "teamRaces": 917,
+      "lifetimeRaces": 5111,
+      "teamRaces": 931,
       "joined": "10/06/26"
     },
     {
@@ -602,7 +602,7 @@
       "tier": "C",
       "avgWPM": 67,
       "topWPM": 98,
-      "lifetimeRaces": 700,
+      "lifetimeRaces": 701,
       "teamRaces": 48,
       "joined": "10/25/26"
     },
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793058819451
+  "_syncedAt": 1793060543600
 }

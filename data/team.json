@@ -69,11 +69,11 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 5103,
-      "wpm": 94,
+      "allTimeRaces": 5111,
+      "wpm": 89,
       "highestWPM": 115,
-      "teamRaces": 923,
-      "acc": 94.91,
+      "teamRaces": 931,
+      "acc": 94.89,
       "season": null,
       "status": "active",
       "lastLogin": 1793054106
@@ -517,14 +517,14 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 700,
+      "allTimeRaces": 701,
       "wpm": 67,
       "highestWPM": 98,
-      "teamRaces": 48,
-      "acc": 92.56,
+      "teamRaces": 49,
+      "acc": 92.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1793053380
+      "lastLogin": 1793059769
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60560,
+      "races": 60569,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 737,
+      "races": 739,
       "avgWPM": 82,
-      "avgAcc": 93.78,
+      "avgAcc": 93.79,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793058765672
+  "_syncedAt": 1793060488017
 }
