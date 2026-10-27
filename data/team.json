@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament LIVE ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2145,
+  "profileViews": 2146,
   "leagueTier": 12,
   "racers": [
     {
@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20282,
-      "wpm": 91,
+      "allTimeRaces": 20286,
+      "wpm": 90,
       "highestWPM": 110,
-      "teamRaces": 2643,
+      "teamRaces": 2647,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793123593
+      "lastLogin": 1793127356
     },
     {
       "username": "jonathan711111",
@@ -30,8 +30,8 @@
       "allTimeRaces": 6967,
       "wpm": 102,
       "highestWPM": 132,
-      "teamRaces": 224,
-      "acc": 96.02,
+      "teamRaces": 229,
+      "acc": 96,
       "season": null,
       "status": "active",
       "lastLogin": 1793125792
@@ -559,11 +559,11 @@
       "displayName": "Victoria Ram",
       "role": "member",
       "joinStamp": 1791380695,
-      "allTimeRaces": 916,
-      "wpm": 83,
+      "allTimeRaces": 927,
+      "wpm": 77,
       "highestWPM": 94,
-      "teamRaces": 35,
-      "acc": 96.54,
+      "teamRaces": 48,
+      "acc": 96.29,
       "season": null,
       "status": "active",
       "lastLogin": 1793125876
@@ -615,14 +615,14 @@
       "displayName": "me_likey_typey",
       "role": "officer",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9284,
-      "wpm": 55,
+      "allTimeRaces": 9288,
+      "wpm": 57,
       "highestWPM": 82,
-      "teamRaces": 1238,
-      "acc": 79.91,
+      "teamRaces": 1242,
+      "acc": 79.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1793117173
+      "lastLogin": 1793127004
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60978,
+      "races": 61004,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 559,
+      "races": 578,
       "avgWPM": 82,
-      "avgAcc": 93.24,
+      "avgAcc": 93.32,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793126030425
+  "_syncedAt": 1793128317558
 }

@@ -28,10 +28,10 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 90,
       "topWPM": 110,
-      "lifetimeRaces": 20282,
-      "teamRaces": 2643,
+      "lifetimeRaces": 20286,
+      "teamRaces": 2647,
       "joined": "06/24/26"
     },
     {
@@ -141,14 +141,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "I Love Nitros",
+      "nickname": "Insert Coin to Continue",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 55,
+      "avgWPM": 57,
       "topWPM": 82,
-      "lifetimeRaces": 9284,
-      "teamRaces": 1238,
+      "lifetimeRaces": 9288,
+      "teamRaces": 1240,
       "joined": "09/09/26"
     },
     {
@@ -313,11 +313,11 @@
       "nickname": "Master Motorist",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 84,
+      "tier": "C",
+      "avgWPM": 77,
       "topWPM": 94,
-      "lifetimeRaces": 914,
-      "teamRaces": 35,
+      "lifetimeRaces": 927,
+      "teamRaces": 48,
       "joined": "10/07/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 107,
+      "avgWPM": 102,
       "topWPM": 132,
-      "lifetimeRaces": 6962,
-      "teamRaces": 224,
+      "lifetimeRaces": 6967,
+      "teamRaces": 229,
       "joined": "10/14/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793126089039
+  "_syncedAt": 1793128375161
 }
