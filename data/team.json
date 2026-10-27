@@ -405,14 +405,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1640,
-      "wpm": 95,
+      "allTimeRaces": 1648,
+      "wpm": 92,
       "highestWPM": 122,
-      "teamRaces": 107,
-      "acc": 91.01,
+      "teamRaces": 115,
+      "acc": 90.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1793056107
+      "lastLogin": 1793065467
     },
     {
       "username": "e146afef38fb68bbc69f405b9a1ca1bb",
@@ -482,7 +482,7 @@
       "acc": 92.66,
       "season": null,
       "status": "active",
-      "lastLogin": 1793064058
+      "lastLogin": 1793066540
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 60569,
+      "races": 60577,
       "avgWPM": 76,
       "avgAcc": 94.97,
       "members": 48
     },
     "daily": {
-      "races": 711,
-      "avgWPM": 83,
-      "avgAcc": 93.83,
+      "races": 699,
+      "avgWPM": 84,
+      "avgAcc": 93.85,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793064933109
+  "_syncedAt": 1793067252662
 }
