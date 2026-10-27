@@ -43,6 +43,19 @@
       },
       {
         "rank": 4,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 191,
+        "wpm": 88.7,
+        "accuracy": 95.29,
+        "points": 26268,
+        "tier": "A"
+      },
+      {
+        "rank": 5,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -53,19 +66,6 @@
         "accuracy": 93.57,
         "points": 26019,
         "tier": "C"
-      },
-      {
-        "rank": 5,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 186,
-        "wpm": 88.6,
-        "accuracy": 95.29,
-        "points": 25581,
-        "tier": "A"
       },
       {
         "rank": 6,
@@ -329,6 +329,19 @@
       },
       {
         "rank": 26,
+        "tag": "THB0S",
+        "username": "Hot Chocolate",
+        "displayName": "Hot Chocolate",
+        "nickname": "Solid Gold",
+        "squad": null,
+        "races": 50,
+        "wpm": 95,
+        "accuracy": 96.17,
+        "points": 7093,
+        "tier": "A"
+      },
+      {
+        "rank": 27,
         "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
@@ -341,7 +354,7 @@
         "tier": "B"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -354,7 +367,7 @@
         "tier": "A"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "THB0S",
         "username": "aiden67676767676767",
         "displayName": "aiden67676767676767",
@@ -367,7 +380,7 @@
         "tier": "C"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "KEYCAT",
         "username": "Adam Smasher",
         "displayName": "Adam Smasher",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -391,19 +404,6 @@
         "accuracy": 91.97,
         "points": 6205,
         "tier": "C"
-      },
-      {
-        "rank": 31,
-        "tag": "THB0S",
-        "username": "Hot Chocolate",
-        "displayName": "Hot Chocolate",
-        "nickname": "Solid Gold",
-        "squad": null,
-        "races": 43,
-        "wpm": 95,
-        "accuracy": 96.16,
-        "points": 6100,
-        "tier": "A"
       },
       {
         "rank": 32,
@@ -1251,7 +1251,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793067372742
+    "_syncedAt": 1793069056541
   },
   "1437": {
     "eventId": "1437",
@@ -1543,6 +1543,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793067368464
+    "_syncedAt": 1793069051698
   }
 }
