@@ -399,7 +399,7 @@
         "acc": 93.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793101013
+        "lastLogin": 1793133316
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -490,14 +490,14 @@
         "displayName": "Barcelona",
         "role": "member",
         "joinStamp": 1790805421,
-        "allTimeRaces": 545,
-        "wpm": 24,
+        "allTimeRaces": 557,
+        "wpm": 23,
         "highestWPM": 46,
-        "teamRaces": 105,
-        "acc": 94.8,
+        "teamRaces": 115,
+        "acc": 94.86,
         "season": null,
         "status": "active",
-        "lastLogin": 1793047710
+        "lastLogin": 1793133675
       },
       {
         "username": "lillie1432",
@@ -670,21 +670,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 79977,
+        "races": 79987,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 47
       },
       "daily": {
-        "races": 480,
-        "avgWPM": 62,
-        "avgAcc": 93.73,
+        "races": 474,
+        "avgWPM": 61,
+        "avgAcc": 93.74,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793132780787
+    "_syncedAt": 1793134792642
   },
   "SVC": {
     "tag": "SVC",
@@ -1251,15 +1251,15 @@
         "members": 39
       },
       "daily": {
-        "races": 207,
-        "avgWPM": 85,
-        "avgAcc": 95.41,
+        "races": 193,
+        "avgWPM": 84,
+        "avgAcc": 95.35,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793132799972
+    "_syncedAt": 1793134827387
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1311,7 +1311,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793132819011
+    "_syncedAt": 1793134846500
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1320,7 +1320,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4543,
+    "profileViews": 4545,
     "leagueTier": 12,
     "racers": [
       {
@@ -1636,14 +1636,14 @@
         "displayName": "DiminishedLight",
         "role": "member",
         "joinStamp": 1785289895,
-        "allTimeRaces": 1180,
-        "wpm": 64,
+        "allTimeRaces": 1197,
+        "wpm": 69,
         "highestWPM": 88,
-        "teamRaces": 1093,
-        "acc": 96.56,
+        "teamRaces": 1110,
+        "acc": 96.57,
         "season": null,
         "status": "active",
-        "lastLogin": 1793123434
+        "lastLogin": 1793133553
       },
       {
         "username": "1st_speedster",
@@ -1779,7 +1779,7 @@
         "allTimeRaces": 3711,
         "wpm": 45,
         "highestWPM": 61,
-        "teamRaces": 2171,
+        "teamRaces": 2173,
         "acc": 92.01,
         "season": null,
         "status": "active",
@@ -1984,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 124454,
+        "races": 124473,
         "avgWPM": 67,
         "avgAcc": 93.99,
         "members": 47
       },
       "daily": {
-        "races": 963,
-        "avgWPM": 87,
-        "avgAcc": 95.17,
+        "races": 950,
+        "avgWPM": 85,
+        "avgAcc": 95.04,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793132988823
+    "_syncedAt": 1793135016216
   }
 }

@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 793,
-      "wpm": 67,
+      "allTimeRaces": 803,
+      "wpm": 69,
       "highestWPM": 84,
-      "teamRaces": 292,
-      "acc": 94.59,
+      "teamRaces": 299,
+      "acc": 94.61,
       "season": null,
       "status": "active",
-      "lastLogin": 1793050082
+      "lastLogin": 1793133862
     },
     {
       "username": "c3b559e21447f9028631f1bbb7e9ab04",
@@ -363,11 +363,11 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1584,
+      "allTimeRaces": 1605,
       "wpm": 92,
       "highestWPM": 119,
-      "teamRaces": 1237,
-      "acc": 94.36,
+      "teamRaces": 1258,
+      "acc": 94.34,
       "season": null,
       "status": "active",
       "lastLogin": 1793131448
@@ -531,11 +531,11 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1209,
-      "wpm": 57,
+      "allTimeRaces": 1210,
+      "wpm": 56,
       "highestWPM": 108,
-      "teamRaces": 959,
-      "acc": 91.86,
+      "teamRaces": 961,
+      "acc": 91.87,
       "season": null,
       "status": "active",
       "lastLogin": 1793131136
@@ -545,14 +545,14 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1398,
-      "wpm": 85,
+      "allTimeRaces": 1404,
+      "wpm": 87,
       "highestWPM": 100,
-      "teamRaces": 49,
-      "acc": 96.75,
+      "teamRaces": 55,
+      "acc": 96.82,
       "season": null,
       "status": "active",
-      "lastLogin": 1793115731
+      "lastLogin": 1793133357
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61062,
+      "races": 61098,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 586,
+      "races": 611,
       "avgWPM": 82,
-      "avgAcc": 93.27,
+      "avgAcc": 93.36,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793132678413
+  "_syncedAt": 1793134687431
 }
