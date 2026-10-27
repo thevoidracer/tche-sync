@@ -106,10 +106,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 92,
       "topWPM": 119,
-      "lifetimeRaces": 1569,
-      "teamRaces": 1222,
+      "lifetimeRaces": 1584,
+      "teamRaces": 1237,
       "joined": "08/31/26"
     },
     {
@@ -236,10 +236,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 95,
-      "topWPM": 106,
-      "lifetimeRaces": 1315,
-      "teamRaces": 87,
+      "avgWPM": 97,
+      "topWPM": 108,
+      "lifetimeRaces": 1317,
+      "teamRaces": 89,
       "joined": "09/29/26"
     },
     {
@@ -274,11 +274,11 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 104,
-      "lifetimeRaces": 1470,
-      "teamRaces": 50,
+      "lifetimeRaces": 1472,
+      "teamRaces": 56,
       "joined": "10/06/26"
     },
     {
@@ -301,10 +301,10 @@
       "role": "officer",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 59,
+      "avgWPM": 57,
       "topWPM": 108,
-      "lifetimeRaces": 1201,
-      "teamRaces": 953,
+      "lifetimeRaces": 1209,
+      "teamRaces": 959,
       "joined": "10/07/26"
     },
     {
@@ -469,11 +469,11 @@
       "nickname": "Crazy About Typing",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 93,
+      "tier": "B",
+      "avgWPM": 83,
       "topWPM": 111,
-      "lifetimeRaces": 1282,
-      "teamRaces": 91,
+      "lifetimeRaces": 1298,
+      "teamRaces": 113,
       "joined": "10/21/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793130401688
+  "_syncedAt": 1793132734171
 }
