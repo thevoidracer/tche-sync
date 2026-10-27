@@ -2,11 +2,6 @@
   "hours": [
     {
       "hour": "2026-10-26 21:00:00",
-      "racer": "StefanO",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-26 21:00:00",
       "racer": "RationalGoldApe",
       "races": 2
     },
@@ -142,12 +137,12 @@
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "disgratedboy191",
+      "racer": "SKZ FIRAH",
       "races": 3
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "disgratedboy191",
       "races": 3
     },
     {
@@ -279,8 +274,13 @@
       "hour": "2026-10-27 20:00:00",
       "racer": "The Queen",
       "races": 2
+    },
+    {
+      "hour": "2026-10-27 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793136315779
+  "_syncedAt": 1793138306832
 }
