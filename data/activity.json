@@ -1,36 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-26 15:00:00",
-      "racer": "insta _trewatkins",
-      "races": 21
-    },
-    {
-      "hour": "2026-10-26 15:00:00",
-      "racer": "Unknown",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-26 15:00:00",
-      "racer": "RationalGoldApe",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-26 15:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 4
-    },
-    {
-      "hour": "2026-10-26 15:00:00",
-      "racer": "t_unknown",
-      "races": 1
-    },
-    {
-      "hour": "2026-10-26 16:00:00",
-      "racer": "WindMaker",
-      "races": 21
-    },
-    {
       "hour": "2026-10-26 16:00:00",
       "racer": "KirbyDelta",
       "races": 19
@@ -42,13 +12,8 @@
     },
     {
       "hour": "2026-10-26 16:00:00",
-      "racer": "Unknown",
+      "racer": "WindMaker",
       "races": 6
-    },
-    {
-      "hour": "2026-10-26 16:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 2
     },
     {
       "hour": "2026-10-26 17:00:00",
@@ -217,12 +182,12 @@
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "KirbyDelta",
       "races": 20
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "KirbyDelta",
+      "racer": "PootsyWafflebiscuits",
       "races": 20
     },
     {
@@ -292,15 +257,25 @@
     },
     {
       "hour": "2026-10-27 15:00:00",
+      "racer": "Amaterasu",
+      "races": 13
+    },
+    {
+      "hour": "2026-10-27 15:00:00",
       "racer": "Joe and Uh",
       "races": 5
     },
     {
       "hour": "2026-10-27 15:00:00",
-      "racer": "Amaterasu",
+      "racer": "YellowBronzeCoral",
       "races": 1
+    },
+    {
+      "hour": "2026-10-27 16:00:00",
+      "racer": "me_likey_typey",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793115289050
+  "_syncedAt": 1793118436841
 }
