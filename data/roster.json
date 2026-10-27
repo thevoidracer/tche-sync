@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 89,
+    "tierA": 90,
     "tierB": 82,
     "weeklyReq": 100
   },
@@ -14,7 +14,7 @@
       "nickname": "Night Patrol",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 127,
       "lifetimeRaces": 5324,
@@ -148,7 +148,7 @@
       "avgWPM": 55,
       "topWPM": 82,
       "lifetimeRaces": 9284,
-      "teamRaces": 1230,
+      "teamRaces": 1238,
       "joined": "09/09/26"
     },
     {
@@ -231,15 +231,15 @@
     },
     {
       "username": "470256",
-      "displayName": "Torque_Demon",
+      "displayName": "GroundedAquaEmu",
       "nickname": "Trail Angel",
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 98,
       "topWPM": 106,
-      "lifetimeRaces": 1300,
-      "teamRaces": 70,
+      "lifetimeRaces": 1306,
+      "teamRaces": 74,
       "joined": "09/29/26"
     },
     {
@@ -274,7 +274,7 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 104,
       "lifetimeRaces": 1465,
@@ -287,7 +287,7 @@
       "nickname": "B.U.S. Driver",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 115,
       "lifetimeRaces": 5111,
@@ -301,9 +301,9 @@
       "role": "officer",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 59,
+      "avgWPM": 56,
       "topWPM": 108,
-      "lifetimeRaces": 1184,
+      "lifetimeRaces": 1189,
       "teamRaces": 936,
       "joined": "10/07/26"
     },
@@ -366,9 +366,9 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 104,
       "topWPM": 132,
-      "lifetimeRaces": 6940,
+      "lifetimeRaces": 6944,
       "teamRaces": 202,
       "joined": "10/14/26"
     },
@@ -612,7 +612,7 @@
       "nickname": "Novice Navigator",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 100,
       "lifetimeRaces": 1601,
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793118436840
+  "_syncedAt": 1793121015347
 }
