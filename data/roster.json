@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 101,
+      "avgWPM": 96,
       "topWPM": 127,
-      "lifetimeRaces": 5334,
-      "teamRaces": 2909,
+      "lifetimeRaces": 5362,
+      "teamRaces": 2934,
       "joined": "06/10/26"
     },
     {
@@ -221,12 +221,12 @@
       "displayName": "GroundedAquaEmu",
       "nickname": "Nitro Scholar",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 91,
       "topWPM": 108,
-      "lifetimeRaces": 1344,
-      "teamRaces": 113,
+      "lifetimeRaces": 1369,
+      "teamRaces": 141,
       "joined": "09/29/26"
     },
     {
@@ -572,7 +572,7 @@
       "displayName": "asteroids",
       "nickname": "A E S T H E T I C",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "B",
       "avgWPM": 81,
       "topWPM": 109,
@@ -611,7 +611,7 @@
       "displayName": "xX_VICTORY_Xx",
       "nickname": "#NitroFurze",
       "role": "member",
-      "squad": null,
+      "squad": "Side Hustler 100",
       "tier": "B",
       "avgWPM": 86,
       "topWPM": 110,
@@ -624,7 +624,7 @@
       "displayName": "BlazingFlowerz",
       "nickname": "Winter Warrior",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 48,
       "topWPM": 80,
@@ -637,7 +637,7 @@
       "displayName": "Brodence",
       "nickname": "Secret Agent",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 76,
       "topWPM": 98,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793225029751
+  "_syncedAt": 1793227534757
 }

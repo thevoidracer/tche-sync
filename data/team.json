@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament NOW ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2175,
+  "profileViews": 2176,
   "leagueTier": 12,
   "racers": [
     {
@@ -83,11 +83,11 @@
       "displayName": "GroundedAquaEmu",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1347,
-      "wpm": 95,
+      "allTimeRaces": 1369,
+      "wpm": 91,
       "highestWPM": 108,
-      "teamRaces": 116,
-      "acc": 97.17,
+      "teamRaces": 141,
+      "acc": 97.08,
       "season": null,
       "status": "active",
       "lastLogin": 1793220165
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5340,
-      "wpm": 102,
+      "allTimeRaces": 5360,
+      "wpm": 95,
       "highestWPM": 127,
-      "teamRaces": 2915,
+      "teamRaces": 2934,
       "acc": 92.67,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61971,
+      "races": 62015,
       "avgWPM": 77,
       "avgAcc": 94.96,
       "members": 49
     },
     "daily": {
-      "races": 867,
-      "avgWPM": 84,
-      "avgAcc": 95.47,
+      "races": 891,
+      "avgWPM": 85,
+      "avgAcc": 95.43,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793224964207
+  "_syncedAt": 1793227480704
 }

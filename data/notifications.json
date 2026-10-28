@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "key": "tour-win:57:Match 2325",
+      "type": "tournament-win",
+      "text": "rorok09 won their Elite 8 ($300,000) * match vs Void Racer in IMT Ally Celebration Tournament.",
+      "meta": {
+        "matchId": "Match 2325",
+        "username": "rorok09",
+        "tournamentId": "57"
+      },
+      "createdAt": 1793227571128
+    },
+    {
       "key": "new-member:elibarbers",
       "type": "new-member",
       "text": "Brodence joined the team.",
@@ -550,5 +561,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793225066918
+  "_syncedAt": 1793227571128
 }

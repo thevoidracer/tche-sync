@@ -92,9 +92,17 @@
       "id": "1463",
       "status": "Pending",
       "title": "Weekly Cash Comp - Nov 2Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool where the 1st place champion takes home 5 million NTC, the 2nd place winner secures 2.5 million NTC, and the 3rd place podium finisher earns 1 million NTC. Plus, if you don't make the top three, you can still grind your way to a reward by completing 150 races or more to automatically earn 100,000 NTC!",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool where the 1st place champion takes home 2 million NTC, the 2nd place winner secures 1.5 million NTC, the 3rd place podium finisher earns 1 million NTC, the 4th places winner takes home 750 thousand NTC, and the 5th place finisher gets 500k NTC. Plus, if you don't make the top five, you can still grind your way to a reward by completing 150 races or more to automatically earn 100,000 NTC! Total NTC given out: 6 mil NTC",
       "start": "11/02/2026, 01:15 PM",
       "end": "11/09/2026, 01:00 PM"
+    },
+    {
+      "id": "1483",
+      "status": "Pending",
+      "title": "Money Monday - Nov 1Recurring comp",
+      "desc": "Get ready to turn your laps into instant cash with our weekly Money Monday event! For every 20 races you complete, you will automatically earn 100,000 NTC with absolutely no limit on how much you can stack. Just log your races, hit your milestones, and claim your rewards at the end of the day—so fire up your engines, hit the track, and go get that money!",
+      "start": "11/02/2026, 05:00 AM",
+      "end": "11/03/2026, 05:00 AM"
     },
     {
       "id": "1346",
@@ -116,7 +124,7 @@
       "id": "1437",
       "status": "Active",
       "title": "Weekly Cash Comp - Oct 26Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool where the 1st place champion takes home 2 million NTC, the 2nd place winner secures 1 million NTC, and the 3rd place podium finisher earns  500 thousand NTC. Plus, if you don't make the top three, you can still grind your way to a reward by completing 150 races or more to automatically earn 100,000 NTC!",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool where the 1st place champion takes home 2 million NTC, the 2nd place winner secures 1.5 million NTC, the 3rd place podium finisher earns 1 million NTC, the 4th places winner takes home 750 thousand NTC, and the 5th place finisher gets 500k NTC. Plus, if you don't make the top five, you can still grind your way to a reward by completing 150 races or more to automatically earn 100,000 NTC! Total NTC given out: 6 mil NTC",
       "start": "10/26/2026, 12:00 PM",
       "end": "11/02/2026, 01:00 PM"
     },
@@ -186,5 +194,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793224996644
+  "_syncedAt": 1793227503740
 }

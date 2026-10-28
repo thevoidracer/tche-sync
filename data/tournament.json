@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793225049868
+        "_syncedAt": 1793227554751
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1912,7 +1912,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2402,7 +2402,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2650,7 +2650,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 10120
                 },
@@ -2732,10 +2732,10 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 3454
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2326",
@@ -2774,7 +2774,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": null
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793225066906
+        "_syncedAt": 1793227571124
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793225066915
+  "_syncedAt": 1793227571126
 }
