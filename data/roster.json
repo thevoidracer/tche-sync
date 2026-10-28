@@ -3,7 +3,7 @@
     "minRaces": 500,
     "minWPM": 50,
     "tierA": 90,
-    "tierB": 82,
+    "tierB": 81,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -92,7 +92,7 @@
       "nickname": "I Have Fans!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 81,
       "topWPM": 125,
       "lifetimeRaces": 4444,
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793163263510
+  "_syncedAt": 1793165325955
 }

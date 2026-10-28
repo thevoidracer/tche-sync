@@ -845,7 +845,7 @@
         "wpm": 83.8,
         "accuracy": 92.29,
         "points": 2619,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 66,
@@ -1131,7 +1131,7 @@
         "wpm": 89.8,
         "accuracy": 96.08,
         "points": 1253,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 88,
@@ -1196,7 +1196,7 @@
         "wpm": 85.2,
         "accuracy": 91.11,
         "points": 1039,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 93,
@@ -1443,7 +1443,7 @@
         "wpm": 90.5,
         "accuracy": 91.16,
         "points": 132,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 112,
@@ -1537,7 +1537,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793163307549
+    "_syncedAt": 1793165371133
   },
   "1437": {
     "eventId": "1437",
@@ -1933,6 +1933,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793163303011
+    "_syncedAt": 1793165366727
   }
 }
