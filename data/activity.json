@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-27 12:00:00",
-      "racer": "Void Racer",
-      "races": 11
-    },
-    {
-      "hour": "2026-10-27 12:00:00",
-      "racer": "disgratedboy191",
-      "races": 3
-    },
-    {
-      "hour": "2026-10-27 12:00:00",
-      "racer": "Joe and Uh",
-      "races": 1
+      "hour": "2026-10-27 13:00:00",
+      "racer": "KirbyDelta",
+      "races": 20
     },
     {
       "hour": "2026-10-27 13:00:00",
@@ -22,23 +12,8 @@
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "KirbyDelta",
-      "races": 20
-    },
-    {
-      "hour": "2026-10-27 13:00:00",
-      "racer": "loganim12btw",
-      "races": 9
-    },
-    {
-      "hour": "2026-10-27 13:00:00",
       "racer": "kdjkldglkdghklfghfkg",
       "races": 8
-    },
-    {
-      "hour": "2026-10-27 13:00:00",
-      "racer": "Joe and Uh",
-      "races": 3
     },
     {
       "hour": "2026-10-27 14:00:00",
@@ -72,12 +47,12 @@
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "disgratedboy191",
+      "racer": "SKZ FIRAH",
       "races": 3
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "disgratedboy191",
       "races": 3
     },
     {
@@ -232,12 +207,12 @@
     },
     {
       "hour": "2026-10-27 23:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "me_likey_typey",
       "races": 6
     },
     {
       "hour": "2026-10-27 23:00:00",
-      "racer": "me_likey_typey",
+      "racer": "SKZ FIRAH",
       "races": 6
     },
     {
@@ -294,8 +269,23 @@
       "hour": "2026-10-28 12:00:00",
       "racer": "Joe and Uh",
       "races": 1
+    },
+    {
+      "hour": "2026-10-28 13:00:00",
+      "racer": "KirbyDelta",
+      "races": 22
+    },
+    {
+      "hour": "2026-10-28 13:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-28 13:00:00",
+      "racer": "disgratedboy191",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793192321228
+  "_syncedAt": 1793195188225
 }
