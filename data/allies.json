@@ -399,7 +399,7 @@
         "acc": 93.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793149588
+        "lastLogin": 1793186679
       },
       {
         "username": "6a7b8c86ab1785b7ec0f0df5d0fe9dc4",
@@ -567,7 +567,7 @@
         "acc": 93.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1793157537
+        "lastLogin": 1793186915
       },
       {
         "username": "happygoluckygirl07",
@@ -684,7 +684,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793184763576
+    "_syncedAt": 1793186966988
   },
   "SVC": {
     "tag": "SVC",
@@ -757,11 +757,11 @@
         "displayName": "emmett",
         "role": "member",
         "joinStamp": 1788129305,
-        "allTimeRaces": 1621,
-        "wpm": 83,
+        "allTimeRaces": 1638,
+        "wpm": 79,
         "highestWPM": 105,
-        "teamRaces": 525,
-        "acc": 94.4,
+        "teamRaces": 540,
+        "acc": 94.44,
         "season": null,
         "status": "active",
         "lastLogin": 1793184679
@@ -1245,21 +1245,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 41139,
+        "races": 41154,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 39
       },
       "daily": {
-        "races": 194,
+        "races": 209,
         "avgWPM": 84,
-        "avgAcc": 95.28,
+        "avgAcc": 95.3,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793184782397
+    "_syncedAt": 1793186986055
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1268,7 +1268,7 @@
     "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
-    "profileViews": 22,
+    "profileViews": 23,
     "leagueTier": 2,
     "racers": [
       {
@@ -1283,7 +1283,7 @@
         "acc": 98.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1793135921
+        "lastLogin": 1793186085
       },
       {
         "username": "the_only_winner123",
@@ -1311,7 +1311,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793184801304
+    "_syncedAt": 1793187004902
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1320,7 +1320,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4595,
+    "profileViews": 4598,
     "leagueTier": 12,
     "racers": [
       {
@@ -1524,14 +1524,14 @@
         "displayName": "gamingwithrylan9",
         "role": "member",
         "joinStamp": 1793114765,
-        "allTimeRaces": 449,
-        "wpm": 59,
-        "highestWPM": 74,
-        "teamRaces": 21,
-        "acc": 92.31,
+        "allTimeRaces": 464,
+        "wpm": 65,
+        "highestWPM": 77,
+        "teamRaces": 36,
+        "acc": 92.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793113552
+        "lastLogin": 1793185871
       },
       {
         "username": "pigglepigglepiggle",
@@ -1552,14 +1552,14 @@
         "displayName": "alex NT",
         "role": "member",
         "joinStamp": 1793021990,
-        "allTimeRaces": 2106,
-        "wpm": 97,
+        "allTimeRaces": 2110,
+        "wpm": 98,
         "highestWPM": 118,
-        "teamRaces": 8,
-        "acc": 93,
+        "teamRaces": 12,
+        "acc": 93.03,
         "season": null,
         "status": "active",
-        "lastLogin": 1793109882
+        "lastLogin": 1793185892
       },
       {
         "username": "bbdadf8ff7275f4938c7bff9fec1f594",
@@ -1692,14 +1692,14 @@
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 2750,
-        "wpm": 44,
+        "allTimeRaces": 2755,
+        "wpm": 45,
         "highestWPM": 85,
-        "teamRaces": 1333,
+        "teamRaces": 1338,
         "acc": 89.86,
         "season": null,
         "status": "active",
-        "lastLogin": 1793138015
+        "lastLogin": 1793186025
       },
       {
         "username": "srivanthvadlamudi",
@@ -1790,11 +1790,11 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3761,
-        "wpm": 42,
+        "allTimeRaces": 3779,
+        "wpm": 43,
         "highestWPM": 61,
-        "teamRaces": 2219,
-        "acc": 92,
+        "teamRaces": 2241,
+        "acc": 91.99,
         "season": null,
         "status": "active",
         "lastLogin": 1793184496
@@ -1998,20 +1998,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 125026,
+        "races": 125072,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 48
       },
       "daily": {
-        "races": 1201,
-        "avgWPM": 85,
-        "avgAcc": 95.19,
+        "races": 1247,
+        "avgWPM": 84,
+        "avgAcc": 95.12,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793184970877
+    "_syncedAt": 1793187174486
   }
 }
