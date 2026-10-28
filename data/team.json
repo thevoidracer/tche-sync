@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament NOW ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2169,
+  "profileViews": 2170,
   "leagueTier": 12,
   "racers": [
     {
@@ -13,28 +13,28 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20313,
-      "wpm": 91,
+      "allTimeRaces": 20322,
+      "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 2674,
+      "teamRaces": 2682,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793203091
+      "lastLogin": 1793206929
     },
     {
       "username": "jonathan711111",
       "displayName": "Unknown",
       "role": "member",
       "joinStamp": 1791985907,
-      "allTimeRaces": 7009,
-      "wpm": 94,
+      "allTimeRaces": 7011,
+      "wpm": 92,
       "highestWPM": 132,
-      "teamRaces": 262,
-      "acc": 96,
+      "teamRaces": 273,
+      "acc": 95.99,
       "season": null,
       "status": "active",
-      "lastLogin": 1793203126
+      "lastLogin": 1793205853
     },
     {
       "username": "vlambjr",
@@ -76,7 +76,7 @@
       "acc": 94.89,
       "season": null,
       "status": "active",
-      "lastLogin": 1793054106
+      "lastLogin": 1793204560
     },
     {
       "username": "470256",
@@ -237,10 +237,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 9658,
-      "wpm": 91,
+      "allTimeRaces": 9734,
+      "wpm": 87,
       "highestWPM": 111,
-      "teamRaces": 8834,
+      "teamRaces": 8919,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -503,39 +503,39 @@
       "displayName": "Noah0821",
       "role": "member",
       "joinStamp": 1790624292,
-      "allTimeRaces": 746,
-      "wpm": 57,
+      "allTimeRaces": 767,
+      "wpm": 67,
       "highestWPM": 109,
-      "teamRaces": 186,
-      "acc": 94.62,
+      "teamRaces": 207,
+      "acc": 94.6,
       "season": null,
       "status": "active",
-      "lastLogin": 1793034992
+      "lastLogin": 1793205676
     },
     {
       "username": "3a0b3a8cc922fae587432ade7a6160f7",
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1115,
-      "wpm": 51,
+      "allTimeRaces": 1116,
+      "wpm": 50,
       "highestWPM": 80,
-      "teamRaces": 13,
-      "acc": 91.69,
+      "teamRaces": 14,
+      "acc": 91.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1793192749
+      "lastLogin": 1793204741
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 724,
-      "wpm": 75,
+      "allTimeRaces": 726,
+      "wpm": 76,
       "highestWPM": 98,
-      "teamRaces": 71,
-      "acc": 91.97,
+      "teamRaces": 74,
+      "acc": 92.06,
       "season": null,
       "status": "active",
       "lastLogin": 1793204100
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61514,
+      "races": 61643,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 631,
-      "avgWPM": 82,
-      "avgAcc": 94.4,
+      "races": 718,
+      "avgWPM": 83,
+      "avgAcc": 94.92,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793204369936
+  "_syncedAt": 1793207617232
 }
