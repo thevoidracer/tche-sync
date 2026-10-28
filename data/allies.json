@@ -413,7 +413,7 @@
         "acc": 95.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793073011
+        "lastLogin": 1793159510
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -684,7 +684,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793158252825
+    "_syncedAt": 1793160910860
   },
   "SVC": {
     "tag": "SVC",
@@ -693,7 +693,7 @@
     "activePercent": 61,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2056,
+    "profileViews": 2057,
     "leagueTier": 10,
     "racers": [
       {
@@ -1259,13 +1259,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793158274517
+    "_syncedAt": 1793160930314
   },
   "IMTR": {
     "tag": "IMTR",
     "name": "IMT Retired Racers",
     "members": 2,
-    "activePercent": 33,
+    "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
     "profileViews": 22,
@@ -1311,13 +1311,13 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793158293569
+    "_syncedAt": 1793160949403
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 48,
-    "activePercent": 95,
+    "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
     "profileViews": 4591,
@@ -1328,11 +1328,11 @@
         "displayName": "ella winters",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101235,
-        "wpm": 89,
+        "allTimeRaces": 101260,
+        "wpm": 86,
         "highestWPM": 156,
-        "teamRaces": 182,
-        "acc": 96.13,
+        "teamRaces": 208,
+        "acc": 96.17,
         "season": null,
         "status": "active",
         "lastLogin": 1793152746
@@ -1671,7 +1671,7 @@
         "acc": 97.31,
         "season": null,
         "status": "active",
-        "lastLogin": 1793152637
+        "lastLogin": 1793160290
       },
       {
         "username": "racerkayyyyyyyyy",
@@ -1807,7 +1807,7 @@
         "allTimeRaces": 19050,
         "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18586,
+        "teamRaces": 18590,
         "acc": 93.99,
         "season": null,
         "status": "active",
@@ -1998,20 +1998,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 124941,
+        "races": 124971,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 48
       },
       "daily": {
-        "races": 1177,
+        "races": 1199,
         "avgWPM": 86,
-        "avgAcc": 95.36,
+        "avgAcc": 95.38,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793158463493
+    "_syncedAt": 1793161119243
   }
 }
