@@ -30,8 +30,8 @@
       "tier": "A",
       "avgWPM": 91,
       "topWPM": 110,
-      "lifetimeRaces": 20310,
-      "teamRaces": 2671,
+      "lifetimeRaces": 20313,
+      "teamRaces": 2674,
       "joined": "06/24/26"
     },
     {
@@ -56,8 +56,8 @@
       "tier": "A",
       "avgWPM": 91,
       "topWPM": 111,
-      "lifetimeRaces": 9631,
-      "teamRaces": 8821,
+      "lifetimeRaces": 9652,
+      "teamRaces": 8834,
       "joined": "07/04/26"
     },
     {
@@ -301,10 +301,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 80,
       "topWPM": 94,
-      "lifetimeRaces": 927,
-      "teamRaces": 48,
+      "lifetimeRaces": 965,
+      "teamRaces": 86,
       "joined": "10/07/26"
     },
     {
@@ -353,10 +353,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 104,
+      "avgWPM": 109,
       "topWPM": 132,
-      "lifetimeRaces": 6984,
-      "teamRaces": 246,
+      "lifetimeRaces": 7007,
+      "teamRaces": 262,
       "joined": "10/14/26"
     },
     {
@@ -378,11 +378,11 @@
       "nickname": "Quicker Than the Fox",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 76,
+      "tier": "B",
+      "avgWPM": 81,
       "topWPM": 102,
-      "lifetimeRaces": 6875,
-      "teamRaces": 850,
+      "lifetimeRaces": 6900,
+      "teamRaces": 875,
       "joined": "10/15/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793201396318
+  "_syncedAt": 1793204437446
 }
