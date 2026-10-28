@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793145242739
+        "_syncedAt": 1793146901792
       }
     },
     {
@@ -1646,7 +1646,7 @@
               "players": [
                 {
                   "seed": "4",
-                  "racer": "Spy on teams",
+                  "racer": "Sakupen",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2630,7 +2630,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 34750
+                  "score": 34889
                 },
                 {
                   "seed": "18",
@@ -2638,7 +2638,7 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": 5904
+                  "score": 6019
                 }
               ],
               "winner": 0
@@ -2652,7 +2652,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 7817
+                  "score": 9506
                 },
                 {
                   "seed": "10",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793145259274
+        "_syncedAt": 1793146918439
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793145259276
+  "_syncedAt": 1793146918442
 }

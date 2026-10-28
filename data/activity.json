@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-26 23:00:00",
-      "racer": "insta _trewatkins",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-27 00:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
       "hour": "2026-10-27 01:00:00",
       "racer": "UJAADDAH",
       "races": 8
@@ -57,12 +47,12 @@
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "KirbyDelta",
       "races": 20
     },
     {
       "hour": "2026-10-27 13:00:00",
-      "racer": "KirbyDelta",
+      "racer": "PootsyWafflebiscuits",
       "races": 20
     },
     {
@@ -222,12 +212,12 @@
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "StefanO",
       "races": 10
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "StefanO",
+      "racer": "VOID_REIGN",
       "races": 10
     },
     {
@@ -242,12 +232,12 @@
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "GroundedAquaEmu",
+      "racer": "The Queen",
       "races": 2
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "The Queen",
+      "racer": "GroundedAquaEmu",
       "races": 2
     },
     {
@@ -273,9 +263,24 @@
     {
       "hour": "2026-10-27 23:00:00",
       "racer": "SKZ FIRAH",
-      "races": 1
+      "races": 6
+    },
+    {
+      "hour": "2026-10-27 23:00:00",
+      "racer": "me_likey_typey",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-28 00:00:00",
+      "racer": "me_likey_typey",
+      "races": 14
+    },
+    {
+      "hour": "2026-10-28 00:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793145223311
+  "_syncedAt": 1793146880250
 }
