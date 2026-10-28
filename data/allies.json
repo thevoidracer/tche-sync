@@ -6,7 +6,7 @@
     "activePercent": 93,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3041,
+    "profileViews": 3042,
     "leagueTier": 12,
     "racers": [
       {
@@ -56,11 +56,11 @@
         "displayName": "Leo Torres",
         "role": "member",
         "joinStamp": 1793047425,
-        "allTimeRaces": 923,
-        "wpm": 59,
+        "allTimeRaces": 924,
+        "wpm": 60,
         "highestWPM": 76,
-        "teamRaces": 43,
-        "acc": 86.62,
+        "teamRaces": 45,
+        "acc": 86.8,
         "season": null,
         "status": "active",
         "lastLogin": 1793209723
@@ -227,8 +227,8 @@
         "allTimeRaces": 2355,
         "wpm": 45,
         "highestWPM": 84,
-        "teamRaces": 146,
-        "acc": 90.99,
+        "teamRaces": 148,
+        "acc": 90.95,
         "season": null,
         "status": "active",
         "lastLogin": 1793208403
@@ -572,21 +572,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80124,
+        "races": 80128,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 40
       },
       "daily": {
-        "races": 248,
+        "races": 243,
         "avgWPM": 59,
-        "avgAcc": 93.08,
+        "avgAcc": 92.97,
         "members": 40
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793210088284
+    "_syncedAt": 1793212119323
   },
   "SVC": {
     "tag": "SVC",
@@ -662,7 +662,7 @@
         "allTimeRaces": 1652,
         "wpm": 84,
         "highestWPM": 105,
-        "teamRaces": 557,
+        "teamRaces": 558,
         "acc": 94.45,
         "season": null,
         "status": "active",
@@ -1147,21 +1147,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 41308,
+        "races": 41309,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 39
       },
       "daily": {
-        "races": 228,
+        "races": 225,
         "avgWPM": 83,
-        "avgAcc": 95.26,
+        "avgAcc": 95.2,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793210107516
+    "_syncedAt": 1793212138233
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1218,7 +1218,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793210133084
+    "_syncedAt": 1793212157124
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1227,7 +1227,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4620,
+    "profileViews": 4622,
     "leagueTier": 12,
     "racers": [
       {
@@ -1235,11 +1235,11 @@
         "displayName": "ella winters",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101350,
-        "wpm": 85,
+        "allTimeRaces": 101377,
+        "wpm": 88,
         "highestWPM": 156,
-        "teamRaces": 293,
-        "acc": 96.11,
+        "teamRaces": 325,
+        "acc": 96.09,
         "season": null,
         "status": "active",
         "lastLogin": 1793203878
@@ -1270,7 +1270,7 @@
         "acc": 98.17,
         "season": null,
         "status": "active",
-        "lastLogin": 1793199747
+        "lastLogin": 1793211882
       },
       {
         "username": "mcculpar",
@@ -1368,7 +1368,7 @@
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1792902504
+        "lastLogin": 1793211700
       },
       {
         "username": "joe772",
@@ -1445,14 +1445,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1433,
+        "allTimeRaces": 1438,
         "wpm": 56,
         "highestWPM": 84,
-        "teamRaces": 658,
-        "acc": 91.59,
+        "teamRaces": 663,
+        "acc": 91.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1793199311
+        "lastLogin": 1793211947
       },
       {
         "username": "6de19f907a6333fc8a600349fedf16a9",
@@ -1891,20 +1891,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 125664,
+        "races": 125701,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 47
       },
       "daily": {
-        "races": 1533,
-        "avgWPM": 81,
-        "avgAcc": 94.93,
+        "races": 1492,
+        "avgWPM": 80,
+        "avgAcc": 94.79,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793210302559
+    "_syncedAt": 1793212326521
   }
 }
