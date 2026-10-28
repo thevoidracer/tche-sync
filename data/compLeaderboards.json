@@ -48,10 +48,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 262,
+        "races": 272,
         "wpm": 89.7,
         "accuracy": 95.2,
-        "points": 36134,
+        "points": 37505,
         "tier": "A"
       },
       {
@@ -96,6 +96,19 @@
       {
         "rank": 8,
         "tag": "THB0S",
+        "username": "ella winters",
+        "displayName": "ella winters",
+        "nickname": "Velocity Wrapper",
+        "squad": "Active!",
+        "races": 179,
+        "wpm": 90.4,
+        "accuracy": 95.97,
+        "points": 24946,
+        "tier": "A"
+      },
+      {
+        "rank": 9,
+        "tag": "THB0S",
         "username": "-Tag_Typ3r-",
         "displayName": "-Tag_Typ3r-",
         "nickname": "RIP",
@@ -107,7 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -120,7 +133,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
@@ -133,29 +146,16 @@
         "tier": "A"
       },
       {
-        "rank": 11,
-        "tag": "THB0S",
-        "username": "ella winters",
-        "displayName": "ella winters",
-        "nickname": "Rocky",
-        "squad": "Active!",
-        "races": 162,
-        "wpm": 90.9,
-        "accuracy": 96.03,
-        "points": 22628,
-        "tier": "A"
-      },
-      {
         "rank": 12,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
         "nickname": "Nitro Rich",
         "squad": "Loyal",
-        "races": 152,
-        "wpm": 88.2,
-        "accuracy": 93.67,
-        "points": 20517,
+        "races": 156,
+        "wpm": 88.3,
+        "accuracy": 93.68,
+        "points": 21070,
         "tier": "A"
       },
       {
@@ -1537,7 +1537,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793156094881
+    "_syncedAt": 1793158252334
   },
   "1437": {
     "eventId": "1437",
@@ -1933,6 +1933,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793156090007
+    "_syncedAt": 1793158247004
   }
 }

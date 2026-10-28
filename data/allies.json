@@ -567,7 +567,7 @@
         "acc": 93.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1793139462
+        "lastLogin": 1793157537
       },
       {
         "username": "happygoluckygirl07",
@@ -684,7 +684,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793156095031
+    "_syncedAt": 1793158252825
   },
   "SVC": {
     "tag": "SVC",
@@ -1259,7 +1259,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793156114214
+    "_syncedAt": 1793158274517
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1311,7 +1311,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793156133044
+    "_syncedAt": 1793158293569
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1320,19 +1320,19 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4589,
+    "profileViews": 4591,
     "leagueTier": 12,
     "racers": [
       {
         "username": "csmkgtr",
         "displayName": "ella winters",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101224,
-        "wpm": 84,
+        "allTimeRaces": 101235,
+        "wpm": 89,
         "highestWPM": 156,
-        "teamRaces": 167,
-        "acc": 96.17,
+        "teamRaces": 182,
+        "acc": 96.13,
         "season": null,
         "status": "active",
         "lastLogin": 1793152746
@@ -1804,10 +1804,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19033,
-        "wpm": 91,
+        "allTimeRaces": 19050,
+        "wpm": 90,
         "highestWPM": 123,
-        "teamRaces": 18573,
+        "teamRaces": 18586,
         "acc": 93.99,
         "season": null,
         "status": "active",
@@ -1881,7 +1881,7 @@
         "acc": 94.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793060215
+        "lastLogin": 1793157989
       },
       {
         "username": "nev444ehh",
@@ -1998,20 +1998,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 124913,
+        "races": 124941,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 48
       },
       "daily": {
-        "races": 1196,
+        "races": 1177,
         "avgWPM": 86,
-        "avgAcc": 95.38,
+        "avgAcc": 95.36,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793156302537
+    "_syncedAt": 1793158463493
   }
 }
