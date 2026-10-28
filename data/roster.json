@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 20317,
-      "teamRaces": 2674,
+      "lifetimeRaces": 20322,
+      "teamRaces": 2683,
       "joined": "06/24/26"
     },
     {
@@ -53,11 +53,11 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Tycoon 7.5k ",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 111,
-      "lifetimeRaces": 9722,
-      "teamRaces": 8907,
+      "lifetimeRaces": 9751,
+      "teamRaces": 8941,
       "joined": "07/04/26"
     },
     {
@@ -108,8 +108,8 @@
       "tier": "A",
       "avgWPM": 93,
       "topWPM": 119,
-      "lifetimeRaces": 1635,
-      "teamRaces": 1288,
+      "lifetimeRaces": 1641,
+      "teamRaces": 1294,
       "joined": "08/31/26"
     },
     {
@@ -470,10 +470,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 94,
       "topWPM": 215,
-      "lifetimeRaces": 820,
-      "teamRaces": 40,
+      "lifetimeRaces": 822,
+      "teamRaces": 42,
       "joined": "10/22/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793207673087
+  "_syncedAt": 1793210043453
 }

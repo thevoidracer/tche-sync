@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament NOW ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2170,
+  "profileViews": 2172,
   "leagueTier": 12,
   "racers": [
     {
@@ -16,7 +16,7 @@
       "allTimeRaces": 20322,
       "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 2682,
+      "teamRaces": 2683,
       "acc": 97.56,
       "season": null,
       "status": "active",
@@ -237,10 +237,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 9734,
-      "wpm": 87,
+      "allTimeRaces": 9751,
+      "wpm": 89,
       "highestWPM": 111,
-      "teamRaces": 8919,
+      "teamRaces": 8941,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -377,14 +377,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1635,
+      "allTimeRaces": 1641,
       "wpm": 93,
       "highestWPM": 119,
-      "teamRaces": 1288,
+      "teamRaces": 1294,
       "acc": 94.33,
       "season": null,
       "status": "active",
-      "lastLogin": 1793196439
+      "lastLogin": 1793208484
     },
     {
       "username": "imenishat",
@@ -587,14 +587,14 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 820,
-      "wpm": 93,
+      "allTimeRaces": 822,
+      "wpm": 94,
       "highestWPM": 215,
-      "teamRaces": 40,
-      "acc": 92.1,
+      "teamRaces": 42,
+      "acc": 92.25,
       "season": null,
       "status": "active",
-      "lastLogin": 1793198967
+      "lastLogin": 1793208175
     },
     {
       "username": "220c8a080156dd343f8e79451ff336d8",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61643,
+      "races": 61674,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 718,
+      "races": 699,
       "avgWPM": 83,
-      "avgAcc": 94.92,
+      "avgAcc": 95.01,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793207617232
+  "_syncedAt": 1793209989097
 }
