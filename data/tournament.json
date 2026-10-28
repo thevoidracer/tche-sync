@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793195208719
+        "_syncedAt": 1793198441051
       }
     },
     {
@@ -1698,7 +1698,7 @@
                 },
                 {
                   "seed": "52",
-                  "racer": "Not_Ime",
+                  "racer": "IMIME_IMIME",
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
@@ -2616,10 +2616,10 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 0
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2321",
@@ -2638,10 +2638,10 @@
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
-                  "score": null
+                  "score": 0
                 }
               ],
-              "winner": null
+              "winner": 0
             },
             {
               "id": "Match 2322",
@@ -2712,26 +2712,26 @@
           ]
         },
         {
-          "label": "Elite 8",
-          "prize": 300000,
+          "label": "Elite 8 ($300,000) *",
+          "prize": null,
           "matches": [
             {
               "id": "Match 2325",
               "players": [
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
+                  "seed": "32",
+                  "racer": "rorok09",
+                  "teamTag": "IMT",
                   "gold": false,
-                  "placeholder": true,
+                  "placeholder": false,
                   "score": null
                 },
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
+                  "seed": "24",
+                  "racer": "Void Racer",
+                  "teamTag": "IMT",
                   "gold": false,
-                  "placeholder": true,
+                  "placeholder": false,
                   "score": null
                 }
               ],
@@ -2741,20 +2741,20 @@
               "id": "Match 2326",
               "players": [
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
+                  "seed": "61",
+                  "racer": "Nitrex",
+                  "teamTag": "IMT",
                   "gold": false,
-                  "placeholder": true,
+                  "placeholder": false,
                   "score": null
                 },
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
+                  "seed": "37",
+                  "racer": "Namedisplayed",
+                  "teamTag": "IMT",
                   "gold": false,
-                  "placeholder": true,
-                  "score": null
+                  "placeholder": false,
+                  "score": 3584
                 }
               ],
               "winner": null
@@ -2763,19 +2763,19 @@
               "id": "Match 2327",
               "players": [
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
-                  "gold": false,
-                  "placeholder": true,
+                  "seed": "2",
+                  "racer": "Sara10",
+                  "teamTag": "THB0S",
+                  "gold": true,
+                  "placeholder": false,
                   "score": null
                 },
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
-                  "gold": false,
-                  "placeholder": true,
+                  "seed": "7",
+                  "racer": "CrazyTyper",
+                  "teamTag": "THB0S",
+                  "gold": true,
+                  "placeholder": false,
                   "score": null
                 }
               ],
@@ -2785,19 +2785,19 @@
               "id": "Match 2328",
               "players": [
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
-                  "gold": false,
-                  "placeholder": true,
+                  "seed": "3",
+                  "racer": "Hot Chocolate",
+                  "teamTag": "THB0S",
+                  "gold": true,
+                  "placeholder": false,
                   "score": null
                 },
                 {
-                  "seed": "–",
-                  "racer": "BYE",
-                  "teamTag": null,
-                  "gold": false,
-                  "placeholder": true,
+                  "seed": "6",
+                  "racer": "Joereynolds",
+                  "teamTag": "THB0S",
+                  "gold": true,
+                  "placeholder": false,
                   "score": null
                 }
               ],
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793195225621
+        "_syncedAt": 1793198457611
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793195225623
+  "_syncedAt": 1793198457615
 }
