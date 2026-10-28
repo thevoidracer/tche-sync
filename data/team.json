@@ -489,11 +489,11 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5360,
+      "allTimeRaces": 5367,
       "wpm": 95,
       "highestWPM": 127,
-      "teamRaces": 2934,
-      "acc": 92.67,
+      "teamRaces": 2942,
+      "acc": 92.68,
       "season": null,
       "status": "active",
       "lastLogin": 1793224265
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 393,
-      "wpm": 92,
+      "allTimeRaces": 395,
+      "wpm": 93,
       "highestWPM": 111,
-      "teamRaces": 150,
-      "acc": 91.23,
+      "teamRaces": 152,
+      "acc": 91.29,
       "season": null,
       "status": "active",
-      "lastLogin": 1793219113
+      "lastLogin": 1793228889
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 62015,
+      "races": 62025,
       "avgWPM": 77,
       "avgAcc": 94.96,
       "members": 49
     },
     "daily": {
-      "races": 891,
+      "races": 883,
       "avgWPM": 85,
-      "avgAcc": 95.43,
+      "avgAcc": 95.42,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793227480704
+  "_syncedAt": 1793229425438
 }
