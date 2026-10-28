@@ -3,10 +3,10 @@
     "timeframes": {
       "24h": {
         "rank": 48,
-        "races": 391,
-        "accuracy": 93.39,
+        "races": 383,
+        "accuracy": 93.35,
         "wpm": 63.2,
-        "points": 48061,
+        "points": 47060,
         "ppr": 123
       },
       "season": {
@@ -19,14 +19,14 @@
       },
       "week": {
         "rank": 38,
-        "races": 2303,
+        "races": 2300,
         "accuracy": 92.71,
         "wpm": 62.2,
-        "points": 279939,
+        "points": 279575,
         "ppr": 122
       },
       "weekly": {
-        "rank": 41,
+        "rank": 42,
         "races": 1041,
         "accuracy": 92.83,
         "wpm": 62.5,
@@ -49,7 +49,7 @@
     "points": 384780,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793179138750
+    "_syncedAt": 1793182459319
   },
   "SVC": {
     "timeframes": {
@@ -101,7 +101,7 @@
     "points": 167478,
     "ppr": 133,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793179157618
+    "_syncedAt": 1793182478468
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793179327075
+    "_syncedAt": 1793182648290
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 18,
-        "races": 1184,
-        "accuracy": 94.96,
-        "wpm": 85.1,
-        "points": 160293,
+        "rank": 17,
+        "races": 1192,
+        "accuracy": 94.94,
+        "wpm": 84.9,
+        "points": 161220,
         "ppr": 135
       },
       "season": {
         "rank": 23,
-        "races": 7931,
+        "races": 7942,
         "accuracy": 93.96,
         "wpm": 75.1,
-        "points": 1025157,
+        "points": 1026405,
         "ppr": 129
       },
       "week": {
         "rank": 21,
-        "races": 6003,
+        "races": 6014,
         "accuracy": 94.15,
         "wpm": 76.1,
-        "points": 780366,
+        "points": 781614,
         "ppr": 130
       },
       "weekly": {
         "rank": 21,
-        "races": 2518,
-        "accuracy": 94.68,
-        "wpm": 80.4,
-        "points": 334226,
+        "races": 2529,
+        "accuracy": 94.66,
+        "wpm": 80.3,
+        "points": 335480,
         "ppr": 133
       },
       "alltime": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 23,
-    "races": 7931,
+    "races": 7942,
     "accuracy": 93.96,
     "wpm": 75.1,
-    "points": 1025157,
+    "points": 1026405,
     "ppr": 129,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793179346017
+    "_syncedAt": 1793182667617
   }
 }
