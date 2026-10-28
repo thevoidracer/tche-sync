@@ -83,14 +83,14 @@
       "displayName": "GroundedAquaEmu",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1322,
-      "wpm": 96,
+      "allTimeRaces": 1326,
+      "wpm": 92,
       "highestWPM": 108,
-      "teamRaces": 94,
-      "acc": 97.18,
+      "teamRaces": 98,
+      "acc": 97.2,
       "season": null,
       "status": "active",
-      "lastLogin": 1793139059
+      "lastLogin": 1793152153
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -195,14 +195,14 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1298,
-      "wpm": 83,
+      "allTimeRaces": 1306,
+      "wpm": 90,
       "highestWPM": 111,
-      "teamRaces": 113,
-      "acc": 95.96,
+      "teamRaces": 121,
+      "acc": 95.85,
       "season": null,
       "status": "active",
-      "lastLogin": 1793129605
+      "lastLogin": 1793151772
     },
     {
       "username": "teraceeben21",
@@ -482,7 +482,7 @@
       "acc": 92.67,
       "season": null,
       "status": "active",
-      "lastLogin": 1793145438
+      "lastLogin": 1793153289
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61175,
+      "races": 61187,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 606,
+      "races": 610,
       "avgWPM": 80,
-      "avgAcc": 93.02,
+      "avgAcc": 93.11,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793150850962
+  "_syncedAt": 1793153571431
 }

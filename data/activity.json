@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-27 01:00:00",
-      "racer": "UJAADDAH",
-      "races": 8
-    },
-    {
       "hour": "2026-10-27 06:00:00",
       "racer": "asteroids",
       "races": 43
@@ -112,12 +107,12 @@
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "t_unknown",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-10-27 14:00:00",
-      "racer": "UJAADDAH",
+      "racer": "t_unknown",
       "races": 1
     },
     {
@@ -279,8 +274,18 @@
       "hour": "2026-10-28 00:00:00",
       "racer": "SKZ FIRAH",
       "races": 5
+    },
+    {
+      "hour": "2026-10-28 01:00:00",
+      "racer": "Joe and Uh",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-28 01:00:00",
+      "racer": "GroundedAquaEmu",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793150920347
+  "_syncedAt": 1793153629859
 }
