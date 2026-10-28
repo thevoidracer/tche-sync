@@ -103,7 +103,7 @@
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "nickname": "Champion Chaser",
-      "role": "member",
+      "role": "officer",
       "squad": "Investor 1k",
       "tier": "A",
       "avgWPM": 94,
@@ -142,7 +142,7 @@
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "nickname": "Olde School",
-      "role": "officer",
+      "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 55,
@@ -225,8 +225,8 @@
       "tier": "A",
       "avgWPM": 94,
       "topWPM": 108,
-      "lifetimeRaces": 1330,
-      "teamRaces": 102,
+      "lifetimeRaces": 1344,
+      "teamRaces": 113,
       "joined": "09/29/26"
     },
     {
@@ -607,19 +607,6 @@
       "joined": "10/26/26"
     },
     {
-      "username": "220c8a080156dd343f8e79451ff336d8",
-      "displayName": "izersss",
-      "nickname": "Yo",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 62,
-      "topWPM": 76,
-      "lifetimeRaces": 1618,
-      "teamRaces": 0,
-      "joined": "10/26/26"
-    },
-    {
       "username": "jorgespeedway",
       "displayName": "xX_VICTORY_Xx",
       "nickname": "#NitroFurze",
@@ -660,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793222797583
+  "_syncedAt": 1793225029751
 }
