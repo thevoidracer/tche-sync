@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-27 20:00:00",
       "racer": "Namedisplayed",
-      "races": 36
+      "races": 13
     },
     {
       "hour": "2026-10-27 20:00:00",
@@ -13,26 +13,11 @@
     {
       "hour": "2026-10-27 20:00:00",
       "racer": "VOID_REIGN",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-27 20:00:00",
-      "racer": "RationalGoldApe",
-      "races": 6
-    },
-    {
-      "hour": "2026-10-27 20:00:00",
-      "racer": "Joe and Uh",
-      "races": 3
-    },
-    {
-      "hour": "2026-10-27 20:00:00",
-      "racer": "GroundedAquaEmu",
       "races": 2
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "The Queen",
+      "racer": "RationalGoldApe",
       "races": 2
     },
     {
@@ -242,12 +227,12 @@
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "PootsyWafflebiscuits",
       "races": 1
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "BlazingFlowerz",
       "races": 1
     },
     {
@@ -319,8 +304,33 @@
       "hour": "2026-10-28 19:00:00",
       "racer": "Namedisplayed",
       "races": 1
+    },
+    {
+      "hour": "2026-10-28 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 21
+    },
+    {
+      "hour": "2026-10-28 20:00:00",
+      "racer": "The Queen",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-28 20:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-28 20:00:00",
+      "racer": "StefanO",
+      "races": 1
+    },
+    {
+      "hour": "2026-10-28 20:00:00",
+      "racer": "Brodence",
+      "races": 0
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793218045399
+  "_syncedAt": 1793220469267
 }

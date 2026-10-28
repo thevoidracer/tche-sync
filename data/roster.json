@@ -105,11 +105,11 @@
       "nickname": "Champion Chaser",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "A",
-      "avgWPM": 93,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 119,
-      "lifetimeRaces": 1660,
-      "teamRaces": 1304,
+      "lifetimeRaces": 1672,
+      "teamRaces": 1325,
       "joined": "08/31/26"
     },
     {
@@ -134,8 +134,8 @@
       "tier": "C",
       "avgWPM": 69,
       "topWPM": 84,
-      "lifetimeRaces": 803,
-      "teamRaces": 302,
+      "lifetimeRaces": 804,
+      "teamRaces": 303,
       "joined": "09/08/26"
     },
     {
@@ -225,7 +225,7 @@
       "tier": "A",
       "avgWPM": 92,
       "topWPM": 108,
-      "lifetimeRaces": 1326,
+      "lifetimeRaces": 1328,
       "teamRaces": 98,
       "joined": "09/29/26"
     },
@@ -239,7 +239,7 @@
       "avgWPM": 72,
       "topWPM": 93,
       "lifetimeRaces": 2430,
-      "teamRaces": 533,
+      "teamRaces": 535,
       "joined": "10/05/26"
     },
     {
@@ -265,7 +265,7 @@
       "avgWPM": 85,
       "topWPM": 104,
       "lifetimeRaces": 1475,
-      "teamRaces": 56,
+      "teamRaces": 59,
       "joined": "10/06/26"
     },
     {
@@ -644,8 +644,21 @@
       "lifetimeRaces": 1116,
       "teamRaces": 14,
       "joined": "10/28/26"
+    },
+    {
+      "username": "elibarbers",
+      "displayName": "Brodence",
+      "nickname": "Secret Agent",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 76,
+      "topWPM": 98,
+      "lifetimeRaces": 9108,
+      "teamRaces": 0,
+      "joined": "10/28/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793218045398
+  "_syncedAt": 1793220469266
 }

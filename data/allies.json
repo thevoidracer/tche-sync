@@ -6,7 +6,7 @@
     "activePercent": 93,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3043,
+    "profileViews": 3044,
     "leagueTier": 12,
     "racers": [
       {
@@ -462,10 +462,10 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5358,
-        "wpm": 90,
+        "allTimeRaces": 5373,
+        "wpm": 82,
         "highestWPM": 112,
-        "teamRaces": 916,
+        "teamRaces": 937,
         "acc": 94.93,
         "season": null,
         "status": "active",
@@ -483,7 +483,7 @@
         "acc": 92.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793103506
+        "lastLogin": 1793219254
       },
       {
         "username": "watermelonsupreme",
@@ -586,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80176,
+        "races": 80197,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 41
       },
       "daily": {
-        "races": 201,
-        "avgWPM": 62,
-        "avgAcc": 92.83,
+        "races": 220,
+        "avgWPM": 64,
+        "avgAcc": 93.1,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793218091660
+    "_syncedAt": 1793220515161
   },
   "SVC": {
     "tag": "SVC",
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793218110814
+    "_syncedAt": 1793220534214
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1232,7 +1232,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793218129769
+    "_syncedAt": 1793220553213
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1241,7 +1241,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4632,
+    "profileViews": 4636,
     "leagueTier": 12,
     "racers": [
       {
@@ -1249,11 +1249,11 @@
         "displayName": "ella winters",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101411,
-        "wpm": 87,
+        "allTimeRaces": 101428,
+        "wpm": 89,
         "highestWPM": 156,
-        "teamRaces": 359,
-        "acc": 96.1,
+        "teamRaces": 377,
+        "acc": 96.11,
         "season": null,
         "status": "active",
         "lastLogin": 1793203878
@@ -1277,11 +1277,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10147,
-        "wpm": 109,
+        "allTimeRaces": 10182,
+        "wpm": 111,
         "highestWPM": 135,
-        "teamRaces": 717,
-        "acc": 98.2,
+        "teamRaces": 753,
+        "acc": 98.21,
         "season": null,
         "status": "active",
         "lastLogin": 1793211882
@@ -1378,8 +1378,8 @@
         "allTimeRaces": 159141,
         "wpm": 95,
         "highestWPM": 166,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 1,
+        "acc": 96.33,
         "season": null,
         "status": "active",
         "lastLogin": 1793218208
@@ -1627,11 +1627,11 @@
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6299,
-        "wpm": 70,
+        "allTimeRaces": 6301,
+        "wpm": 68,
         "highestWPM": 98,
-        "teamRaces": 150,
-        "acc": 85.27,
+        "teamRaces": 155,
+        "acc": 85.31,
         "season": null,
         "status": "active",
         "lastLogin": 1793217754
@@ -1683,14 +1683,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3779,
+        "allTimeRaces": 3780,
         "wpm": 43,
         "highestWPM": 61,
-        "teamRaces": 2241,
+        "teamRaces": 2242,
         "acc": 91.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793184496
+        "lastLogin": 1793218611
       },
       {
         "username": "sara0010",
@@ -1905,20 +1905,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 125849,
+        "races": 125910,
         "avgWPM": 67,
         "avgAcc": 94,
         "members": 47
       },
       "daily": {
-        "races": 1396,
-        "avgWPM": 79,
-        "avgAcc": 94.8,
+        "races": 1438,
+        "avgWPM": 80,
+        "avgAcc": 94.89,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793218299424
+    "_syncedAt": 1793220722966
   }
 }
