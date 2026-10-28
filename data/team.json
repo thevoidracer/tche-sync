@@ -1,7 +1,7 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 47,
+  "members": 48,
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament NOW ✨ https://tinyurl.com/IMT-Tracker",
@@ -133,6 +133,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1793114234
+    },
+    {
+      "username": "jorgespeedway",
+      "displayName": "xX_VICTORY_Xx",
+      "role": "member",
+      "joinStamp": 1793174744,
+      "allTimeRaces": 7141,
+      "wpm": 89,
+      "highestWPM": 110,
+      "teamRaces": 21,
+      "acc": 97.42,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1793171944
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -669,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61187,
+      "races": 61208,
       "avgWPM": 76,
       "avgAcc": 94.95,
-      "members": 47
+      "members": 48
     },
     "daily": {
-      "races": 566,
+      "races": 587,
       "avgWPM": 80,
-      "avgAcc": 92.88,
-      "members": 47
+      "avgAcc": 93.05,
+      "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793173508528
+  "_syncedAt": 1793176139978
 }

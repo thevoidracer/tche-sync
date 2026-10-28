@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:jorgespeedway",
+      "type": "new-member",
+      "text": "xX_VICTORY_Xx joined the team.",
+      "meta": {
+        "username": "jorgespeedway"
+      },
+      "createdAt": 1793176238577
+    },
+    {
       "key": "new-member:220c8a080156dd343f8e79451ff336d8",
       "type": "new-member",
       "text": "izersss joined the team.",
@@ -503,5 +512,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793173609272
+  "_syncedAt": 1793176238577
 }
