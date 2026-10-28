@@ -209,14 +209,14 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1306,
-      "wpm": 90,
+      "allTimeRaces": 1307,
+      "wpm": 92,
       "highestWPM": 111,
-      "teamRaces": 121,
+      "teamRaces": 122,
       "acc": 95.85,
       "season": null,
       "status": "active",
-      "lastLogin": 1793151772
+      "lastLogin": 1793191629
     },
     {
       "username": "teraceeben21",
@@ -370,7 +370,7 @@
       "acc": 93.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1793111672
+      "lastLogin": 1793191156
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -538,7 +538,7 @@
       "acc": 92.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1793188523
+      "lastLogin": 1793192262
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61271,
+      "races": 61272,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 650,
-      "avgWPM": 81,
-      "avgAcc": 93.35,
+      "races": 596,
+      "avgWPM": 80,
+      "avgAcc": 93.37,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793189296631
+  "_syncedAt": 1793192267491
 }
