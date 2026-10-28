@@ -406,14 +406,14 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2552,
-        "wpm": 64,
+        "allTimeRaces": 2562,
+        "wpm": 66,
         "highestWPM": 83,
-        "teamRaces": 68,
-        "acc": 95.91,
+        "teamRaces": 78,
+        "acc": 95.83,
         "season": null,
         "status": "active",
-        "lastLogin": 1793026370
+        "lastLogin": 1793220835
       },
       {
         "username": "dac15c1994a90cbf2a9bd6dab29b550a",
@@ -462,25 +462,25 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5373,
-        "wpm": 82,
+        "allTimeRaces": 5377,
+        "wpm": 81,
         "highestWPM": 112,
-        "teamRaces": 937,
-        "acc": 94.93,
+        "teamRaces": 941,
+        "acc": 94.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1793216196
+        "lastLogin": 1793221108
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
         "displayName": "TerrificPurpleSalamander",
         "role": "member",
         "joinStamp": 1791230784,
-        "allTimeRaces": 1446,
-        "wpm": 57,
+        "allTimeRaces": 1447,
+        "wpm": 56,
         "highestWPM": 78,
-        "teamRaces": 117,
-        "acc": 92.94,
+        "teamRaces": 118,
+        "acc": 92.92,
         "season": null,
         "status": "active",
         "lastLogin": 1793219254
@@ -586,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80197,
+        "races": 80212,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 41
       },
       "daily": {
-        "races": 220,
-        "avgWPM": 64,
-        "avgAcc": 93.1,
+        "races": 223,
+        "avgWPM": 66,
+        "avgAcc": 93.14,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793220515161
+    "_syncedAt": 1793222842884
   },
   "SVC": {
     "tag": "SVC",
@@ -609,7 +609,7 @@
     "activePercent": 61,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2066,
+    "profileViews": 2067,
     "leagueTier": 10,
     "racers": [
       {
@@ -1175,7 +1175,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793220534214
+    "_syncedAt": 1793222861786
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1232,16 +1232,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793220553213
+    "_syncedAt": 1793222880634
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 47,
+    "members": 45,
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 250M+ Cash & 15+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4636,
+    "profileViews": 4640,
     "leagueTier": 12,
     "racers": [
       {
@@ -1277,11 +1277,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10182,
-        "wpm": 111,
+        "allTimeRaces": 10214,
+        "wpm": 112,
         "highestWPM": 135,
-        "teamRaces": 753,
-        "acc": 98.21,
+        "teamRaces": 785,
+        "acc": 98.22,
         "season": null,
         "status": "active",
         "lastLogin": 1793211882
@@ -1375,14 +1375,14 @@
         "displayName": "Calypso",
         "role": "member",
         "joinStamp": 1792891343,
-        "allTimeRaces": 159141,
-        "wpm": 95,
+        "allTimeRaces": 159143,
+        "wpm": 98,
         "highestWPM": 166,
-        "teamRaces": 1,
-        "acc": 96.33,
+        "teamRaces": 3,
+        "acc": 97.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1793218208
+        "lastLogin": 1793222391
       },
       {
         "username": "joe772",
@@ -1669,14 +1669,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1619,
-        "wpm": 100,
-        "highestWPM": 121,
-        "teamRaces": 1168,
-        "acc": 96.28,
+        "allTimeRaces": 1651,
+        "wpm": 98,
+        "highestWPM": 122,
+        "teamRaces": 1200,
+        "acc": 96.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1793165732
+        "lastLogin": 1793221642
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1704,7 +1704,7 @@
         "acc": 93.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793191709
+        "lastLogin": 1793222058
       },
       {
         "username": "taco13001",
@@ -1747,20 +1747,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1792463716
-      },
-      {
-        "username": "grehufergreuhgrdhub",
-        "displayName": "J0inMyT3am",
-        "role": "member",
-        "joinStamp": 1793199842,
-        "allTimeRaces": 2318,
-        "wpm": 122,
-        "highestWPM": 130,
-        "teamRaces": 79,
-        "acc": 100,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793215200
       },
       {
         "username": "3360345cdae6a05f049d72318df338a9",
@@ -1844,7 +1830,7 @@
         "acc": 95.56,
         "season": null,
         "status": "active",
-        "lastLogin": 1793196224
+        "lastLogin": 1793221769
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1859,20 +1845,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793197936
-      },
-      {
-        "username": "7fb1aa0b1ff7892ac9c33d8cc8ce3ece",
-        "displayName": "Lachlan676767676767",
-        "role": "member",
-        "joinStamp": 1792116747,
-        "allTimeRaces": 1255,
-        "wpm": 50,
-        "highestWPM": 86,
-        "teamRaces": 109,
-        "acc": 91.76,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793180594
       },
       {
         "username": "1d5cf30eea705bfa2602c36a6458cabb",
@@ -1905,20 +1877,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 125910,
+        "races": 125976,
         "avgWPM": 67,
-        "avgAcc": 94,
-        "members": 47
+        "avgAcc": 94.01,
+        "members": 45
       },
       "daily": {
-        "races": 1438,
-        "avgWPM": 80,
-        "avgAcc": 94.89,
-        "members": 47
+        "races": 1494,
+        "avgWPM": 81,
+        "avgAcc": 95.03,
+        "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793220722966
+    "_syncedAt": 1793223050223
   }
 }

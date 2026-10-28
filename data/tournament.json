@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793220489829
+        "_syncedAt": 1793222818404
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1912,7 +1912,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2402,7 +2402,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2650,7 +2650,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 10120
                 },
@@ -2754,7 +2754,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 9201
+                  "score": 10038
                 }
               ],
               "winner": null
@@ -2774,7 +2774,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": null
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793220506696
+        "_syncedAt": 1793222834609
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793220506699
+  "_syncedAt": 1793222834612
 }

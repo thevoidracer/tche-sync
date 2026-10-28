@@ -83,11 +83,11 @@
       "displayName": "GroundedAquaEmu",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1329,
-      "wpm": 93,
+      "allTimeRaces": 1330,
+      "wpm": 94,
       "highestWPM": 108,
-      "teamRaces": 98,
-      "acc": 97.2,
+      "teamRaces": 102,
+      "acc": 97.19,
       "season": null,
       "status": "active",
       "lastLogin": 1793220165
@@ -195,11 +195,11 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 804,
-      "wpm": 69,
+      "allTimeRaces": 807,
+      "wpm": 65,
       "highestWPM": 84,
-      "teamRaces": 303,
-      "acc": 94.63,
+      "teamRaces": 306,
+      "acc": 94.62,
       "season": null,
       "status": "active",
       "lastLogin": 1793219293
@@ -391,10 +391,10 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1675,
-      "wpm": 91,
+      "allTimeRaces": 1678,
+      "wpm": 94,
       "highestWPM": 119,
-      "teamRaces": 1325,
+      "teamRaces": 1331,
       "acc": 94.31,
       "season": null,
       "status": "active",
@@ -531,14 +531,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1116,
-      "wpm": 50,
+      "allTimeRaces": 1120,
+      "wpm": 48,
       "highestWPM": 80,
-      "teamRaces": 14,
-      "acc": 91.73,
+      "teamRaces": 18,
+      "acc": 91.54,
       "season": null,
       "status": "active",
-      "lastLogin": 1793204741
+      "lastLogin": 1793221868
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -711,19 +711,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61934,
+      "races": 61951,
       "avgWPM": 77,
       "avgAcc": 94.96,
       "members": 50
     },
     "daily": {
-      "races": 858,
+      "races": 847,
       "avgWPM": 84,
-      "avgAcc": 95.45,
+      "avgAcc": 95.46,
       "members": 50
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793220413641
+  "_syncedAt": 1793222739645
 }
