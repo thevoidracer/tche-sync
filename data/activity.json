@@ -197,12 +197,12 @@
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "StefanO",
+      "racer": "VOID_REIGN",
       "races": 10
     },
     {
       "hour": "2026-10-27 20:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "StefanO",
       "races": 10
     },
     {
@@ -289,8 +289,23 @@
       "hour": "2026-10-28 09:00:00",
       "racer": "asteroids",
       "races": 31
+    },
+    {
+      "hour": "2026-10-28 11:00:00",
+      "racer": "UJAADDAH",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-28 11:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-28 11:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 0
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793186919452
+  "_syncedAt": 1793189357727
 }

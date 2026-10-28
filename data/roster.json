@@ -563,8 +563,8 @@
       "tier": "A",
       "avgWPM": 92,
       "topWPM": 122,
-      "lifetimeRaces": 1649,
-      "teamRaces": 116,
+      "lifetimeRaces": 1652,
+      "teamRaces": 119,
       "joined": "10/24/26"
     },
     {
@@ -587,10 +587,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 73,
+      "avgWPM": 74,
       "topWPM": 98,
-      "lifetimeRaces": 716,
-      "teamRaces": 64,
+      "lifetimeRaces": 718,
+      "teamRaces": 66,
       "joined": "10/25/26"
     },
     {
@@ -631,8 +631,21 @@
       "lifetimeRaces": 7154,
       "teamRaces": 48,
       "joined": "10/28/26"
+    },
+    {
+      "username": "3a0b3a8cc922fae587432ade7a6160f7",
+      "displayName": "BlazingFlowerz",
+      "nickname": "Winter Warrior",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 69,
+      "topWPM": 80,
+      "lifetimeRaces": 1102,
+      "teamRaces": 0,
+      "joined": "10/28/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793186919451
+  "_syncedAt": 1793189357726
 }

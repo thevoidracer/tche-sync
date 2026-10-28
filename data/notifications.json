@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:3a0b3a8cc922fae587432ade7a6160f7",
+      "type": "new-member",
+      "text": "BlazingFlowerz joined the team.",
+      "meta": {
+        "username": "3a0b3a8cc922fae587432ade7a6160f7"
+      },
+      "createdAt": 1793189395327
+    },
+    {
       "key": "new-member:jorgespeedway",
       "type": "new-member",
       "text": "xX_VICTORY_Xx joined the team.",
@@ -512,5 +521,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793186957761
+  "_syncedAt": 1793189395327
 }
