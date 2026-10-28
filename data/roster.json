@@ -103,7 +103,7 @@
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "nickname": "Champion Chaser",
-      "role": "officer",
+      "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
       "avgWPM": 92,
@@ -142,13 +142,13 @@
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "nickname": "Jestermaxxing",
-      "role": "member",
+      "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 56,
       "topWPM": 82,
       "lifetimeRaces": 9310,
-      "teamRaces": 1262,
+      "teamRaces": 1264,
       "joined": "09/09/26"
     },
     {
@@ -468,7 +468,7 @@
       "displayName": "Joe and Uh",
       "nickname": "Crazy About Typing",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "B",
       "avgWPM": 83,
       "topWPM": 111,
@@ -603,7 +603,7 @@
       "avgWPM": 73,
       "topWPM": 98,
       "lifetimeRaces": 716,
-      "teamRaces": 62,
+      "teamRaces": 64,
       "joined": "10/25/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793146880248
+  "_syncedAt": 1793150920346
 }
