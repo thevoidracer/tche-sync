@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂ ✨ 2x Tournament Champs ✨ 31M NTC Paid ✨ Req: 15/join • 100/wk ✨ Cash for active racers ✨ Tournament NOW ✨ https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2157,
+  "profileViews": 2158,
   "leagueTier": 12,
   "racers": [
     {
@@ -139,11 +139,11 @@
       "displayName": "xX_VICTORY_Xx",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7141,
-      "wpm": 89,
+      "allTimeRaces": 7154,
+      "wpm": 90,
       "highestWPM": 110,
-      "teamRaces": 21,
-      "acc": 97.42,
+      "teamRaces": 48,
+      "acc": 97.24,
       "season": null,
       "status": "active",
       "lastLogin": 1793171944
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 61208,
+      "races": 61235,
       "avgWPM": 76,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 587,
+      "races": 614,
       "avgWPM": 80,
-      "avgAcc": 93.05,
+      "avgAcc": 93.24,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793176139978
+  "_syncedAt": 1793179017868
 }
