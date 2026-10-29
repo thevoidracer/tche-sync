@@ -15,9 +15,9 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 94,
       "topWPM": 127,
-      "lifetimeRaces": 5367,
+      "lifetimeRaces": 5368,
       "teamRaces": 2942,
       "joined": "06/10/26"
     },
@@ -433,8 +433,8 @@
       "tier": "A",
       "avgWPM": 100,
       "topWPM": 128,
-      "lifetimeRaces": 5411,
-      "teamRaces": 399,
+      "lifetimeRaces": 5431,
+      "teamRaces": 419,
       "joined": "10/21/26"
     },
     {
@@ -574,10 +574,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 76,
+      "avgWPM": 77,
       "topWPM": 98,
-      "lifetimeRaces": 730,
-      "teamRaces": 78,
+      "lifetimeRaces": 732,
+      "teamRaces": 80,
       "joined": "10/25/26"
     },
     {
@@ -637,7 +637,7 @@
       "displayName": "1ightwork",
       "nickname": "Shadow in the Snow",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 79,
       "topWPM": 183,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793274547568
+  "_syncedAt": 1793276881071
 }

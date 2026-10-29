@@ -476,14 +476,14 @@
         "displayName": "haleyyrose",
         "role": "officer",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5377,
-        "wpm": 81,
+        "allTimeRaces": 5378,
+        "wpm": 83,
         "highestWPM": 112,
-        "teamRaces": 941,
-        "acc": 94.92,
+        "teamRaces": 942,
+        "acc": 94.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1793221108
+        "lastLogin": 1793274704
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80230,
+        "races": 80231,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 214,
+        "races": 204,
         "avgWPM": 68,
-        "avgAcc": 93.01,
+        "avgAcc": 93.07,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793274592260
+    "_syncedAt": 1793276927114
   },
   "SVC": {
     "tag": "SVC",
@@ -981,14 +981,14 @@
         "displayName": "gokuglazernumber1",
         "role": "member",
         "joinStamp": 1788958411,
-        "allTimeRaces": 848,
-        "wpm": 76,
+        "allTimeRaces": 849,
+        "wpm": 75,
         "highestWPM": 107,
         "teamRaces": 432,
         "acc": 93.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1793190172
+        "lastLogin": 1793276648
       },
       {
         "username": "067e61db23ab39b5375339592bc11c6e",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793274611048
+    "_syncedAt": 1793276946201
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1237,16 +1237,11 @@
         "avgAcc": 98.23,
         "members": 2
       },
-      "daily": {
-        "races": 24,
-        "avgWPM": 71,
-        "avgAcc": 98.63,
-        "members": 2
-      },
+      "daily": null,
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793274629924
+    "_syncedAt": 1793276964964
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1760,7 +1755,7 @@
         "acc": 93.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793241773
+        "lastLogin": 1793276609
       },
       {
         "username": "taco13001",
@@ -1939,14 +1934,14 @@
         "members": 48
       },
       "daily": {
-        "races": 1698,
-        "avgWPM": 82,
+        "races": 1695,
+        "avgWPM": 83,
         "avgAcc": 95.34,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793274799544
+    "_syncedAt": 1793277134253
   }
 }
