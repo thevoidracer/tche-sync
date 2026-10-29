@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨31.1M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2182,
+  "profileViews": 2187,
   "leagueTier": 13,
   "racers": [
     {
@@ -62,7 +62,7 @@
       "acc": 95.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1793274771
+      "lastLogin": 1793277024
     },
     {
       "username": "tre1typer",
@@ -244,7 +244,7 @@
       "acc": 94.88,
       "season": null,
       "status": "active",
-      "lastLogin": 1793109518
+      "lastLogin": 1793278371
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -391,14 +391,14 @@
       "displayName": "I KC Zadkiel I",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2430,
-      "wpm": 72,
+      "allTimeRaces": 2441,
+      "wpm": 75,
       "highestWPM": 93,
-      "teamRaces": 535,
-      "acc": 93.82,
+      "teamRaces": 546,
+      "acc": 93.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1793217335
+      "lastLogin": 1793277697
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -503,14 +503,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5368,
-      "wpm": 94,
+      "allTimeRaces": 5386,
+      "wpm": 93,
       "highestWPM": 127,
-      "teamRaces": 2942,
+      "teamRaces": 2961,
       "acc": 92.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1793276696
+      "lastLogin": 1793277528
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -545,14 +545,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1120,
-      "wpm": 48,
+      "allTimeRaces": 1128,
+      "wpm": 51,
       "highestWPM": 80,
-      "teamRaces": 18,
-      "acc": 91.54,
+      "teamRaces": 26,
+      "acc": 91.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1793221868
+      "lastLogin": 1793279077
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -573,11 +573,11 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1214,
-      "wpm": 53,
+      "allTimeRaces": 1236,
+      "wpm": 55,
       "highestWPM": 108,
-      "teamRaces": 963,
-      "acc": 91.87,
+      "teamRaces": 988,
+      "acc": 91.81,
       "season": null,
       "status": "active",
       "lastLogin": 1793276562
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 62081,
+      "races": 62144,
       "avgWPM": 77,
       "avgAcc": 94.96,
       "members": 49
     },
     "daily": {
-      "races": 810,
+      "races": 851,
       "avgWPM": 86,
-      "avgAcc": 95.56,
+      "avgAcc": 95.39,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793276825532
+  "_syncedAt": 1793280642259
 }

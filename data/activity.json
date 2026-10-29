@@ -1,24 +1,19 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 12:00:00",
-      "racer": "Joe and Uh",
-      "races": 1
-    },
-    {
       "hour": "2026-10-28 13:00:00",
       "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-10-28 13:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 13
+      "races": 12
     },
     {
       "hour": "2026-10-28 13:00:00",
       "racer": "Unknown",
       "races": 10
+    },
+    {
+      "hour": "2026-10-28 13:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 7
     },
     {
       "hour": "2026-10-28 13:00:00",
@@ -29,11 +24,6 @@
       "hour": "2026-10-28 13:00:00",
       "racer": "SKZ FIRAH",
       "races": 5
-    },
-    {
-      "hour": "2026-10-28 13:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 2
     },
     {
       "hour": "2026-10-28 13:00:00",
@@ -127,12 +117,12 @@
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "BlazingFlowerz",
       "races": 1
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "PootsyWafflebiscuits",
       "races": 1
     },
     {
@@ -212,12 +202,12 @@
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "The Queen",
+      "racer": "GroundedAquaEmu",
       "races": 3
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "GroundedAquaEmu",
+      "racer": "The Queen",
       "races": 3
     },
     {
@@ -312,15 +302,40 @@
     },
     {
       "hour": "2026-10-29 12:00:00",
+      "racer": "VOID_REIGN",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-29 12:00:00",
+      "racer": "Void Racer",
+      "races": 19
+    },
+    {
+      "hour": "2026-10-29 12:00:00",
       "racer": "Nathan",
       "races": 14
     },
     {
       "hour": "2026-10-29 12:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 5
+    },
+    {
+      "hour": "2026-10-29 12:00:00",
       "racer": "SKZ FIRAH",
       "races": 1
+    },
+    {
+      "hour": "2026-10-29 13:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-29 13:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793276881072
+  "_syncedAt": 1793280696796
 }
