@@ -1,29 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 18:00:00",
-      "racer": "rorok09",
-      "races": 15
-    },
-    {
-      "hour": "2026-10-28 18:00:00",
-      "racer": "xX_VICTORY_Xx",
-      "races": 15
-    },
-    {
-      "hour": "2026-10-28 18:00:00",
-      "racer": "Namedisplayed",
-      "races": 9
-    },
-    {
       "hour": "2026-10-28 19:00:00",
       "racer": "rorok09",
-      "races": 35
-    },
-    {
-      "hour": "2026-10-28 19:00:00",
-      "racer": "xX_VICTORY_Xx",
-      "races": 33
+      "races": 18
     },
     {
       "hour": "2026-10-28 19:00:00",
@@ -32,8 +12,8 @@
     },
     {
       "hour": "2026-10-28 19:00:00",
-      "racer": "IMIME_IMIME",
-      "races": 10
+      "racer": "xX_VICTORY_Xx",
+      "races": 8
     },
     {
       "hour": "2026-10-28 19:00:00",
@@ -62,12 +42,12 @@
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "StefanO",
       "races": 2
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "StefanO",
+      "racer": "I KC Zadkiel I",
       "races": 2
     },
     {
@@ -222,22 +202,22 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-29 14:00:00",
       "racer": "SKZ FIRAH",
       "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "Void Racer",
-      "races": 3
+      "racer": "LogicalCrimsonRoadrunner",
+      "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
       "racer": "KirbyDelta",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-29 14:00:00",
+      "racer": "Void Racer",
       "races": 3
     },
     {
@@ -332,15 +312,20 @@
     },
     {
       "hour": "2026-10-29 18:00:00",
+      "racer": "RationalGoldApe",
+      "races": 15
+    },
+    {
+      "hour": "2026-10-29 18:00:00",
       "racer": "me_likey_typey",
       "races": 13
     },
     {
-      "hour": "2026-10-29 18:00:00",
+      "hour": "2026-10-29 19:00:00",
       "racer": "RationalGoldApe",
       "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793300168626
+  "_syncedAt": 1793302639549
 }

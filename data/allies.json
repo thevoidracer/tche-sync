@@ -6,7 +6,7 @@
     "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3048,
+    "profileViews": 3049,
     "leagueTier": 13,
     "racers": [
       {
@@ -63,7 +63,7 @@
         "acc": 90.81,
         "season": null,
         "status": "active",
-        "lastLogin": 1793040541
+        "lastLogin": 1793302611
       },
       {
         "username": "66e96614eb894403e575fc229ce9b81f",
@@ -266,11 +266,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1112,
-        "wpm": 58,
+        "allTimeRaces": 1126,
+        "wpm": 59,
         "highestWPM": 72,
-        "teamRaces": 305,
-        "acc": 94.51,
+        "teamRaces": 319,
+        "acc": 94.54,
         "season": null,
         "status": "active",
         "lastLogin": 1793300199
@@ -420,14 +420,14 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2562,
-        "wpm": 66,
+        "allTimeRaces": 2579,
+        "wpm": 65,
         "highestWPM": 83,
-        "teamRaces": 78,
-        "acc": 95.83,
+        "teamRaces": 93,
+        "acc": 95.71,
         "season": null,
         "status": "active",
-        "lastLogin": 1793220835
+        "lastLogin": 1793301428
       },
       {
         "username": "dac15c1994a90cbf2a9bd6dab29b550a",
@@ -448,14 +448,14 @@
         "displayName": "Barcelona",
         "role": "member",
         "joinStamp": 1790805421,
-        "allTimeRaces": 557,
-        "wpm": 23,
+        "allTimeRaces": 573,
+        "wpm": 24,
         "highestWPM": 46,
-        "teamRaces": 117,
-        "acc": 94.88,
+        "teamRaces": 133,
+        "acc": 94.92,
         "season": null,
         "status": "active",
-        "lastLogin": 1793133675
+        "lastLogin": 1793300553
       },
       {
         "username": "lillie1432",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80347,
+        "races": 80392,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 203,
-        "avgWPM": 72,
-        "avgAcc": 93.88,
+        "races": 244,
+        "avgWPM": 68,
+        "avgAcc": 94.02,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793300217749
+    "_syncedAt": 1793302687594
   },
   "SVC": {
     "tag": "SVC",
@@ -1181,15 +1181,15 @@
         "members": 38
       },
       "daily": {
-        "races": 300,
+        "races": 297,
         "avgWPM": 85,
-        "avgAcc": 95.16,
+        "avgAcc": 95.13,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793300239110
+    "_syncedAt": 1793302707113
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793300258159
+    "_syncedAt": 1793302726203
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4736,
+    "profileViews": 4737,
     "leagueTier": 13,
     "racers": [
       {
@@ -1482,10 +1482,10 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1470,
-        "wpm": 51,
+        "allTimeRaces": 1473,
+        "wpm": 50,
         "highestWPM": 84,
-        "teamRaces": 694,
+        "teamRaces": 698,
         "acc": 91.61,
         "season": null,
         "status": "active",
@@ -1671,7 +1671,7 @@
         "acc": 86.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1793297139
+        "lastLogin": 1793301368
       },
       {
         "username": "a5c0884d10e5f917a2da2e03349c66e4",
@@ -1720,11 +1720,11 @@
         "displayName": "Dj2tuff",
         "role": "member",
         "joinStamp": 1792770527,
-        "allTimeRaces": 3363,
+        "allTimeRaces": 3377,
         "wpm": 60,
         "highestWPM": 77,
-        "teamRaces": 120,
-        "acc": 91.89,
+        "teamRaces": 134,
+        "acc": 91.91,
         "season": null,
         "status": "active",
         "lastLogin": 1793299812
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 127296,
+        "races": 127314,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 50
       },
       "daily": {
-        "races": 1577,
-        "avgWPM": 82,
-        "avgAcc": 95.33,
+        "races": 1520,
+        "avgWPM": 81,
+        "avgAcc": 95.26,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793300427944
+    "_syncedAt": 1793302895839
   }
 }
