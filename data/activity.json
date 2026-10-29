@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 08:00:00",
-      "racer": "xX_VICTORY_Xx",
-      "races": 11
-    },
-    {
       "hour": "2026-10-28 09:00:00",
       "racer": "asteroids",
       "races": 31
@@ -92,12 +87,12 @@
     },
     {
       "hour": "2026-10-28 14:00:00",
-      "racer": "loganim12btw",
+      "racer": "me_likey_typey",
       "races": 2
     },
     {
       "hour": "2026-10-28 14:00:00",
-      "racer": "me_likey_typey",
+      "racer": "loganim12btw",
       "races": 2
     },
     {
@@ -327,5 +322,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793263088145
+  "_syncedAt": 1793266195052
 }
