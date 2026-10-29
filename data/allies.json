@@ -70,14 +70,14 @@
         "displayName": "Leo Torres",
         "role": "member",
         "joinStamp": 1793047425,
-        "allTimeRaces": 927,
-        "wpm": 64,
+        "allTimeRaces": 931,
+        "wpm": 65,
         "highestWPM": 76,
         "teamRaces": 48,
         "acc": 87.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1793291179
+        "lastLogin": 1793312512
       },
       {
         "username": "143d0f3e85cc83e783a976428aa895ce",
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793310516740
+    "_syncedAt": 1793312875430
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793310535753
+    "_syncedAt": 1793312894215
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793310554528
+    "_syncedAt": 1793312913033
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1250,7 +1250,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4745,
+    "profileViews": 4750,
     "leagueTier": 13,
     "racers": [
       {
@@ -1258,14 +1258,14 @@
         "displayName": "bly manor ella",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101769,
-        "wpm": 83,
+        "allTimeRaces": 101791,
+        "wpm": 89,
         "highestWPM": 156,
-        "teamRaces": 718,
-        "acc": 96.12,
+        "teamRaces": 725,
+        "acc": 96.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1793303379
+        "lastLogin": 1793311094
       },
       {
         "username": "joepellicc_gold",
@@ -1286,11 +1286,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10331,
-        "wpm": 104,
+        "allTimeRaces": 10347,
+        "wpm": 111,
         "highestWPM": 135,
-        "teamRaces": 901,
-        "acc": 98.23,
+        "teamRaces": 917,
+        "acc": 98.21,
         "season": null,
         "status": "active",
         "lastLogin": 1793305993
@@ -1503,7 +1503,7 @@
         "acc": 91.83,
         "season": null,
         "status": "active",
-        "lastLogin": 1793236455
+        "lastLogin": 1793313071
       },
       {
         "username": "baglepet000",
@@ -1734,11 +1734,11 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1707,
-        "wpm": 105,
+        "allTimeRaces": 1740,
+        "wpm": 94,
         "highestWPM": 122,
-        "teamRaces": 1252,
-        "acc": 96.23,
+        "teamRaces": 1278,
+        "acc": 96.21,
         "season": null,
         "status": "active",
         "lastLogin": 1793309774
@@ -1755,15 +1755,15 @@
         "acc": 91.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793282728
+        "lastLogin": 1793311294
       },
       {
         "username": "sara0010",
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19080,
-        "wpm": 89,
+        "allTimeRaces": 19086,
+        "wpm": 87,
         "highestWPM": 123,
         "teamRaces": 18620,
         "acc": 93.99,
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 127358,
+        "races": 127407,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 49
       },
       "daily": {
-        "races": 1303,
-        "avgWPM": 77,
-        "avgAcc": 94.73,
+        "races": 1268,
+        "avgWPM": 78,
+        "avgAcc": 94.75,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793310723883
+    "_syncedAt": 1793313082521
   }
 }

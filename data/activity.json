@@ -1,24 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 21:00:00",
-      "racer": "GroundedAquaEmu",
-      "races": 7
-    },
-    {
-      "hour": "2026-10-28 21:00:00",
-      "racer": "Void Racer",
-      "races": 6
-    },
-    {
       "hour": "2026-10-28 22:00:00",
       "racer": "Void Racer",
-      "races": 27
+      "races": 20
     },
     {
       "hour": "2026-10-28 22:00:00",
       "racer": "GroundedAquaEmu",
-      "races": 25
+      "races": 12
     },
     {
       "hour": "2026-10-28 23:00:00",
@@ -287,6 +277,11 @@
     },
     {
       "hour": "2026-10-29 21:00:00",
+      "racer": "VOID_REIGN",
+      "races": 9
+    },
+    {
+      "hour": "2026-10-29 21:00:00",
       "racer": "asteroids",
       "races": 3
     },
@@ -302,5 +297,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793310472079
+  "_syncedAt": 1793312829008
 }
