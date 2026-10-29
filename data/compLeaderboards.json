@@ -8,15 +8,28 @@
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
-        "squad": "Newbies!",
-        "races": 235,
-        "wpm": 109.4,
-        "accuracy": 98.35,
-        "points": 35751,
+        "squad": "Active!",
+        "races": 250,
+        "wpm": 109.2,
+        "accuracy": 98.34,
+        "points": 38008,
         "tier": "A"
       },
       {
         "rank": 2,
+        "tag": "THB0S",
+        "username": "ella winters",
+        "displayName": "ella winters",
+        "nickname": "Hallowampus Fanclub",
+        "squad": "Officer",
+        "races": 235,
+        "wpm": 87.4,
+        "accuracy": 95.98,
+        "points": 32415,
+        "tier": "B"
+      },
+      {
+        "rank": 3,
         "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
@@ -29,20 +42,20 @@
         "tier": "B"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "THB0S",
-        "username": "ella winters",
-        "displayName": "ella winters",
-        "nickname": "Hallowampus Fanclub",
-        "squad": "Officer",
-        "races": 213,
-        "wpm": 87.4,
-        "accuracy": 95.89,
-        "points": 29349,
-        "tier": "A"
+        "username": "GRANDMAISTHEB0SS",
+        "displayName": "GRANDMAISTHEB0SS",
+        "nickname": "Boo!",
+        "squad": "Active!",
+        "races": 92,
+        "wpm": 46.5,
+        "accuracy": 89.66,
+        "points": 10168,
+        "tier": "C"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -55,7 +68,7 @@
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
@@ -68,7 +81,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -81,7 +94,7 @@
         "tier": "A"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -94,7 +107,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -105,19 +118,6 @@
         "accuracy": 95.2,
         "points": 7083,
         "tier": "A"
-      },
-      {
-        "rank": 9,
-        "tag": "THB0S",
-        "username": "GRANDMAISTHEB0SS",
-        "displayName": "GRANDMAISTHEB0SS",
-        "nickname": "Boo!",
-        "squad": "Active!",
-        "races": 62,
-        "wpm": 47,
-        "accuracy": 89.29,
-        "points": 6836,
-        "tier": "C"
       },
       {
         "rank": 10,
@@ -294,7 +294,7 @@
         "username": "Gt650,",
         "displayName": "Gt650,",
         "nickname": "Keyboard Cat",
-        "squad": "Active!",
+        "squad": "Loyal",
         "races": 32,
         "wpm": 42,
         "accuracy": 82.81,
@@ -554,7 +554,7 @@
         "username": "dark type",
         "displayName": "dark type",
         "nickname": "Crazy About Typing",
-        "squad": "Active!",
+        "squad": "Loyal",
         "races": 14,
         "wpm": 34.7,
         "accuracy": 65.84,
@@ -784,6 +784,19 @@
       },
       {
         "rank": 61,
+        "tag": "SVC",
+        "username": "NotFastEnough",
+        "displayName": "NotFastEnough",
+        "nickname": "♪ So Delightful ♪",
+        "squad": "Member",
+        "races": 1,
+        "wpm": 59.4,
+        "accuracy": 92.75,
+        "points": 120,
+        "tier": "C"
+      },
+      {
+        "rank": 62,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -796,7 +809,7 @@
         "tier": "C"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "tag": "KEYCAT",
         "username": "TerrificPurpleSalamander",
         "displayName": "TerrificPurpleSalamander",
@@ -809,7 +822,20 @@
         "tier": "B"
       },
       {
-        "rank": 63,
+        "rank": 64,
+        "tag": "THB0S",
+        "username": "AuraThief",
+        "displayName": "AuraThief",
+        "nickname": "Millionaire",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "B"
+      },
+      {
+        "rank": 65,
         "tag": "IMT",
         "username": "Brodence",
         "displayName": "Brodence",
@@ -822,7 +848,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793231936098
+    "_syncedAt": 1793233682247
   },
   "1437": {
     "eventId": "1437",
@@ -1257,6 +1283,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793231940073
+    "_syncedAt": 1793233686513
   }
 }
