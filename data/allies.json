@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793251431368
+    "_syncedAt": 1793254026605
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793251450626
+    "_syncedAt": 1793254045737
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1246,7 +1246,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793251469716
+    "_syncedAt": 1793254064579
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1255,7 +1255,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4703,
+    "profileViews": 4704,
     "leagueTier": 13,
     "racers": [
       {
@@ -1263,11 +1263,11 @@
         "displayName": "ella winters",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101643,
-        "wpm": 74,
+        "allTimeRaces": 101645,
+        "wpm": 73,
         "highestWPM": 156,
-        "teamRaces": 586,
-        "acc": 96.14,
+        "teamRaces": 594,
+        "acc": 96.15,
         "season": null,
         "status": "active",
         "lastLogin": 1793249033
@@ -1933,13 +1933,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 126712,
+        "races": 126720,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 48
       },
       "daily": {
-        "races": 1740,
+        "races": 1747,
         "avgWPM": 82,
         "avgAcc": 95.18,
         "members": 48
@@ -1947,6 +1947,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793251639473
+    "_syncedAt": 1793254234094
   }
 }
