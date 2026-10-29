@@ -195,14 +195,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 807,
-      "wpm": 65,
+      "allTimeRaces": 810,
+      "wpm": 66,
       "highestWPM": 84,
-      "teamRaces": 306,
-      "acc": 94.62,
+      "teamRaces": 309,
+      "acc": 94.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1793307530
+      "lastLogin": 1793309792
     },
     {
       "username": "c3b559e21447f9028631f1bbb7e9ab04",
@@ -321,14 +321,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3318,
-      "wpm": 81,
+      "allTimeRaces": 3321,
+      "wpm": 87,
       "highestWPM": 109,
-      "teamRaces": 108,
-      "acc": 95.68,
+      "teamRaces": 111,
+      "acc": 95.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793269822
+      "lastLogin": 1793308888
     },
     {
       "username": "sterling757",
@@ -496,7 +496,7 @@
       "acc": 92.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1793303340
+      "lastLogin": 1793308160
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 448,
+      "allTimeRaces": 450,
       "wpm": 96,
       "highestWPM": 111,
-      "teamRaces": 205,
+      "teamRaces": 207,
       "acc": 91.64,
       "season": null,
       "status": "active",
-      "lastLogin": 1793304859
+      "lastLogin": 1793308797
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 62564,
+      "races": 62572,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 620,
-      "avgWPM": 82,
-      "avgAcc": 93.55,
+      "races": 614,
+      "avgWPM": 83,
+      "avgAcc": 93.53,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793308061134
+  "_syncedAt": 1793310392599
 }
