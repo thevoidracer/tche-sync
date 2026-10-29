@@ -3,7 +3,7 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 42,
-    "activePercent": 93,
+    "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 3045,
@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793245938133
+    "_syncedAt": 1793248421169
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793245957124
+    "_syncedAt": 1793248439959
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1246,7 +1246,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793245976119
+    "_syncedAt": 1793248458912
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1438,7 +1438,7 @@
         "acc": 93.76,
         "season": null,
         "status": "active",
-        "lastLogin": 1793235618
+        "lastLogin": 1793247546
       },
       {
         "username": "90eb5a2f0b7b8975f7a33fc14400b57c",
@@ -1613,11 +1613,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8644,
-        "wpm": 59,
+        "allTimeRaces": 8649,
+        "wpm": 62,
         "highestWPM": 95,
-        "teamRaces": 1090,
-        "acc": 97.32,
+        "teamRaces": 1102,
+        "acc": 97.31,
         "season": null,
         "status": "active",
         "lastLogin": 1793245120
@@ -1732,7 +1732,7 @@
         "acc": 96.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1793221642
+        "lastLogin": 1793248014
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1933,20 +1933,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 126680,
+        "races": 126692,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 48
       },
       "daily": {
-        "races": 1715,
+        "races": 1720,
         "avgWPM": 82,
-        "avgAcc": 95.15,
+        "avgAcc": 95.16,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793246145751
+    "_syncedAt": 1793248628501
   }
 }
