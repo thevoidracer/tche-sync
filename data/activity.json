@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 22:00:00",
-      "racer": "Void Racer",
-      "races": 20
-    },
-    {
-      "hour": "2026-10-28 22:00:00",
-      "racer": "GroundedAquaEmu",
-      "races": 12
-    },
-    {
       "hour": "2026-10-28 23:00:00",
       "racer": "SKZ FIRAH",
       "races": 4
@@ -127,22 +117,22 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-29 14:00:00",
       "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "KirbyDelta",
-      "races": 3
+      "racer": "SKZ FIRAH",
+      "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
       "racer": "Void Racer",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-29 14:00:00",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
@@ -297,5 +287,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793312829008
+  "_syncedAt": 1793315006144
 }
