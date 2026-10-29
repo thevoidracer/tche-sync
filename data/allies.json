@@ -266,14 +266,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1111,
-        "wpm": 60,
+        "allTimeRaces": 1112,
+        "wpm": 58,
         "highestWPM": 72,
-        "teamRaces": 304,
-        "acc": 94.52,
+        "teamRaces": 305,
+        "acc": 94.51,
         "season": null,
         "status": "active",
-        "lastLogin": 1793127477
+        "lastLogin": 1793237832
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -518,14 +518,14 @@
         "displayName": "Void Racer alt",
         "role": "officer",
         "joinStamp": 1791232953,
-        "allTimeRaces": 306,
-        "wpm": 110,
+        "allTimeRaces": 319,
+        "wpm": 94,
         "highestWPM": 113,
-        "teamRaces": 62,
-        "acc": 93.26,
+        "teamRaces": 75,
+        "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793224238
+        "lastLogin": 1793239105
       },
       {
         "username": "happygoluckygirl07",
@@ -600,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80216,
+        "races": 80230,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 42
       },
       "daily": {
-        "races": 208,
-        "avgWPM": 66,
+        "races": 222,
+        "avgWPM": 67,
         "avgAcc": 92.98,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793237392439
+    "_syncedAt": 1793240270166
   },
   "SVC": {
     "tag": "SVC",
@@ -690,7 +690,7 @@
         "allTimeRaces": 1658,
         "wpm": 81,
         "highestWPM": 105,
-        "teamRaces": 563,
+        "teamRaces": 564,
         "acc": 94.46,
         "season": null,
         "status": "active",
@@ -1175,13 +1175,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 41364,
+        "races": 41365,
         "avgWPM": 82,
         "avgAcc": 94.28,
         "members": 39
       },
       "daily": {
-        "races": 226,
+        "races": 227,
         "avgWPM": 83,
         "avgAcc": 95.25,
         "members": 39
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793237411864
+    "_syncedAt": 1793240288976
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1246,7 +1246,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793237430998
+    "_syncedAt": 1793240307879
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1255,7 +1255,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4661,
+    "profileViews": 4695,
     "leagueTier": 13,
     "racers": [
       {
@@ -1263,11 +1263,11 @@
         "displayName": "ella winters",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101540,
-        "wpm": 91,
+        "allTimeRaces": 101582,
+        "wpm": 93,
         "highestWPM": 156,
-        "teamRaces": 489,
-        "acc": 96.16,
+        "teamRaces": 530,
+        "acc": 96.15,
         "season": null,
         "status": "active",
         "lastLogin": 1793228413
@@ -1333,11 +1333,11 @@
         "displayName": "-Mystery-",
         "role": "member",
         "joinStamp": 1793236141,
-        "allTimeRaces": 20666,
+        "allTimeRaces": 20675,
         "wpm": 94,
         "highestWPM": 143,
-        "teamRaces": 16,
-        "acc": 95.79,
+        "teamRaces": 25,
+        "acc": 95.91,
         "season": null,
         "status": "active",
         "lastLogin": 1793235106
@@ -1501,11 +1501,11 @@
         "displayName": "ticklemonsterr",
         "role": "member",
         "joinStamp": 1792790899,
-        "allTimeRaces": 2993,
-        "wpm": 84,
+        "allTimeRaces": 3006,
+        "wpm": 86,
         "highestWPM": 101,
-        "teamRaces": 28,
-        "acc": 92.63,
+        "teamRaces": 39,
+        "acc": 91.97,
         "season": null,
         "status": "active",
         "lastLogin": 1793236455
@@ -1593,6 +1593,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793233983
+      },
+      {
+        "username": "redmoon14",
+        "displayName": "redmoon14",
+        "role": "member",
+        "joinStamp": 1793239434,
+        "allTimeRaces": 6959,
+        "wpm": 57,
+        "highestWPM": 71,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1793237884
       },
       {
         "username": "1st_speedster",
@@ -1739,14 +1753,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19060,
+        "allTimeRaces": 19073,
         "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 18600,
+        "teamRaces": 18613,
         "acc": 93.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793232077
+        "lastLogin": 1793239657
       },
       {
         "username": "taco13001",
@@ -1900,21 +1914,7 @@
         "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1793231688
-      },
-      {
-        "username": "1d5cf30eea705bfa2602c36a6458cabb",
-        "displayName": "aiden67676767676767",
-        "role": "member",
-        "joinStamp": 1792918377,
-        "allTimeRaces": 500,
-        "wpm": 48,
-        "highestWPM": 62,
-        "teamRaces": 71,
-        "acc": 89.56,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793237200
+        "lastLogin": 1793240385
       },
       {
         "username": "malott12",
@@ -1933,20 +1933,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 126479,
+        "races": 126575,
         "avgWPM": 67,
         "avgAcc": 94.02,
         "members": 48
       },
       "daily": {
-        "races": 1622,
+        "races": 1678,
         "avgWPM": 82,
-        "avgAcc": 95.16,
+        "avgAcc": 95.14,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793237600500
+    "_syncedAt": 1793240477522
   }
 }

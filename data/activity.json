@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 01:00:00",
-      "racer": "Joe and Uh",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-28 01:00:00",
-      "racer": "GroundedAquaEmu",
-      "races": 4
-    },
-    {
       "hour": "2026-10-28 07:00:00",
       "racer": "xX_VICTORY_Xx",
       "races": 0
@@ -262,12 +252,12 @@
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "StefanO",
       "races": 2
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "StefanO",
+      "racer": "I KC Zadkiel I",
       "races": 2
     },
     {
@@ -318,14 +308,19 @@
     {
       "hour": "2026-10-29 01:00:00",
       "racer": "-HyperTyper-",
-      "races": 8
+      "races": 25
     },
     {
       "hour": "2026-10-29 01:00:00",
       "racer": "UJAADDAH",
       "races": 1
+    },
+    {
+      "hour": "2026-10-29 02:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793237345689
+  "_syncedAt": 1793240223429
 }
