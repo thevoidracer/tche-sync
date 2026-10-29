@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:db27599c851d0e7546cb486ec2caf538",
+      "type": "new-member",
+      "text": "1ightwork joined the team.",
+      "meta": {
+        "username": "db27599c851d0e7546cb486ec2caf538"
+      },
+      "createdAt": 1793245928942
+    },
+    {
       "key": "tour-win:57:Match 2326",
       "type": "tournament-win",
       "text": "Namedisplayed won their Elite 8 ($300,000) * match vs Nitrex in IMT Ally Celebration Tournament.",
@@ -572,5 +581,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793243395924
+  "_syncedAt": 1793245928942
 }
