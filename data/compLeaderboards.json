@@ -607,10 +607,10 @@
         "displayName": "Sakupen",
         "nickname": "Spectral Speedster",
         "squad": "Officer",
-        "races": 13,
-        "wpm": 44,
-        "accuracy": 91.2,
-        "points": 1446,
+        "races": 14,
+        "wpm": 44.3,
+        "accuracy": 91.21,
+        "points": 1560,
         "tier": "C"
       },
       {
@@ -978,7 +978,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793269102380
+    "_syncedAt": 1793272197197
   },
   "1437": {
     "eventId": "1437",
@@ -1426,6 +1426,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793269106499
+    "_syncedAt": 1793272201217
   }
 }
