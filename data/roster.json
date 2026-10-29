@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 91,
       "topWPM": 127,
-      "lifetimeRaces": 5389,
-      "teamRaces": 2964,
+      "lifetimeRaces": 5395,
+      "teamRaces": 2970,
       "joined": "06/10/26"
     },
     {
@@ -160,8 +160,8 @@
       "tier": "C",
       "avgWPM": 74,
       "topWPM": 85,
-      "lifetimeRaces": 2299,
-      "teamRaces": 125,
+      "lifetimeRaces": 2300,
+      "teamRaces": 126,
       "joined": "09/17/26"
     },
     {
@@ -249,10 +249,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 82,
       "topWPM": 104,
-      "lifetimeRaces": 1475,
-      "teamRaces": 59,
+      "lifetimeRaces": 1478,
+      "teamRaces": 62,
       "joined": "10/06/26"
     },
     {
@@ -352,11 +352,11 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 84,
+      "tier": "C",
+      "avgWPM": 79,
       "topWPM": 111,
-      "lifetimeRaces": 5340,
-      "teamRaces": 307,
+      "lifetimeRaces": 5402,
+      "teamRaces": 373,
       "joined": "10/15/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793287321380
+  "_syncedAt": 1793290675825
 }

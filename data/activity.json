@@ -1,34 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 15:00:00",
-      "racer": "Victoria Ram",
-      "races": 35
-    },
-    {
-      "hour": "2026-10-28 15:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-10-28 15:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-28 15:00:00",
-      "racer": "Unknown",
-      "races": 1
-    },
-    {
       "hour": "2026-10-28 16:00:00",
       "racer": "rorok09",
-      "races": 86
-    },
-    {
-      "hour": "2026-10-28 16:00:00",
-      "racer": "Unknown",
-      "races": 26
+      "races": 73
     },
     {
       "hour": "2026-10-28 16:00:00",
@@ -37,18 +12,13 @@
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "Victoria Ram",
-      "races": 3
+      "racer": "Unknown",
+      "races": 11
     },
     {
       "hour": "2026-10-28 16:00:00",
       "racer": "SKZ FIRAH",
       "races": 3
-    },
-    {
-      "hour": "2026-10-28 16:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 1
     },
     {
       "hour": "2026-10-28 16:00:00",
@@ -329,8 +299,33 @@
       "hour": "2026-10-29 14:00:00",
       "racer": "UJAADDAH",
       "races": 1
+    },
+    {
+      "hour": "2026-10-29 15:00:00",
+      "racer": "t_unknown",
+      "races": 57
+    },
+    {
+      "hour": "2026-10-29 15:00:00",
+      "racer": "Void Racer",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-29 15:00:00",
+      "racer": "The Queen",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-29 15:00:00",
+      "racer": "IMIME_IMIME",
+      "races": 1
+    },
+    {
+      "hour": "2026-10-29 16:00:00",
+      "racer": "t_unknown",
+      "races": 9
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793287321381
+  "_syncedAt": 1793290675828
 }
