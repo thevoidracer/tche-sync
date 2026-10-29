@@ -3,7 +3,7 @@
     "minRaces": 500,
     "minWPM": 50,
     "tierA": 89,
-    "tierB": 81,
+    "tierB": 80,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 89,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 110,
-      "lifetimeRaces": 20356,
-      "teamRaces": 2717,
+      "lifetimeRaces": 20365,
+      "teamRaces": 2726,
       "joined": "06/24/26"
     },
     {
@@ -118,7 +118,7 @@
       "nickname": "The Caped Crusader",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 80,
       "topWPM": 102,
       "lifetimeRaces": 2723,
@@ -158,10 +158,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 74,
+      "avgWPM": 68,
       "topWPM": 85,
-      "lifetimeRaces": 2300,
-      "teamRaces": 126,
+      "lifetimeRaces": 2305,
+      "teamRaces": 131,
       "joined": "09/17/26"
     },
     {
@@ -287,7 +287,7 @@
       "nickname": "Master Motorist",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 80,
       "topWPM": 94,
       "lifetimeRaces": 965,
@@ -365,11 +365,11 @@
       "nickname": "Quicker Than the Fox",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 79,
+      "tier": "B",
+      "avgWPM": 86,
       "topWPM": 102,
-      "lifetimeRaces": 6925,
-      "teamRaces": 900,
+      "lifetimeRaces": 6950,
+      "teamRaces": 925,
       "joined": "10/15/26"
     },
     {
@@ -381,8 +381,8 @@
       "tier": "A",
       "avgWPM": 96,
       "topWPM": 120,
-      "lifetimeRaces": 3958,
-      "teamRaces": 309,
+      "lifetimeRaces": 3963,
+      "teamRaces": 314,
       "joined": "10/16/26"
     },
     {
@@ -404,11 +404,11 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 100,
-      "lifetimeRaces": 1404,
-      "teamRaces": 55,
+      "lifetimeRaces": 1412,
+      "teamRaces": 59,
       "joined": "10/19/26"
     },
     {
@@ -613,10 +613,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 52,
+      "avgWPM": 53,
       "topWPM": 80,
-      "lifetimeRaces": 1143,
-      "teamRaces": 41,
+      "lifetimeRaces": 1150,
+      "teamRaces": 48,
       "joined": "10/28/26"
     },
     {
@@ -644,8 +644,21 @@
       "lifetimeRaces": 23717,
       "teamRaces": 1,
       "joined": "10/29/26"
+    },
+    {
+      "username": "bfa8839baa0642556b69448adee42dca",
+      "displayName": "NotoriousJuJu",
+      "nickname": "Grim Reaper",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 98,
+      "topWPM": 127,
+      "lifetimeRaces": 692,
+      "teamRaces": 0,
+      "joined": "10/29/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793290675825
+  "_syncedAt": 1793294262174
 }
