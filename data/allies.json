@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793260293984
+    "_syncedAt": 1793263133418
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793260313256
+    "_syncedAt": 1793263152408
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1246,7 +1246,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793260332326
+    "_syncedAt": 1793263171202
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1893,10 +1893,10 @@
         "displayName": "dark type",
         "role": "member",
         "joinStamp": 1785487372,
-        "allTimeRaces": 2989,
-        "wpm": 35,
+        "allTimeRaces": 3007,
+        "wpm": 33,
         "highestWPM": 47,
-        "teamRaces": 2620,
+        "teamRaces": 2637,
         "acc": 83.02,
         "season": null,
         "status": "active",
@@ -1933,20 +1933,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 126720,
+        "races": 126737,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 48
       },
       "daily": {
-        "races": 1729,
+        "races": 1723,
         "avgWPM": 82,
-        "avgAcc": 95.24,
+        "avgAcc": 95.3,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793260502015
+    "_syncedAt": 1793263340639
   }
 }

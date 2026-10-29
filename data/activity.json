@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-28 07:00:00",
-      "racer": "xX_VICTORY_Xx",
-      "races": 0
-    },
-    {
       "hour": "2026-10-28 08:00:00",
       "racer": "xX_VICTORY_Xx",
-      "races": 48
+      "races": 11
     },
     {
       "hour": "2026-10-28 09:00:00",
@@ -332,5 +327,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793260245457
+  "_syncedAt": 1793263088145
 }

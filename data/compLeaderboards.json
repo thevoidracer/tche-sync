@@ -460,6 +460,19 @@
       {
         "rank": 36,
         "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Loyal",
+        "races": 31,
+        "wpm": 32.8,
+        "accuracy": 72.1,
+        "points": 2601,
+        "tier": "C"
+      },
+      {
+        "rank": 37,
+        "tag": "THB0S",
         "username": "Dj2tuff",
         "displayName": "Dj2tuff",
         "nickname": "Not So Koi",
@@ -471,7 +484,7 @@
         "tier": "C"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -484,7 +497,7 @@
         "tier": "C"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
@@ -497,7 +510,7 @@
         "tier": "C"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -510,7 +523,7 @@
         "tier": "C"
       },
       {
-        "rank": 40,
+        "rank": 41,
         "tag": "THB0S",
         "username": "Tbone11",
         "displayName": "Tbone11",
@@ -523,7 +536,7 @@
         "tier": "C"
       },
       {
-        "rank": 41,
+        "rank": 42,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -536,7 +549,7 @@
         "tier": "B"
       },
       {
-        "rank": 42,
+        "rank": 43,
         "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
@@ -549,7 +562,7 @@
         "tier": "B"
       },
       {
-        "rank": 43,
+        "rank": 44,
         "tag": "KEYCAT",
         "username": "Void Racer alt",
         "displayName": "Void Racer alt",
@@ -562,7 +575,7 @@
         "tier": "A"
       },
       {
-        "rank": 44,
+        "rank": 45,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -575,7 +588,7 @@
         "tier": "A"
       },
       {
-        "rank": 45,
+        "rank": 46,
         "tag": "THB0S",
         "username": "RAYAN 7",
         "displayName": "RAYAN 7",
@@ -588,7 +601,7 @@
         "tier": "C"
       },
       {
-        "rank": 46,
+        "rank": 47,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -601,7 +614,7 @@
         "tier": "C"
       },
       {
-        "rank": 47,
+        "rank": 48,
         "tag": "IMT",
         "username": "IMIME_IMIME",
         "displayName": "IMIME_IMIME",
@@ -614,7 +627,7 @@
         "tier": "C"
       },
       {
-        "rank": 48,
+        "rank": 49,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -627,7 +640,7 @@
         "tier": "B"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
@@ -638,19 +651,6 @@
         "accuracy": 84.89,
         "points": 1256,
         "tier": "B"
-      },
-      {
-        "rank": 50,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Loyal",
-        "races": 14,
-        "wpm": 34.7,
-        "accuracy": 65.84,
-        "points": 1082,
-        "tier": "C"
       },
       {
         "rank": 51,
@@ -978,7 +978,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793260289526
+    "_syncedAt": 1793263129236
   },
   "1437": {
     "eventId": "1437",
@@ -1426,6 +1426,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793260293772
+    "_syncedAt": 1793263133249
   }
 }
