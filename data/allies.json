@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793248421169
+    "_syncedAt": 1793251431368
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793248439959
+    "_syncedAt": 1793251450626
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1246,7 +1246,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793248458912
+    "_syncedAt": 1793251469716
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1263,14 +1263,14 @@
         "displayName": "ella winters",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101617,
-        "wpm": 87,
+        "allTimeRaces": 101643,
+        "wpm": 74,
         "highestWPM": 156,
-        "teamRaces": 566,
-        "acc": 96.12,
+        "teamRaces": 586,
+        "acc": 96.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1793228413
+        "lastLogin": 1793249033
       },
       {
         "username": "joepellicc_gold",
@@ -1933,20 +1933,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 126692,
+        "races": 126712,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 48
       },
       "daily": {
-        "races": 1720,
+        "races": 1740,
         "avgWPM": 82,
-        "avgAcc": 95.16,
+        "avgAcc": 95.18,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793248628501
+    "_syncedAt": 1793251639473
   }
 }

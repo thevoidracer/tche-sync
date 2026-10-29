@@ -9,11 +9,11 @@
         "displayName": "ella winters",
         "nickname": "God Mode",
         "squad": "Officer",
-        "races": 357,
-        "wpm": 87,
-        "accuracy": 95.92,
-        "points": 49130,
-        "tier": "A"
+        "races": 364,
+        "wpm": 86.6,
+        "accuracy": 95.93,
+        "points": 50047,
+        "tier": "B"
       },
       {
         "rank": 2,
@@ -182,7 +182,7 @@
         "wpm": 89.6,
         "accuracy": 97.38,
         "points": 5075,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 15,
@@ -390,7 +390,7 @@
         "wpm": 78.8,
         "accuracy": 94.08,
         "points": 3016,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 31,
@@ -546,7 +546,7 @@
         "wpm": 53.6,
         "accuracy": 89.28,
         "points": 1812,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 43,
@@ -910,7 +910,7 @@
         "wpm": 59.4,
         "accuracy": 92.75,
         "points": 120,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 71,
@@ -978,7 +978,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793248416825
+    "_syncedAt": 1793251426826
   },
   "1437": {
     "eventId": "1437",
@@ -1426,6 +1426,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793248421020
+    "_syncedAt": 1793251431154
   }
 }

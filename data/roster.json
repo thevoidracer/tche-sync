@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
+    "tierA": 89,
     "tierB": 81,
     "weeklyReq": 100
   },
@@ -27,7 +27,7 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 110,
       "lifetimeRaces": 20322,
@@ -261,7 +261,7 @@
       "nickname": "B.U.S. Driver",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 115,
       "lifetimeRaces": 5111,
@@ -586,7 +586,7 @@
       "nickname": "Novice Navigator",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 100,
       "lifetimeRaces": 1601,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793248375663
+  "_syncedAt": 1793251382909
 }
