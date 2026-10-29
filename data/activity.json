@@ -8,7 +8,7 @@
     {
       "hour": "2026-10-27 23:00:00",
       "racer": "SKZ FIRAH",
-      "races": 6
+      "races": 4
     },
     {
       "hour": "2026-10-28 00:00:00",
@@ -272,22 +272,22 @@
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "The Queen",
-      "races": 3
-    },
-    {
-      "hour": "2026-10-28 20:00:00",
       "racer": "GroundedAquaEmu",
       "races": 3
     },
     {
       "hour": "2026-10-28 20:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 2
+      "racer": "The Queen",
+      "races": 3
     },
     {
       "hour": "2026-10-28 20:00:00",
       "racer": "StefanO",
+      "races": 2
+    },
+    {
+      "hour": "2026-10-28 20:00:00",
+      "racer": "I KC Zadkiel I",
       "races": 2
     },
     {
@@ -327,10 +327,15 @@
     },
     {
       "hour": "2026-10-28 23:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 4
+    },
+    {
+      "hour": "2026-10-28 23:00:00",
       "racer": "-HyperTyper-",
       "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793229481008
+  "_syncedAt": 1793231894405
 }
