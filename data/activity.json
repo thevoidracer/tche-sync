@@ -157,12 +157,12 @@
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "Victoria Ram",
+      "racer": "SKZ FIRAH",
       "races": 3
     },
     {
       "hour": "2026-10-28 16:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "Victoria Ram",
       "races": 3
     },
     {
@@ -314,8 +314,18 @@
       "hour": "2026-10-28 23:00:00",
       "racer": "-HyperTyper-",
       "races": 2
+    },
+    {
+      "hour": "2026-10-29 01:00:00",
+      "racer": "-HyperTyper-",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-29 01:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793233639388
+  "_syncedAt": 1793237345689
 }
