@@ -210,10 +210,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 90,
       "topWPM": 108,
-      "lifetimeRaces": 1376,
-      "teamRaces": 146,
+      "lifetimeRaces": 1379,
+      "teamRaces": 151,
       "joined": "09/29/26"
     },
     {
@@ -391,11 +391,11 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 89,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 100,
-      "lifetimeRaces": 1438,
-      "teamRaces": 89,
+      "lifetimeRaces": 1452,
+      "teamRaces": 103,
       "joined": "10/19/26"
     },
     {
@@ -509,10 +509,10 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 96,
       "topWPM": 111,
-      "lifetimeRaces": 421,
-      "teamRaces": 177,
+      "lifetimeRaces": 448,
+      "teamRaces": 205,
       "joined": "10/23/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793305330232
+  "_syncedAt": 1793308129014
 }

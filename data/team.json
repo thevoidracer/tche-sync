@@ -83,11 +83,11 @@
       "displayName": "GroundedAquaEmu",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1378,
+      "allTimeRaces": 1379,
       "wpm": 90,
       "highestWPM": 108,
-      "teamRaces": 149,
-      "acc": 97.08,
+      "teamRaces": 151,
+      "acc": 97.07,
       "season": null,
       "status": "active",
       "lastLogin": 1793304316
@@ -202,7 +202,7 @@
       "acc": 94.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1793219293
+      "lastLogin": 1793307530
     },
     {
       "username": "c3b559e21447f9028631f1bbb7e9ab04",
@@ -587,14 +587,14 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1438,
-      "wpm": 89,
+      "allTimeRaces": 1452,
+      "wpm": 87,
       "highestWPM": 100,
-      "teamRaces": 89,
-      "acc": 97.14,
+      "teamRaces": 103,
+      "acc": 97.15,
       "season": null,
       "status": "active",
-      "lastLogin": 1793299335
+      "lastLogin": 1793306236
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -685,11 +685,11 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 424,
-      "wpm": 90,
+      "allTimeRaces": 448,
+      "wpm": 96,
       "highestWPM": 111,
-      "teamRaces": 180,
-      "acc": 91.55,
+      "teamRaces": 205,
+      "acc": 91.64,
       "season": null,
       "status": "active",
       "lastLogin": 1793304859
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 62523,
+      "races": 62564,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 597,
+      "races": 620,
       "avgWPM": 82,
-      "avgAcc": 93.53,
+      "avgAcc": 93.55,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793305270470
+  "_syncedAt": 1793308061134
 }
