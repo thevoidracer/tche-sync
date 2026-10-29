@@ -4,8 +4,8 @@
   "members": 49,
   "activePercent": 97,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨31.8M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2187,
+  "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
+  "profileViews": 2189,
   "leagueTier": 13,
   "racers": [
     {
@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20340,
-      "wpm": 90,
+      "allTimeRaces": 20356,
+      "wpm": 89,
       "highestWPM": 110,
-      "teamRaces": 2700,
+      "teamRaces": 2717,
       "acc": 97.56,
       "season": null,
       "status": "active",
@@ -76,7 +76,7 @@
       "acc": 94.89,
       "season": null,
       "status": "active",
-      "lastLogin": 1793204560
+      "lastLogin": 1793287189
     },
     {
       "username": "470256",
@@ -223,11 +223,11 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1337,
-      "wpm": 88,
+      "allTimeRaces": 1343,
+      "wpm": 94,
       "highestWPM": 111,
-      "teamRaces": 151,
-      "acc": 95.86,
+      "teamRaces": 158,
+      "acc": 95.95,
       "season": null,
       "status": "active",
       "lastLogin": 1793283833
@@ -237,14 +237,14 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5336,
+      "allTimeRaces": 5346,
       "wpm": 84,
       "highestWPM": 111,
-      "teamRaces": 307,
+      "teamRaces": 316,
       "acc": 94.88,
       "season": null,
       "status": "active",
-      "lastLogin": 1793278371
+      "lastLogin": 1793286691
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -286,7 +286,7 @@
       "acc": 96.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793123981
+      "lastLogin": 1793285015
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -405,11 +405,11 @@
       "displayName": "Namedisplayed",
       "role": "officer",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1704,
-      "wpm": 101,
+      "allTimeRaces": 1707,
+      "wpm": 103,
       "highestWPM": 119,
-      "teamRaces": 1357,
-      "acc": 94.32,
+      "teamRaces": 1360,
+      "acc": 94.31,
       "season": null,
       "status": "active",
       "lastLogin": 1793282396
@@ -510,7 +510,7 @@
       "acc": 92.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1793282616
+      "lastLogin": 1793285129
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -559,11 +559,11 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 741,
-      "wpm": 76,
+      "allTimeRaces": 742,
+      "wpm": 73,
       "highestWPM": 98,
-      "teamRaces": 88,
-      "acc": 91.94,
+      "teamRaces": 90,
+      "acc": 91.82,
       "season": null,
       "status": "active",
       "lastLogin": 1793283221
@@ -580,7 +580,7 @@
       "acc": 91.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1793276562
+      "lastLogin": 1793284734
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -629,11 +629,11 @@
       "displayName": "LogicalCrimsonRoadrunner",
       "role": "member",
       "joinStamp": 1792679716,
-      "allTimeRaces": 1443,
-      "wpm": 52,
+      "allTimeRaces": 1448,
+      "wpm": 51,
       "highestWPM": 78,
-      "teamRaces": 174,
-      "acc": 89.43,
+      "teamRaces": 179,
+      "acc": 89.35,
       "season": null,
       "status": "active",
       "lastLogin": 1793283733
@@ -643,10 +643,10 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9334,
+      "allTimeRaces": 9337,
       "wpm": 54,
       "highestWPM": 82,
-      "teamRaces": 1287,
+      "teamRaces": 1291,
       "acc": 79.91,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 62293,
+      "races": 62340,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 902,
-      "avgWPM": 85,
-      "avgAcc": 95.07,
+      "races": 921,
+      "avgWPM": 84,
+      "avgAcc": 95.03,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793284239267
+  "_syncedAt": 1793287264302
 }
