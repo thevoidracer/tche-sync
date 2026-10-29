@@ -371,7 +371,7 @@
         "acc": 93.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793225568
+        "lastLogin": 1793274033
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793272201400
+    "_syncedAt": 1793274592260
   },
   "SVC": {
     "tag": "SVC",
@@ -1181,15 +1181,15 @@
         "members": 39
       },
       "daily": {
-        "races": 215,
+        "races": 209,
         "avgWPM": 83,
-        "avgAcc": 95.23,
+        "avgAcc": 95.22,
         "members": 39
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793272228550
+    "_syncedAt": 1793274611048
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1238,7 +1238,7 @@
         "members": 2
       },
       "daily": {
-        "races": 51,
+        "races": 24,
         "avgWPM": 71,
         "avgAcc": 98.63,
         "members": 2
@@ -1246,7 +1246,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793272247482
+    "_syncedAt": 1793274629924
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1255,7 +1255,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4706,
+    "profileViews": 4708,
     "leagueTier": 13,
     "racers": [
       {
@@ -1473,14 +1473,14 @@
         "displayName": "alex NT",
         "role": "member",
         "joinStamp": 1793021990,
-        "allTimeRaces": 2110,
-        "wpm": 98,
+        "allTimeRaces": 2111,
+        "wpm": 97,
         "highestWPM": 118,
-        "teamRaces": 12,
-        "acc": 93.03,
+        "teamRaces": 13,
+        "acc": 92.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793205877
+        "lastLogin": 1793273475
       },
       {
         "username": "bbdadf8ff7275f4938c7bff9fec1f594",
@@ -1739,11 +1739,11 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3807,
-        "wpm": 44,
+        "allTimeRaces": 3824,
+        "wpm": 41,
         "highestWPM": 61,
-        "teamRaces": 2266,
-        "acc": 92,
+        "teamRaces": 2286,
+        "acc": 91.98,
         "season": null,
         "status": "active",
         "lastLogin": 1793271417
@@ -1933,20 +1933,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 126749,
-        "avgWPM": 68,
+        "races": 126770,
+        "avgWPM": 67,
         "avgAcc": 94.02,
         "members": 48
       },
       "daily": {
-        "races": 1707,
-        "avgWPM": 83,
-        "avgAcc": 95.33,
+        "races": 1698,
+        "avgWPM": 82,
+        "avgAcc": 95.34,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793272417090
+    "_syncedAt": 1793274799544
   }
 }
