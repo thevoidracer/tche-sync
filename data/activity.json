@@ -82,22 +82,22 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-29 14:00:00",
       "racer": "SKZ FIRAH",
       "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "Void Racer",
-      "races": 3
+      "racer": "LogicalCrimsonRoadrunner",
+      "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
       "racer": "KirbyDelta",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-29 14:00:00",
+      "racer": "Void Racer",
       "races": 3
     },
     {
@@ -142,17 +142,17 @@
     },
     {
       "hour": "2026-10-29 16:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 5
+    },
+    {
+      "hour": "2026-10-29 16:00:00",
       "racer": "IMIME_IMIME",
       "races": 5
     },
     {
       "hour": "2026-10-29 16:00:00",
       "racer": "WindMaker",
-      "races": 5
-    },
-    {
-      "hour": "2026-10-29 16:00:00",
-      "racer": "BlazingFlowerz",
       "races": 5
     },
     {
@@ -304,8 +304,13 @@
       "hour": "2026-10-30 10:00:00",
       "racer": "rorok09",
       "races": 54
+    },
+    {
+      "hour": "2026-10-30 11:00:00",
+      "racer": "rorok09",
+      "races": 27
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793358365424
+  "_syncedAt": 1793360743004
 }
