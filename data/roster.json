@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 89,
+    "tierA": 91,
     "tierB": 80,
     "weeklyReq": 100
   },
@@ -105,7 +105,7 @@
       "nickname": "Champion Chaser",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 119,
       "lifetimeRaces": 1728,
@@ -287,7 +287,7 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 127,
       "lifetimeRaces": 20616,
@@ -573,7 +573,7 @@
       "nickname": "Novice Navigator",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 89,
       "topWPM": 100,
       "lifetimeRaces": 1601,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793335962089
+  "_syncedAt": 1793338204226
 }

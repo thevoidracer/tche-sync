@@ -5,15 +5,15 @@
       {
         "rank": 1,
         "tag": "THB0S",
-        "username": "bly manor ella",
-        "displayName": "bly manor ella",
+        "username": "ella",
+        "displayName": "ella",
         "nickname": "Creepin' it Real",
         "squad": "Officer",
         "races": 516,
         "wpm": 85.5,
         "accuracy": 95.95,
         "points": 70675,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 2,
@@ -78,7 +78,7 @@
         "wpm": 96,
         "accuracy": 93.65,
         "points": 14829,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 7,
@@ -156,7 +156,7 @@
         "wpm": 86.9,
         "accuracy": 93.87,
         "points": 9965,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 13,
@@ -364,7 +364,7 @@
         "wpm": 64.2,
         "accuracy": 93.04,
         "points": 6022,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 29,
@@ -624,7 +624,7 @@
         "wpm": 89.7,
         "accuracy": 94.91,
         "points": 3025,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 49,
@@ -897,7 +897,7 @@
         "wpm": 61.1,
         "accuracy": 93.13,
         "points": 973,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 70,
@@ -1277,7 +1277,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793336004437
+    "_syncedAt": 1793338244720
   },
   "1437": {
     "eventId": "1437",
@@ -1751,6 +1751,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793336008814
+    "_syncedAt": 1793338248711
   }
 }
