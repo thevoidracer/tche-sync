@@ -28,10 +28,10 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "B",
-      "avgWPM": 88,
+      "avgWPM": 87,
       "topWPM": 110,
-      "lifetimeRaces": 20391,
-      "teamRaces": 2750,
+      "lifetimeRaces": 20404,
+      "teamRaces": 2765,
       "joined": "06/24/26"
     },
     {
@@ -67,10 +67,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 71,
+      "avgWPM": 69,
       "topWPM": 107,
-      "lifetimeRaces": 7978,
-      "teamRaces": 498,
+      "lifetimeRaces": 7980,
+      "teamRaces": 500,
       "joined": "07/08/26"
     },
     {
@@ -274,11 +274,11 @@
       "nickname": "Master Motorist",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 76,
+      "tier": "B",
+      "avgWPM": 80,
       "topWPM": 94,
-      "lifetimeRaces": 994,
-      "teamRaces": 115,
+      "lifetimeRaces": 1007,
+      "teamRaces": 128,
       "joined": "10/07/26"
     },
     {
@@ -600,10 +600,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 52,
+      "avgWPM": 51,
       "topWPM": 80,
-      "lifetimeRaces": 1168,
-      "teamRaces": 63,
+      "lifetimeRaces": 1171,
+      "teamRaces": 69,
       "joined": "10/28/26"
     },
     {
@@ -641,11 +641,11 @@
       "tier": "A",
       "avgWPM": 96,
       "topWPM": 127,
-      "lifetimeRaces": 697,
-      "teamRaces": 6,
+      "lifetimeRaces": 699,
+      "teamRaces": 8,
       "joined": "10/29/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793376678843
+  "_syncedAt": 1793379200254
 }
