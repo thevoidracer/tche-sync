@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793366786363
+        "_syncedAt": 1793373443450
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Pandora",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -2210,7 +2210,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Pandora",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2546,7 +2546,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Pandora",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2754,7 +2754,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 17003
+                  "score": 21161
                 }
               ],
               "winner": 1
@@ -2790,7 +2790,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 7189
+                  "score": 10769
                 },
                 {
                   "seed": "6",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793366803872
+        "_syncedAt": 1793373460133
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793366803883
+  "_syncedAt": 1793373460141
 }
