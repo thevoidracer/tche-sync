@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-29 02:00:00",
-      "racer": "Nitrex",
-      "races": 1
-    },
-    {
       "hour": "2026-10-29 03:00:00",
       "racer": "1ightwork",
       "races": 1
@@ -92,12 +87,12 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
+      "racer": "SKZ FIRAH",
       "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
@@ -262,5 +257,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793328056448
+  "_syncedAt": 1793330638139
 }
