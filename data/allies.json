@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793355535309
+    "_syncedAt": 1793358410168
   },
   "SVC": {
     "tag": "SVC",
@@ -637,7 +637,7 @@
     "activePercent": 61,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2070,
+    "profileViews": 2071,
     "leagueTier": 11,
     "racers": [
       {
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793355554413
+    "_syncedAt": 1793358428986
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793355573249
+    "_syncedAt": 1793358447823
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1482,14 +1482,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1473,
-        "wpm": 50,
+        "allTimeRaces": 1492,
+        "wpm": 53,
         "highestWPM": 84,
-        "teamRaces": 698,
+        "teamRaces": 716,
         "acc": 91.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1793299188
+        "lastLogin": 1793357711
       },
       {
         "username": "baglepet000",
@@ -1909,7 +1909,7 @@
         "acc": 95.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1793323834
+        "lastLogin": 1793357491
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 127855,
+        "races": 127873,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 50
       },
       "daily": {
-        "races": 1118,
+        "races": 1124,
         "avgWPM": 78,
-        "avgAcc": 95,
+        "avgAcc": 94.98,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793355742565
+    "_syncedAt": 1793358617455
   }
 }

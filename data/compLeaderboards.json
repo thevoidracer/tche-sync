@@ -35,10 +35,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 250,
-        "wpm": 88.2,
-        "accuracy": 97.02,
-        "points": 34957,
+        "races": 289,
+        "wpm": 88.7,
+        "accuracy": 97.03,
+        "points": 40470,
         "tier": "A"
       },
       {
@@ -368,6 +368,19 @@
       },
       {
         "rank": 29,
+        "tag": "THB0S",
+        "username": "hakari is the best",
+        "displayName": "hakari is the best",
+        "nickname": "Champion Chaser",
+        "squad": "Loyal",
+        "races": 59,
+        "wpm": 54,
+        "accuracy": 91.05,
+        "points": 6822,
+        "tier": "C"
+      },
+      {
+        "rank": 30,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -380,7 +393,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -393,7 +406,7 @@
         "tier": "B"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -406,7 +419,7 @@
         "tier": "C"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "THB0S",
         "username": "RAYAN 7",
         "displayName": "RAYAN 7",
@@ -416,19 +429,6 @@
         "wpm": 47,
         "accuracy": 91.4,
         "points": 6323,
-        "tier": "C"
-      },
-      {
-        "rank": 33,
-        "tag": "THB0S",
-        "username": "hakari is the best",
-        "displayName": "hakari is the best",
-        "nickname": "Champion Chaser",
-        "squad": "Loyal",
-        "races": 54,
-        "wpm": 54.4,
-        "accuracy": 91.2,
-        "points": 6264,
         "tier": "C"
       },
       {
@@ -1316,13 +1316,26 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793355531099
+    "_syncedAt": 1793358405811
   },
   "1437": {
     "eventId": "1437",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 289,
+        "wpm": 88.7,
+        "accuracy": 97.03,
+        "points": 40470,
+        "tier": "$2,000,000"
+      },
+      {
+        "rank": 2,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -1332,20 +1345,7 @@
         "wpm": 94.1,
         "accuracy": 93.5,
         "points": 36157,
-        "tier": "$2,000,000"
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 250,
-        "wpm": 88.2,
-        "accuracy": 97.02,
-        "points": 34957,
-        "tier": "$1,250,000"
+        "tier": "$1,500,000"
       },
       {
         "rank": 3,
@@ -1358,7 +1358,7 @@
         "wpm": 78.7,
         "accuracy": 93.28,
         "points": 32493,
-        "tier": "$1,250,000"
+        "tier": "$1,000,000"
       },
       {
         "rank": 4,
@@ -1803,6 +1803,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793355535117
+    "_syncedAt": 1793358410026
   }
 }
