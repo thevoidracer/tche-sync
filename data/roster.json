@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 91,
-    "tierB": 80,
+    "tierA": 92,
+    "tierB": 81,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -14,7 +14,7 @@
       "nickname": "Night Patrol",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 91,
       "topWPM": 127,
       "lifetimeRaces": 5416,
@@ -118,7 +118,7 @@
       "nickname": "The Caped Crusader",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 102,
       "lifetimeRaces": 2723,
@@ -274,7 +274,7 @@
       "nickname": "Master Motorist",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 80,
       "topWPM": 94,
       "lifetimeRaces": 1007,
@@ -353,10 +353,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 79,
       "topWPM": 102,
-      "lifetimeRaces": 6975,
-      "teamRaces": 950,
+      "lifetimeRaces": 7000,
+      "teamRaces": 975,
       "joined": "10/15/26"
     },
     {
@@ -392,10 +392,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 87,
+      "avgWPM": 86,
       "topWPM": 100,
-      "lifetimeRaces": 1480,
-      "teamRaces": 131,
+      "lifetimeRaces": 1486,
+      "teamRaces": 137,
       "joined": "10/19/26"
     },
     {
@@ -639,13 +639,13 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 100,
       "topWPM": 127,
-      "lifetimeRaces": 699,
-      "teamRaces": 8,
+      "lifetimeRaces": 714,
+      "teamRaces": 23,
       "joined": "10/29/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793379200254
+  "_syncedAt": 1793381393701
 }

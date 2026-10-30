@@ -1,48 +1,13 @@
 {
   "hours": [
     {
-      "hour": "2026-10-29 16:00:00",
-      "racer": "KirbyDelta",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-29 16:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 5
-    },
-    {
-      "hour": "2026-10-29 16:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 4
-    },
-    {
       "hour": "2026-10-29 17:00:00",
-      "racer": "RationalGoldApe",
-      "races": 12
-    },
-    {
-      "hour": "2026-10-29 17:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 5
-    },
-    {
-      "hour": "2026-10-29 17:00:00",
-      "racer": "KirbyDelta",
-      "races": 3
-    },
-    {
-      "hour": "2026-10-29 17:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-29 17:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-10-29 17:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "RationalGoldApe",
       "races": 1
     },
     {
@@ -132,12 +97,12 @@
     },
     {
       "hour": "2026-10-30 08:00:00",
-      "racer": "UJAADDAH",
+      "racer": "GroundedAquaEmu",
       "races": 8
     },
     {
       "hour": "2026-10-30 08:00:00",
-      "racer": "GroundedAquaEmu",
+      "racer": "UJAADDAH",
       "races": 8
     },
     {
@@ -262,8 +227,18 @@
     },
     {
       "hour": "2026-10-30 16:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 17
+    },
+    {
+      "hour": "2026-10-30 16:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 15
+    },
+    {
+      "hour": "2026-10-30 16:00:00",
+      "racer": "KirbyDelta",
+      "races": 14
     },
     {
       "hour": "2026-10-30 16:00:00",
@@ -277,15 +252,20 @@
     },
     {
       "hour": "2026-10-30 16:00:00",
+      "racer": "RationalGoldApe",
+      "races": 6
+    },
+    {
+      "hour": "2026-10-30 16:00:00",
       "racer": "LeoRuna",
       "races": 2
     },
     {
-      "hour": "2026-10-30 16:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 2
+      "hour": "2026-10-30 17:00:00",
+      "racer": "KirbyDelta",
+      "races": 11
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793379200255
+  "_syncedAt": 1793381393703
 }

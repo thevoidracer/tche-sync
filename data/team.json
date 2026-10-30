@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2237,
+  "profileViews": 2238,
   "leagueTier": 13,
   "racers": [
     {
@@ -265,11 +265,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 6979,
+      "allTimeRaces": 7000,
       "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 952,
-      "acc": 93.65,
+      "teamRaces": 975,
+      "acc": 93.63,
       "season": null,
       "status": "active",
       "lastLogin": 1793378830
@@ -314,7 +314,7 @@
       "acc": 96.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1792716509
+      "lastLogin": 1793380588
     },
     {
       "username": "ace1inee",
@@ -503,11 +503,11 @@
       "displayName": "NotoriousJuJu",
       "role": "member",
       "joinStamp": 1793293886,
-      "allTimeRaces": 704,
-      "wpm": 96,
+      "allTimeRaces": 714,
+      "wpm": 100,
       "highestWPM": 127,
-      "teamRaces": 10,
-      "acc": 92.4,
+      "teamRaces": 23,
+      "acc": 92.31,
       "season": null,
       "status": "active",
       "lastLogin": 1793377820
@@ -587,10 +587,10 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1483,
-      "wpm": 87,
+      "allTimeRaces": 1486,
+      "wpm": 86,
       "highestWPM": 100,
-      "teamRaces": 131,
+      "teamRaces": 137,
       "acc": 97.18,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63175,
+      "races": 63217,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 748,
+      "races": 747,
       "avgWPM": 85,
-      "avgAcc": 94.91,
+      "avgAcc": 94.85,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793379125620
+  "_syncedAt": 1793381333419
 }
