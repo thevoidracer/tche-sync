@@ -106,9 +106,9 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 89,
       "topWPM": 119,
-      "lifetimeRaces": 1712,
+      "lifetimeRaces": 1728,
       "teamRaces": 1365,
       "joined": "08/31/26"
     },
@@ -509,9 +509,9 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 94,
       "topWPM": 111,
-      "lifetimeRaces": 454,
+      "lifetimeRaces": 455,
       "teamRaces": 207,
       "joined": "10/23/26"
     },
@@ -535,9 +535,9 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 93,
       "topWPM": 122,
-      "lifetimeRaces": 1657,
+      "lifetimeRaces": 1658,
       "teamRaces": 122,
       "joined": "10/24/26"
     },
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793322207365
+  "_syncedAt": 1793325660834
 }

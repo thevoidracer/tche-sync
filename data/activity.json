@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-29 01:00:00",
-      "racer": "-HyperTyper-",
-      "races": 25
-    },
-    {
-      "hour": "2026-10-29 01:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
-    },
-    {
       "hour": "2026-10-29 02:00:00",
       "racer": "Nitrex",
       "races": 2
@@ -117,12 +107,12 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "KirbyDelta",
+      "racer": "Void Racer",
       "races": 3
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "Void Racer",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
@@ -277,5 +267,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793322207366
+  "_syncedAt": 1793325660835
 }
