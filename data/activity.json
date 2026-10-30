@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-29 21:00:00",
-      "racer": "VOID_REIGN",
-      "races": 9
-    },
-    {
       "hour": "2026-10-30 08:00:00",
       "racer": "asteroids",
       "races": 66
@@ -243,9 +238,9 @@
     {
       "hour": "2026-10-30 21:00:00",
       "racer": "StefanO",
-      "races": 1
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793396614797
+  "_syncedAt": 1793398588871
 }
