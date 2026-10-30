@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793317380095
+        "_syncedAt": 1793319233006
       }
     },
     {
@@ -1646,7 +1646,7 @@
               "players": [
                 {
                   "seed": "4",
-                  "racer": "Sakupen",
+                  "racer": "Spy on teams",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -1912,7 +1912,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -2020,7 +2020,7 @@
               "players": [
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2402,7 +2402,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2452,7 +2452,7 @@
                 },
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2650,7 +2650,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 10120
                 },
@@ -2774,7 +2774,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 2706
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793317396672
+        "_syncedAt": 1793319250118
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793317396677
+  "_syncedAt": 1793319250121
 }
