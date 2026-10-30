@@ -3,10 +3,10 @@
     "timeframes": {
       "24h": {
         "rank": 42,
-        "races": 381,
-        "accuracy": 92.05,
-        "wpm": 62.3,
-        "points": 45990,
+        "races": 379,
+        "accuracy": 92.03,
+        "wpm": 62.4,
+        "points": 45755,
         "ppr": 121
       },
       "season": {
@@ -18,11 +18,11 @@
         "ppr": 122
       },
       "week": {
-        "rank": 44,
-        "races": 2053,
-        "accuracy": 92.57,
-        "wpm": 62.2,
-        "points": 249115,
+        "rank": 46,
+        "races": 2034,
+        "accuracy": 92.56,
+        "wpm": 62.1,
+        "points": 246741,
         "ppr": 121
       },
       "weekly": {
@@ -49,40 +49,40 @@
     "points": 471361,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793383618877
+    "_syncedAt": 1793386337170
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 54,
-        "races": 204,
-        "accuracy": 93.74,
-        "wpm": 83.3,
-        "points": 27089,
-        "ppr": 133
+        "rank": 60,
+        "races": 177,
+        "accuracy": 93.43,
+        "wpm": 82.6,
+        "points": 23370,
+        "ppr": 132
       },
       "season": {
         "rank": 60,
-        "races": 1854,
-        "accuracy": 94.12,
-        "wpm": 81.6,
-        "points": 245661,
-        "ppr": 133
+        "races": 1860,
+        "accuracy": 94.1,
+        "wpm": 81.5,
+        "points": 246383,
+        "ppr": 132
       },
       "week": {
         "rank": 61,
-        "races": 1152,
-        "accuracy": 94.38,
-        "wpm": 83.1,
-        "points": 153904,
+        "races": 1147,
+        "accuracy": 94.37,
+        "wpm": 83.3,
+        "points": 153336,
         "ppr": 134
       },
       "weekly": {
         "rank": 57,
-        "races": 1068,
-        "accuracy": 94.52,
-        "wpm": 83.5,
-        "points": 143080,
+        "races": 1074,
+        "accuracy": 94.48,
+        "wpm": 83.4,
+        "points": 143802,
         "ppr": 134
       },
       "alltime": {
@@ -95,13 +95,13 @@
       }
     },
     "rank": 60,
-    "races": 1854,
-    "accuracy": 94.12,
-    "wpm": 81.6,
-    "points": 245661,
-    "ppr": 133,
+    "races": 1860,
+    "accuracy": 94.1,
+    "wpm": 81.5,
+    "points": 246383,
+    "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793383637744
+    "_syncedAt": 1793386356152
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793383807078
+    "_syncedAt": 1793386525760
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 22,
-        "races": 839,
-        "accuracy": 94.67,
-        "wpm": 79.5,
-        "points": 110998,
-        "ppr": 132
+        "races": 878,
+        "accuracy": 94.11,
+        "wpm": 76.7,
+        "points": 114338,
+        "ppr": 130
       },
       "season": {
         "rank": 22,
-        "races": 10873,
-        "accuracy": 94.13,
-        "wpm": 76.2,
-        "points": 1413304,
+        "races": 10967,
+        "accuracy": 94.08,
+        "wpm": 76,
+        "points": 1423852,
         "ppr": 130
       },
       "week": {
-        "rank": 20,
-        "races": 6622,
-        "accuracy": 94.56,
-        "wpm": 80,
-        "points": 876581,
+        "rank": 18,
+        "races": 6669,
+        "accuracy": 94.5,
+        "wpm": 79.7,
+        "points": 881218,
         "ppr": 132
       },
       "weekly": {
         "rank": 19,
-        "races": 5460,
-        "accuracy": 94.62,
-        "wpm": 79.6,
-        "points": 722284,
+        "races": 5554,
+        "accuracy": 94.52,
+        "wpm": 79.2,
+        "points": 732858,
         "ppr": 132
       },
       "alltime": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 22,
-    "races": 10873,
-    "accuracy": 94.13,
-    "wpm": 76.2,
-    "points": 1413304,
+    "races": 10967,
+    "accuracy": 94.08,
+    "wpm": 76,
+    "points": 1423852,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793383826136
+    "_syncedAt": 1793386545033
   }
 }

@@ -3,12 +3,7 @@
     {
       "hour": "2026-10-29 18:00:00",
       "racer": "RationalGoldApe",
-      "races": 15
-    },
-    {
-      "hour": "2026-10-29 18:00:00",
-      "racer": "me_likey_typey",
-      "races": 13
+      "races": 8
     },
     {
       "hour": "2026-10-29 19:00:00",
@@ -87,12 +82,12 @@
     },
     {
       "hour": "2026-10-30 08:00:00",
-      "racer": "UJAADDAH",
+      "racer": "GroundedAquaEmu",
       "races": 8
     },
     {
       "hour": "2026-10-30 08:00:00",
-      "racer": "GroundedAquaEmu",
+      "racer": "UJAADDAH",
       "races": 8
     },
     {
@@ -259,8 +254,23 @@
       "hour": "2026-10-30 17:00:00",
       "racer": "KirbyDelta",
       "races": 11
+    },
+    {
+      "hour": "2026-10-30 18:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 11
+    },
+    {
+      "hour": "2026-10-30 18:00:00",
+      "racer": "WindMaker",
+      "races": 10
+    },
+    {
+      "hour": "2026-10-30 18:00:00",
+      "racer": "Namedisplayed",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793383554400
+  "_syncedAt": 1793386271603
 }
