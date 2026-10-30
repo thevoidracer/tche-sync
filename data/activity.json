@@ -3,11 +3,6 @@
     {
       "hour": "2026-10-29 02:00:00",
       "racer": "Nitrex",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-29 02:00:00",
-      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -97,22 +92,22 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-29 14:00:00",
       "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "Void Racer",
-      "races": 3
+      "racer": "SKZ FIRAH",
+      "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
       "racer": "KirbyDelta",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-29 14:00:00",
+      "racer": "Void Racer",
       "races": 3
     },
     {
@@ -197,12 +192,12 @@
     },
     {
       "hour": "2026-10-29 17:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-10-29 17:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "NotoriousJuJu",
       "races": 1
     },
     {
@@ -267,5 +262,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793325660835
+  "_syncedAt": 1793328056448
 }

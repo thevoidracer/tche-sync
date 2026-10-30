@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793325710140
+    "_syncedAt": 1793328101149
   },
   "SVC": {
     "tag": "SVC",
@@ -1189,7 +1189,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793325739074
+    "_syncedAt": 1793328119999
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,16 +1241,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793325758202
+    "_syncedAt": 1793328138997
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 50,
+    "members": 49,
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4758,
+    "profileViews": 4761,
     "leagueTier": 13,
     "racers": [
       {
@@ -1258,14 +1258,14 @@
         "displayName": "bly manor ella",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101791,
-        "wpm": 89,
+        "allTimeRaces": 101820,
+        "wpm": 92,
         "highestWPM": 156,
         "teamRaces": 725,
         "acc": 96.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1793321453
+        "lastLogin": 1793327862
       },
       {
         "username": "joepellicc_gold",
@@ -1405,7 +1405,7 @@
         "acc": 95.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1793324132
+        "lastLogin": 1793327982
       },
       {
         "username": "joe772",
@@ -1490,20 +1490,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793299188
-      },
-      {
-        "username": "6de19f907a6333fc8a600349fedf16a9",
-        "displayName": "ticklemonsterr",
-        "role": "member",
-        "joinStamp": 1792790899,
-        "allTimeRaces": 3014,
-        "wpm": 86,
-        "highestWPM": 101,
-        "teamRaces": 45,
-        "acc": 91.83,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793313071
       },
       {
         "username": "baglepet000",
@@ -1959,17 +1945,17 @@
         "races": 127407,
         "avgWPM": 68,
         "avgAcc": 94.02,
-        "members": 50
+        "members": 49
       },
       "daily": {
         "races": 1268,
         "avgWPM": 78,
         "avgAcc": 94.75,
-        "members": 50
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793325928086
+    "_syncedAt": 1793328308538
   }
 }
