@@ -82,22 +82,22 @@
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-29 14:00:00",
       "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
-      "racer": "KirbyDelta",
-      "races": 3
+      "racer": "SKZ FIRAH",
+      "races": 10
     },
     {
       "hour": "2026-10-29 14:00:00",
       "racer": "Void Racer",
+      "races": 3
+    },
+    {
+      "hour": "2026-10-29 14:00:00",
+      "racer": "KirbyDelta",
       "races": 3
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "hour": "2026-10-29 16:00:00",
-      "racer": "IMIME_IMIME",
+      "racer": "BlazingFlowerz",
       "races": 5
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "hour": "2026-10-29 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "IMIME_IMIME",
       "races": 5
     },
     {
@@ -182,12 +182,12 @@
     },
     {
       "hour": "2026-10-29 17:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "NotoriousJuJu",
       "races": 1
     },
     {
       "hour": "2026-10-29 17:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -249,8 +249,53 @@
       "hour": "2026-10-29 21:00:00",
       "racer": "-HyperTyper-",
       "races": 2
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "asteroids",
+      "races": 66
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "insta _trewatkins",
+      "races": 54
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "Namedisplayed",
+      "races": 16
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 14
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "GroundedAquaEmu",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "LeoRuna",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "UJAADDAH",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "-HyperTyper-",
+      "races": 5
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
+      "racer": "StefanO",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793346636896
+  "_syncedAt": 1793349538534
 }

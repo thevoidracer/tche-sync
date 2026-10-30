@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793346656767
+        "_syncedAt": 1793349558329
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2754,7 +2754,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 14829
+                  "score": 17003
                 }
               ],
               "winner": 1
@@ -2768,7 +2768,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 4165
+                  "score": 9715
                 },
                 {
                   "seed": "7",
@@ -2776,7 +2776,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 2706
+                  "score": 8007
                 }
               ],
               "winner": 0
@@ -2798,7 +2798,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 2740
+                  "score": 4994
                 }
               ],
               "winner": 0
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793346673132
+        "_syncedAt": 1793349575087
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793346673135
+  "_syncedAt": 1793349575091
 }
