@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "key": "milestone:9efd6f2eb56545ebe21b44eef9c2f081:1000",
+      "type": "milestone",
+      "text": "Victoria Ram crossed 1,000 lifetime races!",
+      "meta": {
+        "username": "9efd6f2eb56545ebe21b44eef9c2f081",
+        "milestone": 1000
+      },
+      "createdAt": 1793376716850
+    },
+    {
       "key": "new-member:bfa8839baa0642556b69448adee42dca",
       "type": "new-member",
       "text": "NotoriousJuJu joined the team.",
@@ -590,5 +600,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793373460144
+  "_syncedAt": 1793376716850
 }

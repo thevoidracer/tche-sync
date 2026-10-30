@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2231,
+  "profileViews": 2236,
   "leagueTier": 13,
   "racers": [
     {
@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20365,
+      "allTimeRaces": 20391,
       "wpm": 88,
       "highestWPM": 110,
-      "teamRaces": 2726,
+      "teamRaces": 2752,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793293005
+      "lastLogin": 1793374427
     },
     {
       "username": "jonathan711111",
@@ -279,11 +279,11 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 3973,
-      "wpm": 102,
+      "allTimeRaces": 3982,
+      "wpm": 98,
       "highestWPM": 120,
-      "teamRaces": 324,
-      "acc": 96.71,
+      "teamRaces": 333,
+      "acc": 96.73,
       "season": null,
       "status": "active",
       "lastLogin": 1793370909
@@ -545,14 +545,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1158,
-      "wpm": 52,
+      "allTimeRaces": 1170,
+      "wpm": 50,
       "highestWPM": 80,
-      "teamRaces": 56,
-      "acc": 92.32,
+      "teamRaces": 68,
+      "acc": 92.54,
       "season": null,
       "status": "active",
-      "lastLogin": 1793369446
+      "lastLogin": 1793373713
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -587,28 +587,28 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1467,
-      "wpm": 86,
+      "allTimeRaces": 1480,
+      "wpm": 87,
       "highestWPM": 100,
-      "teamRaces": 118,
-      "acc": 97.17,
+      "teamRaces": 131,
+      "acc": 97.18,
       "season": null,
       "status": "active",
-      "lastLogin": 1793368854
+      "lastLogin": 1793374543
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
       "displayName": "Victoria Ram",
       "role": "member",
       "joinStamp": 1791380695,
-      "allTimeRaces": 983,
-      "wpm": 81,
+      "allTimeRaces": 1000,
+      "wpm": 78,
       "highestWPM": 94,
-      "teamRaces": 98,
-      "acc": 96.17,
+      "teamRaces": 121,
+      "acc": 95.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1793372233
+      "lastLogin": 1793376349
     },
     {
       "username": "53f35d28a54dfa99bfab7ecbf663428e",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63063,
+      "races": 63146,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 732,
-      "avgWPM": 85,
-      "avgAcc": 94.6,
+      "races": 739,
+      "avgWPM": 84,
+      "avgAcc": 94.84,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793373341215
+  "_syncedAt": 1793376618709
 }
