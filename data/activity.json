@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-29 18:00:00",
-      "racer": "RationalGoldApe",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-29 19:00:00",
-      "racer": "RationalGoldApe",
-      "races": 7
-    },
-    {
       "hour": "2026-10-29 19:00:00",
       "racer": "Namedisplayed",
       "races": 1
@@ -77,17 +67,17 @@
     },
     {
       "hour": "2026-10-30 08:00:00",
+      "racer": "UJAADDAH",
+      "races": 8
+    },
+    {
+      "hour": "2026-10-30 08:00:00",
       "racer": "LeoRuna",
       "races": 8
     },
     {
       "hour": "2026-10-30 08:00:00",
       "racer": "GroundedAquaEmu",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-30 08:00:00",
-      "racer": "UJAADDAH",
       "races": 8
     },
     {
@@ -257,20 +247,25 @@
     },
     {
       "hour": "2026-10-30 18:00:00",
+      "racer": "WindMaker",
+      "races": 19
+    },
+    {
+      "hour": "2026-10-30 18:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 11
     },
     {
       "hour": "2026-10-30 18:00:00",
-      "racer": "WindMaker",
-      "races": 10
+      "racer": "Namedisplayed",
+      "races": 4
     },
     {
       "hour": "2026-10-30 18:00:00",
-      "racer": "Namedisplayed",
+      "racer": "RationalGoldApe",
       "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793386271603
+  "_syncedAt": 1793388920431
 }
