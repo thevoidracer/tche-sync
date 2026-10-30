@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2217,
+  "profileViews": 2221,
   "leagueTier": 13,
   "racers": [
     {
@@ -391,14 +391,14 @@
       "displayName": "I KC Zadkiel I",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2441,
-      "wpm": 75,
+      "allTimeRaces": 2444,
+      "wpm": 74,
       "highestWPM": 93,
-      "teamRaces": 546,
+      "teamRaces": 549,
       "acc": 93.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1793277697
+      "lastLogin": 1793364026
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -489,14 +489,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5395,
+      "allTimeRaces": 5416,
       "wpm": 91,
       "highestWPM": 127,
-      "teamRaces": 2970,
+      "teamRaces": 2991,
       "acc": 92.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1793362296
+      "lastLogin": 1793363772
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -552,7 +552,7 @@
       "acc": 92.17,
       "season": null,
       "status": "active",
-      "lastLogin": 1793292601
+      "lastLogin": 1793366237
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -573,11 +573,11 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1248,
-      "wpm": 57,
+      "allTimeRaces": 1273,
+      "wpm": 59,
       "highestWPM": 108,
-      "teamRaces": 997,
-      "acc": 91.81,
+      "teamRaces": 1025,
+      "acc": 91.72,
       "season": null,
       "status": "active",
       "lastLogin": 1793362572
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 62851,
+      "races": 62903,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 772,
+      "races": 761,
       "avgWPM": 83,
-      "avgAcc": 94.1,
+      "avgAcc": 94.07,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793362772463
+  "_syncedAt": 1793366706784
 }
