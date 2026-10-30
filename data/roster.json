@@ -509,9 +509,9 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 95,
       "topWPM": 111,
-      "lifetimeRaces": 452,
+      "lifetimeRaces": 454,
       "teamRaces": 207,
       "joined": "10/23/26"
     },
@@ -547,10 +547,10 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 92,
       "topWPM": 109,
-      "lifetimeRaces": 3321,
+      "lifetimeRaces": 3363,
       "teamRaces": 111,
       "joined": "10/25/26"
     },
@@ -561,9 +561,9 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 74,
+      "avgWPM": 76,
       "topWPM": 98,
-      "lifetimeRaces": 753,
+      "lifetimeRaces": 757,
       "teamRaces": 91,
       "joined": "10/25/26"
     },
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793319212002
+  "_syncedAt": 1793322207365
 }
