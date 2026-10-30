@@ -9,10 +9,10 @@
         "displayName": "ella",
         "nickname": "Creepin' it Real",
         "squad": "Officer",
-        "races": 604,
+        "races": 610,
         "wpm": 86.1,
-        "accuracy": 95.98,
-        "points": 82920,
+        "accuracy": 95.99,
+        "points": 83765,
         "tier": "A"
       },
       {
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 110,
+        "wpm": 93.2,
+        "accuracy": 94.9,
+        "points": 15302,
+        "tier": "A"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -172,20 +185,20 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 96,
-        "wpm": 93,
-        "accuracy": 95.01,
-        "points": 13363,
-        "tier": "A"
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Night Patrol",
+        "squad": null,
+        "races": 103,
+        "wpm": 47.5,
+        "accuracy": 93.33,
+        "points": 11894,
+        "tier": "C"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "SVC",
         "username": "SensitiveGoldCobra",
         "displayName": "SensitiveGoldCobra",
@@ -198,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -208,19 +221,6 @@
         "wpm": 46.4,
         "accuracy": 89.92,
         "points": 11856,
-        "tier": "C"
-      },
-      {
-        "rank": 17,
-        "tag": "THB0S",
-        "username": "Mwhit4",
-        "displayName": "Mwhit4",
-        "nickname": "Night Patrol",
-        "squad": null,
-        "races": 100,
-        "wpm": 47.5,
-        "accuracy": 93.32,
-        "points": 11548,
         "tier": "C"
       },
       {
@@ -356,6 +356,19 @@
       {
         "rank": 28,
         "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 64,
+        "wpm": 94.4,
+        "accuracy": 92.09,
+        "points": 8675,
+        "tier": "A"
+      },
+      {
+        "rank": 29,
+        "tag": "IMT",
         "username": "GroundedAquaEmu",
         "displayName": "GroundedAquaEmu",
         "nickname": "Nitro Scholar",
@@ -367,7 +380,7 @@
         "tier": "A"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "RAYAN 7",
         "displayName": "RAYAN 7",
@@ -378,19 +391,6 @@
         "accuracy": 91.27,
         "points": 8464,
         "tier": "C"
-      },
-      {
-        "rank": 30,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 62,
-        "wpm": 94.5,
-        "accuracy": 92.14,
-        "points": 8413,
-        "tier": "A"
       },
       {
         "rank": 31,
@@ -694,6 +694,19 @@
       {
         "rank": 54,
         "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 35,
+        "wpm": 74.8,
+        "accuracy": 89.76,
+        "points": 4317,
+        "tier": "C"
+      },
+      {
+        "rank": 55,
+        "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
         "nickname": "Legendary Lapper",
@@ -702,19 +715,6 @@
         "wpm": 73.5,
         "accuracy": 93.14,
         "points": 4203,
-        "tier": "C"
-      },
-      {
-        "rank": 55,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Side Hustler 100",
-        "races": 34,
-        "wpm": 75,
-        "accuracy": 89.79,
-        "points": 4198,
         "tier": "C"
       },
       {
@@ -1433,7 +1433,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793400622802
+    "_syncedAt": 1793402565226
   },
   "1437": {
     "eventId": "1437",
@@ -1610,6 +1610,19 @@
       {
         "rank": 14,
         "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 90,
+        "wpm": 74.4,
+        "accuracy": 90.54,
+        "points": 11180,
+        "tier": null
+      },
+      {
+        "rank": 15,
+        "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
         "nickname": "Olde School",
@@ -1621,7 +1634,7 @@
         "tier": null
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "GroundedAquaEmu",
         "displayName": "GroundedAquaEmu",
@@ -1631,19 +1644,6 @@
         "wpm": 93.3,
         "accuracy": 96.84,
         "points": 12639,
-        "tier": null
-      },
-      {
-        "rank": 16,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Side Hustler 100",
-        "races": 89,
-        "wpm": 74.5,
-        "accuracy": 90.56,
-        "points": 11061,
         "tier": null
       },
       {
@@ -1692,10 +1692,10 @@
         "displayName": "-HyperTyper-",
         "nickname": "Crazy About Typing",
         "squad": "Side Hustler 100",
-        "races": 65,
-        "wpm": 94,
-        "accuracy": 92.05,
-        "points": 8797,
+        "races": 67,
+        "wpm": 93.9,
+        "accuracy": 92.01,
+        "points": 9059,
         "tier": null
       },
       {
@@ -1920,6 +1920,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793400627300
+    "_syncedAt": 1793402570001
   }
 }
