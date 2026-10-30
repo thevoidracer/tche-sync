@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-29 03:00:00",
-      "racer": "1ightwork",
-      "races": 1
-    },
-    {
       "hour": "2026-10-29 11:00:00",
       "racer": "Nathan",
       "races": 6
@@ -257,5 +252,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793330638139
+  "_syncedAt": 1793333535735
 }
