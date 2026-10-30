@@ -142,7 +142,7 @@
     },
     {
       "hour": "2026-10-29 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "IMIME_IMIME",
       "races": 5
     },
     {
@@ -152,7 +152,7 @@
     },
     {
       "hour": "2026-10-29 16:00:00",
-      "racer": "IMIME_IMIME",
+      "racer": "BlazingFlowerz",
       "races": 5
     },
     {
@@ -294,8 +294,18 @@
       "hour": "2026-10-30 08:00:00",
       "racer": "StefanO",
       "races": 1
+    },
+    {
+      "hour": "2026-10-30 09:00:00",
+      "racer": "rorok09",
+      "races": 9
+    },
+    {
+      "hour": "2026-10-30 10:00:00",
+      "racer": "rorok09",
+      "races": 15
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793352549043
+  "_syncedAt": 1793355490535
 }

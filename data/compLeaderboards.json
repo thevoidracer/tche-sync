@@ -35,11 +35,11 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 226,
-        "wpm": 88.1,
-        "accuracy": 96.93,
-        "points": 31553,
-        "tier": "B"
+        "races": 250,
+        "wpm": 88.2,
+        "accuracy": 97.02,
+        "points": 34957,
+        "tier": "A"
       },
       {
         "rank": 4,
@@ -395,6 +395,19 @@
       {
         "rank": 31,
         "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 58,
+        "wpm": 42.5,
+        "accuracy": 91.26,
+        "points": 6419,
+        "tier": "C"
+      },
+      {
+        "rank": 32,
+        "tag": "THB0S",
         "username": "RAYAN 7",
         "displayName": "RAYAN 7",
         "nickname": "Wampus Thwamper",
@@ -406,7 +419,7 @@
         "tier": "C"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -419,7 +432,7 @@
         "tier": "C"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "THB0S",
         "username": "taco13001",
         "displayName": "taco13001",
@@ -432,7 +445,7 @@
         "tier": "B"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -443,19 +456,6 @@
         "accuracy": 90.92,
         "points": 5945,
         "tier": "B"
-      },
-      {
-        "rank": 35,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Spectral Speedster",
-        "squad": "Officer",
-        "races": 46,
-        "wpm": 42.6,
-        "accuracy": 91.03,
-        "points": 5080,
-        "tier": "C"
       },
       {
         "rank": 36,
@@ -1316,7 +1316,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793352589269
+    "_syncedAt": 1793355531099
   },
   "1437": {
     "eventId": "1437",
@@ -1337,6 +1337,19 @@
       {
         "rank": 2,
         "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 250,
+        "wpm": 88.2,
+        "accuracy": 97.02,
+        "points": 34957,
+        "tier": "$1,250,000"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
@@ -1345,20 +1358,7 @@
         "wpm": 78.7,
         "accuracy": 93.28,
         "points": 32493,
-        "tier": "$1,500,000"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 226,
-        "wpm": 88.1,
-        "accuracy": 96.93,
-        "points": 31553,
-        "tier": "$1,000,000"
+        "tier": "$1,250,000"
       },
       {
         "rank": 4,
@@ -1803,6 +1803,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793352593351
+    "_syncedAt": 1793355535117
   }
 }
