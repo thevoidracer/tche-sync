@@ -6,7 +6,7 @@
     "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3067,
+    "profileViews": 3068,
     "leagueTier": 13,
     "racers": [
       {
@@ -280,11 +280,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1126,
-        "wpm": 59,
+        "allTimeRaces": 1132,
+        "wpm": 57,
         "highestWPM": 72,
-        "teamRaces": 319,
-        "acc": 94.54,
+        "teamRaces": 325,
+        "acc": 94.56,
         "season": null,
         "status": "active",
         "lastLogin": 1793398543
@@ -385,7 +385,7 @@
         "acc": 93.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1793381183
+        "lastLogin": 1793399276
       },
       {
         "username": "c6e90ec6c1f06359df2c2a1f82973b1b",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80771,
+        "races": 80777,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 44
       },
       "daily": {
-        "races": 350,
+        "races": 352,
         "avgWPM": 61,
-        "avgAcc": 92.63,
+        "avgAcc": 92.71,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793398635783
+    "_syncedAt": 1793400627450
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793398655175
+    "_syncedAt": 1793400647410
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793398674157
+    "_syncedAt": 1793400666381
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4803,
+    "profileViews": 4804,
     "leagueTier": 13,
     "racers": [
       {
@@ -1594,10 +1594,10 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8359,
+        "allTimeRaces": 8383,
         "wpm": 46,
         "highestWPM": 84,
-        "teamRaces": 426,
+        "teamRaces": 449,
         "acc": 94.23,
         "season": null,
         "status": "active",
@@ -1678,11 +1678,11 @@
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6326,
-        "wpm": 71,
+        "allTimeRaces": 6332,
+        "wpm": 67,
         "highestWPM": 98,
-        "teamRaces": 180,
-        "acc": 85.23,
+        "teamRaces": 186,
+        "acc": 85.21,
         "season": null,
         "status": "active",
         "lastLogin": 1793398366
@@ -1748,14 +1748,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19130,
-        "wpm": 94,
+        "allTimeRaces": 19150,
+        "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 18670,
+        "teamRaces": 18690,
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793396571
+        "lastLogin": 1793399237
       },
       {
         "username": "taco13001",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 128271,
+        "races": 128320,
         "avgWPM": 68,
         "avgAcc": 94.02,
         "members": 47
       },
       "daily": {
-        "races": 836,
+        "races": 874,
         "avgWPM": 73,
-        "avgAcc": 94.64,
+        "avgAcc": 94.55,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793398843851
+    "_syncedAt": 1793400836301
   }
 }
