@@ -160,7 +160,7 @@
       "acc": 97.35,
       "season": null,
       "status": "active",
-      "lastLogin": 1793241465
+      "lastLogin": 1793391393
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -405,10 +405,10 @@
       "displayName": "Namedisplayed",
       "role": "officer",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1762,
-      "wpm": 92,
+      "allTimeRaces": 1771,
+      "wpm": 95,
       "highestWPM": 119,
-      "teamRaces": 1415,
+      "teamRaces": 1424,
       "acc": 94.29,
       "season": null,
       "status": "active",
@@ -587,11 +587,11 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1498,
-      "wpm": 90,
+      "allTimeRaces": 1505,
+      "wpm": 89,
       "highestWPM": 100,
-      "teamRaces": 146,
-      "acc": 97.21,
+      "teamRaces": 156,
+      "acc": 97.24,
       "season": null,
       "status": "active",
       "lastLogin": 1793390392
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63279,
+      "races": 63298,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 762,
+      "races": 734,
       "avgWPM": 85,
-      "avgAcc": 94.89,
+      "avgAcc": 94.97,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793391388684
+  "_syncedAt": 1793394137583
 }

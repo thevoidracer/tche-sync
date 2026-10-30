@@ -87,8 +87,8 @@
         "allTimeRaces": 932,
         "wpm": 65,
         "highestWPM": 76,
-        "teamRaces": 52,
-        "acc": 87.45,
+        "teamRaces": 53,
+        "acc": 87.47,
         "season": null,
         "status": "active",
         "lastLogin": 1793390054
@@ -539,7 +539,7 @@
         "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793360105
+        "lastLogin": 1793391660
       },
       {
         "username": "happygoluckygirl07",
@@ -628,7 +628,7 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80749,
+        "races": 80750,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 44
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793391493148
+    "_syncedAt": 1793394249686
   },
   "SVC": {
     "tag": "SVC",
@@ -1195,15 +1195,15 @@
         "members": 38
       },
       "daily": {
-        "races": 170,
+        "races": 168,
         "avgWPM": 82,
-        "avgAcc": 93.75,
+        "avgAcc": 93.73,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793391511979
+    "_syncedAt": 1793394269005
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,16 +1255,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793391530858
+    "_syncedAt": 1793394288334
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 49,
+    "members": 48,
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4795,
+    "profileViews": 4796,
     "leagueTier": 13,
     "racers": [
       {
@@ -1643,7 +1643,7 @@
         "acc": 94.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1793331691
+        "lastLogin": 1793392024
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1686,20 +1686,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793388889
-      },
-      {
-        "username": "bwardturtley",
-        "displayName": "SuperPlumTick",
-        "role": "member",
-        "joinStamp": 1793337783,
-        "allTimeRaces": 29418,
-        "wpm": 80,
-        "highestWPM": 175,
-        "teamRaces": 46,
-        "acc": 98.37,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793346061
       },
       {
         "username": "joey2011allgyer",
@@ -1783,7 +1769,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793361906
+        "lastLogin": 1793392220
       },
       {
         "username": "taco13001",
@@ -1959,17 +1945,17 @@
         "races": 128226,
         "avgWPM": 68,
         "avgAcc": 94.02,
-        "members": 49
+        "members": 48
       },
       "daily": {
-        "races": 912,
-        "avgWPM": 76,
-        "avgAcc": 94.65,
-        "members": 49
+        "races": 891,
+        "avgWPM": 77,
+        "avgAcc": 94.9,
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793391700584
+    "_syncedAt": 1793394458225
   }
 }
