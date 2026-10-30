@@ -1166,10 +1166,10 @@
         "displayName": "StefanO",
         "nickname": "Master Motorist",
         "squad": "Side Hustler 100",
-        "races": 8,
-        "wpm": 63.6,
-        "accuracy": 94.04,
-        "points": 991,
+        "races": 9,
+        "wpm": 65.5,
+        "accuracy": 94.55,
+        "points": 1130,
         "tier": "C"
       },
       {
@@ -1420,7 +1420,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793394245181
+    "_syncedAt": 1793396658642
   },
   "1437": {
     "eventId": "1437",
@@ -1714,6 +1714,19 @@
       {
         "rank": 23,
         "tag": "IMT",
+        "username": "StefanO",
+        "displayName": "StefanO",
+        "nickname": "Master Motorist",
+        "squad": "Side Hustler 100",
+        "races": 31,
+        "wpm": 67.6,
+        "accuracy": 94.9,
+        "points": 3936,
+        "tier": null
+      },
+      {
+        "rank": 24,
+        "tag": "IMT",
         "username": "Noah0821",
         "displayName": "Noah0821",
         "nickname": "Filthy Rich",
@@ -1722,19 +1735,6 @@
         "wpm": 63.4,
         "accuracy": 94.62,
         "points": 3863,
-        "tier": null
-      },
-      {
-        "rank": 24,
-        "tag": "IMT",
-        "username": "StefanO",
-        "displayName": "StefanO",
-        "nickname": "Master Motorist",
-        "squad": "Side Hustler 100",
-        "races": 30,
-        "wpm": 67.1,
-        "accuracy": 94.78,
-        "points": 3797,
         "tier": null
       },
       {
@@ -1907,6 +1907,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793394249479
+    "_syncedAt": 1793396662987
   }
 }

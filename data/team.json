@@ -195,14 +195,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 811,
-      "wpm": 66,
+      "allTimeRaces": 815,
+      "wpm": 65,
       "highestWPM": 84,
-      "teamRaces": 310,
-      "acc": 94.62,
+      "teamRaces": 314,
+      "acc": 94.6,
       "season": null,
       "status": "active",
-      "lastLogin": 1793311715
+      "lastLogin": 1793395701
     },
     {
       "username": "c3b559e21447f9028631f1bbb7e9ab04",
@@ -496,7 +496,7 @@
       "acc": 92.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1793390377
+      "lastLogin": 1793394357
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -697,13 +697,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63298,
+      "races": 63302,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 734,
+      "races": 730,
       "avgWPM": 85,
       "avgAcc": 94.97,
       "members": 49
@@ -711,5 +711,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793394137583
+  "_syncedAt": 1793396558230
 }
