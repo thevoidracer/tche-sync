@@ -22,10 +22,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Active!",
-        "races": 354,
-        "wpm": 109.5,
-        "accuracy": 98.24,
-        "points": 53817,
+        "races": 382,
+        "wpm": 109.6,
+        "accuracy": 98.22,
+        "points": 58089,
         "tier": "A"
       },
       {
@@ -74,10 +74,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 132,
-        "wpm": 93.5,
-        "accuracy": 94.86,
-        "points": 18376,
+        "races": 140,
+        "wpm": 93.6,
+        "accuracy": 94.88,
+        "points": 19498,
         "tier": "A"
       },
       {
@@ -706,6 +706,19 @@
       },
       {
         "rank": 55,
+        "tag": "THB0S",
+        "username": "NL NitroDeveloper",
+        "displayName": "NL NitroDeveloper",
+        "nickname": "Continue?",
+        "squad": "Officer",
+        "races": 36,
+        "wpm": 50,
+        "accuracy": 94.37,
+        "points": 4246,
+        "tier": "C"
+      },
+      {
+        "rank": 56,
         "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
@@ -718,7 +731,7 @@
         "tier": "C"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -731,7 +744,7 @@
         "tier": "B"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "tag": "KEYCAT",
         "username": "Barcelona",
         "displayName": "Barcelona",
@@ -744,7 +757,7 @@
         "tier": "C"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -755,19 +768,6 @@
         "accuracy": 94.2,
         "points": 4011,
         "tier": "A"
-      },
-      {
-        "rank": 59,
-        "tag": "THB0S",
-        "username": "NL NitroDeveloper",
-        "displayName": "NL NitroDeveloper",
-        "nickname": "Continue?",
-        "squad": "Officer",
-        "races": 34,
-        "wpm": 49.5,
-        "accuracy": 94.34,
-        "points": 4001,
-        "tier": "C"
       },
       {
         "rank": 60,
@@ -940,6 +940,19 @@
       },
       {
         "rank": 73,
+        "tag": "KEYCAT",
+        "username": "vertur",
+        "displayName": "vertur",
+        "nickname": "Pumpkin Peddler",
+        "squad": "Beginner 100!",
+        "races": 21,
+        "wpm": 51.1,
+        "accuracy": 94.5,
+        "points": 2491,
+        "tier": "C"
+      },
+      {
+        "rank": 74,
         "tag": "IMT",
         "username": "LogicalCrimsonRoadrunner",
         "displayName": "LogicalCrimsonRoadrunner",
@@ -952,7 +965,7 @@
         "tier": "C"
       },
       {
-        "rank": 74,
+        "rank": 75,
         "tag": "THB0S",
         "username": "RHYMESCHEME",
         "displayName": "RHYMESCHEME",
@@ -965,7 +978,7 @@
         "tier": "A"
       },
       {
-        "rank": 75,
+        "rank": 76,
         "tag": "IMT",
         "username": "certified",
         "displayName": "certified",
@@ -978,7 +991,7 @@
         "tier": "B"
       },
       {
-        "rank": 76,
+        "rank": 77,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -991,7 +1004,7 @@
         "tier": "B"
       },
       {
-        "rank": 77,
+        "rank": 78,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -1004,7 +1017,7 @@
         "tier": "A"
       },
       {
-        "rank": 78,
+        "rank": 79,
         "tag": "KEYCAT",
         "username": "FluffCat",
         "displayName": "FluffCat",
@@ -1017,7 +1030,7 @@
         "tier": "A"
       },
       {
-        "rank": 79,
+        "rank": 80,
         "tag": "KEYCAT",
         "username": "slushy is back",
         "displayName": "slushy is back",
@@ -1030,7 +1043,7 @@
         "tier": "B"
       },
       {
-        "rank": 80,
+        "rank": 81,
         "tag": "IMT",
         "username": "IMIME_IMIME",
         "displayName": "IMIME_IMIME",
@@ -1040,19 +1053,6 @@
         "wpm": 70.6,
         "accuracy": 91.87,
         "points": 1989,
-        "tier": "C"
-      },
-      {
-        "rank": 81,
-        "tag": "KEYCAT",
-        "username": "vertur",
-        "displayName": "vertur",
-        "nickname": "Pumpkin Peddler",
-        "squad": "Beginner 100!",
-        "races": 16,
-        "wpm": 50.1,
-        "accuracy": 94.92,
-        "points": 1899,
         "tier": "C"
       },
       {
@@ -1433,7 +1433,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793404671239
+    "_syncedAt": 1793406652934
   },
   "1437": {
     "eventId": "1437",
@@ -1920,6 +1920,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793404675181
+    "_syncedAt": 1793406657151
   }
 }
