@@ -656,7 +656,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793436575018
+    "_syncedAt": 1793438869638
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793436594730
+    "_syncedAt": 1793438888407
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793436613591
+    "_syncedAt": 1793438907255
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1706,14 +1706,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 2968,
-        "wpm": 69,
+        "allTimeRaces": 3000,
+        "wpm": 67,
         "highestWPM": 91,
-        "teamRaces": 256,
-        "acc": 94.38,
+        "teamRaces": 290,
+        "acc": 94.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1793433618
+        "lastLogin": 1793437423
       },
       {
         "username": "joey2011allgyer",
@@ -1970,20 +1970,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129043,
+        "races": 129077,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 49
       },
       "daily": {
-        "races": 1200,
+        "races": 1234,
         "avgWPM": 75,
-        "avgAcc": 94.54,
+        "avgAcc": 94.51,
         "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793436783068
+    "_syncedAt": 1793439076808
   }
 }

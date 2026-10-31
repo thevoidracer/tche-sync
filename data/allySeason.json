@@ -49,12 +49,12 @@
     "points": 488932,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793436594492
+    "_syncedAt": 1793438888275
   },
   "SVC": {
     "timeframes": {
       "24h": {
-        "rank": 60,
+        "rank": 57,
         "races": 168,
         "accuracy": 93.31,
         "wpm": 82.2,
@@ -101,7 +101,7 @@
     "points": 246383,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793436613444
+    "_syncedAt": 1793438907144
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793436782800
+    "_syncedAt": 1793439076592
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 19,
-        "races": 1190,
-        "accuracy": 94.21,
-        "wpm": 75.9,
-        "points": 154633,
+        "rank": 18,
+        "races": 1237,
+        "accuracy": 94.19,
+        "wpm": 75.5,
+        "points": 160499,
         "ppr": 130
       },
       "season": {
         "rank": 21,
-        "races": 11811,
+        "races": 11858,
         "accuracy": 94.15,
-        "wpm": 76.3,
-        "points": 1535966,
+        "wpm": 76.2,
+        "points": 1541828,
         "ppr": 130
       },
       "week": {
         "rank": 18,
-        "races": 7106,
+        "races": 7153,
         "accuracy": 94.5,
-        "wpm": 79.6,
-        "points": 938719,
+        "wpm": 79.5,
+        "points": 944586,
         "ppr": 132
       },
       "weekly": {
         "rank": 18,
-        "races": 6398,
+        "races": 6445,
         "accuracy": 94.58,
         "wpm": 79.2,
-        "points": 844917,
+        "points": 850785,
         "ppr": 132
       },
       "alltime": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 21,
-    "races": 11811,
+    "races": 11858,
     "accuracy": 94.15,
-    "wpm": 76.3,
-    "points": 1535966,
+    "wpm": 76.2,
+    "points": 1541828,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793436803420
+    "_syncedAt": 1793439098246
   }
 }
