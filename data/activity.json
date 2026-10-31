@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-30 19:00:00",
       "racer": "UJAADDAH",
-      "races": 6
+      "races": 2
     },
     {
       "hour": "2026-10-30 20:00:00",
@@ -59,8 +59,13 @@
       "hour": "2026-10-31 13:00:00",
       "racer": "UJAADDAH",
       "races": 6
+    },
+    {
+      "hour": "2026-10-31 19:00:00",
+      "racer": "rorok09",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793473950061
+  "_syncedAt": 1793475815957
 }
