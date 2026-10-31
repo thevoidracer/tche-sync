@@ -1,24 +1,24 @@
 {
   "racers": [
     {
-      "rank": 43,
+      "rank": 41,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 212,
-      "accuracy": 96.89,
-      "wpm": 90.2,
-      "points": 29802,
-      "ppr": 141
+      "races": 221,
+      "accuracy": 96.88,
+      "wpm": 90,
+      "points": 31047,
+      "ppr": 140
     },
     {
-      "rank": 180,
+      "rank": 117,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "races": 63,
-      "accuracy": 93.21,
-      "wpm": 78.7,
-      "points": 8184,
-      "ppr": 130
+      "races": 99,
+      "accuracy": 92.92,
+      "wpm": 77.9,
+      "points": 12781,
+      "ppr": 129
     },
     {
       "rank": 185,
@@ -31,7 +31,7 @@
       "ppr": 134
     },
     {
-      "rank": 361,
+      "rank": 351,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 24,
@@ -41,17 +41,17 @@
       "ppr": 139
     },
     {
-      "rank": 473,
+      "rank": 385,
       "username": "taylorja32",
       "displayName": "Void Racer",
-      "races": 14,
-      "accuracy": 93.3,
-      "wpm": 93.5,
-      "points": 1917,
-      "ppr": 137
+      "races": 21,
+      "accuracy": 93.2,
+      "wpm": 91.4,
+      "points": 2852,
+      "ppr": 136
     },
     {
-      "rank": 484,
+      "rank": 472,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "races": 13,
@@ -61,7 +61,7 @@
       "ppr": 140
     },
     {
-      "rank": 552,
+      "rank": 542,
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
       "races": 8,
@@ -71,7 +71,7 @@
       "ppr": 132
     },
     {
-      "rank": 629,
+      "rank": 619,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 2,
@@ -81,7 +81,7 @@
       "ppr": 128
     },
     {
-      "rank": 635,
+      "rank": 624,
       "username": "3a0b3a8cc922fae587432ade7a6160f7",
       "displayName": "BlazingFlowerz",
       "races": 2,
@@ -91,7 +91,7 @@
       "ppr": 116
     },
     {
-      "rank": 675,
+      "rank": 663,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "races": 1,
@@ -101,5 +101,5 @@
       "ppr": 119
     }
   ],
-  "_syncedAt": 1793484873797
+  "_syncedAt": 1793486606260
 }

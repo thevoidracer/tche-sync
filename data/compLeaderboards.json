@@ -35,10 +35,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 528,
-        "wpm": 89.4,
+        "races": 537,
+        "wpm": 89.3,
         "accuracy": 96.98,
-        "points": 74095,
+        "points": 75340,
         "tier": "B"
       },
       {
@@ -74,10 +74,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 188,
-        "wpm": 79.1,
-        "accuracy": 93.2,
-        "points": 24454,
+        "races": 224,
+        "wpm": 78.7,
+        "accuracy": 93.08,
+        "points": 29051,
         "tier": "C"
       },
       {
@@ -238,6 +238,19 @@
       },
       {
         "rank": 19,
+        "tag": "KEYCAT",
+        "username": "Ace_TypingLegend",
+        "displayName": "Ace_TypingLegend",
+        "nickname": "Mystery Man",
+        "squad": "Novice 300!",
+        "races": 117,
+        "wpm": 58.2,
+        "accuracy": 94.34,
+        "points": 14250,
+        "tier": "B"
+      },
+      {
+        "rank": 20,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -250,7 +263,20 @@
         "tier": "B"
       },
       {
-        "rank": 20,
+        "rank": 21,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "Night Patrol",
+        "squad": "Dominator 2.5k",
+        "races": 103,
+        "wpm": 94.2,
+        "accuracy": 92.68,
+        "points": 14039,
+        "tier": "B"
+      },
+      {
+        "rank": 22,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -263,20 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
-        "tag": "KEYCAT",
-        "username": "Ace_TypingLegend",
-        "displayName": "Ace_TypingLegend",
-        "nickname": "Mystery Man",
-        "squad": "Novice 300!",
-        "races": 113,
-        "wpm": 58.2,
-        "accuracy": 94.36,
-        "points": 13763,
-        "tier": "B"
-      },
-      {
-        "rank": 22,
+        "rank": 23,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -289,7 +302,7 @@
         "tier": "A"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -300,19 +313,6 @@
         "accuracy": 93.38,
         "points": 13530,
         "tier": "C"
-      },
-      {
-        "rank": 24,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "Night Patrol",
-        "squad": "Dominator 2.5k",
-        "races": 96,
-        "wpm": 94.6,
-        "accuracy": 92.65,
-        "points": 13104,
-        "tier": "A"
       },
       {
         "rank": 25,
@@ -1472,7 +1472,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793484918735
+    "_syncedAt": 1793486652247
   },
   "1437": {
     "eventId": "1437",
@@ -1484,10 +1484,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 528,
-        "wpm": 89.4,
+        "races": 537,
+        "wpm": 89.3,
         "accuracy": 96.98,
-        "points": 74095,
+        "points": 75340,
         "tier": "$2,000,000"
       },
       {
@@ -1497,10 +1497,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 363,
-        "wpm": 78.8,
-        "accuracy": 93.32,
-        "points": 47224,
+        "races": 399,
+        "wpm": 78.6,
+        "accuracy": 93.24,
+        "points": 51821,
         "tier": "$1,500,000"
       },
       {
@@ -1523,10 +1523,10 @@
         "displayName": "Void Racer",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 221,
-        "wpm": 93.4,
-        "accuracy": 92.67,
-        "points": 30048,
+        "races": 228,
+        "wpm": 93.2,
+        "accuracy": 92.68,
+        "points": 30984,
         "tier": "$750,000"
       },
       {
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793484922841
+    "_syncedAt": 1793486656402
   }
 }

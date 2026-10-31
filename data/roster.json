@@ -14,11 +14,11 @@
       "nickname": "Night Patrol",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 95,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 127,
-      "lifetimeRaces": 5430,
-      "teamRaces": 3005,
+      "lifetimeRaces": 5437,
+      "teamRaces": 3012,
       "joined": "06/10/26"
     },
     {
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "B",
-      "avgWPM": 88,
+      "avgWPM": 87,
       "topWPM": 111,
-      "lifetimeRaces": 10167,
-      "teamRaces": 9349,
+      "lifetimeRaces": 10168,
+      "teamRaces": 9358,
       "joined": "07/04/26"
     },
     {
@@ -353,10 +353,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 75,
       "topWPM": 102,
-      "lifetimeRaces": 7070,
-      "teamRaces": 1038,
+      "lifetimeRaces": 7100,
+      "teamRaces": 1074,
       "joined": "10/15/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793484877081
+  "_syncedAt": 1793486609640
 }

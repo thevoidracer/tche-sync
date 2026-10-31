@@ -251,10 +251,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 10167,
-      "wpm": 88,
+      "allTimeRaces": 10168,
+      "wpm": 87,
       "highestWPM": 111,
-      "teamRaces": 9357,
+      "teamRaces": 9358,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -265,11 +265,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7079,
+      "allTimeRaces": 7100,
       "wpm": 75,
       "highestWPM": 102,
-      "teamRaces": 1050,
-      "acc": 93.63,
+      "teamRaces": 1075,
+      "acc": 93.61,
       "season": null,
       "status": "active",
       "lastLogin": 1793477743
@@ -489,10 +489,10 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5431,
-      "wpm": 94,
+      "allTimeRaces": 5437,
+      "wpm": 89,
       "highestWPM": 127,
-      "teamRaces": 3005,
+      "teamRaces": 3012,
       "acc": 92.69,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63722,
+      "races": 63755,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 420,
-      "avgWPM": 89,
-      "avgAcc": 95.09,
+      "races": 452,
+      "avgWPM": 88,
+      "avgAcc": 94.96,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793484800412
+  "_syncedAt": 1793486553700
 }
