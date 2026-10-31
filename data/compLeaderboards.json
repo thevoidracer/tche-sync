@@ -44,6 +44,19 @@
       {
         "rank": 4,
         "tag": "THB0S",
+        "username": "trsgray",
+        "displayName": "trsgray",
+        "nickname": "Mystery Man",
+        "squad": null,
+        "races": 243,
+        "wpm": 67.2,
+        "accuracy": 94.01,
+        "points": 30519,
+        "tier": "B"
+      },
+      {
+        "rank": 5,
+        "tag": "THB0S",
         "username": "Sara10",
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
@@ -53,19 +66,6 @@
         "accuracy": 94.74,
         "points": 30068,
         "tier": "A"
-      },
-      {
-        "rank": 5,
-        "tag": "THB0S",
-        "username": "trsgray",
-        "displayName": "trsgray",
-        "nickname": "Mystery Man",
-        "squad": null,
-        "races": 198,
-        "wpm": 67.7,
-        "accuracy": 93.9,
-        "points": 24885,
-        "tier": "B"
       },
       {
         "rank": 6,
@@ -1485,7 +1485,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793434216851
+    "_syncedAt": 1793436570786
   },
   "1437": {
     "eventId": "1437",
@@ -1972,6 +1972,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793434221147
+    "_syncedAt": 1793436574849
   }
 }
