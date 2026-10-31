@@ -266,11 +266,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1214,
-        "wpm": 59,
+        "allTimeRaces": 1228,
+        "wpm": 60,
         "highestWPM": 75,
-        "teamRaces": 405,
-        "acc": 94.58,
+        "teamRaces": 421,
+        "acc": 94.56,
         "season": null,
         "status": "active",
         "lastLogin": 1793482442
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80916,
+        "races": 80932,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 43
       },
       "daily": {
-        "races": 166,
+        "races": 161,
         "avgWPM": 58,
-        "avgAcc": 95.17,
+        "avgAcc": 95.09,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793483064552
+    "_syncedAt": 1793484923007
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793483083370
+    "_syncedAt": 1793484942051
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1236,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793483133982
+    "_syncedAt": 1793484990903
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1245,7 +1245,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4850,
+    "profileViews": 4851,
     "leagueTier": 13,
     "racers": [
       {
@@ -1253,10 +1253,10 @@
         "displayName": "ella   ",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102056,
-        "wpm": 88,
+        "allTimeRaces": 102074,
+        "wpm": 89,
         "highestWPM": 156,
-        "teamRaces": 992,
+        "teamRaces": 1023,
         "acc": 96.14,
         "season": null,
         "status": "active",
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129606,
+        "races": 129637,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 1380,
+        "races": 1377,
         "avgWPM": 76,
-        "avgAcc": 94.62,
+        "avgAcc": 94.64,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793483303200
+    "_syncedAt": 1793485160263
   }
 }

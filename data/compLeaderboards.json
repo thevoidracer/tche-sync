@@ -9,10 +9,10 @@
         "displayName": "ella",
         "nickname": "Creepin' it Real",
         "squad": "Officer",
-        "races": 772,
-        "wpm": 87.3,
-        "accuracy": 95.99,
-        "points": 106443,
+        "races": 814,
+        "wpm": 87.4,
+        "accuracy": 95.97,
+        "points": 112249,
         "tier": "A"
       },
       {
@@ -35,10 +35,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 489,
-        "wpm": 89.3,
-        "accuracy": 97,
-        "points": 68623,
+        "races": 528,
+        "wpm": 89.4,
+        "accuracy": 96.98,
+        "points": 74095,
         "tier": "B"
       },
       {
@@ -70,6 +70,19 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Investor 1k",
+        "races": 188,
+        "wpm": 79.1,
+        "accuracy": 93.2,
+        "points": 24454,
+        "tier": "C"
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
         "nickname": "Champion Chaser",
@@ -79,19 +92,6 @@
         "accuracy": 93.53,
         "points": 22917,
         "tier": "A"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Investor 1k",
-        "races": 175,
-        "wpm": 79.2,
-        "accuracy": 93.19,
-        "points": 22768,
-        "tier": "C"
       },
       {
         "rank": 8,
@@ -264,6 +264,19 @@
       },
       {
         "rank": 21,
+        "tag": "KEYCAT",
+        "username": "Ace_TypingLegend",
+        "displayName": "Ace_TypingLegend",
+        "nickname": "Mystery Man",
+        "squad": "Novice 300!",
+        "races": 113,
+        "wpm": 58.2,
+        "accuracy": 94.36,
+        "points": 13763,
+        "tier": "B"
+      },
+      {
+        "rank": 22,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -289,7 +302,7 @@
         "tier": "C"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -302,7 +315,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -315,7 +328,7 @@
         "tier": "B"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -325,19 +338,6 @@
         "wpm": 76.6,
         "accuracy": 93.35,
         "points": 12136,
-        "tier": "C"
-      },
-      {
-        "rank": 26,
-        "tag": "KEYCAT",
-        "username": "Ace_TypingLegend",
-        "displayName": "Ace_TypingLegend",
-        "nickname": "Mystery Man",
-        "squad": "Novice 300!",
-        "races": 98,
-        "wpm": 58,
-        "accuracy": 94.57,
-        "points": 11956,
         "tier": "C"
       },
       {
@@ -1472,7 +1472,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793483060409
+    "_syncedAt": 1793484918735
   },
   "1437": {
     "eventId": "1437",
@@ -1484,10 +1484,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 489,
-        "wpm": 89.3,
-        "accuracy": 97,
-        "points": 68623,
+        "races": 528,
+        "wpm": 89.4,
+        "accuracy": 96.98,
+        "points": 74095,
         "tier": "$2,000,000"
       },
       {
@@ -1497,10 +1497,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 350,
-        "wpm": 78.9,
+        "races": 363,
+        "wpm": 78.8,
         "accuracy": 93.32,
-        "points": 45539,
+        "points": 47224,
         "tier": "$1,500,000"
       },
       {
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793483064388
+    "_syncedAt": 1793484922841
   }
 }

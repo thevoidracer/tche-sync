@@ -73,7 +73,12 @@
     {
       "hour": "2026-10-31 21:00:00",
       "racer": "rorok09",
-      "races": 43
+      "races": 82
+    },
+    {
+      "hour": "2026-10-31 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 27
     },
     {
       "hour": "2026-10-31 21:00:00",
@@ -82,15 +87,10 @@
     },
     {
       "hour": "2026-10-31 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 14
-    },
-    {
-      "hour": "2026-10-31 21:00:00",
       "racer": "Nitrex",
       "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793483019979
+  "_syncedAt": 1793484877082
 }
