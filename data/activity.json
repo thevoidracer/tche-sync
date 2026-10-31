@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-30 17:00:00",
-      "racer": "me_likey_typey",
-      "races": 6
-    },
-    {
       "hour": "2026-10-30 18:00:00",
       "racer": "WindMaker",
       "races": 19
@@ -13,12 +8,7 @@
     {
       "hour": "2026-10-30 18:00:00",
       "racer": "PootsyWafflebiscuits",
-      "races": 11
-    },
-    {
-      "hour": "2026-10-30 18:00:00",
-      "racer": "Namedisplayed",
-      "races": 4
+      "races": 10
     },
     {
       "hour": "2026-10-30 18:00:00",
@@ -87,5 +77,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793469308015
+  "_syncedAt": 1793471004284
 }
