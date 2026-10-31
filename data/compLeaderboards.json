@@ -35,10 +35,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 406,
-        "wpm": 89.3,
-        "accuracy": 97.03,
-        "points": 56982,
+        "races": 446,
+        "wpm": 89.4,
+        "accuracy": 97.02,
+        "points": 62608,
         "tier": "B"
       },
       {
@@ -99,11 +99,11 @@
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
-        "races": 141,
+        "squad": "Investor 1k",
+        "races": 161,
         "wpm": 79.4,
-        "accuracy": 93.21,
-        "points": 18361,
+        "accuracy": 93.2,
+        "points": 20963,
         "tier": "B"
       },
       {
@@ -278,6 +278,32 @@
       {
         "rank": 22,
         "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 97,
+        "wpm": 95.2,
+        "accuracy": 91.54,
+        "points": 13107,
+        "tier": "A"
+      },
+      {
+        "rank": 23,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "Night Patrol",
+        "squad": "Dominator 2.5k",
+        "races": 96,
+        "wpm": 94.6,
+        "accuracy": 92.65,
+        "points": 13104,
+        "tier": "A"
+      },
+      {
+        "rank": 24,
+        "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
@@ -289,7 +315,20 @@
         "tier": "B"
       },
       {
-        "rank": 23,
+        "rank": 25,
+        "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Boo!",
+        "squad": "Officer",
+        "races": 94,
+        "wpm": 76.6,
+        "accuracy": 93.35,
+        "points": 12136,
+        "tier": "C"
+      },
+      {
+        "rank": 26,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -302,7 +341,7 @@
         "tier": "C"
       },
       {
-        "rank": 24,
+        "rank": 27,
         "tag": "SVC",
         "username": "SensitiveGoldCobra",
         "displayName": "SensitiveGoldCobra",
@@ -315,7 +354,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 28,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -328,20 +367,7 @@
         "tier": "C"
       },
       {
-        "rank": 26,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 86,
-        "wpm": 95,
-        "accuracy": 91.68,
-        "points": 11629,
-        "tier": "A"
-      },
-      {
-        "rank": 27,
+        "rank": 29,
         "tag": "THB0S",
         "username": "God First",
         "displayName": "God First",
@@ -351,32 +377,6 @@
         "wpm": 61.5,
         "accuracy": 89.77,
         "points": 11505,
-        "tier": "C"
-      },
-      {
-        "rank": 28,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "Night Patrol",
-        "squad": "Dominator 2.5k",
-        "races": 83,
-        "wpm": 94.6,
-        "accuracy": 92.52,
-        "points": 11310,
-        "tier": "B"
-      },
-      {
-        "rank": 29,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Boo!",
-        "squad": "Officer",
-        "races": 87,
-        "wpm": 78.4,
-        "accuracy": 93.35,
-        "points": 11305,
         "tier": "C"
       },
       {
@@ -411,7 +411,7 @@
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
         "nickname": "Master Motorist",
-        "squad": "Starter Fund",
+        "squad": "Side Hustler 100",
         "races": 80,
         "wpm": 79.2,
         "accuracy": 95.45,
@@ -554,7 +554,7 @@
         "username": "VOID_REIGN",
         "displayName": "VOID_REIGN",
         "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
+        "squad": "Investor 1k",
         "races": 62,
         "wpm": 58.1,
         "accuracy": 88.56,
@@ -758,6 +758,19 @@
       },
       {
         "rank": 59,
+        "tag": "THB0S",
+        "username": "NL NitroDeveloper",
+        "displayName": "NL NitroDeveloper",
+        "nickname": "Continue?",
+        "squad": "Officer",
+        "races": 38,
+        "wpm": 50.2,
+        "accuracy": 94.24,
+        "points": 4480,
+        "tier": "C"
+      },
+      {
+        "rank": 60,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -770,7 +783,7 @@
         "tier": "C"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "tag": "THB0S",
         "username": "FireworkLauncher",
         "displayName": "FireworkLauncher",
@@ -781,19 +794,6 @@
         "accuracy": 89.78,
         "points": 4256,
         "tier": "B"
-      },
-      {
-        "rank": 61,
-        "tag": "THB0S",
-        "username": "NL NitroDeveloper",
-        "displayName": "NL NitroDeveloper",
-        "nickname": "Continue?",
-        "squad": "Officer",
-        "races": 36,
-        "wpm": 50,
-        "accuracy": 94.37,
-        "points": 4246,
-        "tier": "C"
       },
       {
         "rank": 62,
@@ -1178,7 +1178,7 @@
         "username": "LeoRuna",
         "displayName": "LeoRuna",
         "nickname": "On Thin Ice",
-        "squad": "Side Hustler 100",
+        "squad": "Entrepreneur 500",
         "races": 10,
         "wpm": 69.6,
         "accuracy": 97.02,
@@ -1485,7 +1485,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793479343919
+    "_syncedAt": 1793481317707
   },
   "1437": {
     "eventId": "1437",
@@ -1497,10 +1497,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 406,
-        "wpm": 89.3,
-        "accuracy": 97.03,
-        "points": 56982,
+        "races": 446,
+        "wpm": 89.4,
+        "accuracy": 97.02,
+        "points": 62608,
         "tier": "$2,000,000"
       },
       {
@@ -1509,11 +1509,11 @@
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
-        "races": 316,
+        "squad": "Investor 1k",
+        "races": 336,
         "wpm": 78.9,
-        "accuracy": 93.34,
-        "points": 41132,
+        "accuracy": 93.32,
+        "points": 43733,
         "tier": "$1,500,000"
       },
       {
@@ -1536,10 +1536,10 @@
         "displayName": "Void Racer",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 208,
-        "wpm": 93.3,
-        "accuracy": 92.62,
-        "points": 28255,
+        "races": 221,
+        "wpm": 93.4,
+        "accuracy": 92.67,
+        "points": 30048,
         "tier": "$750,000"
       },
       {
@@ -1587,7 +1587,7 @@
         "username": "VOID_REIGN",
         "displayName": "VOID_REIGN",
         "nickname": "Quicker Than the Fox",
-        "squad": "Entrepreneur 500",
+        "squad": "Investor 1k",
         "races": 147,
         "wpm": 57.4,
         "accuracy": 89.7,
@@ -1649,10 +1649,23 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 100,
+        "wpm": 94.9,
+        "accuracy": 91.5,
+        "points": 13491,
+        "tier": null
+      },
+      {
+        "rank": 14,
+        "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
         "nickname": "Master Motorist",
-        "squad": "Starter Fund",
+        "squad": "Side Hustler 100",
         "races": 93,
         "wpm": 78.9,
         "accuracy": 95.45,
@@ -1660,7 +1673,7 @@
         "tier": null
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -1673,7 +1686,7 @@
         "tier": null
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -1686,7 +1699,7 @@
         "tier": null
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "IMT",
         "username": "GroundedAquaEmu",
         "displayName": "GroundedAquaEmu",
@@ -1696,19 +1709,6 @@
         "wpm": 93.3,
         "accuracy": 96.84,
         "points": 12639,
-        "tier": null
-      },
-      {
-        "rank": 17,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 89,
-        "wpm": 94.6,
-        "accuracy": 91.63,
-        "points": 12012,
         "tier": null
       },
       {
@@ -1899,7 +1899,7 @@
         "username": "LeoRuna",
         "displayName": "LeoRuna",
         "nickname": "On Thin Ice",
-        "squad": "Side Hustler 100",
+        "squad": "Entrepreneur 500",
         "races": 10,
         "wpm": 69.6,
         "accuracy": 97.02,
@@ -1972,6 +1972,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793479348604
+    "_syncedAt": 1793481322114
   }
 }

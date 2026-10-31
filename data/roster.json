@@ -14,11 +14,11 @@
       "nickname": "Night Patrol",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 95,
       "topWPM": 127,
-      "lifetimeRaces": 5417,
-      "teamRaces": 2992,
+      "lifetimeRaces": 5430,
+      "teamRaces": 3005,
       "joined": "06/10/26"
     },
     {
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "B",
-      "avgWPM": 89,
+      "avgWPM": 87,
       "topWPM": 111,
-      "lifetimeRaces": 10044,
-      "teamRaces": 9227,
+      "lifetimeRaces": 10084,
+      "teamRaces": 9267,
       "joined": "07/04/26"
     },
     {
@@ -65,7 +65,7 @@
       "displayName": "LeoRuna",
       "nickname": "On Thin Ice",
       "role": "member",
-      "squad": "Side Hustler 100",
+      "squad": "Entrepreneur 500",
       "tier": "C",
       "avgWPM": 69,
       "topWPM": 107,
@@ -260,7 +260,7 @@
       "displayName": "VOID_REIGN",
       "nickname": "Quicker Than the Fox",
       "role": "officer",
-      "squad": "Entrepreneur 500",
+      "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 59,
       "topWPM": 108,
@@ -273,7 +273,7 @@
       "displayName": "Victoria Ram",
       "nickname": "Master Motorist",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "B",
       "avgWPM": 80,
       "topWPM": 94,
@@ -351,12 +351,12 @@
       "displayName": "KirbyDelta",
       "nickname": "Quicker Than the Fox",
       "role": "member",
-      "squad": "Entrepreneur 500",
+      "squad": "Investor 1k",
       "tier": "B",
-      "avgWPM": 80,
+      "avgWPM": 82,
       "topWPM": 102,
-      "lifetimeRaces": 7023,
-      "teamRaces": 991,
+      "lifetimeRaces": 7041,
+      "teamRaces": 1011,
       "joined": "10/15/26"
     },
     {
@@ -509,10 +509,10 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 95,
-      "topWPM": 115,
-      "lifetimeRaces": 479,
-      "teamRaces": 236,
+      "avgWPM": 104,
+      "topWPM": 120,
+      "lifetimeRaces": 495,
+      "teamRaces": 247,
       "joined": "10/23/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793479298311
+  "_syncedAt": 1793481276507
 }

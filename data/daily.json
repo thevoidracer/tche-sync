@@ -1,17 +1,37 @@
 {
   "racers": [
     {
-      "rank": 124,
+      "rank": 86,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 90,
-      "accuracy": 96.96,
-      "wpm": 90.8,
-      "points": 12687,
+      "races": 130,
+      "accuracy": 96.95,
+      "wpm": 90.6,
+      "points": 18313,
       "ppr": 141
     },
     {
-      "rank": 380,
+      "rank": 303,
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "races": 35,
+      "accuracy": 90.49,
+      "wpm": 96.4,
+      "points": 4694,
+      "ppr": 134
+    },
+    {
+      "rank": 304,
+      "username": "kirbydelta",
+      "displayName": "KirbyDelta",
+      "races": 36,
+      "accuracy": 93.21,
+      "wpm": 79.7,
+      "points": 4693,
+      "ppr": 130
+    },
+    {
+      "rank": 376,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 24,
@@ -21,27 +41,17 @@
       "ppr": 139
     },
     {
-      "rank": 387,
-      "username": "newkeyboard512",
-      "displayName": "-HyperTyper-",
-      "races": 24,
-      "accuracy": 90.52,
-      "wpm": 96.1,
-      "points": 3216,
-      "ppr": 134
-    },
-    {
-      "rank": 470,
-      "username": "kirbydelta",
-      "displayName": "KirbyDelta",
-      "races": 16,
+      "rank": 487,
+      "username": "taylorja32",
+      "displayName": "Void Racer",
+      "races": 14,
       "accuracy": 93.3,
-      "wpm": 80.2,
-      "points": 2091,
-      "ppr": 131
+      "wpm": 93.5,
+      "points": 1917,
+      "ppr": 137
     },
     {
-      "rank": 498,
+      "rank": 497,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "races": 13,
@@ -51,7 +61,7 @@
       "ppr": 140
     },
     {
-      "rank": 582,
+      "rank": 576,
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
       "races": 8,
@@ -61,7 +71,7 @@
       "ppr": 132
     },
     {
-      "rank": 630,
+      "rank": 619,
       "username": "1ea0b919208e21b376a29ac0befb794c",
       "displayName": "StefanO",
       "races": 4,
@@ -71,7 +81,7 @@
       "ppr": 124
     },
     {
-      "rank": 679,
+      "rank": 664,
       "username": "3a0b3a8cc922fae587432ade7a6160f7",
       "displayName": "BlazingFlowerz",
       "races": 2,
@@ -81,17 +91,7 @@
       "ppr": 116
     },
     {
-      "rank": 716,
-      "username": "taylorja32",
-      "displayName": "Void Racer",
-      "races": 1,
-      "accuracy": 90.36,
-      "wpm": 76.3,
-      "points": 125,
-      "ppr": 125
-    },
-    {
-      "rank": 721,
+      "rank": 704,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "races": 1,
@@ -101,5 +101,5 @@
       "ppr": 119
     }
   ],
-  "_syncedAt": 1793479294527
+  "_syncedAt": 1793481273479
 }
