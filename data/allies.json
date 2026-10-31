@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 255,
+        "races": 238,
         "avgWPM": 58,
-        "avgAcc": 94.14,
+        "avgAcc": 94.59,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793460236537
+    "_syncedAt": 1793462302640
   },
   "SVC": {
     "tag": "SVC",
@@ -1181,15 +1181,15 @@
         "members": 38
       },
       "daily": {
-        "races": 88,
-        "avgWPM": 86,
-        "avgAcc": 93.82,
+        "races": 76,
+        "avgWPM": 88,
+        "avgAcc": 93.93,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793460255513
+    "_syncedAt": 1793462321364
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793460274453
+    "_syncedAt": 1793462340236
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1265,7 +1265,7 @@
         "acc": 96.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1793456817
+        "lastLogin": 1793462122
       },
       {
         "username": "joepellicc_gold",
@@ -1293,7 +1293,7 @@
         "acc": 98.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1793449364
+        "lastLogin": 1793462426
       },
       {
         "username": "bobosworld",
@@ -1962,14 +1962,14 @@
         "members": 50
       },
       "daily": {
-        "races": 1247,
+        "races": 1231,
         "avgWPM": 72,
-        "avgAcc": 93.92,
+        "avgAcc": 93.95,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793460444095
+    "_syncedAt": 1793462509783
   }
 }
