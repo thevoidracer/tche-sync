@@ -173,6 +173,19 @@
       },
       {
         "rank": 14,
+        "tag": "THB0S",
+        "username": "Gt650,",
+        "displayName": "Gt650,",
+        "nickname": "Keyboard Cat",
+        "squad": "Loyal",
+        "races": 147,
+        "wpm": 42.7,
+        "accuracy": 82.22,
+        "points": 14665,
+        "tier": "C"
+      },
+      {
+        "rank": 15,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -185,7 +198,7 @@
         "tier": "B"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -198,7 +211,20 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
+        "tag": "THB0S",
+        "username": "Srivanth",
+        "displayName": "Srivanth",
+        "nickname": "Nitro Rich",
+        "squad": "Loyal",
+        "races": 100,
+        "wpm": 87.9,
+        "accuracy": 94.08,
+        "points": 13543,
+        "tier": "A"
+      },
+      {
+        "rank": 18,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -211,7 +237,7 @@
         "tier": "C"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -224,7 +250,20 @@
         "tier": "B"
       },
       {
-        "rank": 18,
+        "rank": 20,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 112,
+        "wpm": 41.5,
+        "accuracy": 91.24,
+        "points": 12338,
+        "tier": "C"
+      },
+      {
+        "rank": 21,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -237,20 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 19,
-        "tag": "THB0S",
-        "username": "Srivanth",
-        "displayName": "Srivanth",
-        "nickname": "Nitro Rich",
-        "squad": "Loyal",
-        "races": 88,
-        "wpm": 87.3,
-        "accuracy": 94,
-        "points": 11882,
-        "tier": "A"
-      },
-      {
-        "rank": 20,
+        "rank": 22,
         "tag": "SVC",
         "username": "SensitiveGoldCobra",
         "displayName": "SensitiveGoldCobra",
@@ -263,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 23,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -276,20 +302,7 @@
         "tier": "C"
       },
       {
-        "rank": 22,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer",
-        "races": 107,
-        "wpm": 41.6,
-        "accuracy": 91.15,
-        "points": 11782,
-        "tier": "C"
-      },
-      {
-        "rank": 23,
+        "rank": 24,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -302,7 +315,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "THB0S",
         "username": "God First",
         "displayName": "God First",
@@ -315,7 +328,7 @@
         "tier": "C"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -328,7 +341,7 @@
         "tier": "B"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -341,7 +354,7 @@
         "tier": "B"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -354,7 +367,7 @@
         "tier": "C"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -364,19 +377,6 @@
         "wpm": 78.8,
         "accuracy": 93.32,
         "points": 11055,
-        "tier": "C"
-      },
-      {
-        "rank": 29,
-        "tag": "THB0S",
-        "username": "Gt650,",
-        "displayName": "Gt650,",
-        "nickname": "Keyboard Cat",
-        "squad": "Loyal",
-        "races": 108,
-        "wpm": 42.7,
-        "accuracy": 82.63,
-        "points": 10829,
         "tier": "C"
       },
       {
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793456354911
+    "_syncedAt": 1793458714811
   },
   "1437": {
     "eventId": "1437",
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793456358860
+    "_syncedAt": 1793458718870
   }
 }

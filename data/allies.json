@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 318,
-        "avgWPM": 57,
-        "avgAcc": 94.13,
+        "races": 290,
+        "avgWPM": 58,
+        "avgAcc": 94.21,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793456358989
+    "_syncedAt": 1793458719000
   },
   "SVC": {
     "tag": "SVC",
@@ -1181,15 +1181,15 @@
         "members": 38
       },
       "daily": {
-        "races": 166,
-        "avgWPM": 82,
-        "avgAcc": 93.7,
+        "races": 125,
+        "avgWPM": 85,
+        "avgAcc": 93.8,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793456378118
+    "_syncedAt": 1793458737775
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1241,7 +1241,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793456396975
+    "_syncedAt": 1793458756504
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1265,7 +1265,7 @@
         "acc": 96.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1793451994
+        "lastLogin": 1793456817
       },
       {
         "username": "joepellicc_gold",
@@ -1608,14 +1608,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8396,
-        "wpm": 49,
+        "allTimeRaces": 8397,
+        "wpm": 50,
         "highestWPM": 84,
         "teamRaces": 464,
         "acc": 94.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1793455594
+        "lastLogin": 1793458644
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1636,14 +1636,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3398,
-        "wpm": 90,
+        "allTimeRaces": 3410,
+        "wpm": 94,
         "highestWPM": 112,
-        "teamRaces": 1437,
+        "teamRaces": 1449,
         "acc": 94.07,
         "season": null,
         "status": "active",
-        "lastLogin": 1793449370
+        "lastLogin": 1793457610
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1762,14 +1762,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 3886,
+        "allTimeRaces": 3891,
         "wpm": 39,
         "highestWPM": 61,
-        "teamRaces": 2348,
-        "acc": 91.98,
+        "teamRaces": 2353,
+        "acc": 91.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793444196
+        "lastLogin": 1793457223
       },
       {
         "username": "sara0010",
@@ -1888,11 +1888,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9444,
-        "wpm": 44,
+        "allTimeRaces": 9465,
+        "wpm": 42,
         "highestWPM": 75,
-        "teamRaces": 2010,
-        "acc": 86.4,
+        "teamRaces": 2035,
+        "acc": 86.36,
         "season": null,
         "status": "active",
         "lastLogin": 1793452443
@@ -1909,7 +1909,7 @@
         "acc": 95.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1793451480
+        "lastLogin": 1793458005
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1956,20 +1956,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129230,
+        "races": 129272,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 50
       },
       "daily": {
-        "races": 1260,
-        "avgWPM": 73,
-        "avgAcc": 94.17,
+        "races": 1261,
+        "avgWPM": 72,
+        "avgAcc": 93.94,
         "members": 50
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793456566464
+    "_syncedAt": 1793458925963
   }
 }

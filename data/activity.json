@@ -2,28 +2,8 @@
   "hours": [
     {
       "hour": "2026-10-30 14:00:00",
-      "racer": "Namedisplayed",
-      "races": 28
-    },
-    {
-      "hour": "2026-10-30 14:00:00",
-      "racer": "t_unknown",
-      "races": 24
-    },
-    {
-      "hour": "2026-10-30 14:00:00",
       "racer": "RationalGoldApe",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-30 14:00:00",
-      "racer": "WindMaker",
-      "races": 10
-    },
-    {
-      "hour": "2026-10-30 14:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 7
+      "races": 2
     },
     {
       "hour": "2026-10-30 14:00:00",
@@ -82,12 +62,12 @@
     },
     {
       "hour": "2026-10-30 16:00:00",
-      "racer": "RationalGoldApe",
+      "racer": "BlazingFlowerz",
       "races": 6
     },
     {
       "hour": "2026-10-30 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "RationalGoldApe",
       "races": 6
     },
     {
@@ -187,5 +167,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793456313834
+  "_syncedAt": 1793458674172
 }
