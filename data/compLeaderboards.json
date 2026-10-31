@@ -48,10 +48,10 @@
         "displayName": "trsgray",
         "nickname": "Mystery Man",
         "squad": "Newbies!",
-        "races": 294,
+        "races": 302,
         "wpm": 67,
-        "accuracy": 93.9,
-        "points": 36854,
+        "accuracy": 93.88,
+        "points": 37845,
         "tier": "B"
       },
       {
@@ -61,10 +61,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 230,
-        "wpm": 93.9,
-        "accuracy": 94.74,
-        "points": 32019,
+        "races": 233,
+        "wpm": 94,
+        "accuracy": 94.73,
+        "points": 32444,
         "tier": "A"
       },
       {
@@ -122,6 +122,19 @@
       {
         "rank": 10,
         "tag": "THB0S",
+        "username": "-Rocky-",
+        "displayName": "-Rocky-",
+        "nickname": "Rocky",
+        "squad": "Newbies!",
+        "races": 125,
+        "wpm": 92.1,
+        "accuracy": 96.15,
+        "points": 17555,
+        "tier": "A"
+      },
+      {
+        "rank": 11,
+        "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
         "nickname": "Street Spectre",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -146,7 +159,7 @@
         "tier": "C"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -172,7 +185,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "Dj2tuff",
         "displayName": "Dj2tuff",
@@ -185,7 +198,7 @@
         "tier": "C"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -198,7 +211,7 @@
         "tier": "C"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -211,7 +224,7 @@
         "tier": "B"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -224,7 +237,7 @@
         "tier": "A"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -237,7 +250,7 @@
         "tier": "C"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -250,7 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -263,7 +276,7 @@
         "tier": "C"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -276,7 +289,7 @@
         "tier": "B"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -287,19 +300,6 @@
         "accuracy": 94.57,
         "points": 11956,
         "tier": "C"
-      },
-      {
-        "rank": 23,
-        "tag": "THB0S",
-        "username": "-Rocky-",
-        "displayName": "-Rocky-",
-        "nickname": "Rocky",
-        "squad": "Newbies!",
-        "races": 84,
-        "wpm": 94.4,
-        "accuracy": 96.07,
-        "points": 11879,
-        "tier": "A"
       },
       {
         "rank": 24,
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793471046938
+    "_syncedAt": 1793473992770
   },
   "1437": {
     "eventId": "1437",
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793471052698
+    "_syncedAt": 1793473997154
   }
 }

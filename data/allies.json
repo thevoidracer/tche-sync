@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793471052880
+    "_syncedAt": 1793473997367
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793471071833
+    "_syncedAt": 1793474016512
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,16 +1236,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793471122230
+    "_syncedAt": 1793474065816
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 50,
+    "members": 49,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4839,
+    "profileViews": 4843,
     "leagueTier": 13,
     "racers": [
       {
@@ -1260,7 +1260,7 @@
         "acc": 96.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1793471225
+        "lastLogin": 1793473704
       },
       {
         "username": "joepellicc_gold",
@@ -1323,11 +1323,11 @@
         "displayName": "-Rocky-",
         "role": "member",
         "joinStamp": 1792502449,
-        "allTimeRaces": 280,
-        "wpm": 88,
+        "allTimeRaces": 300,
+        "wpm": 86,
         "highestWPM": 118,
-        "teamRaces": 219,
-        "acc": 96.52,
+        "teamRaces": 250,
+        "acc": 96.5,
         "season": null,
         "status": "active",
         "lastLogin": 1793469365
@@ -1673,28 +1673,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3004,
+        "allTimeRaces": 3012,
         "wpm": 63,
         "highestWPM": 91,
-        "teamRaces": 294,
-        "acc": 94.25,
+        "teamRaces": 302,
+        "acc": 94.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1793464907
-      },
-      {
-        "username": "cp44229",
-        "displayName": "inv to KU",
-        "role": "member",
-        "joinStamp": 1793471236,
-        "allTimeRaces": 45179,
-        "wpm": 60,
-        "highestWPM": 125,
-        "teamRaces": 19,
-        "acc": 98.81,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793470879
+        "lastLogin": 1793471513
       },
       {
         "username": "joey2011allgyer",
@@ -1771,14 +1757,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19280,
-        "wpm": 97,
+        "allTimeRaces": 19297,
+        "wpm": 99,
         "highestWPM": 123,
-        "teamRaces": 18820,
+        "teamRaces": 18827,
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793467775
+        "lastLogin": 1793471381
       },
       {
         "username": "taco13001",
@@ -1951,20 +1937,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129457,
+        "races": 129505,
         "avgWPM": 68,
         "avgAcc": 94.03,
-        "members": 50
+        "members": 49
       },
       "daily": {
-        "races": 1338,
-        "avgWPM": 74,
-        "avgAcc": 94.38,
-        "members": 50
+        "races": 1297,
+        "avgWPM": 76,
+        "avgAcc": 94.73,
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793471291539
+    "_syncedAt": 1793474235657
   }
 }
