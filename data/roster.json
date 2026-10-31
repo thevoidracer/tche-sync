@@ -103,7 +103,7 @@
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "nickname": "Champion Chaser",
-      "role": "officer",
+      "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
       "avgWPM": 95,
@@ -350,13 +350,13 @@
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "nickname": "Quicker Than the Fox",
-      "role": "member",
+      "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 75,
       "topWPM": 102,
       "lifetimeRaces": 7100,
-      "teamRaces": 1074,
+      "teamRaces": 1075,
       "joined": "10/15/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793486609640
+  "_syncedAt": 1793488585095
 }
