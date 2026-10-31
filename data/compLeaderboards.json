@@ -230,10 +230,10 @@
         "displayName": "Mwhit4",
         "nickname": "Night Patrol",
         "squad": null,
-        "races": 116,
-        "wpm": 47.6,
-        "accuracy": 93.4,
-        "points": 13414,
+        "races": 117,
+        "wpm": 47.7,
+        "accuracy": 93.38,
+        "points": 13530,
         "tier": "C"
       },
       {
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793458714811
+    "_syncedAt": 1793460232317
   },
   "1437": {
     "eventId": "1437",
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793458718870
+    "_syncedAt": 1793460236366
   }
 }
