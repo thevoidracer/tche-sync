@@ -35,10 +35,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 446,
-        "wpm": 89.4,
-        "accuracy": 97.02,
-        "points": 62608,
+        "races": 489,
+        "wpm": 89.3,
+        "accuracy": 97,
+        "points": 68623,
         "tier": "B"
       },
       {
@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Investor 1k",
+        "races": 175,
+        "wpm": 79.2,
+        "accuracy": 93.19,
+        "points": 22768,
+        "tier": "C"
+      },
+      {
+        "rank": 8,
         "tag": "SVC",
         "username": "Javier Mendez",
         "displayName": "Javier Mendez",
@@ -91,19 +104,6 @@
         "wpm": 79.6,
         "accuracy": 93.85,
         "points": 22567,
-        "tier": "B"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Investor 1k",
-        "races": 161,
-        "wpm": 79.4,
-        "accuracy": 93.2,
-        "points": 20963,
         "tier": "B"
       },
       {
@@ -161,6 +161,32 @@
       {
         "rank": 13,
         "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 122,
+        "wpm": 96,
+        "accuracy": 91.26,
+        "points": 16479,
+        "tier": "A"
+      },
+      {
+        "rank": 14,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 149,
+        "wpm": 41.6,
+        "accuracy": 91.47,
+        "points": 16463,
+        "tier": "C"
+      },
+      {
+        "rank": 15,
+        "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
         "nickname": "Ghost Lap",
@@ -172,7 +198,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -185,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 15,
+        "rank": 17,
         "tag": "THB0S",
         "username": "Dj2tuff",
         "displayName": "Dj2tuff",
@@ -198,7 +224,7 @@
         "tier": "C"
       },
       {
-        "rank": 16,
+        "rank": 18,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -211,7 +237,7 @@
         "tier": "C"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -224,7 +250,7 @@
         "tier": "B"
       },
       {
-        "rank": 18,
+        "rank": 20,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -237,20 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer",
-        "races": 125,
-        "wpm": 41.3,
-        "accuracy": 91.41,
-        "points": 13783,
-        "tier": "C"
-      },
-      {
-        "rank": 20,
+        "rank": 21,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -274,19 +287,6 @@
         "accuracy": 93.38,
         "points": 13530,
         "tier": "C"
-      },
-      {
-        "rank": 22,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 97,
-        "wpm": 95.2,
-        "accuracy": 91.54,
-        "points": 13107,
-        "tier": "A"
       },
       {
         "rank": 23,
@@ -646,10 +646,10 @@
         "displayName": "mintzzz",
         "nickname": "#YuleBeSorry",
         "squad": null,
-        "races": 47,
-        "wpm": 60.6,
-        "accuracy": 96.3,
-        "points": 5898,
+        "races": 48,
+        "wpm": 60.1,
+        "accuracy": 96.32,
+        "points": 6011,
         "tier": "B"
       },
       {
@@ -1330,6 +1330,19 @@
       },
       {
         "rank": 103,
+        "tag": "IMT",
+        "username": "Nitrex",
+        "displayName": "Nitrex",
+        "nickname": "404 Not Found",
+        "squad": "Starter Fund",
+        "races": 4,
+        "wpm": 92.4,
+        "accuracy": 89.58,
+        "points": 524,
+        "tier": "A"
+      },
+      {
+        "rank": 104,
         "tag": "SVC",
         "username": "gokuglazernumber1",
         "displayName": "gokuglazernumber1",
@@ -1342,7 +1355,7 @@
         "tier": "B"
       },
       {
-        "rank": 104,
+        "rank": 105,
         "tag": "THB0S",
         "username": "bedroque",
         "displayName": "bedroque",
@@ -1355,7 +1368,7 @@
         "tier": "B"
       },
       {
-        "rank": 105,
+        "rank": 106,
         "tag": "SVC",
         "username": "Rico_main",
         "displayName": "Rico_main",
@@ -1368,7 +1381,7 @@
         "tier": "A"
       },
       {
-        "rank": 106,
+        "rank": 107,
         "tag": "THB0S",
         "username": "alex NT",
         "displayName": "alex NT",
@@ -1381,7 +1394,7 @@
         "tier": "A"
       },
       {
-        "rank": 107,
+        "rank": 108,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -1391,19 +1404,6 @@
         "wpm": 84.6,
         "accuracy": 95.19,
         "points": 271,
-        "tier": "A"
-      },
-      {
-        "rank": 108,
-        "tag": "IMT",
-        "username": "Nitrex",
-        "displayName": "Nitrex",
-        "nickname": "404 Not Found",
-        "squad": "Starter Fund",
-        "races": 2,
-        "wpm": 96,
-        "accuracy": 90.93,
-        "points": 269,
         "tier": "A"
       },
       {
@@ -1470,22 +1470,9 @@
         "accuracy": 0,
         "points": 0,
         "tier": "C"
-      },
-      {
-        "rank": 114,
-        "tag": "THB0S",
-        "username": "Samoan",
-        "displayName": "Samoan",
-        "nickname": "Wampus Thwamper",
-        "squad": null,
-        "races": 0,
-        "wpm": 0,
-        "accuracy": 0,
-        "points": 0,
-        "tier": "B"
       }
     ],
-    "_syncedAt": 1793481317707
+    "_syncedAt": 1793483060409
   },
   "1437": {
     "eventId": "1437",
@@ -1497,10 +1484,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 446,
-        "wpm": 89.4,
-        "accuracy": 97.02,
-        "points": 62608,
+        "races": 489,
+        "wpm": 89.3,
+        "accuracy": 97,
+        "points": 68623,
         "tier": "$2,000,000"
       },
       {
@@ -1510,10 +1497,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 336,
+        "races": 350,
         "wpm": 78.9,
         "accuracy": 93.32,
-        "points": 43733,
+        "points": 45539,
         "tier": "$1,500,000"
       },
       {
@@ -1653,10 +1640,10 @@
         "displayName": "-HyperTyper-",
         "nickname": "Crazy About Typing",
         "squad": "Side Hustler 100",
-        "races": 100,
-        "wpm": 94.9,
-        "accuracy": 91.5,
-        "points": 13491,
+        "races": 125,
+        "wpm": 95.7,
+        "accuracy": 91.23,
+        "points": 16863,
         "tier": null
       },
       {
@@ -1939,10 +1926,10 @@
         "displayName": "Nitrex",
         "nickname": "404 Not Found",
         "squad": "Starter Fund",
-        "races": 2,
-        "wpm": 96,
-        "accuracy": 90.93,
-        "points": 269,
+        "races": 4,
+        "wpm": 92.4,
+        "accuracy": 89.58,
+        "points": 524,
         "tier": null
       },
       {
@@ -1972,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793481322114
+    "_syncedAt": 1793483064388
   }
 }

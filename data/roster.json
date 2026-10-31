@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "B",
-      "avgWPM": 87,
+      "avgWPM": 90,
       "topWPM": 111,
-      "lifetimeRaces": 10084,
-      "teamRaces": 9267,
+      "lifetimeRaces": 10128,
+      "teamRaces": 9310,
       "joined": "07/04/26"
     },
     {
@@ -82,8 +82,8 @@
       "tier": "A",
       "avgWPM": 98,
       "topWPM": 117,
-      "lifetimeRaces": 5248,
-      "teamRaces": 88,
+      "lifetimeRaces": 5250,
+      "teamRaces": 90,
       "joined": "08/02/26"
     },
     {
@@ -352,11 +352,11 @@
       "nickname": "Quicker Than the Fox",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
-      "avgWPM": 82,
+      "tier": "C",
+      "avgWPM": 74,
       "topWPM": 102,
-      "lifetimeRaces": 7041,
-      "teamRaces": 1011,
+      "lifetimeRaces": 7050,
+      "teamRaces": 1025,
       "joined": "10/15/26"
     },
     {
@@ -509,10 +509,10 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 104,
+      "avgWPM": 96,
       "topWPM": 120,
-      "lifetimeRaces": 495,
-      "teamRaces": 247,
+      "lifetimeRaces": 515,
+      "teamRaces": 272,
       "joined": "10/23/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793481276507
+  "_syncedAt": 1793483019978
 }

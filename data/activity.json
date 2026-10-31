@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-30 21:00:00",
-      "racer": "StefanO",
-      "races": 4
-    },
-    {
       "hour": "2026-10-30 22:00:00",
       "racer": "xX_VICTORY_Xx",
       "races": 1
@@ -74,8 +69,28 @@
       "hour": "2026-10-31 20:00:00",
       "racer": "BlazingFlowerz",
       "races": 2
+    },
+    {
+      "hour": "2026-10-31 21:00:00",
+      "racer": "rorok09",
+      "races": 43
+    },
+    {
+      "hour": "2026-10-31 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 25
+    },
+    {
+      "hour": "2026-10-31 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 14
+    },
+    {
+      "hour": "2026-10-31 21:00:00",
+      "racer": "Nitrex",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793481276508
+  "_syncedAt": 1793483019979
 }

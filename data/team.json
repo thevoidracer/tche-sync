@@ -251,10 +251,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 10097,
-      "wpm": 90,
+      "allTimeRaces": 10138,
+      "wpm": 91,
       "highestWPM": 111,
-      "teamRaces": 9281,
+      "teamRaces": 9325,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -265,11 +265,11 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7046,
-      "wpm": 78,
+      "allTimeRaces": 7051,
+      "wpm": 75,
       "highestWPM": 102,
-      "teamRaces": 1019,
-      "acc": 93.64,
+      "teamRaces": 1026,
+      "acc": 93.63,
       "season": null,
       "status": "active",
       "lastLogin": 1793477743
@@ -377,14 +377,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5248,
+      "allTimeRaces": 5250,
       "wpm": 98,
       "highestWPM": 117,
-      "teamRaces": 88,
-      "acc": 91.25,
+      "teamRaces": 90,
+      "acc": 91.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1793413825
+      "lastLogin": 1793482070
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 500,
-      "wpm": 103,
+      "allTimeRaces": 515,
+      "wpm": 96,
       "highestWPM": 120,
-      "teamRaces": 254,
-      "acc": 91.59,
+      "teamRaces": 272,
+      "acc": 91.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793479587
+      "lastLogin": 1793482343
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 63595,
+      "races": 63666,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 297,
-      "avgWPM": 89,
-      "avgAcc": 95.1,
+      "races": 364,
+      "avgWPM": 90,
+      "avgAcc": 95.03,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793481223053
+  "_syncedAt": 1793482956889
 }
