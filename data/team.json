@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2251,
+  "profileViews": 2252,
   "leagueTier": 13,
   "racers": [
     {
@@ -251,10 +251,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 10010,
-      "wpm": 90,
+      "allTimeRaces": 10051,
+      "wpm": 91,
       "highestWPM": 111,
-      "teamRaces": 9198,
+      "teamRaces": 9241,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -265,14 +265,14 @@
       "displayName": "KirbyDelta",
       "role": "member",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7000,
+      "allTimeRaces": 7025,
       "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 975,
+      "teamRaces": 1000,
       "acc": 93.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1793413803
+      "lastLogin": 1793477743
     },
     {
       "username": "cash4087",
@@ -545,10 +545,10 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1171,
+      "allTimeRaces": 1173,
       "wpm": 51,
       "highestWPM": 80,
-      "teamRaces": 69,
+      "teamRaces": 71,
       "acc": 92.57,
       "season": null,
       "status": "active",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63435,
+      "races": 63505,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 156,
-      "avgWPM": 90,
-      "avgAcc": 95.12,
+      "races": 207,
+      "avgWPM": 88,
+      "avgAcc": 95.27,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793477450668
+  "_syncedAt": 1793479230110
 }
