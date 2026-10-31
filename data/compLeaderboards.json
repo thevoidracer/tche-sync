@@ -35,11 +35,11 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 326,
-        "wpm": 88.9,
+        "races": 364,
+        "wpm": 89.2,
         "accuracy": 97.04,
-        "points": 45693,
-        "tier": "A"
+        "points": 51085,
+        "tier": "B"
       },
       {
         "rank": 4,
@@ -48,11 +48,11 @@
         "displayName": "trsgray",
         "nickname": "Mystery Man",
         "squad": "Newbies!",
-        "races": 302,
-        "wpm": 67,
-        "accuracy": 93.88,
-        "points": 37845,
-        "tier": "B"
+        "races": 322,
+        "wpm": 67.6,
+        "accuracy": 93.86,
+        "points": 40436,
+        "tier": "A"
       },
       {
         "rank": 5,
@@ -61,10 +61,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 250,
+        "races": 251,
         "wpm": 94.3,
         "accuracy": 94.67,
-        "points": 34823,
+        "points": 34962,
         "tier": "A"
       },
       {
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793475856125
+    "_syncedAt": 1793477554046
   },
   "1437": {
     "eventId": "1437",
@@ -1484,10 +1484,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 326,
-        "wpm": 88.9,
+        "races": 364,
+        "wpm": 89.2,
         "accuracy": 97.04,
-        "points": 45693,
+        "points": 51085,
         "tier": "$2,000,000"
       },
       {
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793475860055
+    "_syncedAt": 1793477558024
   }
 }

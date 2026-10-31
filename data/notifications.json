@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "key": "milestone:75ece50e19f0ca3d92787e4a86138578:10000",
+      "type": "milestone",
+      "text": "rorok09 crossed 10,000 lifetime races!",
+      "meta": {
+        "username": "75ece50e19f0ca3d92787e4a86138578",
+        "milestone": 10000
+      },
+      "createdAt": 1793477549552
+    },
+    {
       "key": "milestone:9efd6f2eb56545ebe21b44eef9c2f081:1000",
       "type": "milestone",
       "text": "Victoria Ram crossed 1,000 lifetime races!",
@@ -600,5 +610,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793475851784
+  "_syncedAt": 1793477549552
 }
