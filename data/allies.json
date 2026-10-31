@@ -280,11 +280,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1137,
-        "wpm": 59,
+        "allTimeRaces": 1145,
+        "wpm": 65,
         "highestWPM": 72,
-        "teamRaces": 326,
-        "acc": 94.57,
+        "teamRaces": 338,
+        "acc": 94.64,
         "season": null,
         "status": "active",
         "lastLogin": 1793398543
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80778,
+        "races": 80790,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 44
       },
       "daily": {
-        "races": 353,
+        "races": 365,
         "avgWPM": 61,
-        "avgAcc": 92.72,
+        "avgAcc": 92.83,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793402570204
+    "_syncedAt": 1793404675318
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793402589528
+    "_syncedAt": 1793404694265
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793402608665
+    "_syncedAt": 1793404713280
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1264,7 +1264,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4805,
+    "profileViews": 4808,
     "leagueTier": 13,
     "racers": [
       {
@@ -1272,10 +1272,10 @@
         "displayName": "ella   ",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101891,
-        "wpm": 90,
+        "allTimeRaces": 101920,
+        "wpm": 95,
         "highestWPM": 156,
-        "teamRaces": 833,
+        "teamRaces": 869,
         "acc": 96.16,
         "season": null,
         "status": "active",
@@ -1300,14 +1300,14 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10428,
-        "wpm": 113,
+        "allTimeRaces": 10441,
+        "wpm": 108,
         "highestWPM": 135,
-        "teamRaces": 1000,
+        "teamRaces": 1012,
         "acc": 98.21,
         "season": null,
         "status": "active",
-        "lastLogin": 1793379095
+        "lastLogin": 1793403685
       },
       {
         "username": "mcculpar",
@@ -1426,14 +1426,14 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1776,
-        "wpm": 60,
+        "allTimeRaces": 1779,
+        "wpm": 59,
         "highestWPM": 87,
-        "teamRaces": 1470,
-        "acc": 93.79,
+        "teamRaces": 1473,
+        "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1793330098
+        "lastLogin": 1793403157
       },
       {
         "username": "pigglepigglepiggle",
@@ -1748,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19167,
+        "allTimeRaces": 19190,
         "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 18700,
+        "teamRaces": 18730,
         "acc": 94,
         "season": null,
         "status": "active",
@@ -1881,7 +1881,7 @@
         "acc": 95.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1793368348
+        "lastLogin": 1793404303
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1902,14 +1902,14 @@
         "displayName": "NL NitroDeveloper",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3162,
+        "allTimeRaces": 3163,
         "wpm": 53,
         "highestWPM": 74,
         "teamRaces": 964,
         "acc": 93.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793377261
+        "lastLogin": 1793404361
       },
       {
         "username": "malott12",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 128352,
+        "races": 128434,
         "avgWPM": 68,
-        "avgAcc": 94.02,
+        "avgAcc": 94.03,
         "members": 47
       },
       "daily": {
-        "races": 898,
-        "avgWPM": 73,
-        "avgAcc": 94.57,
+        "races": 966,
+        "avgWPM": 75,
+        "avgAcc": 94.65,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793402778519
+    "_syncedAt": 1793404882926
   }
 }
