@@ -22,10 +22,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Active!",
-        "races": 464,
-        "wpm": 109.9,
-        "accuracy": 98.21,
-        "points": 70615,
+        "races": 494,
+        "wpm": 110,
+        "accuracy": 98.18,
+        "points": 75170,
         "tier": "A"
       },
       {
@@ -48,10 +48,10 @@
         "displayName": "trsgray",
         "nickname": "Mystery Man",
         "squad": "Active!",
-        "races": 290,
-        "wpm": 67.1,
-        "accuracy": 93.93,
-        "points": 36380,
+        "races": 293,
+        "wpm": 67,
+        "accuracy": 93.9,
+        "points": 36736,
         "tier": "B"
       },
       {
@@ -1240,6 +1240,19 @@
       {
         "rank": 96,
         "tag": "KEYCAT",
+        "username": "TerrificPurpleSalamander",
+        "displayName": "TerrificPurpleSalamander",
+        "nickname": "Hallow Hunter",
+        "squad": "Beginner 100!",
+        "races": 9,
+        "wpm": 58.4,
+        "accuracy": 92.81,
+        "points": 1079,
+        "tier": "C"
+      },
+      {
+        "rank": 97,
+        "tag": "KEYCAT",
         "username": "KO-Kitten",
         "displayName": "KO-Kitten",
         "nickname": "[SKIPWRD]",
@@ -1251,7 +1264,7 @@
         "tier": "B"
       },
       {
-        "rank": 97,
+        "rank": 98,
         "tag": "KEYCAT",
         "username": "DulenTheAkuma",
         "displayName": "DulenTheAkuma",
@@ -1264,7 +1277,7 @@
         "tier": "A"
       },
       {
-        "rank": 98,
+        "rank": 99,
         "tag": "KEYCAT",
         "username": "Glitter_Girl_18",
         "displayName": "Glitter_Girl_18",
@@ -1277,7 +1290,7 @@
         "tier": "C"
       },
       {
-        "rank": 99,
+        "rank": 100,
         "tag": "SVC",
         "username": "Im not warmed up",
         "displayName": "Im not warmed up",
@@ -1288,19 +1301,6 @@
         "accuracy": 92.95,
         "points": 758,
         "tier": "C"
-      },
-      {
-        "rank": 100,
-        "tag": "KEYCAT",
-        "username": "TerrificPurpleSalamander",
-        "displayName": "TerrificPurpleSalamander",
-        "nickname": "Hallow Hunter",
-        "squad": "Beginner 100!",
-        "races": 6,
-        "wpm": 59.3,
-        "accuracy": 92.7,
-        "points": 721,
-        "tier": "B"
       },
       {
         "rank": 101,
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793463950004
+    "_syncedAt": 1793466050744
   },
   "1437": {
     "eventId": "1437",
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793463954498
+    "_syncedAt": 1793466054969
   }
 }
