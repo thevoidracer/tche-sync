@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-30 10:00:00",
       "racer": "rorok09",
-      "races": 54
+      "races": 18
     },
     {
       "hour": "2026-10-30 11:00:00",
@@ -162,12 +162,12 @@
     },
     {
       "hour": "2026-10-30 18:00:00",
-      "racer": "Namedisplayed",
+      "racer": "RationalGoldApe",
       "races": 4
     },
     {
       "hour": "2026-10-30 18:00:00",
-      "racer": "RationalGoldApe",
+      "racer": "Namedisplayed",
       "races": 4
     },
     {
@@ -209,8 +209,13 @@
       "hour": "2026-10-31 03:00:00",
       "racer": "Joe and Uh",
       "races": 13
+    },
+    {
+      "hour": "2026-10-31 10:00:00",
+      "racer": "asteroids",
+      "races": 23
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793440912867
+  "_syncedAt": 1793443326426
 }
