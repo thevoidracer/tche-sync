@@ -47,7 +47,7 @@
         "username": "trsgray",
         "displayName": "trsgray",
         "nickname": "Mystery Man",
-        "squad": "Active!",
+        "squad": "Newbies!",
         "races": 294,
         "wpm": 67,
         "accuracy": 93.9,
@@ -109,6 +109,19 @@
       {
         "rank": 9,
         "tag": "THB0S",
+        "username": "Hot Chocolate",
+        "displayName": "Hot Chocolate",
+        "nickname": "Solid Gold",
+        "squad": null,
+        "races": 121,
+        "wpm": 94.2,
+        "accuracy": 96.91,
+        "points": 17248,
+        "tier": "A"
+      },
+      {
+        "rank": 10,
+        "tag": "THB0S",
         "username": "TheMrMe",
         "displayName": "TheMrMe",
         "nickname": "Street Spectre",
@@ -120,7 +133,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -133,7 +146,7 @@
         "tier": "C"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -146,7 +159,7 @@
         "tier": "B"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "THB0S",
         "username": "Calypso",
         "displayName": "Calypso",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "Dj2tuff",
         "displayName": "Dj2tuff",
@@ -172,7 +185,7 @@
         "tier": "C"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
@@ -185,7 +198,7 @@
         "tier": "C"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -198,7 +211,7 @@
         "tier": "B"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "THB0S",
         "username": "type for huzz",
         "displayName": "type for huzz",
@@ -211,7 +224,20 @@
         "tier": "A"
       },
       {
-        "rank": 17,
+        "rank": 18,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 125,
+        "wpm": 41.3,
+        "accuracy": 91.41,
+        "points": 13783,
+        "tier": "C"
+      },
+      {
+        "rank": 19,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -224,12 +250,12 @@
         "tier": "A"
       },
       {
-        "rank": 18,
+        "rank": 20,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
         "nickname": "Night Patrol",
-        "squad": null,
+        "squad": "Newbies!",
         "races": 117,
         "wpm": 47.7,
         "accuracy": 93.38,
@@ -237,20 +263,7 @@
         "tier": "C"
       },
       {
-        "rank": 19,
-        "tag": "THB0S",
-        "username": "Hot Chocolate",
-        "displayName": "Hot Chocolate",
-        "nickname": "Solid Gold",
-        "squad": null,
-        "races": 92,
-        "wpm": 95,
-        "accuracy": 97.15,
-        "points": 13182,
-        "tier": "A"
-      },
-      {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -261,19 +274,6 @@
         "accuracy": 95.68,
         "points": 12895,
         "tier": "B"
-      },
-      {
-        "rank": 21,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer",
-        "races": 112,
-        "wpm": 41.5,
-        "accuracy": 91.24,
-        "points": 12338,
-        "tier": "C"
       },
       {
         "rank": 22,
@@ -356,6 +356,19 @@
       {
         "rank": 28,
         "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Boo!",
+        "squad": "Officer",
+        "races": 87,
+        "wpm": 78.4,
+        "accuracy": 93.35,
+        "points": 11305,
+        "tier": "C"
+      },
+      {
+        "rank": 29,
+        "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
         "nickname": "Ghost Lap",
@@ -367,7 +380,7 @@
         "tier": "C"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -377,19 +390,6 @@
         "wpm": 53.9,
         "accuracy": 91.21,
         "points": 11233,
-        "tier": "C"
-      },
-      {
-        "rank": 30,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Boo!",
-        "squad": "Officer",
-        "races": 85,
-        "wpm": 78.8,
-        "accuracy": 93.32,
-        "points": 11055,
         "tier": "C"
       },
       {
@@ -772,6 +772,19 @@
       {
         "rank": 60,
         "tag": "THB0S",
+        "username": "FireworkLauncher",
+        "displayName": "FireworkLauncher",
+        "nickname": "マスター・レーサー",
+        "squad": "OG's still racing",
+        "races": 35,
+        "wpm": 70.9,
+        "accuracy": 89.78,
+        "points": 4256,
+        "tier": "B"
+      },
+      {
+        "rank": 61,
+        "tag": "THB0S",
         "username": "NL NitroDeveloper",
         "displayName": "NL NitroDeveloper",
         "nickname": "Continue?",
@@ -783,7 +796,7 @@
         "tier": "C"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
@@ -796,7 +809,7 @@
         "tier": "C"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "tag": "KEYCAT",
         "username": "Barcelona",
         "displayName": "Barcelona",
@@ -809,7 +822,7 @@
         "tier": "C"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -822,12 +835,12 @@
         "tier": "A"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "tag": "THB0S",
         "username": "-Mystery-",
         "displayName": "-Mystery-",
         "nickname": "Celebrity",
-        "squad": null,
+        "squad": "Newbies!",
         "races": 25,
         "wpm": 92.9,
         "accuracy": 95.73,
@@ -835,7 +848,7 @@
         "tier": "A"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -848,7 +861,7 @@
         "tier": "B"
       },
       {
-        "rank": 66,
+        "rank": 67,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -861,7 +874,7 @@
         "tier": "A"
       },
       {
-        "rank": 67,
+        "rank": 68,
         "tag": "IMT",
         "username": "NotoriousJuJu",
         "displayName": "NotoriousJuJu",
@@ -874,7 +887,7 @@
         "tier": "A"
       },
       {
-        "rank": 68,
+        "rank": 69,
         "tag": "SVC",
         "username": "alexaaa",
         "displayName": "alexaaa",
@@ -887,7 +900,7 @@
         "tier": "B"
       },
       {
-        "rank": 69,
+        "rank": 70,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -898,19 +911,6 @@
         "accuracy": 87.55,
         "points": 3074,
         "tier": "A"
-      },
-      {
-        "rank": 70,
-        "tag": "THB0S",
-        "username": "FireworkLauncher",
-        "displayName": "FireworkLauncher",
-        "nickname": "マスター・レーサー",
-        "squad": "OG's still racing",
-        "races": 25,
-        "wpm": 70.8,
-        "accuracy": 90.23,
-        "points": 3054,
-        "tier": "B"
       },
       {
         "rank": 71,
@@ -1321,7 +1321,7 @@
         "username": "-2K- Losideon",
         "displayName": "-2K- Losideon",
         "nickname": "I Have Fans!",
-        "squad": null,
+        "squad": "Newbies!",
         "races": 5,
         "wpm": 52.8,
         "accuracy": 93.89,
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793467520091
+    "_syncedAt": 1793469389861
   },
   "1437": {
     "eventId": "1437",
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793467524762
+    "_syncedAt": 1793469393964
   }
 }
