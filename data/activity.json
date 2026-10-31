@@ -27,12 +27,12 @@
     },
     {
       "hour": "2026-10-30 08:00:00",
-      "racer": "LeoRuna",
+      "racer": "UJAADDAH",
       "races": 8
     },
     {
       "hour": "2026-10-30 08:00:00",
-      "racer": "UJAADDAH",
+      "racer": "LeoRuna",
       "races": 8
     },
     {
@@ -254,8 +254,13 @@
       "hour": "2026-10-30 23:00:00",
       "racer": "SKZ FIRAH",
       "races": 1
+    },
+    {
+      "hour": "2026-10-31 03:00:00",
+      "racer": "Joe and Uh",
+      "races": 13
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793416177467
+  "_syncedAt": 1793418543316
 }

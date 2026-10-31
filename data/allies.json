@@ -6,7 +6,7 @@
     "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3071,
+    "profileViews": 3073,
     "leagueTier": 13,
     "racers": [
       {
@@ -364,11 +364,11 @@
         "displayName": "mintzzz",
         "role": "member",
         "joinStamp": 1793410644,
-        "allTimeRaces": 2839,
-        "wpm": 64,
+        "allTimeRaces": 2849,
+        "wpm": 61,
         "highestWPM": 71,
-        "teamRaces": 37,
-        "acc": 96.34,
+        "teamRaces": 48,
+        "acc": 96.35,
         "season": null,
         "status": "active",
         "lastLogin": 1793415072
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 80863,
+        "races": 80874,
         "avgWPM": 55,
-        "avgAcc": 93.52,
+        "avgAcc": 93.53,
         "members": 45
       },
       "daily": {
-        "races": 437,
+        "races": 448,
         "avgWPM": 61,
-        "avgAcc": 93.26,
+        "avgAcc": 93.33,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793416222686
+    "_syncedAt": 1793418590479
   },
   "SVC": {
     "tag": "SVC",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793416242045
+    "_syncedAt": 1793418610377
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793416260804
+    "_syncedAt": 1793418629480
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4825,
+    "profileViews": 4826,
     "leagueTier": 13,
     "racers": [
       {
@@ -1286,14 +1286,14 @@
         "displayName": "ella   ",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 101972,
-        "wpm": 97,
+        "allTimeRaces": 101978,
+        "wpm": 89,
         "highestWPM": 156,
-        "teamRaces": 921,
+        "teamRaces": 926,
         "acc": 96.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1793409215
+        "lastLogin": 1793418167
       },
       {
         "username": "joepellicc_gold",
@@ -1384,14 +1384,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12229,
-        "wpm": 78,
+        "allTimeRaces": 12243,
+        "wpm": 51,
         "highestWPM": 120,
-        "teamRaces": 5268,
+        "teamRaces": 5282,
         "acc": 92.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1793414050
+        "lastLogin": 1793417050
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -1461,7 +1461,7 @@
         "acc": 93.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1793414229
+        "lastLogin": 1793416788
       },
       {
         "username": "pigglepigglepiggle",
@@ -1956,13 +1956,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 128695,
+        "races": 128714,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 1080,
+        "races": 1036,
         "avgWPM": 77,
         "avgAcc": 94.85,
         "members": 48
@@ -1970,6 +1970,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793416429953
+    "_syncedAt": 1793418799279
   }
 }
