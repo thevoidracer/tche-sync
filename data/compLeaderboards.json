@@ -9,10 +9,10 @@
         "displayName": "ella",
         "nickname": "Creepin' it Real",
         "squad": "Officer",
-        "races": 712,
-        "wpm": 87.2,
+        "races": 724,
+        "wpm": 87.1,
         "accuracy": 96,
-        "points": 98138,
+        "points": 99777,
         "tier": "A"
       },
       {
@@ -304,6 +304,19 @@
       {
         "rank": 24,
         "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Boo!",
+        "squad": "Officer",
+        "races": 85,
+        "wpm": 78.8,
+        "accuracy": 93.32,
+        "points": 11055,
+        "tier": "C"
+      },
+      {
+        "rank": 25,
+        "tag": "THB0S",
         "username": "Hot Chocolate",
         "displayName": "Hot Chocolate",
         "nickname": "Solid Gold",
@@ -315,7 +328,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
@@ -328,7 +341,7 @@
         "tier": "C"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "THB0S",
         "username": "-Rocky-",
         "displayName": "-Rocky-",
@@ -339,19 +352,6 @@
         "accuracy": 96.01,
         "points": 10635,
         "tier": "A"
-      },
-      {
-        "rank": 27,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Boo!",
-        "squad": "Officer",
-        "races": 77,
-        "wpm": 82.3,
-        "accuracy": 93.21,
-        "points": 10130,
-        "tier": "C"
       },
       {
         "rank": 28,
@@ -1472,7 +1472,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793418586044
+    "_syncedAt": 1793421008078
   },
   "1437": {
     "eventId": "1437",
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793418590291
+    "_syncedAt": 1793421012193
   }
 }
