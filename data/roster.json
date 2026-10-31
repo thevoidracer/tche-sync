@@ -3,7 +3,7 @@
     "minRaces": 500,
     "minWPM": 50,
     "tierA": 92,
-    "tierB": 81,
+    "tierB": 80,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -118,7 +118,7 @@
       "nickname": "The Caped Crusader",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 80,
       "topWPM": 102,
       "lifetimeRaces": 2723,
@@ -274,7 +274,7 @@
       "nickname": "Master Motorist",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 80,
       "topWPM": 94,
       "lifetimeRaces": 1007,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793420967746
+  "_syncedAt": 1793423394530
 }
