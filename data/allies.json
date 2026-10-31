@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 155,
-        "avgWPM": 59,
-        "avgAcc": 95.05,
+        "races": 142,
+        "avgWPM": 58,
+        "avgAcc": 94.91,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793488630053
+    "_syncedAt": 1793490183994
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793488648843
+    "_syncedAt": 1793490202860
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1236,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793488697815
+    "_syncedAt": 1793490251936
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1281,10 +1281,10 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10611,
-        "wpm": 112,
+        "allTimeRaces": 10628,
+        "wpm": 119,
         "highestWPM": 135,
-        "teamRaces": 1181,
+        "teamRaces": 1200,
         "acc": 98.19,
         "season": null,
         "status": "active",
@@ -1323,11 +1323,11 @@
         "displayName": "-Mystery-",
         "role": "member",
         "joinStamp": 1793406540,
-        "allTimeRaces": 20690,
-        "wpm": 91,
+        "allTimeRaces": 20696,
+        "wpm": 94,
         "highestWPM": 143,
-        "teamRaces": 39,
-        "acc": 96.07,
+        "teamRaces": 46,
+        "acc": 96.12,
         "season": null,
         "status": "active",
         "lastLogin": 1793487910
@@ -1365,14 +1365,14 @@
         "displayName": "FireworkLauncher",
         "role": "member",
         "joinStamp": 1785290295,
-        "allTimeRaces": 7047,
-        "wpm": 71,
+        "allTimeRaces": 7050,
+        "wpm": 68,
         "highestWPM": 90,
-        "teamRaces": 3152,
+        "teamRaces": 3155,
         "acc": 91.39,
         "season": null,
         "status": "active",
-        "lastLogin": 1793466009
+        "lastLogin": 1793489326
       },
       {
         "username": "strive_rip",
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129684,
+        "races": 129713,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 1332,
-        "avgWPM": 77,
-        "avgAcc": 94.84,
+        "races": 1319,
+        "avgWPM": 78,
+        "avgAcc": 94.88,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793488867357
+    "_syncedAt": 1793490421646
   }
 }
