@@ -56,6 +56,19 @@
       },
       {
         "rank": 5,
+        "tag": "THB0S",
+        "username": "trsgray",
+        "displayName": "trsgray",
+        "nickname": "Mystery Man",
+        "squad": null,
+        "races": 198,
+        "wpm": 67.7,
+        "accuracy": 93.9,
+        "points": 24885,
+        "tier": "B"
+      },
+      {
+        "rank": 6,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -68,7 +81,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "SVC",
         "username": "Javier Mendez",
         "displayName": "Javier Mendez",
@@ -78,19 +91,6 @@
         "wpm": 79.6,
         "accuracy": 93.85,
         "points": 22567,
-        "tier": "B"
-      },
-      {
-        "rank": 7,
-        "tag": "THB0S",
-        "username": "trsgray",
-        "displayName": "trsgray",
-        "nickname": "Mystery Man",
-        "squad": null,
-        "races": 157,
-        "wpm": 68.4,
-        "accuracy": 93.72,
-        "points": 19749,
         "tier": "B"
       },
       {
@@ -667,6 +667,19 @@
       },
       {
         "rank": 52,
+        "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Loyal",
+        "races": 57,
+        "wpm": 31.7,
+        "accuracy": 76.24,
+        "points": 5034,
+        "tier": "C"
+      },
+      {
+        "rank": 53,
         "tag": "KEYCAT",
         "username": "HastyBeanAttack",
         "displayName": "HastyBeanAttack",
@@ -679,7 +692,7 @@
         "tier": "B"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -692,7 +705,7 @@
         "tier": "A"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "tag": "THB0S",
         "username": "JoeyAtyper",
         "displayName": "JoeyAtyper",
@@ -705,7 +718,7 @@
         "tier": "B"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "tag": "KEYCAT",
         "username": "Happygoluckygirl07",
         "displayName": "Happygoluckygirl07",
@@ -718,7 +731,7 @@
         "tier": "C"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -731,7 +744,7 @@
         "tier": "B"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -744,7 +757,7 @@
         "tier": "C"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "tag": "THB0S",
         "username": "NL NitroDeveloper",
         "displayName": "NL NitroDeveloper",
@@ -757,7 +770,7 @@
         "tier": "C"
       },
       {
-        "rank": 59,
+        "rank": 60,
         "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
@@ -770,7 +783,7 @@
         "tier": "C"
       },
       {
-        "rank": 60,
+        "rank": 61,
         "tag": "KEYCAT",
         "username": "Barcelona",
         "displayName": "Barcelona",
@@ -783,7 +796,7 @@
         "tier": "C"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -794,19 +807,6 @@
         "accuracy": 94.2,
         "points": 4011,
         "tier": "A"
-      },
-      {
-        "rank": 62,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Loyal",
-        "races": 44,
-        "wpm": 30.9,
-        "accuracy": 76.51,
-        "points": 3887,
-        "tier": "C"
       },
       {
         "rank": 63,
@@ -1485,7 +1485,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793431484222
+    "_syncedAt": 1793434216851
   },
   "1437": {
     "eventId": "1437",
@@ -1972,6 +1972,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793431488411
+    "_syncedAt": 1793434221147
   }
 }
