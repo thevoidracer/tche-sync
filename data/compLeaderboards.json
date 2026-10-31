@@ -394,6 +394,19 @@
       },
       {
         "rank": 31,
+        "tag": "KEYCAT",
+        "username": "Ace_TypingLegend",
+        "displayName": "Ace_TypingLegend",
+        "nickname": "Mystery Man",
+        "squad": "Novice 300!",
+        "races": 72,
+        "wpm": 57.9,
+        "accuracy": 94.93,
+        "points": 8813,
+        "tier": "C"
+      },
+      {
+        "rank": 32,
         "tag": "IMT",
         "username": "GroundedAquaEmu",
         "displayName": "GroundedAquaEmu",
@@ -406,7 +419,7 @@
         "tier": "A"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "THB0S",
         "username": "RAYAN 7",
         "displayName": "RAYAN 7",
@@ -419,7 +432,7 @@
         "tier": "C"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -432,7 +445,20 @@
         "tier": "B"
       },
       {
-        "rank": 34,
+        "rank": 35,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 74,
+        "wpm": 41.9,
+        "accuracy": 91.45,
+        "points": 8186,
+        "tier": "C"
+      },
+      {
+        "rank": 36,
         "tag": "SVC",
         "username": "emmett",
         "displayName": "emmett",
@@ -445,20 +471,7 @@
         "tier": "B"
       },
       {
-        "rank": 35,
-        "tag": "KEYCAT",
-        "username": "Ace_TypingLegend",
-        "displayName": "Ace_TypingLegend",
-        "nickname": "Mystery Man",
-        "squad": "Novice 300!",
-        "races": 63,
-        "wpm": 58.5,
-        "accuracy": 95.19,
-        "points": 7751,
-        "tier": "C"
-      },
-      {
-        "rank": 36,
+        "rank": 37,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -469,19 +482,6 @@
         "accuracy": 95.2,
         "points": 7483,
         "tier": "A"
-      },
-      {
-        "rank": 37,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer",
-        "races": 67,
-        "wpm": 42,
-        "accuracy": 91.37,
-        "points": 7409,
-        "tier": "C"
       },
       {
         "rank": 38,
@@ -1460,19 +1460,6 @@
       },
       {
         "rank": 113,
-        "tag": "KEYCAT",
-        "username": "Emanuel Test Is Tiki",
-        "displayName": "Emanuel Test Is Tiki",
-        "nickname": "Nitro Rich",
-        "squad": null,
-        "races": 0,
-        "wpm": 0,
-        "accuracy": 0,
-        "points": 0,
-        "tier": "C"
-      },
-      {
-        "rank": 114,
         "tag": "THB0S",
         "username": "Samoan",
         "displayName": "Samoan",
@@ -1483,22 +1470,9 @@
         "accuracy": 0,
         "points": 0,
         "tier": "B"
-      },
-      {
-        "rank": 115,
-        "tag": "KEYCAT",
-        "username": "you_gotdusted10m",
-        "displayName": "you_gotdusted10m",
-        "nickname": "Original Gangster",
-        "squad": "Starter!!",
-        "races": 0,
-        "wpm": 0,
-        "accuracy": 0,
-        "points": 0,
-        "tier": "B"
       }
     ],
-    "_syncedAt": 1793447097515
+    "_syncedAt": 1793449007940
   },
   "1437": {
     "eventId": "1437",
@@ -1985,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793447101453
+    "_syncedAt": 1793449011999
   }
 }
