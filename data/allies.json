@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793557430221
+    "_syncedAt": 1793560401516
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793557449090
+    "_syncedAt": 1793560428605
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793557528036
+    "_syncedAt": 1793560507831
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1344,7 +1344,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1793540175
+        "lastLogin": 1793558901
       },
       {
         "username": "joereynolds",
@@ -1617,14 +1617,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3410,
-        "wpm": 94,
+        "allTimeRaces": 3411,
+        "wpm": 95,
         "highestWPM": 112,
-        "teamRaces": 1449,
-        "acc": 94.07,
+        "teamRaces": 1450,
+        "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1793457610
+        "lastLogin": 1793558691
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1764,7 +1764,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793547325
+        "lastLogin": 1793559488
       },
       {
         "username": "taco13001",
@@ -1937,20 +1937,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130047,
+        "races": 130048,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 590,
-        "avgWPM": 78,
-        "avgAcc": 94.74,
+        "races": 543,
+        "avgWPM": 77,
+        "avgAcc": 94.65,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793557697362
+    "_syncedAt": 1793560678235
   }
 }

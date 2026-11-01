@@ -56,6 +56,19 @@
       },
       {
         "rank": 5,
+        "tag": "KEYCAT",
+        "username": "Cats_4_Eva",
+        "displayName": "Cats_4_Eva",
+        "nickname": "I Love Cats",
+        "squad": "KEYCAT Captain ⚞^. .^⚟",
+        "races": 33,
+        "wpm": 79.7,
+        "accuracy": 87.95,
+        "points": 4059,
+        "tier": "A"
+      },
+      {
+        "rank": 6,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -65,19 +78,6 @@
         "wpm": 95.3,
         "accuracy": 93.08,
         "points": 3710,
-        "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "KEYCAT",
-        "username": "Cats_4_Eva",
-        "displayName": "Cats_4_Eva",
-        "nickname": "I Love Cats",
-        "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 30,
-        "wpm": 80.1,
-        "accuracy": 88.17,
-        "points": 3705,
         "tier": "A"
       },
       {
@@ -100,10 +100,10 @@
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
         "squad": "Side Hustler 100",
-        "races": 15,
-        "wpm": 94.6,
-        "accuracy": 86.82,
-        "points": 1918,
+        "races": 16,
+        "wpm": 94.1,
+        "accuracy": 86.69,
+        "points": 2039,
         "tier": "A"
       },
       {
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "Srivanth",
+        "displayName": "Srivanth",
+        "nickname": "Nitro Rich",
+        "squad": "Loyal",
+        "races": 1,
+        "wpm": 102.3,
+        "accuracy": 97.45,
+        "points": 147,
+        "tier": "A"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "O       G",
         "displayName": "O       G",
@@ -159,6 +172,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793557430046
+    "_syncedAt": 1793560401320
   }
 }
