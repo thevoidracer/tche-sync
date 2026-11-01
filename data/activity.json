@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-31 12:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
-    },
-    {
-      "hour": "2026-10-31 12:00:00",
-      "racer": "Void Racer",
-      "races": 1
-    },
-    {
-      "hour": "2026-10-31 13:00:00",
-      "racer": "UJAADDAH",
-      "races": 6
-    },
-    {
       "hour": "2026-10-31 19:00:00",
       "racer": "rorok09",
       "races": 48
@@ -124,8 +109,18 @@
       "hour": "2026-11-01 05:00:00",
       "racer": "asteroids",
       "races": 43
+    },
+    {
+      "hour": "2026-11-01 12:00:00",
+      "racer": "-HyperTyper-",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-01 13:00:00",
+      "racer": "-HyperTyper-",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793535490398
+  "_syncedAt": 1793539108919
 }

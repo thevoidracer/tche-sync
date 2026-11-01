@@ -258,7 +258,7 @@
       "acc": 97.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1793473822
+      "lastLogin": 1793539011
     },
     {
       "username": "kirbydelta",
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 515,
-      "wpm": 96,
+      "allTimeRaces": 521,
+      "wpm": 98,
       "highestWPM": 120,
-      "teamRaces": 272,
-      "acc": 91.56,
+      "teamRaces": 278,
+      "acc": 91.58,
       "season": null,
       "status": "active",
-      "lastLogin": 1793534850
+      "lastLogin": 1793537731
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 63893,
+      "races": 63899,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 528,
+      "races": 525,
       "avgWPM": 87,
-      "avgAcc": 95.24,
+      "avgAcc": 95.27,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793535430377
+  "_syncedAt": 1793539054758
 }

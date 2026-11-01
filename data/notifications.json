@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "comp-live:1463",
+      "type": "comp-live",
+      "text": "Cash comp \"Weekly Cash Comp - Nov 2Recurring comp\" is now live!",
+      "meta": {
+        "eventId": "1463"
+      },
+      "createdAt": 1793539146185
+    },
+    {
       "key": "milestone:75ece50e19f0ca3d92787e4a86138578:10000",
       "type": "milestone",
       "text": "rorok09 crossed 10,000 lifetime races!",
@@ -610,5 +619,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793535528261
+  "_syncedAt": 1793539146185
 }

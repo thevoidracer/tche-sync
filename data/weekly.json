@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 47,
+      "rank": 52,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 43,
@@ -9,7 +9,17 @@
       "wpm": 89.5,
       "points": 5937,
       "ppr": 138
+    },
+    {
+      "rank": 158,
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "races": 6,
+      "accuracy": 91.72,
+      "wpm": 96.9,
+      "points": 817,
+      "ppr": 136
     }
   ],
-  "_syncedAt": 1793535477948
+  "_syncedAt": 1793539096662
 }
