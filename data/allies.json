@@ -348,7 +348,7 @@
       {
         "username": "71f735414500acf2b569f99379a8b399",
         "displayName": "mintzzz",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1793410644,
         "allTimeRaces": 2906,
         "wpm": 64,
@@ -385,7 +385,7 @@
         "acc": 93.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1793494800
+        "lastLogin": 1793533929
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -530,7 +530,7 @@
       {
         "username": "happygoluckygirl07",
         "displayName": "Happygoluckygirl07",
-        "role": "officer",
+        "role": "member",
         "joinStamp": 1785649151,
         "allTimeRaces": 1892,
         "wpm": 38,
@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 129,
+        "races": 120,
         "avgWPM": 59,
-        "avgAcc": 94.99,
+        "avgAcc": 95.1,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793533594536
+    "_syncedAt": 1793535537111
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793533613488
+    "_syncedAt": 1793535556521
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1236,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793533692554
+    "_syncedAt": 1793535635713
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1929,14 +1929,14 @@
         "members": 48
       },
       "daily": {
-        "races": 768,
+        "races": 761,
         "avgWPM": 72,
-        "avgAcc": 94.12,
+        "avgAcc": 94.14,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793533862146
+    "_syncedAt": 1793535805208
   }
 }
