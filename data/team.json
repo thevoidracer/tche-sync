@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2264,
+  "profileViews": 2265,
   "leagueTier": 13,
   "racers": [
     {
@@ -153,14 +153,14 @@
       "displayName": "xX_VICTORY_Xx",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7279,
-      "wpm": 82,
+      "allTimeRaces": 7297,
+      "wpm": 81,
       "highestWPM": 110,
-      "teamRaces": 128,
-      "acc": 97.35,
+      "teamRaces": 191,
+      "acc": 97.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1793505597
+      "lastLogin": 1793508290
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -321,11 +321,11 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3443,
-      "wpm": 94,
+      "allTimeRaces": 3458,
+      "wpm": 87,
       "highestWPM": 112,
-      "teamRaces": 205,
-      "acc": 95.77,
+      "teamRaces": 248,
+      "acc": 95.74,
       "season": null,
       "status": "active",
       "lastLogin": 1793504970
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63787,
+      "races": 63893,
       "avgWPM": 77,
-      "avgAcc": 94.94,
+      "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 446,
+      "races": 552,
       "avgWPM": 87,
-      "avgAcc": 94.99,
+      "avgAcc": 95.28,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793507338932
+  "_syncedAt": 1793510167247
 }

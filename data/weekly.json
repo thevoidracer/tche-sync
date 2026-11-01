@@ -1,4 +1,15 @@
 {
-  "racers": [],
-  "_syncedAt": 1793507435130
+  "racers": [
+    {
+      "rank": 15,
+      "username": "ace1inee",
+      "displayName": "asteroids",
+      "races": 43,
+      "accuracy": 95.39,
+      "wpm": 89.5,
+      "points": 5937,
+      "ppr": 138
+    }
+  ],
+  "_syncedAt": 1793510217323
 }

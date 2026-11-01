@@ -119,8 +119,18 @@
       "hour": "2026-11-01 03:00:00",
       "racer": "asteroids",
       "races": 2
+    },
+    {
+      "hour": "2026-11-01 05:00:00",
+      "racer": "xX_VICTORY_Xx",
+      "races": 63
+    },
+    {
+      "hour": "2026-11-01 05:00:00",
+      "racer": "asteroids",
+      "races": 43
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793507447027
+  "_syncedAt": 1793510229546
 }
