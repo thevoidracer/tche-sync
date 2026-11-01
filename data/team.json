@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨47.3M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2282,
+  "profileViews": 2284,
   "leagueTier": 13,
   "racers": [
     {
@@ -468,7 +468,7 @@
       "acc": 92.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793546995
+      "lastLogin": 1793555134
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -657,11 +657,11 @@
       "displayName": "Itypeforfun",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1702,
-      "wpm": 86,
+      "allTimeRaces": 1707,
+      "wpm": 84,
       "highestWPM": 140,
-      "teamRaces": 26,
-      "acc": 94.73,
+      "teamRaces": 35,
+      "acc": 94.74,
       "season": null,
       "status": "active",
       "lastLogin": 1793550469
@@ -671,10 +671,10 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 571,
+      "allTimeRaces": 572,
       "wpm": 96,
       "highestWPM": 120,
-      "teamRaces": 328,
+      "teamRaces": 329,
       "acc": 91.5,
       "season": null,
       "status": "active",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64111,
+      "races": 64121,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 737,
+      "races": 747,
       "avgWPM": 88,
       "avgAcc": 94.75,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793553856964
+  "_syncedAt": 1793555695282
 }
