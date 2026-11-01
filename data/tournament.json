@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793547871416
+        "_syncedAt": 1793549820451
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2712,7 +2712,7 @@
           ]
         },
         {
-          "label": "Elite 8 ($300,000) ✓",
+          "label": "Elite 8 ($500,000) ✓",
           "prize": null,
           "matches": [
             {
@@ -2806,7 +2806,7 @@
           ]
         },
         {
-          "label": "Final 4 ($1,200,000) *",
+          "label": "Final 4 ($2,000,000) *",
           "prize": null,
           "matches": [
             {
@@ -2840,7 +2840,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": null
+                  "score": 5069
                 },
                 {
                   "seed": "3",
@@ -2857,7 +2857,7 @@
         },
         {
           "label": "Championship",
-          "prize": 3000000,
+          "prize": 4000000,
           "matches": [
             {
               "id": "Match 2331",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793547887479
+        "_syncedAt": 1793549837232
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793547887482
+  "_syncedAt": 1793549837234
 }
