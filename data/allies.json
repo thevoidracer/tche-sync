@@ -350,14 +350,14 @@
         "displayName": "mintzzz",
         "role": "member",
         "joinStamp": 1793410644,
-        "allTimeRaces": 2899,
+        "allTimeRaces": 2901,
         "wpm": 63,
         "highestWPM": 72,
         "teamRaces": 98,
         "acc": 96.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1793518676
+        "lastLogin": 1793521879
       },
       {
         "username": "vertur",
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793519451064
+    "_syncedAt": 1793522031026
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793519500478
+    "_syncedAt": 1793522079817
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1236,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793519579800
+    "_syncedAt": 1793522158636
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1855,11 +1855,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9467,
-        "wpm": 41,
+        "allTimeRaces": 9504,
+        "wpm": 45,
         "highestWPM": 75,
-        "teamRaces": 2036,
-        "acc": 86.37,
+        "teamRaces": 2061,
+        "acc": 86.43,
         "season": null,
         "status": "active",
         "lastLogin": 1793519109
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129810,
+        "races": 129835,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 48
       },
       "daily": {
-        "races": 839,
+        "races": 817,
         "avgWPM": 72,
-        "avgAcc": 94.33,
+        "avgAcc": 94.26,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793519749750
+    "_syncedAt": 1793522327756
   }
 }
