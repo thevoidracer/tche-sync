@@ -160,6 +160,19 @@
       },
       {
         "rank": 13,
+        "tag": "THB0S",
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Night Patrol",
+        "squad": "Newbies!",
+        "races": 148,
+        "wpm": 48,
+        "accuracy": 93.31,
+        "points": 17122,
+        "tier": "C"
+      },
+      {
+        "rank": 14,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -172,7 +185,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -182,19 +195,6 @@
         "wpm": 41.6,
         "accuracy": 91.47,
         "points": 16463,
-        "tier": "C"
-      },
-      {
-        "rank": 15,
-        "tag": "THB0S",
-        "username": "Mwhit4",
-        "displayName": "Mwhit4",
-        "nickname": "Night Patrol",
-        "squad": "Newbies!",
-        "races": 140,
-        "wpm": 47.9,
-        "accuracy": 93.4,
-        "points": 16209,
         "tier": "C"
       },
       {
@@ -282,10 +282,10 @@
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 103,
-        "wpm": 94.2,
-        "accuracy": 92.68,
-        "points": 14039,
+        "races": 104,
+        "wpm": 93.9,
+        "accuracy": 92.69,
+        "points": 14167,
         "tier": "B"
       },
       {
@@ -1485,7 +1485,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793498826424
+    "_syncedAt": 1793501681332
   },
   "1437": {
     "eventId": "1437",
@@ -1536,10 +1536,10 @@
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 228,
-        "wpm": 93.2,
-        "accuracy": 92.68,
-        "points": 30984,
+        "races": 229,
+        "wpm": 93.1,
+        "accuracy": 92.69,
+        "points": 31112,
         "tier": "$750,000"
       },
       {
@@ -1972,6 +1972,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793498830798
+    "_syncedAt": 1793501685579
   }
 }

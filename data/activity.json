@@ -104,8 +104,13 @@
       "hour": "2026-11-01 00:00:00",
       "racer": "asteroids",
       "races": 2
+    },
+    {
+      "hour": "2026-11-01 02:00:00",
+      "racer": "Void Racer",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793498785956
+  "_syncedAt": 1793501639302
 }
