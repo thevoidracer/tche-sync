@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793573932474
+    "_syncedAt": 1793575555026
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793573951242
+    "_syncedAt": 1793575573822
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1222,7 +1222,7 @@
         "acc": 98.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1793543914
+        "lastLogin": 1793574438
       },
       {
         "username": "the_only_winner123",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793574030305
+    "_syncedAt": 1793575652893
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1259,7 +1259,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4879,
+    "profileViews": 4881,
     "leagueTier": 13,
     "racers": [
       {
@@ -1274,7 +1274,7 @@
         "acc": 96.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1793568658
+        "lastLogin": 1793575107
       },
       {
         "username": "joepellicc_gold",
@@ -1295,11 +1295,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10657,
-        "wpm": 116,
+        "allTimeRaces": 10678,
+        "wpm": 114,
         "highestWPM": 135,
-        "teamRaces": 1224,
-        "acc": 98.18,
+        "teamRaces": 1250,
+        "acc": 98.17,
         "season": null,
         "status": "active",
         "lastLogin": 1793570087
@@ -1330,7 +1330,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1793574155
+        "lastLogin": 1793575722
       },
       {
         "username": "joereynolds",
@@ -1575,10 +1575,10 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8493,
-        "wpm": 50,
+        "allTimeRaces": 8494,
+        "wpm": 51,
         "highestWPM": 84,
-        "teamRaces": 561,
+        "teamRaces": 562,
         "acc": 94.06,
         "season": null,
         "status": "active",
@@ -1750,7 +1750,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793571157
+        "lastLogin": 1793574634
       },
       {
         "username": "taco13001",
@@ -1897,11 +1897,11 @@
         "displayName": "NL NitroDeveloper",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3181,
-        "wpm": 53,
+        "allTimeRaces": 3183,
+        "wpm": 52,
         "highestWPM": 74,
-        "teamRaces": 982,
-        "acc": 93.96,
+        "teamRaces": 985,
+        "acc": 93.95,
         "season": null,
         "status": "active",
         "lastLogin": 1793573969
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130141,
+        "races": 130171,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 47
       },
       "daily": {
-        "races": 488,
-        "avgWPM": 76,
-        "avgAcc": 94.82,
+        "races": 466,
+        "avgWPM": 75,
+        "avgAcc": 94.64,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793574199896
+    "_syncedAt": 1793575822408
   }
 }
