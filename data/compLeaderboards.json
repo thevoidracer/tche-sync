@@ -100,10 +100,10 @@
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
         "squad": "Side Hustler 100",
-        "races": 16,
-        "wpm": 94.1,
-        "accuracy": 86.69,
-        "points": 2039,
+        "races": 17,
+        "wpm": 93.4,
+        "accuracy": 86.89,
+        "points": 2167,
         "tier": "A"
       },
       {
@@ -126,27 +126,40 @@
         "displayName": "Mwhit4",
         "nickname": "Night Patrol",
         "squad": "Newbies!",
-        "races": 5,
-        "wpm": 51.1,
-        "accuracy": 94.29,
-        "points": 592,
+        "races": 6,
+        "wpm": 51.3,
+        "accuracy": 94.31,
+        "points": 711,
         "tier": "C"
       },
       {
         "rank": 11,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 6,
+        "wpm": 45.6,
+        "accuracy": 91.23,
+        "points": 672,
+        "tier": "C"
+      },
+      {
+        "rank": 12,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
         "squad": "Side Hustler 100",
-        "races": 2,
-        "wpm": 73.1,
-        "accuracy": 88.15,
-        "points": 241,
+        "races": 3,
+        "wpm": 74.9,
+        "accuracy": 88.3,
+        "points": 364,
         "tier": "C"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "O       G",
         "displayName": "O       G",
@@ -172,6 +185,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793560401320
+    "_syncedAt": 1793562301346
   }
 }

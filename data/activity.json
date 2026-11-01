@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-31 19:00:00",
       "racer": "rorok09",
-      "races": 48
+      "races": 25
     },
     {
       "hour": "2026-10-31 20:00:00",
@@ -224,8 +224,18 @@
       "hour": "2026-11-01 18:00:00",
       "racer": "UJAADDAH",
       "races": 1
+    },
+    {
+      "hour": "2026-11-01 19:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-01 19:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793560358039
+  "_syncedAt": 1793562261391
 }
