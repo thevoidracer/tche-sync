@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 25,
+      "rank": 19,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 257,
-      "accuracy": 96.88,
-      "wpm": 89.7,
-      "points": 36070,
+      "races": 289,
+      "accuracy": 96.85,
+      "wpm": 89.5,
+      "points": 40515,
       "ppr": 140
     },
     {
-      "rank": 100,
+      "rank": 102,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -21,7 +21,17 @@
       "ppr": 129
     },
     {
-      "rank": 203,
+      "rank": 189,
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "races": 51,
+      "accuracy": 90.64,
+      "wpm": 98.8,
+      "points": 6905,
+      "ppr": 135
+    },
+    {
+      "rank": 202,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 47,
@@ -31,17 +41,7 @@
       "ppr": 138
     },
     {
-      "rank": 206,
-      "username": "newkeyboard512",
-      "displayName": "-HyperTyper-",
-      "races": 47,
-      "accuracy": 90.61,
-      "wpm": 98.2,
-      "points": 6349,
-      "ppr": 135
-    },
-    {
-      "rank": 350,
+      "rank": 346,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 21,
@@ -51,14 +51,14 @@
       "ppr": 136
     },
     {
-      "rank": 424,
+      "rank": 376,
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
-      "races": 14,
-      "accuracy": 89.43,
-      "wpm": 93.3,
-      "points": 1836,
-      "ppr": 131
+      "races": 18,
+      "accuracy": 89.1,
+      "wpm": 92.5,
+      "points": 2346,
+      "ppr": 130
     },
     {
       "rank": 440,
@@ -71,7 +71,7 @@
       "ppr": 126
     },
     {
-      "rank": 562,
+      "rank": 564,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 2,
@@ -81,7 +81,7 @@
       "ppr": 128
     },
     {
-      "rank": 564,
+      "rank": 566,
       "username": "3a0b3a8cc922fae587432ade7a6160f7",
       "displayName": "BlazingFlowerz",
       "races": 2,
@@ -91,5 +91,5 @@
       "ppr": 116
     }
   ],
-  "_syncedAt": 1793541923379
+  "_syncedAt": 1793544182760
 }

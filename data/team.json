@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨32.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2269,
+  "profileViews": 2270,
   "leagueTier": 13,
   "racers": [
     {
@@ -251,10 +251,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 10221,
-      "wpm": 86,
-      "highestWPM": 111,
-      "teamRaces": 9405,
+      "allTimeRaces": 10236,
+      "wpm": 89,
+      "highestWPM": 118,
+      "teamRaces": 9426,
       "acc": 97.08,
       "season": null,
       "status": "active",
@@ -447,11 +447,11 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1692,
+      "allTimeRaces": 1695,
       "wpm": 93,
       "highestWPM": 122,
-      "teamRaces": 159,
-      "acc": 91.07,
+      "teamRaces": 162,
+      "acc": 91.02,
       "season": null,
       "status": "active",
       "lastLogin": 1793541109
@@ -496,7 +496,7 @@
       "acc": 92.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793496916
+      "lastLogin": 1793543699
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -559,14 +559,14 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 771,
-      "wpm": 76,
+      "allTimeRaces": 773,
+      "wpm": 75,
       "highestWPM": 98,
       "teamRaces": 119,
       "acc": 91.6,
       "season": null,
       "status": "active",
-      "lastLogin": 1793489890
+      "lastLogin": 1793543644
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 526,
-      "wpm": 96,
+      "allTimeRaces": 532,
+      "wpm": 100,
       "highestWPM": 120,
-      "teamRaces": 283,
-      "acc": 91.59,
+      "teamRaces": 289,
+      "acc": 91.58,
       "season": null,
       "status": "active",
-      "lastLogin": 1793537731
+      "lastLogin": 1793543960
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 63952,
+      "races": 63982,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 578,
+      "races": 608,
       "avgWPM": 87,
-      "avgAcc": 95.36,
+      "avgAcc": 95.33,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793541871611
+  "_syncedAt": 1793544130519
 }
