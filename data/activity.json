@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-31 10:00:00",
-      "racer": "asteroids",
-      "races": 24
-    },
-    {
       "hour": "2026-10-31 12:00:00",
       "racer": "UJAADDAH",
       "races": 2
@@ -132,5 +127,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793527591245
+  "_syncedAt": 1793529889097
 }
