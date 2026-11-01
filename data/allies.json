@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793513226748
+    "_syncedAt": 1793516418091
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793513276033
+    "_syncedAt": 1793516468056
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1236,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793513355226
+    "_syncedAt": 1793516547344
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1253,11 +1253,11 @@
         "displayName": "ella   ",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102104,
-        "wpm": 91,
+        "allTimeRaces": 102106,
+        "wpm": 88,
         "highestWPM": 156,
-        "teamRaces": 1050,
-        "acc": 96.13,
+        "teamRaces": 1055,
+        "acc": 96.12,
         "season": null,
         "status": "active",
         "lastLogin": 1793511554
@@ -1862,7 +1862,7 @@
         "acc": 86.36,
         "season": null,
         "status": "active",
-        "lastLogin": 1793452443
+        "lastLogin": 1793515599
       },
       {
         "username": "legendsince2026",
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129804,
+        "races": 129809,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 48
       },
       "daily": {
-        "races": 926,
-        "avgWPM": 71,
-        "avgAcc": 94.28,
+        "races": 882,
+        "avgWPM": 72,
+        "avgAcc": 94.26,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793513525119
+    "_syncedAt": 1793516717215
   }
 }
