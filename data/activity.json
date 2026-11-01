@@ -72,12 +72,12 @@
     },
     {
       "hour": "2026-11-01 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "asteroids",
       "races": 2
     },
     {
       "hour": "2026-11-01 00:00:00",
-      "racer": "asteroids",
+      "racer": "SKZ FIRAH",
       "races": 2
     },
     {
@@ -137,7 +137,17 @@
     },
     {
       "hour": "2026-11-01 14:00:00",
+      "racer": "Void Racer",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-01 14:00:00",
       "racer": "-HyperTyper-",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-01 14:00:00",
+      "racer": "SKZ FIRAH",
       "races": 4
     },
     {
@@ -147,5 +157,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793544186433
+  "_syncedAt": 1793546110475
 }

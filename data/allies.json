@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 43,
+    "members": 44,
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -266,11 +266,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1255,
-        "wpm": 61,
+        "allTimeRaces": 1270,
+        "wpm": 59,
         "highestWPM": 75,
-        "teamRaces": 442,
-        "acc": 94.53,
+        "teamRaces": 457,
+        "acc": 94.52,
         "season": null,
         "status": "active",
         "lastLogin": 1793542768
@@ -610,25 +610,39 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793537771
+      },
+      {
+        "username": "8ef43643c37171193a65d74e3e18efb6",
+        "displayName": "BalancedCyanStoat",
+        "role": "member",
+        "joinStamp": 1793545632,
+        "allTimeRaces": 13,
+        "wpm": 64,
+        "highestWPM": 89,
+        "teamRaces": 3,
+        "acc": 95.23,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1793545333
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 81024,
+        "races": 81042,
         "avgWPM": 55,
         "avgAcc": 93.53,
-        "members": 43
+        "members": 44
       },
       "daily": {
-        "races": 115,
+        "races": 133,
         "avgWPM": 60,
-        "avgAcc": 95.14,
-        "members": 43
+        "avgAcc": 95.04,
+        "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793544233737
+    "_syncedAt": 1793546154537
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793544252831
+    "_syncedAt": 1793546173267
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793544332105
+    "_syncedAt": 1793546252286
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1575,11 +1589,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8451,
+        "allTimeRaces": 8454,
         "wpm": 48,
         "highestWPM": 84,
-        "teamRaces": 519,
-        "acc": 94.15,
+        "teamRaces": 522,
+        "acc": 94.14,
         "season": null,
         "status": "active",
         "lastLogin": 1793542208
@@ -1923,20 +1937,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 129896,
+        "races": 129899,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 644,
-        "avgWPM": 77,
-        "avgAcc": 95.15,
+        "races": 626,
+        "avgWPM": 78,
+        "avgAcc": 95.19,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793544502053
+    "_syncedAt": 1793546421754
   }
 }
