@@ -1,29 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-10-31 21:00:00",
-      "racer": "rorok09",
+      "hour": "2026-10-31 22:00:00",
+      "racer": "KirbyDelta",
       "races": 13
-    },
-    {
-      "hour": "2026-10-31 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 8
-    },
-    {
-      "hour": "2026-10-31 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 37
-    },
-    {
-      "hour": "2026-10-31 22:00:00",
-      "racer": "rorok09",
-      "races": 9
     },
     {
       "hour": "2026-10-31 22:00:00",
       "racer": "Void Racer",
-      "races": 7
+      "races": 3
     },
     {
       "hour": "2026-10-31 23:00:00",
@@ -219,8 +204,13 @@
       "hour": "2026-11-01 21:00:00",
       "racer": "KirbyDelta",
       "races": 45
+    },
+    {
+      "hour": "2026-11-01 22:00:00",
+      "racer": "KirbyDelta",
+      "races": 13
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793570258925
+  "_syncedAt": 1793571889061
 }

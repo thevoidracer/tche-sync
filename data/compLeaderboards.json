@@ -22,10 +22,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 50,
-        "wpm": 77.4,
-        "accuracy": 94.43,
-        "points": 6548,
+        "races": 78,
+        "wpm": 77.2,
+        "accuracy": 93.91,
+        "points": 10152,
         "tier": "C"
       },
       {
@@ -186,6 +186,32 @@
       },
       {
         "rank": 15,
+        "tag": "THB0S",
+        "username": "JCKrayzie",
+        "displayName": "JCKrayzie",
+        "nickname": "Autumn Ace",
+        "squad": "Active!",
+        "races": 4,
+        "wpm": 108,
+        "accuracy": 97.47,
+        "points": 600,
+        "tier": "A"
+      },
+      {
+        "rank": 16,
+        "tag": "THB0S",
+        "username": "ella",
+        "displayName": "ella",
+        "nickname": "Velocity Wrapper",
+        "squad": "Officer",
+        "races": 4,
+        "wpm": 84.6,
+        "accuracy": 95.69,
+        "points": 545,
+        "tier": "A"
+      },
+      {
+        "rank": 17,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -198,7 +224,33 @@
         "tier": "C"
       },
       {
-        "rank": 16,
+        "rank": 18,
+        "tag": "KEYCAT",
+        "username": "weak kingsley",
+        "displayName": "weak kingsley",
+        "nickname": "Speed Demon",
+        "squad": "Starter!!",
+        "races": 3,
+        "wpm": 46.6,
+        "accuracy": 87.89,
+        "points": 325,
+        "tier": "C"
+      },
+      {
+        "rank": 19,
+        "tag": "THB0S",
+        "username": "zynx_tb",
+        "displayName": "zynx_tb",
+        "nickname": "Where's the remote?",
+        "squad": "OG's still racing",
+        "races": 2,
+        "wpm": 55.4,
+        "accuracy": 92.78,
+        "points": 237,
+        "tier": "B"
+      },
+      {
+        "rank": 20,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -211,20 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 17,
-        "tag": "THB0S",
-        "username": "ella",
-        "displayName": "ella",
-        "nickname": "Velocity Wrapper",
-        "squad": "Officer",
-        "races": 1,
-        "wpm": 88.8,
-        "accuracy": 94.05,
-        "points": 136,
-        "tier": "A"
-      },
-      {
-        "rank": 18,
+        "rank": 21,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -237,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 22,
         "tag": "IMT",
         "username": "O       G",
         "displayName": "O       G",
@@ -250,13 +289,26 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793570299207
+    "_syncedAt": 1793571929498
   },
   "1463": {
     "eventId": "1463",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Quicker Than the Fox",
+        "squad": "Investor 1k",
+        "races": 78,
+        "wpm": 77.2,
+        "accuracy": 93.91,
+        "points": 10152,
+        "tier": null
+      },
+      {
+        "rank": 2,
         "tag": "IMT",
         "username": "rorok09",
         "displayName": "rorok09",
@@ -269,7 +321,7 @@
         "tier": null
       },
       {
-        "rank": 2,
+        "rank": 3,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -279,19 +331,6 @@
         "wpm": 98,
         "accuracy": 90.67,
         "points": 8645,
-        "tier": null
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Quicker Than the Fox",
-        "squad": "Investor 1k",
-        "races": 50,
-        "wpm": 77.4,
-        "accuracy": 94.43,
-        "points": 6548,
         "tier": null
       },
       {
@@ -373,6 +412,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793570303009
+    "_syncedAt": 1793571934142
   }
 }

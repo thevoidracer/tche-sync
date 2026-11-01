@@ -322,14 +322,14 @@
         "displayName": "weak kingsley",
         "role": "member",
         "joinStamp": 1792163292,
-        "allTimeRaces": 1087,
-        "wpm": 54,
+        "allTimeRaces": 1090,
+        "wpm": 51,
         "highestWPM": 102,
-        "teamRaces": 85,
-        "acc": 91.67,
+        "teamRaces": 88,
+        "acc": 91.59,
         "season": null,
         "status": "active",
-        "lastLogin": 1793372338
+        "lastLogin": 1793570583
       },
       {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81134,
+        "races": 81137,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 44
       },
       "daily": {
-        "races": 210,
+        "races": 205,
         "avgWPM": 65,
-        "avgAcc": 93.17,
+        "avgAcc": 93.09,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793570303184
+    "_syncedAt": 1793571934298
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793570321942
+    "_syncedAt": 1793571964556
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793570401772
+    "_syncedAt": 1793572043429
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1259,7 +1259,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4875,
+    "profileViews": 4879,
     "leagueTier": 13,
     "racers": [
       {
@@ -1295,10 +1295,10 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10630,
-        "wpm": 116,
+        "allTimeRaces": 10633,
+        "wpm": 111,
         "highestWPM": 135,
-        "teamRaces": 1200,
+        "teamRaces": 1205,
         "acc": 98.19,
         "season": null,
         "status": "active",
@@ -1750,7 +1750,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793559488
+        "lastLogin": 1793571157
       },
       {
         "username": "taco13001",
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130110,
+        "races": 130115,
         "avgWPM": 68,
-        "avgAcc": 94.03,
+        "avgAcc": 94.04,
         "members": 47
       },
       "daily": {
-        "races": 477,
-        "avgWPM": 76,
-        "avgAcc": 94.81,
+        "races": 478,
+        "avgWPM": 77,
+        "avgAcc": 94.84,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793570571458
+    "_syncedAt": 1793572212810
   }
 }
