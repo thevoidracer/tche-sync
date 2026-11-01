@@ -634,15 +634,15 @@
         "members": 44
       },
       "daily": {
-        "races": 222,
+        "races": 210,
         "avgWPM": 65,
-        "avgAcc": 93.19,
+        "avgAcc": 93.17,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793567848299
+    "_syncedAt": 1793570303184
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793567867141
+    "_syncedAt": 1793570321942
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793567946176
+    "_syncedAt": 1793570401772
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1267,14 +1267,14 @@
         "displayName": "ella   ",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102106,
-        "wpm": 88,
+        "allTimeRaces": 102110,
+        "wpm": 86,
         "highestWPM": 156,
-        "teamRaces": 1055,
+        "teamRaces": 1059,
         "acc": 96.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1793565180
+        "lastLogin": 1793568658
       },
       {
         "username": "joepellicc_gold",
@@ -1295,14 +1295,14 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10628,
-        "wpm": 119,
+        "allTimeRaces": 10630,
+        "wpm": 116,
         "highestWPM": 135,
         "teamRaces": 1200,
         "acc": 98.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793546785
+        "lastLogin": 1793570087
       },
       {
         "username": "mcculpar",
@@ -1799,14 +1799,14 @@
         "displayName": "zynx_tb",
         "role": "member",
         "joinStamp": 1792445790,
-        "allTimeRaces": 692,
-        "wpm": 63,
+        "allTimeRaces": 694,
+        "wpm": 60,
         "highestWPM": 79,
-        "teamRaces": 368,
+        "teamRaces": 370,
         "acc": 92.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1793324042
+        "lastLogin": 1793569989
       },
       {
         "username": "the1stpsycho",
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130104,
+        "races": 130110,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 47
       },
       "daily": {
-        "races": 511,
-        "avgWPM": 77,
-        "avgAcc": 94.88,
+        "races": 477,
+        "avgWPM": 76,
+        "avgAcc": 94.81,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793568115407
+    "_syncedAt": 1793570571458
   }
 }

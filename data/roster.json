@@ -353,10 +353,10 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 79,
       "topWPM": 102,
-      "lifetimeRaces": 7123,
-      "teamRaces": 1090,
+      "lifetimeRaces": 7150,
+      "teamRaces": 1125,
       "joined": "10/15/26"
     },
     {
@@ -611,7 +611,7 @@
       "displayName": "Itypeforfun",
       "nickname": "Hallowampus Fanclub",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "B",
       "avgWPM": 83,
       "topWPM": 140,
@@ -624,7 +624,7 @@
       "displayName": "O       G",
       "nickname": "RIP",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 64,
       "topWPM": 143,
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793567802392
+  "_syncedAt": 1793570258923
 }
