@@ -9,10 +9,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 90,
-        "wpm": 94.1,
-        "accuracy": 94.28,
-        "points": 12477,
+        "races": 120,
+        "wpm": 93.9,
+        "accuracy": 94.11,
+        "points": 16596,
         "tier": "A"
       },
       {
@@ -57,6 +57,32 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "Itypeforfun",
+        "displayName": "Itypeforfun",
+        "nickname": "Hallowampus Fanclub",
+        "squad": null,
+        "races": 26,
+        "wpm": 84.1,
+        "accuracy": 94.44,
+        "points": 3488,
+        "tier": "B"
+      },
+      {
+        "rank": 6,
+        "tag": "THB0S",
+        "username": "BRADYDARACER",
+        "displayName": "BRADYDARACER",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Officer",
+        "races": 23,
+        "wpm": 96.1,
+        "accuracy": 95.19,
+        "points": 3241,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
@@ -68,7 +94,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "tag": "KEYCAT",
         "username": "BalancedCyanStoat",
         "displayName": "BalancedCyanStoat",
@@ -78,32 +104,6 @@
         "wpm": 61.8,
         "accuracy": 94.48,
         "points": 1855,
-        "tier": "B"
-      },
-      {
-        "rank": 7,
-        "tag": "THB0S",
-        "username": "BRADYDARACER",
-        "displayName": "BRADYDARACER",
-        "nickname": "TOUGE「峠」VIPER",
-        "squad": "Officer",
-        "races": 10,
-        "wpm": 96.3,
-        "accuracy": 95.08,
-        "points": 1409,
-        "tier": "A"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "Itypeforfun",
-        "displayName": "Itypeforfun",
-        "nickname": "Hallowampus Fanclub",
-        "squad": null,
-        "races": 9,
-        "wpm": 84,
-        "accuracy": 94.07,
-        "points": 1202,
         "tier": "B"
       },
       {
@@ -133,6 +133,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793552413140
+    "_syncedAt": 1793553950683
   }
 }
