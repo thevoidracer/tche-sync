@@ -426,7 +426,7 @@
       "acc": 90.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1793558979
+      "lastLogin": 1793563643
     },
     {
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
@@ -468,7 +468,7 @@
       "acc": 92.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793555134
+      "lastLogin": 1793563796
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -657,14 +657,14 @@
       "displayName": "Itypeforfun",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1707,
-      "wpm": 84,
+      "allTimeRaces": 1710,
+      "wpm": 83,
       "highestWPM": 140,
-      "teamRaces": 35,
-      "acc": 94.74,
+      "teamRaces": 38,
+      "acc": 94.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1793550469
+      "lastLogin": 1793563541
     },
     {
       "username": "newkeyboard512",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64135,
+      "races": 64138,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 738,
+      "races": 703,
       "avgWPM": 88,
-      "avgAcc": 94.63,
+      "avgAcc": 94.49,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793562207897
+  "_syncedAt": 1793563976603
 }
