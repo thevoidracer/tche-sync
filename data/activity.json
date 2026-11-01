@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-10-31 03:00:00",
-      "racer": "Joe and Uh",
-      "races": 1
-    },
-    {
       "hour": "2026-10-31 10:00:00",
       "racer": "asteroids",
       "races": 24
@@ -119,8 +114,13 @@
       "hour": "2026-11-01 03:00:00",
       "racer": "UJAADDAH",
       "races": 13
+    },
+    {
+      "hour": "2026-11-01 03:00:00",
+      "racer": "asteroids",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793504202675
+  "_syncedAt": 1793507447027
 }
