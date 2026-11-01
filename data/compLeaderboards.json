@@ -4,19 +4,45 @@
     "racers": [
       {
         "rank": 1,
+        "tag": "KEYCAT",
+        "username": "Ace_TypingLegend",
+        "displayName": "Ace_TypingLegend",
+        "nickname": "Mystery Man",
+        "squad": "Novice 300!",
+        "races": 28,
+        "wpm": 59.1,
+        "accuracy": 93.61,
+        "points": 3395,
+        "tier": "C"
+      },
+      {
+        "rank": 2,
+        "tag": "KEYCAT",
+        "username": "BalancedCyanStoat",
+        "displayName": "BalancedCyanStoat",
+        "nickname": "Millionaire",
+        "squad": null,
+        "races": 15,
+        "wpm": 61.8,
+        "accuracy": 94.48,
+        "points": 1855,
+        "tier": "B"
+      },
+      {
+        "rank": 3,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
         "nickname": "Crazy About Typing",
         "squad": "Side Hustler 100",
-        "races": 7,
-        "wpm": 93.5,
-        "accuracy": 89.23,
-        "points": 917,
+        "races": 8,
+        "wpm": 95.3,
+        "accuracy": 89.28,
+        "points": 1054,
         "tier": "A"
       },
       {
-        "rank": 2,
+        "rank": 4,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -27,79 +53,34 @@
         "accuracy": 94.69,
         "points": 685,
         "tier": "A"
-      }
-    ],
-    "_syncedAt": 1793546150443
-  },
-  "1463": {
-    "eventId": "1463",
-    "racers": [
-      {
-        "rank": 1,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 68,
-        "wpm": 87.8,
-        "accuracy": 96.75,
-        "points": 9467,
-        "tier": null
       },
       {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 26,
-        "wpm": 96.9,
-        "accuracy": 89.93,
-        "points": 3472,
-        "tier": null
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "Void Racer",
-        "displayName": "Void Racer",
-        "nickname": "Nitro Rich",
-        "squad": "Dominator 2.5k",
-        "races": 21,
-        "wpm": 93.8,
-        "accuracy": 94.15,
-        "points": 2904,
-        "tier": null
-      },
-      {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
         "nickname": "Endurance Racer",
         "squad": "Side Hustler 100",
         "races": 4,
-        "wpm": 89.9,
-        "accuracy": 88.01,
-        "points": 510,
-        "tier": null
+        "wpm": 97.1,
+        "accuracy": 90.67,
+        "points": 539,
+        "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
         "squad": "Side Hustler 100",
-        "races": 4,
-        "wpm": 76,
-        "accuracy": 91.31,
-        "points": 504,
-        "tier": null
+        "races": 2,
+        "wpm": 73.1,
+        "accuracy": 88.15,
+        "points": 241,
+        "tier": "C"
       }
     ],
-    "_syncedAt": 1793546154404
+    "_syncedAt": 1793547891258
   }
 }

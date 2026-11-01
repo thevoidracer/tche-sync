@@ -92,9 +92,17 @@
       "id": "1483",
       "status": "Pending",
       "title": "Turbo Tuesday - Nov 3Recurring comp",
-      "desc": "Get ready to turn your laps into instant cash with our weekly Turbo Tuesday event! For every 20 races you complete, you will automatically earn 100,000 NTC with a limit of a staggering 2 million NTC. Just log your races, hit your milestones, and claim your rewards at the end of the day—so fire up your engines, hit the track, and go get that money!",
+      "desc": "Get ready to turn your laps into instant cash with our weekly Turbo Tuesday event! For every 10 races you complete after the first 40, you will automatically earn 100,000 NTC with a limit of a staggering 5 million NTC. Just log your races, hit your milestones, and claim your rewards at the end of the day—so fire up your engines, hit the track, and go get that money!",
       "start": "11/03/2026, 05:00 AM",
       "end": "11/04/2026, 05:00 AM"
+    },
+    {
+      "id": "1463",
+      "status": "Pending",
+      "title": "Weekly Cash Comp - Nov 2Recurring comp",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool where the 1st place champion takes home 2 million NTC, the 2nd place winner secures 1.5 million NTC, the 3rd place podium finisher earns 1 million NTC, the 4th places winner takes home 750 thousand NTC, the 5th place finisher gets 500k NTC, and the 6th place winner takes home 100k NTC. Plus, if you don't make the top five, you can still grind your way to a reward by completing 120 races or more to automatically earn 100,000 NTC! Total NTC given out: 6 mil+ NTC",
+      "start": "11/02/2026, 01:00 PM",
+      "end": "11/08/2026, 01:00 PM"
     },
     {
       "id": "1346",
@@ -103,14 +111,6 @@
       "desc": "This event is part of a tournament. Final 4 for IMT Ally Celebration Tournament\n\nJoin for a chance to win up to 10M NTC!!! Captains pay their own team members if they want to.",
       "start": "11/01/2026, 03:00 PM",
       "end": "11/05/2026, 02:45 PM"
-    },
-    {
-      "id": "1463",
-      "status": "Active",
-      "title": "Weekly Cash Comp - Nov 2Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool where the 1st place champion takes home 2 million NTC, the 2nd place winner secures 1.5 million NTC, the 3rd place podium finisher earns 1 million NTC, the 4th places winner takes home 750 thousand NTC, the 5th place finisher gets 500k NTC, and the 6th place winner takes home 100k NTC. Plus, if you don't make the top five, you can still grind your way to a reward by completing 50 races or more to automatically earn 100,000 NTC! Total NTC given out: 6 mil+ NTC",
-      "start": "11/01/2026, 01:00 PM",
-      "end": "11/08/2026, 01:00 PM"
     },
     {
       "id": "1345",
@@ -194,5 +194,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793546079806
+  "_syncedAt": 1793547820801
 }

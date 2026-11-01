@@ -266,11 +266,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1270,
-        "wpm": 59,
+        "allTimeRaces": 1292,
+        "wpm": 57,
         "highestWPM": 75,
-        "teamRaces": 457,
-        "acc": 94.52,
+        "teamRaces": 485,
+        "acc": 94.48,
         "season": null,
         "status": "active",
         "lastLogin": 1793542768
@@ -525,7 +525,7 @@
         "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793494869
+        "lastLogin": 1793546819
       },
       {
         "username": "happygoluckygirl07",
@@ -616,11 +616,11 @@
         "displayName": "BalancedCyanStoat",
         "role": "member",
         "joinStamp": 1793545632,
-        "allTimeRaces": 13,
-        "wpm": 64,
+        "allTimeRaces": 20,
+        "wpm": 62,
         "highestWPM": 89,
-        "teamRaces": 3,
-        "acc": 95.23,
+        "teamRaces": 15,
+        "acc": 94.77,
         "season": null,
         "status": "active",
         "lastLogin": 1793545333
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81042,
+        "races": 81082,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 133,
+        "races": 173,
         "avgWPM": 60,
-        "avgAcc": 95.04,
+        "avgAcc": 94.83,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793546154537
+    "_syncedAt": 1793547891413
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793546173267
+    "_syncedAt": 1793547910822
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793546252286
+    "_syncedAt": 1793547989791
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1302,7 +1302,7 @@
         "acc": 98.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793486127
+        "lastLogin": 1793546785
       },
       {
         "username": "mcculpar",
@@ -1757,14 +1757,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19310,
-        "wpm": 93,
+        "allTimeRaces": 19314,
+        "wpm": 94,
         "highestWPM": 123,
         "teamRaces": 18850,
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793540980
+        "lastLogin": 1793547325
       },
       {
         "username": "taco13001",
@@ -1951,6 +1951,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793546421754
+    "_syncedAt": 1793548159093
   }
 }
