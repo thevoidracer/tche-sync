@@ -609,7 +609,7 @@
         "acc": 96.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1793279210
+        "lastLogin": 1793491373
       }
     ],
     "aggregates": {
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793490183994
+    "_syncedAt": 1793491933356
   },
   "SVC": {
     "tag": "SVC",
@@ -1184,7 +1184,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793490202860
+    "_syncedAt": 1793491984160
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1236,7 +1236,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793490251936
+    "_syncedAt": 1793492063475
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1407,14 +1407,14 @@
         "displayName": "CrazyTyper",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1802,
-        "wpm": 61,
+        "allTimeRaces": 1810,
+        "wpm": 59,
         "highestWPM": 87,
         "teamRaces": 1496,
         "acc": 93.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1793477351
+        "lastLogin": 1793491716
       },
       {
         "username": "pigglepigglepiggle",
@@ -1750,7 +1750,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793482310
+        "lastLogin": 1793492209
       },
       {
         "username": "taco13001",
@@ -1897,14 +1897,14 @@
         "displayName": "NL NitroDeveloper",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3166,
-        "wpm": 56,
+        "allTimeRaces": 3172,
+        "wpm": 52,
         "highestWPM": 74,
         "teamRaces": 968,
         "acc": 93.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793480139
+        "lastLogin": 1793491778
       },
       {
         "username": "malott12",
@@ -1929,14 +1929,14 @@
         "members": 48
       },
       "daily": {
-        "races": 1319,
-        "avgWPM": 78,
-        "avgAcc": 94.88,
+        "races": 1268,
+        "avgWPM": 77,
+        "avgAcc": 94.79,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793490421646
+    "_syncedAt": 1793492233367
   }
 }

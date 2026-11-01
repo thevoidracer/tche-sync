@@ -559,11 +559,11 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 760,
-      "wpm": 74,
+      "allTimeRaces": 771,
+      "wpm": 76,
       "highestWPM": 98,
-      "teamRaces": 107,
-      "acc": 91.54,
+      "teamRaces": 117,
+      "acc": 91.6,
       "season": null,
       "status": "active",
       "lastLogin": 1793489890
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 63756,
+      "races": 63766,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 428,
-      "avgWPM": 88,
-      "avgAcc": 95.19,
+      "races": 438,
+      "avgWPM": 87,
+      "avgAcc": 95.13,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793490077649
+  "_syncedAt": 1793491779906
 }

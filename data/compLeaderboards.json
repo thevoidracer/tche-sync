@@ -22,10 +22,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Active!",
-        "races": 544,
-        "wpm": 110.3,
-        "accuracy": 98.19,
-        "points": 82883,
+        "races": 550,
+        "wpm": 110.4,
+        "accuracy": 98.18,
+        "points": 83811,
         "tier": "A"
       },
       {
@@ -668,6 +668,19 @@
       {
         "rank": 52,
         "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 46,
+        "wpm": 75.3,
+        "accuracy": 90.17,
+        "points": 5710,
+        "tier": "C"
+      },
+      {
+        "rank": 53,
+        "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
         "nickname": "Millionaire",
@@ -679,7 +692,7 @@
         "tier": "C"
       },
       {
-        "rank": 53,
+        "rank": 54,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -692,7 +705,7 @@
         "tier": "C"
       },
       {
-        "rank": 54,
+        "rank": 55,
         "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
@@ -705,7 +718,7 @@
         "tier": "C"
       },
       {
-        "rank": 55,
+        "rank": 56,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -718,7 +731,7 @@
         "tier": "C"
       },
       {
-        "rank": 56,
+        "rank": 57,
         "tag": "KEYCAT",
         "username": "HastyBeanAttack",
         "displayName": "HastyBeanAttack",
@@ -731,7 +744,7 @@
         "tier": "B"
       },
       {
-        "rank": 57,
+        "rank": 58,
         "tag": "IMT",
         "username": "Unknown",
         "displayName": "Unknown",
@@ -744,7 +757,7 @@
         "tier": "A"
       },
       {
-        "rank": 58,
+        "rank": 59,
         "tag": "KEYCAT",
         "username": "Happygoluckygirl07",
         "displayName": "Happygoluckygirl07",
@@ -757,7 +770,20 @@
         "tier": "C"
       },
       {
-        "rank": 59,
+        "rank": 60,
+        "tag": "THB0S",
+        "username": "FireworkLauncher",
+        "displayName": "FireworkLauncher",
+        "nickname": "マスター・レーサー",
+        "squad": "OG's still racing",
+        "races": 38,
+        "wpm": 69.7,
+        "accuracy": 89.74,
+        "points": 4599,
+        "tier": "B"
+      },
+      {
+        "rank": 61,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -770,7 +796,7 @@
         "tier": "B"
       },
       {
-        "rank": 60,
+        "rank": 62,
         "tag": "THB0S",
         "username": "NL NitroDeveloper",
         "displayName": "NL NitroDeveloper",
@@ -780,32 +806,6 @@
         "wpm": 50.2,
         "accuracy": 94.24,
         "points": 4480,
-        "tier": "C"
-      },
-      {
-        "rank": 61,
-        "tag": "THB0S",
-        "username": "FireworkLauncher",
-        "displayName": "FireworkLauncher",
-        "nickname": "マスター・レーサー",
-        "squad": "OG's still racing",
-        "races": 36,
-        "wpm": 70.5,
-        "accuracy": 89.74,
-        "points": 4369,
-        "tier": "B"
-      },
-      {
-        "rank": 62,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Side Hustler 100",
-        "races": 35,
-        "wpm": 74.8,
-        "accuracy": 89.76,
-        "points": 4317,
         "tier": "C"
       },
       {
@@ -1472,7 +1472,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793490179662
+    "_syncedAt": 1793491928750
   },
   "1437": {
     "eventId": "1437",
@@ -1649,6 +1649,19 @@
       {
         "rank": 14,
         "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 101,
+        "wpm": 74.7,
+        "accuracy": 90.64,
+        "points": 12573,
+        "tier": null
+      },
+      {
+        "rank": 15,
+        "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
         "nickname": "Master Motorist",
@@ -1657,19 +1670,6 @@
         "wpm": 78.9,
         "accuracy": 95.45,
         "points": 12376,
-        "tier": null
-      },
-      {
-        "rank": 15,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Side Hustler 100",
-        "races": 90,
-        "wpm": 74.4,
-        "accuracy": 90.54,
-        "points": 11180,
         "tier": null
       },
       {
@@ -1959,6 +1959,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793490183824
+    "_syncedAt": 1793491933142
   }
 }
