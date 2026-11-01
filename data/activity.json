@@ -3,7 +3,7 @@
     {
       "hour": "2026-10-31 03:00:00",
       "racer": "Joe and Uh",
-      "races": 13
+      "races": 1
     },
     {
       "hour": "2026-10-31 10:00:00",
@@ -109,8 +109,18 @@
       "hour": "2026-11-01 02:00:00",
       "racer": "Void Racer",
       "races": 1
+    },
+    {
+      "hour": "2026-11-01 02:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-01 03:00:00",
+      "racer": "UJAADDAH",
+      "races": 13
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793501639302
+  "_syncedAt": 1793504202675
 }
