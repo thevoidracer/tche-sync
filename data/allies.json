@@ -378,14 +378,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 14065,
-        "wpm": 77,
+        "allTimeRaces": 14070,
+        "wpm": 76,
         "highestWPM": 111,
-        "teamRaces": 11857,
-        "acc": 93.17,
+        "teamRaces": 11862,
+        "acc": 93.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1793553639
+        "lastLogin": 1793565130
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -504,14 +504,14 @@
         "displayName": "Watermelon Cat ALT",
         "role": "member",
         "joinStamp": 1790553861,
-        "allTimeRaces": 287,
-        "wpm": 71,
-        "highestWPM": 94,
-        "teamRaces": 2,
-        "acc": 93.86,
+        "allTimeRaces": 295,
+        "wpm": 84,
+        "highestWPM": 98,
+        "teamRaces": 10,
+        "acc": 92.5,
         "season": null,
         "status": "active",
-        "lastLogin": 1792117853
+        "lastLogin": 1793564726
       },
       {
         "username": "bob_ate_bob_twice",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81115,
+        "races": 81128,
         "avgWPM": 55,
-        "avgAcc": 93.53,
+        "avgAcc": 93.52,
         "members": 44
       },
       "daily": {
-        "races": 203,
-        "avgWPM": 63,
-        "avgAcc": 93.6,
+        "races": 216,
+        "avgWPM": 64,
+        "avgAcc": 93.4,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793564078409
+    "_syncedAt": 1793565903337
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793564097414
+    "_syncedAt": 1793565956729
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793564177461
+    "_syncedAt": 1793566035782
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1259,7 +1259,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4873,
+    "profileViews": 4875,
     "leagueTier": 13,
     "racers": [
       {
@@ -1274,7 +1274,7 @@
         "acc": 96.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1793552333
+        "lastLogin": 1793565180
       },
       {
         "username": "joepellicc_gold",
@@ -1589,11 +1589,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8461,
-        "wpm": 51,
+        "allTimeRaces": 8477,
+        "wpm": 49,
         "highestWPM": 84,
-        "teamRaces": 529,
-        "acc": 94.14,
+        "teamRaces": 544,
+        "acc": 94.12,
         "season": null,
         "status": "active",
         "lastLogin": 1793564086
@@ -1659,11 +1659,11 @@
         "displayName": "RHYMESCHEME",
         "role": "member",
         "joinStamp": 1793288728,
-        "allTimeRaces": 5904,
-        "wpm": 95,
+        "allTimeRaces": 5919,
+        "wpm": 89,
         "highestWPM": 110,
-        "teamRaces": 22,
-        "acc": 95.47,
+        "teamRaces": 44,
+        "acc": 95.27,
         "season": null,
         "status": "active",
         "lastLogin": 1793563980
@@ -1937,20 +1937,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130056,
+        "races": 130093,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 502,
+        "races": 528,
         "avgWPM": 76,
-        "avgAcc": 94.75,
+        "avgAcc": 94.86,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793564347223
+    "_syncedAt": 1793566205338
   }
 }
