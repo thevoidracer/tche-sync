@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3077,
+    "profileViews": 3078,
     "leagueTier": 13,
     "racers": [
       {
@@ -378,10 +378,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 14052,
-        "wpm": 81,
+        "allTimeRaces": 14065,
+        "wpm": 77,
         "highestWPM": 111,
-        "teamRaces": 11840,
+        "teamRaces": 11857,
         "acc": 93.17,
         "season": null,
         "status": "active",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81098,
+        "races": 81115,
         "avgWPM": 55,
         "avgAcc": 93.53,
         "members": 44
       },
       "daily": {
-        "races": 186,
-        "avgWPM": 62,
-        "avgAcc": 94.19,
+        "races": 203,
+        "avgWPM": 63,
+        "avgAcc": 93.6,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793555797411
+    "_syncedAt": 1793557430221
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793555816510
+    "_syncedAt": 1793557449090
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793555895842
+    "_syncedAt": 1793557528036
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1589,11 +1589,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8457,
-        "wpm": 49,
+        "allTimeRaces": 8459,
+        "wpm": 51,
         "highestWPM": 84,
-        "teamRaces": 524,
-        "acc": 94.13,
+        "teamRaces": 527,
+        "acc": 94.14,
         "season": null,
         "status": "active",
         "lastLogin": 1793554608
@@ -1937,20 +1937,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130044,
+        "races": 130047,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 48
       },
       "daily": {
-        "races": 601,
+        "races": 590,
         "avgWPM": 78,
-        "avgAcc": 94.79,
+        "avgAcc": 94.74,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793556065756
+    "_syncedAt": 1793557697362
   }
 }

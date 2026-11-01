@@ -18,6 +18,19 @@
       {
         "rank": 2,
         "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 45,
+        "wpm": 97.9,
+        "accuracy": 90.88,
+        "points": 6091,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "Itypeforfun",
         "displayName": "Itypeforfun",
         "nickname": "Hallowampus Fanclub",
@@ -27,19 +40,6 @@
         "accuracy": 94.45,
         "points": 4697,
         "tier": "B"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 34,
-        "wpm": 97.6,
-        "accuracy": 90.17,
-        "points": 4562,
-        "tier": "A"
       },
       {
         "rank": 4,
@@ -69,6 +69,19 @@
       },
       {
         "rank": 6,
+        "tag": "KEYCAT",
+        "username": "Cats_4_Eva",
+        "displayName": "Cats_4_Eva",
+        "nickname": "I Love Cats",
+        "squad": "KEYCAT Captain ⚞^. .^⚟",
+        "races": 30,
+        "wpm": 80.1,
+        "accuracy": 88.17,
+        "points": 3705,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
         "tag": "THB0S",
         "username": "BRADYDARACER",
         "displayName": "BRADYDARACER",
@@ -81,7 +94,7 @@
         "tier": "A"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -94,7 +107,7 @@
         "tier": "A"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "KEYCAT",
         "username": "BalancedCyanStoat",
         "displayName": "BalancedCyanStoat",
@@ -107,20 +120,20 @@
         "tier": "B"
       },
       {
-        "rank": 9,
-        "tag": "KEYCAT",
-        "username": "Cats_4_Eva",
-        "displayName": "Cats_4_Eva",
-        "nickname": "I Love Cats",
-        "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 4,
-        "wpm": 78.5,
-        "accuracy": 89.76,
-        "points": 500,
-        "tier": "A"
+        "rank": 10,
+        "tag": "THB0S",
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Night Patrol",
+        "squad": "Newbies!",
+        "races": 5,
+        "wpm": 51.1,
+        "accuracy": 94.29,
+        "points": 592,
+        "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -133,7 +146,7 @@
         "tier": "C"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "O       G",
         "displayName": "O       G",
@@ -146,6 +159,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793555797214
+    "_syncedAt": 1793557430046
   }
 }
