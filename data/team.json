@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨47.3M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2287,
+  "profileViews": 2289,
   "leagueTier": 13,
   "racers": [
     {
@@ -251,14 +251,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7100,
-      "wpm": 75,
+      "allTimeRaces": 7123,
+      "wpm": 77,
       "highestWPM": 102,
-      "teamRaces": 1075,
-      "acc": 93.61,
+      "teamRaces": 1090,
+      "acc": 93.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1793477743
+      "lastLogin": 1793566426
     },
     {
       "username": "cash4087",
@@ -363,14 +363,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5250,
-      "wpm": 98,
+      "allTimeRaces": 5251,
+      "wpm": 96,
       "highestWPM": 117,
-      "teamRaces": 90,
+      "teamRaces": 91,
       "acc": 91.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1793482070
+      "lastLogin": 1793566129
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64139,
+      "races": 64155,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 634,
-      "avgWPM": 88,
-      "avgAcc": 94.35,
+      "races": 560,
+      "avgWPM": 87,
+      "avgAcc": 94.31,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793565802054
+  "_syncedAt": 1793567737355
 }

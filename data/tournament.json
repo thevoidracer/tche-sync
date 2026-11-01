@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793565878129
+        "_syncedAt": 1793567822595
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Pandora",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -1888,7 +1888,7 @@
               "players": [
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "NitroLegends",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -1912,7 +1912,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -2020,7 +2020,7 @@
               "players": [
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2210,7 +2210,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Pandora",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "NitroLegends",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2402,7 +2402,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2452,7 +2452,7 @@
                 },
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2546,7 +2546,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Pandora",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2634,7 +2634,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "NitroLegends",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2650,7 +2650,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 10120
                 },
@@ -2774,7 +2774,7 @@
                   "seed": "7",
                   "racer": "CrazyTyper",
                   "teamTag": "THB0S",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 13367
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793565894986
+        "_syncedAt": 1793567840332
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793565894988
+  "_syncedAt": 1793567840335
 }

@@ -1,39 +1,19 @@
 {
   "hours": [
     {
-      "hour": "2026-10-31 20:00:00",
-      "racer": "rorok09",
-      "races": 26
-    },
-    {
-      "hour": "2026-10-31 20:00:00",
-      "racer": "Void Racer",
-      "races": 13
-    },
-    {
-      "hour": "2026-10-31 20:00:00",
-      "racer": "KirbyDelta",
-      "races": 11
-    },
-    {
-      "hour": "2026-10-31 20:00:00",
-      "racer": "-HyperTyper-",
-      "races": 11
-    },
-    {
       "hour": "2026-10-31 21:00:00",
       "racer": "rorok09",
-      "races": 82
+      "races": 68
     },
     {
       "hour": "2026-10-31 21:00:00",
       "racer": "KirbyDelta",
-      "races": 27
+      "races": 19
     },
     {
       "hour": "2026-10-31 21:00:00",
       "racer": "-HyperTyper-",
-      "races": 25
+      "races": 18
     },
     {
       "hour": "2026-10-31 21:00:00",
@@ -62,12 +42,12 @@
     },
     {
       "hour": "2026-11-01 00:00:00",
-      "racer": "asteroids",
+      "racer": "SKZ FIRAH",
       "races": 2
     },
     {
       "hour": "2026-11-01 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "asteroids",
       "races": 2
     },
     {
@@ -187,12 +167,12 @@
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "Odetari - GMFU",
+      "racer": "O       G",
       "races": 0
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "O       G",
+      "racer": "Odetari - GMFU",
       "races": 0
     },
     {
@@ -227,6 +207,11 @@
     },
     {
       "hour": "2026-11-01 20:00:00",
+      "racer": "KirbyDelta",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-01 20:00:00",
       "racer": "Itypeforfun",
       "races": 3
     },
@@ -234,8 +219,18 @@
       "hour": "2026-11-01 20:00:00",
       "racer": "UJAADDAH",
       "races": 1
+    },
+    {
+      "hour": "2026-11-01 20:00:00",
+      "racer": "Nitrex",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-01 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793565857848
+  "_syncedAt": 1793567802393
 }

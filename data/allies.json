@@ -378,10 +378,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 14070,
+        "allTimeRaces": 14076,
         "wpm": 76,
         "highestWPM": 111,
-        "teamRaces": 11862,
+        "teamRaces": 11868,
         "acc": 93.16,
         "season": null,
         "status": "active",
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81128,
+        "races": 81134,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 44
       },
       "daily": {
-        "races": 216,
-        "avgWPM": 64,
-        "avgAcc": 93.4,
+        "races": 222,
+        "avgWPM": 65,
+        "avgAcc": 93.19,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793565903337
+    "_syncedAt": 1793567848299
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793565956729
+    "_syncedAt": 1793567867141
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,12 +1250,12 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793566035782
+    "_syncedAt": 1793567946176
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 48,
+    "members": 47,
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
@@ -1317,20 +1317,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793370833
-      },
-      {
-        "username": "mjwolf1019",
-        "displayName": "-Rocky-",
-        "role": "member",
-        "joinStamp": 1792502449,
-        "allTimeRaces": 300,
-        "wpm": 86,
-        "highestWPM": 118,
-        "teamRaces": 250,
-        "acc": 96.5,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793562630
       },
       {
         "username": "unhstk1",
@@ -1589,11 +1575,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8477,
-        "wpm": 49,
+        "allTimeRaces": 8487,
+        "wpm": 51,
         "highestWPM": 84,
-        "teamRaces": 544,
-        "acc": 94.12,
+        "teamRaces": 555,
+        "acc": 94.09,
         "season": null,
         "status": "active",
         "lastLogin": 1793564086
@@ -1937,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130093,
+        "races": 130104,
         "avgWPM": 68,
         "avgAcc": 94.03,
-        "members": 48
+        "members": 47
       },
       "daily": {
-        "races": 528,
-        "avgWPM": 76,
-        "avgAcc": 94.86,
-        "members": 48
+        "races": 511,
+        "avgWPM": 77,
+        "avgAcc": 94.88,
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793566205338
+    "_syncedAt": 1793568115407
   }
 }
