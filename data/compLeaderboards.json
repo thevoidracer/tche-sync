@@ -628,6 +628,19 @@
       },
       {
         "rank": 49,
+        "tag": "THB0S",
+        "username": "dark type",
+        "displayName": "dark type",
+        "nickname": "Crazy About Typing",
+        "squad": "Loyal",
+        "races": 70,
+        "wpm": 32,
+        "accuracy": 79.24,
+        "points": 6434,
+        "tier": "C"
+      },
+      {
+        "rank": 50,
         "tag": "IMT",
         "username": "WindMaker",
         "displayName": "WindMaker",
@@ -640,7 +653,7 @@
         "tier": "A"
       },
       {
-        "rank": 50,
+        "rank": 51,
         "tag": "THB0S",
         "username": "taco13001",
         "displayName": "taco13001",
@@ -651,19 +664,6 @@
         "accuracy": 92.95,
         "points": 6258,
         "tier": "B"
-      },
-      {
-        "rank": 51,
-        "tag": "THB0S",
-        "username": "dark type",
-        "displayName": "dark type",
-        "nickname": "Crazy About Typing",
-        "squad": "Loyal",
-        "races": 68,
-        "wpm": 31.9,
-        "accuracy": 79.03,
-        "points": 6232,
-        "tier": "C"
       },
       {
         "rank": 52,
@@ -1485,7 +1485,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793525084093
+    "_syncedAt": 1793527631867
   },
   "1437": {
     "eventId": "1437",
@@ -1972,6 +1972,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793525088064
+    "_syncedAt": 1793527635820
   }
 }
