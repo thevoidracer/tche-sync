@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793571908982
+        "_syncedAt": 1793573907467
       }
     },
     {
@@ -1626,7 +1626,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 20154
                 },
@@ -1646,7 +1646,7 @@
               "players": [
                 {
                   "seed": "4",
-                  "racer": "Spy on teams",
+                  "racer": "Sakupen",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2256,7 +2256,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 45645
                 }
@@ -2570,7 +2570,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 43029
                 }
@@ -2730,7 +2730,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14167
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793571925058
+        "_syncedAt": 1793573924120
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793571925067
+  "_syncedAt": 1793573924128
 }

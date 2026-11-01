@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨47.3M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2291,
+  "profileViews": 2292,
   "leagueTier": 13,
   "racers": [
     {
@@ -251,10 +251,10 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7183,
-      "wpm": 71,
+      "allTimeRaces": 7200,
+      "wpm": 76,
       "highestWPM": 102,
-      "teamRaces": 1153,
+      "teamRaces": 1175,
       "acc": 93.65,
       "season": null,
       "status": "active",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64218,
+      "races": 64240,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 479,
+      "races": 485,
       "avgWPM": 86,
       "avgAcc": 94.14,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793571828335
+  "_syncedAt": 1793573832278
 }

@@ -22,10 +22,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 78,
-        "wpm": 77.2,
-        "accuracy": 93.91,
-        "points": 10152,
+        "races": 100,
+        "wpm": 76.8,
+        "accuracy": 93.75,
+        "points": 12977,
         "tier": "C"
       },
       {
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "JCKrayzie",
+        "displayName": "JCKrayzie",
+        "nickname": "Autumn Ace",
+        "squad": "Active!",
+        "races": 15,
+        "wpm": 107.1,
+        "accuracy": 97.46,
+        "points": 2245,
+        "tier": "A"
+      },
+      {
+        "rank": 13,
         "tag": "KEYCAT",
         "username": "BalancedCyanStoat",
         "displayName": "BalancedCyanStoat",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "KEYCAT",
         "username": "Watermelon Cat ALT",
         "displayName": "Watermelon Cat ALT",
@@ -172,7 +185,7 @@
         "tier": "A"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -183,19 +196,6 @@
         "accuracy": 91.23,
         "points": 672,
         "tier": "C"
-      },
-      {
-        "rank": 15,
-        "tag": "THB0S",
-        "username": "JCKrayzie",
-        "displayName": "JCKrayzie",
-        "nickname": "Autumn Ace",
-        "squad": "Active!",
-        "races": 4,
-        "wpm": 108,
-        "accuracy": 97.47,
-        "points": 600,
-        "tier": "A"
       },
       {
         "rank": 16,
@@ -289,7 +289,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793571929498
+    "_syncedAt": 1793573928338
   },
   "1463": {
     "eventId": "1463",
@@ -301,11 +301,11 @@
         "displayName": "KirbyDelta",
         "nickname": "Quicker Than the Fox",
         "squad": "Investor 1k",
-        "races": 78,
-        "wpm": 77.2,
-        "accuracy": 93.91,
-        "points": 10152,
-        "tier": null
+        "races": 100,
+        "wpm": 76.8,
+        "accuracy": 93.75,
+        "points": 12977,
+        "tier": "$2,000,000"
       },
       {
         "rank": 2,
@@ -412,6 +412,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793571934142
+    "_syncedAt": 1793573932336
   }
 }

@@ -6,7 +6,7 @@
     "activePercent": 88,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3078,
+    "profileViews": 3079,
     "leagueTier": 13,
     "racers": [
       {
@@ -385,7 +385,7 @@
         "acc": 93.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1793565130
+        "lastLogin": 1793573138
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793571934298
+    "_syncedAt": 1793573932474
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793571964556
+    "_syncedAt": 1793573951242
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793572043429
+    "_syncedAt": 1793574030305
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1295,11 +1295,11 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10633,
-        "wpm": 111,
+        "allTimeRaces": 10657,
+        "wpm": 116,
         "highestWPM": 135,
-        "teamRaces": 1205,
-        "acc": 98.19,
+        "teamRaces": 1224,
+        "acc": 98.18,
         "season": null,
         "status": "active",
         "lastLogin": 1793570087
@@ -1330,7 +1330,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1793562495
+        "lastLogin": 1793574155
       },
       {
         "username": "joereynolds",
@@ -1575,14 +1575,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8487,
-        "wpm": 51,
+        "allTimeRaces": 8493,
+        "wpm": 50,
         "highestWPM": 84,
-        "teamRaces": 555,
-        "acc": 94.09,
+        "teamRaces": 561,
+        "acc": 94.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1793564086
+        "lastLogin": 1793573459
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1659,14 +1659,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3032,
-        "wpm": 81,
+        "allTimeRaces": 3033,
+        "wpm": 77,
         "highestWPM": 92,
-        "teamRaces": 322,
-        "acc": 94.21,
+        "teamRaces": 323,
+        "acc": 94.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1793500511
+        "lastLogin": 1793573780
       },
       {
         "username": "joey2011allgyer",
@@ -1876,7 +1876,7 @@
         "acc": 95.57,
         "season": null,
         "status": "active",
-        "lastLogin": 1793551098
+        "lastLogin": 1793572452
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1897,14 +1897,14 @@
         "displayName": "NL NitroDeveloper",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3180,
-        "wpm": 54,
+        "allTimeRaces": 3181,
+        "wpm": 53,
         "highestWPM": 74,
         "teamRaces": 982,
         "acc": 93.96,
         "season": null,
         "status": "active",
-        "lastLogin": 1793497137
+        "lastLogin": 1793573969
       },
       {
         "username": "malott12",
@@ -1923,20 +1923,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130115,
+        "races": 130141,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 47
       },
       "daily": {
-        "races": 478,
-        "avgWPM": 77,
-        "avgAcc": 94.84,
+        "races": 488,
+        "avgWPM": 76,
+        "avgAcc": 94.82,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793572212810
+    "_syncedAt": 1793574199896
   }
 }
