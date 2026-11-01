@@ -94,8 +94,18 @@
       "hour": "2026-10-31 23:00:00",
       "racer": "SKZ FIRAH",
       "races": 11
+    },
+    {
+      "hour": "2026-11-01 00:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-01 00:00:00",
+      "racer": "asteroids",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793491885932
+  "_syncedAt": 1793495720553
 }
