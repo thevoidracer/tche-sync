@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 40,
+      "rank": 50,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 68,
@@ -11,7 +11,17 @@
       "ppr": 139
     },
     {
-      "rank": 80,
+      "rank": 74,
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "races": 56,
+      "accuracy": 90.35,
+      "wpm": 97.6,
+      "points": 7529,
+      "ppr": 134
+    },
+    {
+      "rank": 96,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 43,
@@ -21,37 +31,37 @@
       "ppr": 138
     },
     {
-      "rank": 104,
+      "rank": 97,
       "username": "taylorja32",
       "displayName": "Void Racer",
-      "races": 35,
-      "accuracy": 93.57,
-      "wpm": 94.5,
-      "points": 4823,
+      "races": 43,
+      "accuracy": 93.4,
+      "wpm": 95.3,
+      "points": 5929,
       "ppr": 138
     },
     {
-      "rank": 119,
-      "username": "newkeyboard512",
-      "displayName": "-HyperTyper-",
-      "races": 31,
-      "accuracy": 90.28,
-      "wpm": 96.8,
-      "points": 4153,
+      "rank": 200,
+      "username": "735493474a38feb614a4a76e3cde2c1a",
+      "displayName": "UJAADDAH",
+      "races": 19,
+      "accuracy": 87.07,
+      "wpm": 93.6,
+      "points": 2428,
+      "ppr": 128
+    },
+    {
+      "rank": 243,
+      "username": "xaliishere",
+      "displayName": "Itypeforfun",
+      "races": 9,
+      "accuracy": 94.07,
+      "wpm": 84,
+      "points": 1202,
       "ppr": 134
     },
     {
-      "rank": 203,
-      "username": "735493474a38feb614a4a76e3cde2c1a",
-      "displayName": "UJAADDAH",
-      "races": 16,
-      "accuracy": 87.92,
-      "wpm": 93.3,
-      "points": 2063,
-      "ppr": 129
-    },
-    {
-      "rank": 246,
+      "rank": 263,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "races": 6,
@@ -61,5 +71,5 @@
       "ppr": 124
     }
   ],
-  "_syncedAt": 1793549787805
+  "_syncedAt": 1793552358878
 }

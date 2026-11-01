@@ -9,14 +9,27 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 36,
-        "wpm": 96.1,
-        "accuracy": 95.09,
-        "points": 5069,
+        "races": 90,
+        "wpm": 94.1,
+        "accuracy": 94.28,
+        "points": 12477,
         "tier": "A"
       },
       {
         "rank": 2,
+        "tag": "IMT",
+        "username": "-HyperTyper-",
+        "displayName": "-HyperTyper-",
+        "nickname": "Crazy About Typing",
+        "squad": "Side Hustler 100",
+        "races": 33,
+        "wpm": 97.9,
+        "accuracy": 90.16,
+        "points": 4431,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -29,20 +42,33 @@
         "tier": "C"
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 19,
-        "wpm": 93.9,
-        "accuracy": 93.25,
-        "points": 2604,
+        "races": 27,
+        "wpm": 95.3,
+        "accuracy": 93.08,
+        "points": 3710,
         "tier": "A"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "tag": "IMT",
+        "username": "UJAADDAH",
+        "displayName": "UJAADDAH",
+        "nickname": "Endurance Racer",
+        "squad": "Side Hustler 100",
+        "races": 15,
+        "wpm": 94.6,
+        "accuracy": 86.82,
+        "points": 1918,
+        "tier": "A"
+      },
+      {
+        "rank": 6,
         "tag": "KEYCAT",
         "username": "BalancedCyanStoat",
         "displayName": "BalancedCyanStoat",
@@ -55,33 +81,33 @@
         "tier": "B"
       },
       {
-        "rank": 5,
-        "tag": "IMT",
-        "username": "UJAADDAH",
-        "displayName": "UJAADDAH",
-        "nickname": "Endurance Racer",
-        "squad": "Side Hustler 100",
-        "races": 12,
-        "wpm": 94.5,
-        "accuracy": 87.89,
-        "points": 1553,
-        "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "-HyperTyper-",
-        "displayName": "-HyperTyper-",
-        "nickname": "Crazy About Typing",
-        "squad": "Side Hustler 100",
-        "races": 8,
-        "wpm": 95.3,
-        "accuracy": 89.28,
-        "points": 1054,
-        "tier": "A"
-      },
-      {
         "rank": 7,
+        "tag": "THB0S",
+        "username": "BRADYDARACER",
+        "displayName": "BRADYDARACER",
+        "nickname": "TOUGE「峠」VIPER",
+        "squad": "Officer",
+        "races": 10,
+        "wpm": 96.3,
+        "accuracy": 95.08,
+        "points": 1409,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
+        "username": "Itypeforfun",
+        "displayName": "Itypeforfun",
+        "nickname": "Hallowampus Fanclub",
+        "squad": null,
+        "races": 9,
+        "wpm": 84,
+        "accuracy": 94.07,
+        "points": 1202,
+        "tier": "B"
+      },
+      {
+        "rank": 9,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -92,8 +118,21 @@
         "accuracy": 88.15,
         "points": 241,
         "tier": "C"
+      },
+      {
+        "rank": 10,
+        "tag": "IMT",
+        "username": "O       G",
+        "displayName": "O       G",
+        "nickname": "RIP",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "C"
       }
     ],
-    "_syncedAt": 1793549841123
+    "_syncedAt": 1793552413140
   }
 }

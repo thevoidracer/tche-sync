@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 97,
+      "avgWPM": 98,
       "topWPM": 128,
-      "lifetimeRaces": 5473,
-      "teamRaces": 3048,
+      "lifetimeRaces": 5481,
+      "teamRaces": 3056,
       "joined": "06/10/26"
     },
     {
@@ -490,42 +490,16 @@
       "joined": "10/22/26"
     },
     {
-      "username": "aa4cdca9a5dfd9b967fe0c0efe24d5ed",
-      "displayName": "Kingzillao9",
-      "nickname": "Dvorak Destroyer",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 63,
-      "topWPM": 109,
-      "lifetimeRaces": 1121,
-      "teamRaces": 20,
-      "joined": "10/23/26"
-    },
-    {
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "nickname": "Crazy About Typing",
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 96,
       "topWPM": 120,
-      "lifetimeRaces": 546,
-      "teamRaces": 303,
-      "joined": "10/23/26"
-    },
-    {
-      "username": "2b1da3257327aa35b65ea45deb938ebb",
-      "displayName": "falcon 6x",
-      "nickname": "Original Gangster",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 94,
-      "topWPM": 110,
-      "lifetimeRaces": 2727,
-      "teamRaces": 16,
+      "lifetimeRaces": 571,
+      "teamRaces": 328,
       "joined": "10/23/26"
     },
     {
@@ -535,10 +509,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 94,
       "topWPM": 122,
-      "lifetimeRaces": 1707,
-      "teamRaces": 174,
+      "lifetimeRaces": 1710,
+      "teamRaces": 177,
       "joined": "10/24/26"
     },
     {
@@ -566,19 +540,6 @@
       "lifetimeRaces": 777,
       "teamRaces": 125,
       "joined": "10/25/26"
-    },
-    {
-      "username": "c3b559e21447f9028631f1bbb7e9ab04",
-      "displayName": "Jhungi",
-      "nickname": "Novice Navigator",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 89,
-      "topWPM": 100,
-      "lifetimeRaces": 1601,
-      "teamRaces": 4,
-      "joined": "10/26/26"
     },
     {
       "username": "jorgespeedway",
@@ -644,8 +605,34 @@
       "lifetimeRaces": 714,
       "teamRaces": 23,
       "joined": "10/29/26"
+    },
+    {
+      "username": "xaliishere",
+      "displayName": "Itypeforfun",
+      "nickname": "Hallowampus Fanclub",
+      "role": "member",
+      "squad": null,
+      "tier": "B",
+      "avgWPM": 83,
+      "topWPM": 140,
+      "lifetimeRaces": 1688,
+      "teamRaces": 9,
+      "joined": "11/01/26"
+    },
+    {
+      "username": "spierjockey67",
+      "displayName": "O       G",
+      "nickname": "RIP",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 64,
+      "topWPM": 143,
+      "lifetimeRaces": 2411,
+      "teamRaces": 0,
+      "joined": "11/01/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793549800288
+  "_syncedAt": 1793552370882
 }
