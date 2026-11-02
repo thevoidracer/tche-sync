@@ -280,10 +280,10 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1294,
-        "wpm": 59,
+        "allTimeRaces": 1297,
+        "wpm": 58,
         "highestWPM": 75,
-        "teamRaces": 486,
+        "teamRaces": 490,
         "acc": 94.49,
         "season": null,
         "status": "active",
@@ -487,14 +487,14 @@
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
-        "displayName": "Barcelona",
+        "displayName": "SteadyLimeGoat",
         "role": "member",
         "joinStamp": 1790805421,
-        "allTimeRaces": 612,
-        "wpm": 25,
-        "highestWPM": 46,
-        "teamRaces": 170,
-        "acc": 95,
+        "allTimeRaces": 617,
+        "wpm": 26,
+        "highestWPM": 48,
+        "teamRaces": 177,
+        "acc": 94.94,
         "season": null,
         "status": "active",
         "lastLogin": 1793654948
@@ -567,7 +567,7 @@
         "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793590706
+        "lastLogin": 1793657037
       },
       {
         "username": "happygoluckygirl07",
@@ -684,21 +684,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81652,
+        "races": 81663,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 48
       },
       "daily": {
-        "races": 518,
-        "avgWPM": 71,
-        "avgAcc": 92.64,
+        "races": 526,
+        "avgWPM": 70,
+        "avgAcc": 92.67,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793655086843
+    "_syncedAt": 1793657408691
   },
   "SVC": {
     "tag": "SVC",
@@ -848,7 +848,7 @@
         "acc": 93.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1793377991
+        "lastLogin": 1793655627
       },
       {
         "username": "hieuanp",
@@ -1259,7 +1259,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793655109126
+    "_syncedAt": 1793657428045
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1311,7 +1311,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793655128177
+    "_syncedAt": 1793657446893
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1320,7 +1320,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4916,
+    "profileViews": 4918,
     "leagueTier": 13,
     "racers": [
       {
@@ -1629,7 +1629,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793651874
+        "lastLogin": 1793657399
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1783,7 +1783,7 @@
         "acc": 92,
         "season": null,
         "status": "active",
-        "lastLogin": 1793560900
+        "lastLogin": 1793657524
       },
       {
         "username": "sara0010",
@@ -1797,7 +1797,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793626078
+        "lastLogin": 1793655805
       },
       {
         "username": "taco13001",
@@ -1951,7 +1951,7 @@
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793646543
+        "lastLogin": 1793656023
       },
       {
         "username": "malott12",
@@ -1976,14 +1976,14 @@
         "members": 46
       },
       "daily": {
-        "races": 732,
+        "races": 724,
         "avgWPM": 80,
-        "avgAcc": 94.11,
+        "avgAcc": 94.09,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793655297946
+    "_syncedAt": 1793657616613
   }
 }

@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2346,
+  "profileViews": 2347,
   "leagueTier": 13,
   "racers": [
     {
@@ -184,8 +184,8 @@
       "allTimeRaces": 817,
       "wpm": 69,
       "highestWPM": 84,
-      "teamRaces": 314,
-      "acc": 94.6,
+      "teamRaces": 316,
+      "acc": 94.61,
       "season": null,
       "status": "active",
       "lastLogin": 1793654671
@@ -237,14 +237,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7250,
+      "allTimeRaces": 7277,
       "wpm": 76,
       "highestWPM": 102,
-      "teamRaces": 1225,
-      "acc": 93.53,
+      "teamRaces": 1242,
+      "acc": 93.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1793641253
+      "lastLogin": 1793655461
     },
     {
       "username": "cash4087",
@@ -377,14 +377,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1813,
-      "wpm": 95,
+      "allTimeRaces": 1820,
+      "wpm": 94,
       "highestWPM": 119,
-      "teamRaces": 1466,
-      "acc": 94.28,
+      "teamRaces": 1473,
+      "acc": 94.27,
       "season": null,
       "status": "active",
-      "lastLogin": 1793652270
+      "lastLogin": 1793655891
     },
     {
       "username": "imenishat",
@@ -405,14 +405,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1717,
-      "wpm": 95,
+      "allTimeRaces": 1729,
+      "wpm": 99,
       "highestWPM": 127,
-      "teamRaces": 184,
-      "acc": 90.76,
+      "teamRaces": 189,
+      "acc": 90.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793634141
+      "lastLogin": 1793656446
     },
     {
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
@@ -447,14 +447,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5482,
+      "allTimeRaces": 5485,
       "wpm": 94,
       "highestWPM": 128,
       "teamRaces": 3057,
       "acc": 92.7,
       "season": null,
       "status": "active",
-      "lastLogin": 1793653589
+      "lastLogin": 1793657079
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -657,31 +657,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 583,
-      "wpm": 99,
+      "allTimeRaces": 584,
+      "wpm": 98,
       "highestWPM": 120,
-      "teamRaces": 340,
+      "teamRaces": 341,
       "acc": 91.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793621933
+      "lastLogin": 1793655322
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 65136,
+      "races": 65168,
       "avgWPM": 77,
       "avgAcc": 94.93,
       "members": 47
     },
     "daily": {
-      "races": 968,
+      "races": 978,
       "avgWPM": 80,
-      "avgAcc": 94.46,
+      "avgAcc": 94.42,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793654969929
+  "_syncedAt": 1793657303549
 }
