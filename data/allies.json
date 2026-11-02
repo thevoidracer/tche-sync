@@ -3,10 +3,10 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 44,
-    "activePercent": 88,
+    "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3079,
+    "profileViews": 3080,
     "leagueTier": 13,
     "racers": [
       {
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793597249507
+    "_syncedAt": 1793600779694
   },
   "SVC": {
     "tag": "SVC",
@@ -1203,7 +1203,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793597271581
+    "_syncedAt": 1793600798699
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,16 +1255,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793597290430
+    "_syncedAt": 1793600817617
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 46,
-    "activePercent": 100,
+    "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4894,
+    "profileViews": 4895,
     "leagueTier": 13,
     "racers": [
       {
@@ -1279,7 +1279,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1793593889
+        "lastLogin": 1793598487
       },
       {
         "username": "joepellicc_gold",
@@ -1342,14 +1342,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12256,
-        "wpm": 50,
+        "allTimeRaces": 12270,
+        "wpm": 65,
         "highestWPM": 120,
-        "teamRaces": 5295,
+        "teamRaces": 5309,
         "acc": 92.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1793580368
+        "lastLogin": 1793598821
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130534,
+        "races": 130548,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 755,
-        "avgWPM": 82,
-        "avgAcc": 94.52,
+        "races": 739,
+        "avgWPM": 81,
+        "avgAcc": 94.51,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793597459936
+    "_syncedAt": 1793600987168
   }
 }

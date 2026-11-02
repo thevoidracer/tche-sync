@@ -26,7 +26,7 @@
         "ppr": 122
       },
       "weekly": {
-        "rank": 47,
+        "rank": 48,
         "races": 170,
         "accuracy": 91.4,
         "wpm": 67.2,
@@ -49,7 +49,7 @@
     "points": 524627,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793597271410
+    "_syncedAt": 1793600798510
   },
   "SVC": {
     "timeframes": {
@@ -101,7 +101,7 @@
     "points": 247907,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793597290320
+    "_syncedAt": 1793600817450
   },
   "IMTR": {
     "timeframes": {
@@ -118,40 +118,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793597459773
+    "_syncedAt": 1793600986914
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 17,
-        "races": 755,
-        "accuracy": 94.21,
-        "wpm": 82.1,
-        "points": 100329,
+        "races": 739,
+        "accuracy": 94.19,
+        "wpm": 81.5,
+        "points": 97979,
         "ppr": 133
       },
       "season": {
         "rank": 22,
-        "races": 13313,
+        "races": 13327,
         "accuracy": 94.14,
         "wpm": 76.4,
-        "points": 1732005,
+        "points": 1733769,
         "ppr": 130
       },
       "week": {
         "rank": 16,
-        "races": 7403,
+        "races": 7417,
         "accuracy": 94.44,
         "wpm": 78.9,
-        "points": 975027,
+        "points": 976796,
         "ppr": 132
       },
       "weekly": {
         "rank": 18,
-        "races": 755,
-        "accuracy": 94.21,
-        "wpm": 82.1,
-        "points": 100329,
+        "races": 769,
+        "accuracy": 94.24,
+        "wpm": 81.8,
+        "points": 102098,
         "ppr": 133
       },
       "alltime": {
@@ -164,12 +164,12 @@
       }
     },
     "rank": 22,
-    "races": 13313,
+    "races": 13327,
     "accuracy": 94.14,
     "wpm": 76.4,
-    "points": 1732005,
+    "points": 1733769,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793597479386
+    "_syncedAt": 1793601007185
   }
 }
