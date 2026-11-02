@@ -167,14 +167,14 @@
       "displayName": "xX_VICTORY_Xx",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7437,
+      "allTimeRaces": 7521,
       "wpm": 80,
       "highestWPM": 110,
-      "teamRaces": 331,
-      "acc": 97.31,
+      "teamRaces": 382,
+      "acc": 97.33,
       "season": null,
       "status": "active",
-      "lastLogin": 1793591157
+      "lastLogin": 1793595323
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64440,
+      "races": 64491,
       "avgWPM": 77,
-      "avgAcc": 94.94,
+      "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 605,
+      "races": 598,
       "avgWPM": 83,
-      "avgAcc": 94.7,
+      "avgAcc": 94.74,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793593393304
+  "_syncedAt": 1793597151923
 }

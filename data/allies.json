@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793593492626
+    "_syncedAt": 1793597249507
   },
   "SVC": {
     "tag": "SVC",
@@ -869,14 +869,14 @@
         "displayName": "BabyDudeSued",
         "role": "member",
         "joinStamp": 1788876402,
-        "allTimeRaces": 876,
-        "wpm": 98,
+        "allTimeRaces": 878,
+        "wpm": 97,
         "highestWPM": 122,
-        "teamRaces": 332,
-        "acc": 93.62,
+        "teamRaces": 334,
+        "acc": 93.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1793591389
+        "lastLogin": 1793594795
       },
       {
         "username": "walb253",
@@ -1189,21 +1189,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 41800,
+        "races": 41802,
         "avgWPM": 82,
         "avgAcc": 94.29,
         "members": 38
       },
       "daily": {
-        "races": 9,
+        "races": 11,
         "avgWPM": 91,
-        "avgAcc": 95.49,
+        "avgAcc": 95.28,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793593516299
+    "_syncedAt": 1793597271581
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793593535251
+    "_syncedAt": 1793597290430
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1279,7 +1279,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1793585618
+        "lastLogin": 1793593889
       },
       {
         "username": "joepellicc_gold",
@@ -1538,11 +1538,11 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8663,
-        "wpm": 66,
+        "allTimeRaces": 8675,
+        "wpm": 68,
         "highestWPM": 95,
-        "teamRaces": 1108,
-        "acc": 97.32,
+        "teamRaces": 1128,
+        "acc": 97.33,
         "season": null,
         "status": "active",
         "lastLogin": 1793592767
@@ -1914,20 +1914,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130514,
+        "races": 130534,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 735,
+        "races": 755,
         "avgWPM": 82,
-        "avgAcc": 94.46,
+        "avgAcc": 94.52,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793593704775
+    "_syncedAt": 1793597459936
   }
 }
