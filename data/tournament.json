@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793609382100
+        "_syncedAt": 1793612853193
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1626,7 +1626,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 20154
                 },
@@ -1736,7 +1736,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 11775
                 },
@@ -1888,7 +1888,7 @@
               "players": [
                 {
                   "seed": "18",
-                  "racer": "NitroLegends",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2020,7 +2020,7 @@
               "players": [
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2256,7 +2256,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 45645
                 }
@@ -2314,7 +2314,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14620
                 },
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NitroLegends",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2452,7 +2452,7 @@
                 },
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2570,7 +2570,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 43029
                 }
@@ -2634,7 +2634,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NitroLegends",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2730,7 +2730,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14167
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793609398705
+        "_syncedAt": 1793612869165
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793609398708
+  "_syncedAt": 1793612869167
 }
