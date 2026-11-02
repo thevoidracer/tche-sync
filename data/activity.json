@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-10-31 23:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-01 00:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 2
-    },
-    {
       "hour": "2026-11-01 00:00:00",
       "racer": "asteroids",
-      "races": 2
+      "races": 1
     },
     {
       "hour": "2026-11-01 02:00:00",
@@ -132,12 +122,12 @@
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "Odetari - GMFU",
+      "racer": "O       G",
       "races": 0
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "O       G",
+      "racer": "Odetari - GMFU",
       "races": 0
     },
     {
@@ -204,8 +194,13 @@
       "hour": "2026-11-01 23:00:00",
       "racer": "Itypeforfun",
       "races": 23
+    },
+    {
+      "hour": "2026-11-01 23:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793577358405
+  "_syncedAt": 1793579178909
 }

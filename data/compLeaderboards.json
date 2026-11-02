@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "THB0S",
+        "username": "ella",
+        "displayName": "ella",
+        "nickname": "Rocky",
+        "squad": "Officer",
+        "races": 30,
+        "wpm": 85.2,
+        "accuracy": 95.45,
+        "points": 4083,
+        "tier": "A"
+      },
+      {
+        "rank": 10,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -120,7 +133,7 @@
         "tier": "A"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "THB0S",
         "username": "BRADYDARACER",
         "displayName": "BRADYDARACER",
@@ -133,7 +146,7 @@
         "tier": "A"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "THB0S",
         "username": "RHYMESCHEME",
         "displayName": "RHYMESCHEME",
@@ -143,19 +156,6 @@
         "wpm": 92.4,
         "accuracy": 94.82,
         "points": 3050,
-        "tier": "A"
-      },
-      {
-        "rank": 12,
-        "tag": "THB0S",
-        "username": "ella",
-        "displayName": "ella",
-        "nickname": "Velocity Wrapper",
-        "squad": "Officer",
-        "races": 17,
-        "wpm": 84.8,
-        "accuracy": 95.17,
-        "points": 2304,
         "tier": "A"
       },
       {
@@ -217,10 +217,10 @@
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
         "squad": "Side Hustler 100",
-        "races": 3,
-        "wpm": 74.9,
-        "accuracy": 88.3,
-        "points": 364,
+        "races": 4,
+        "wpm": 76.2,
+        "accuracy": 88.77,
+        "points": 490,
         "tier": "C"
       },
       {
@@ -315,7 +315,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793577400251
+    "_syncedAt": 1793579220979
   },
   "1463": {
     "eventId": "1463",
@@ -405,10 +405,10 @@
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
         "squad": "Side Hustler 100",
-        "races": 7,
-        "wpm": 75.5,
-        "accuracy": 90,
-        "points": 868,
+        "races": 8,
+        "wpm": 76.1,
+        "accuracy": 90.03,
+        "points": 994,
         "tier": null
       },
       {
@@ -438,6 +438,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793577404290
+    "_syncedAt": 1793579225444
   }
 }
