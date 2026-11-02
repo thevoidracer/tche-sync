@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨47.3M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2300,
+  "profileViews": 2301,
   "leagueTier": 13,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "certified",
       "role": "member",
       "joinStamp": 1792679740,
-      "allTimeRaces": 13940,
-      "wpm": 81,
+      "allTimeRaces": 13949,
+      "wpm": 82,
       "highestWPM": 117,
       "teamRaces": 43,
       "acc": 91.93,
       "season": null,
       "status": "active",
-      "lastLogin": 1793282773
+      "lastLogin": 1793626754
     },
     {
       "username": "nathanmduncan",
@@ -384,7 +384,7 @@
       "acc": 93.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1793373315
+      "lastLogin": 1793626601
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -468,7 +468,7 @@
       "acc": 92.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793622120
+      "lastLogin": 1793627278
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -587,14 +587,14 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 822,
-      "wpm": 94,
+      "allTimeRaces": 825,
+      "wpm": 93,
       "highestWPM": 215,
       "teamRaces": 42,
       "acc": 92.25,
       "season": null,
       "status": "active",
-      "lastLogin": 1793208175
+      "lastLogin": 1793626957
     },
     {
       "username": "bc6469247e9ac57a0a45c6c345d4bb57",
@@ -657,14 +657,14 @@
       "displayName": "Itypeforfun",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1738,
-      "wpm": 81,
+      "allTimeRaces": 1757,
+      "wpm": 86,
       "highestWPM": 140,
-      "teamRaces": 66,
-      "acc": 94.5,
+      "teamRaces": 79,
+      "acc": 94.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793584768
+      "lastLogin": 1793624432
     },
     {
       "username": "newkeyboard512",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64666,
+      "races": 64679,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 773,
+      "races": 752,
       "avgWPM": 82,
       "avgAcc": 95.23,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793622727837
+  "_syncedAt": 1793627293265
 }
