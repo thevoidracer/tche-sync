@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793605905912
+        "_syncedAt": 1793609382100
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Pandora",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -1626,7 +1626,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 20154
                 },
@@ -1736,7 +1736,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 11775
                 },
@@ -1888,7 +1888,7 @@
               "players": [
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "NitroLegends",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2210,7 +2210,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Pandora",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2256,7 +2256,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 45645
                 }
@@ -2314,7 +2314,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 14620
                 },
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "NitroLegends",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2546,7 +2546,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Pandora",
+                  "racer": "Adam Smasher",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2570,7 +2570,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 43029
                 }
@@ -2634,7 +2634,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "NitroLegends",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2730,7 +2730,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 14167
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793605922431
+        "_syncedAt": 1793609398705
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793605922433
+  "_syncedAt": 1793609398708
 }

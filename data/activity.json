@@ -117,12 +117,12 @@
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "UJAADDAH",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -172,12 +172,12 @@
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "asteroids",
+      "racer": "Nitrex",
       "races": 2
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "Nitrex",
+      "racer": "asteroids",
       "races": 2
     },
     {
@@ -217,10 +217,20 @@
     },
     {
       "hour": "2026-11-02 07:00:00",
+      "racer": "asteroids",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-02 07:00:00",
       "racer": "Eclipse",
       "races": 12
+    },
+    {
+      "hour": "2026-11-02 08:00:00",
+      "racer": "asteroids",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793605885398
+  "_syncedAt": 1793609361967
 }
