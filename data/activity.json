@@ -1,39 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 14:00:00",
-      "racer": "Void Racer",
-      "races": 16
-    },
-    {
-      "hour": "2026-11-01 14:00:00",
-      "racer": "-HyperTyper-",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-01 14:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 4
-    },
-    {
       "hour": "2026-11-01 15:00:00",
       "racer": "Void Racer",
-      "races": 19
+      "races": 14
     },
     {
       "hour": "2026-11-01 15:00:00",
       "racer": "UJAADDAH",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-01 15:00:00",
-      "racer": "-HyperTyper-",
       "races": 8
-    },
-    {
-      "hour": "2026-11-01 15:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 2
     },
     {
       "hour": "2026-11-01 16:00:00",
@@ -87,12 +62,12 @@
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "UJAADDAH",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -142,12 +117,12 @@
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "asteroids",
+      "racer": "Nitrex",
       "races": 2
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "Nitrex",
+      "racer": "asteroids",
       "races": 2
     },
     {
@@ -222,20 +197,50 @@
     },
     {
       "hour": "2026-11-02 14:00:00",
+      "racer": "me_likey_typey",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-02 14:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-02 14:00:00",
       "racer": "Itypeforfun",
       "races": 5
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 4
+      "racer": "certified",
+      "races": 3
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "certified",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 3
+    },
+    {
+      "hour": "2026-11-02 15:00:00",
+      "racer": "Namedisplayed",
+      "races": 20
+    },
+    {
+      "hour": "2026-11-02 15:00:00",
+      "racer": "me_likey_typey",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-02 15:00:00",
+      "racer": "LogicalCrimsonRoadrunner",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-02 15:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793630783963
+  "_syncedAt": 1793633911296
 }
