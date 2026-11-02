@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 13:00:00",
-      "racer": "rorok09",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-01 13:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-01 14:00:00",
-      "racer": "rorok09",
-      "races": 21
-    },
-    {
       "hour": "2026-11-01 14:00:00",
       "racer": "Void Racer",
       "races": 16
@@ -23,17 +8,12 @@
     {
       "hour": "2026-11-01 14:00:00",
       "racer": "-HyperTyper-",
-      "races": 12
+      "races": 6
     },
     {
       "hour": "2026-11-01 14:00:00",
       "racer": "SKZ FIRAH",
       "races": 4
-    },
-    {
-      "hour": "2026-11-01 14:00:00",
-      "racer": "UJAADDAH",
-      "races": 3
     },
     {
       "hour": "2026-11-01 15:00:00",
@@ -107,12 +87,12 @@
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "UJAADDAH",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -162,12 +142,12 @@
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "Nitrex",
+      "racer": "asteroids",
       "races": 2
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "asteroids",
+      "racer": "Nitrex",
       "races": 2
     },
     {
@@ -222,10 +202,40 @@
     },
     {
       "hour": "2026-11-02 13:00:00",
+      "racer": "certified",
+      "races": 22
+    },
+    {
+      "hour": "2026-11-02 13:00:00",
       "racer": "Itypeforfun",
-      "races": 13
+      "races": 20
+    },
+    {
+      "hour": "2026-11-02 13:00:00",
+      "racer": "loganim12btw",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-02 13:00:00",
+      "racer": "- 9te -",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-02 14:00:00",
+      "racer": "Itypeforfun",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-02 14:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-02 14:00:00",
+      "racer": "certified",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793627349458
+  "_syncedAt": 1793630783963
 }

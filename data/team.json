@@ -4,8 +4,8 @@
   "members": 48,
   "activePercent": 95,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨47.3M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2301,
+  "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
+  "profileViews": 2303,
   "leagueTier": 13,
   "racers": [
     {
@@ -55,11 +55,11 @@
       "displayName": "certified",
       "role": "member",
       "joinStamp": 1792679740,
-      "allTimeRaces": 13949,
+      "allTimeRaces": 13965,
       "wpm": 82,
       "highestWPM": 117,
-      "teamRaces": 43,
-      "acc": 91.93,
+      "teamRaces": 68,
+      "acc": 92.03,
       "season": null,
       "status": "active",
       "lastLogin": 1793626754
@@ -216,7 +216,7 @@
       "acc": 95.8,
       "season": null,
       "status": "active",
-      "lastLogin": 1793416107
+      "lastLogin": 1793628251
     },
     {
       "username": "teraceeben21",
@@ -279,14 +279,14 @@
       "displayName": "- 9te -",
       "role": "member",
       "joinStamp": 1790386046,
-      "allTimeRaces": 2018,
-      "wpm": 82,
+      "allTimeRaces": 2020,
+      "wpm": 83,
       "highestWPM": 104,
-      "teamRaces": 563,
+      "teamRaces": 565,
       "acc": 90.51,
       "season": null,
       "status": "active",
-      "lastLogin": 1793025540
+      "lastLogin": 1793627751
     },
     {
       "username": "linmauelmiranda",
@@ -517,14 +517,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1197,
-      "wpm": 49,
+      "allTimeRaces": 1201,
+      "wpm": 51,
       "highestWPM": 80,
-      "teamRaces": 95,
-      "acc": 92.58,
+      "teamRaces": 99,
+      "acc": 92.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1793585565
+      "lastLogin": 1793628277
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -538,7 +538,7 @@
       "acc": 91.52,
       "season": null,
       "status": "active",
-      "lastLogin": 1793579990
+      "lastLogin": 1793629023
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -552,7 +552,7 @@
       "acc": 91.72,
       "season": null,
       "status": "active",
-      "lastLogin": 1793362572
+      "lastLogin": 1793627440
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -587,11 +587,11 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 825,
+      "allTimeRaces": 828,
       "wpm": 93,
       "highestWPM": 215,
-      "teamRaces": 42,
-      "acc": 92.25,
+      "teamRaces": 48,
+      "acc": 92.08,
       "season": null,
       "status": "active",
       "lastLogin": 1793626957
@@ -657,11 +657,11 @@
       "displayName": "Itypeforfun",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1757,
-      "wpm": 86,
+      "allTimeRaces": 1763,
+      "wpm": 84,
       "highestWPM": 140,
-      "teamRaces": 79,
-      "acc": 94.71,
+      "teamRaces": 91,
+      "acc": 94.8,
       "season": null,
       "status": "active",
       "lastLogin": 1793624432
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64679,
+      "races": 64728,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 752,
-      "avgWPM": 82,
-      "avgAcc": 95.23,
+      "races": 746,
+      "avgWPM": 81,
+      "avgAcc": 95.04,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793627293265
+  "_syncedAt": 1793630716014
 }
