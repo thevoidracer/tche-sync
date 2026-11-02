@@ -181,25 +181,25 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 815,
-      "wpm": 65,
+      "allTimeRaces": 817,
+      "wpm": 69,
       "highestWPM": 84,
       "teamRaces": 314,
       "acc": 94.6,
       "season": null,
       "status": "active",
-      "lastLogin": 1793395701
+      "lastLogin": 1793654671
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1365,
-      "wpm": 96,
+      "allTimeRaces": 1375,
+      "wpm": 95,
       "highestWPM": 120,
-      "teamRaces": 171,
-      "acc": 95.8,
+      "teamRaces": 190,
+      "acc": 95.77,
       "season": null,
       "status": "active",
       "lastLogin": 1793652127
@@ -377,10 +377,10 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1803,
+      "allTimeRaces": 1813,
       "wpm": 95,
       "highestWPM": 119,
-      "teamRaces": 1450,
+      "teamRaces": 1466,
       "acc": 94.28,
       "season": null,
       "status": "active",
@@ -447,28 +447,28 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5481,
-      "wpm": 98,
+      "allTimeRaces": 5482,
+      "wpm": 94,
       "highestWPM": 128,
-      "teamRaces": 3056,
-      "acc": 92.71,
+      "teamRaces": 3057,
+      "acc": 92.7,
       "season": null,
       "status": "active",
-      "lastLogin": 1793637641
+      "lastLogin": 1793653589
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
       "displayName": "NotoriousJuJu",
       "role": "member",
       "joinStamp": 1793293886,
-      "allTimeRaces": 731,
-      "wpm": 92,
+      "allTimeRaces": 739,
+      "wpm": 98,
       "highestWPM": 127,
-      "teamRaces": 40,
-      "acc": 92.64,
+      "teamRaces": 48,
+      "acc": 92.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1793640862
+      "lastLogin": 1793652725
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -636,7 +636,7 @@
       "acc": 96.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1793113854
+      "lastLogin": 1793653748
     },
     {
       "username": "xaliishere",
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 65092,
+      "races": 65136,
       "avgWPM": 77,
       "avgAcc": 94.93,
       "members": 47
     },
     "daily": {
-      "races": 953,
-      "avgWPM": 79,
-      "avgAcc": 94.49,
+      "races": 968,
+      "avgWPM": 80,
+      "avgAcc": 94.46,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793652572136
+  "_syncedAt": 1793654969929
 }

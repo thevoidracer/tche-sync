@@ -6,7 +6,7 @@
     "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3097,
+    "profileViews": 3099,
     "leagueTier": 13,
     "racers": [
       {
@@ -154,11 +154,11 @@
         "displayName": "FluffCat",
         "role": "member",
         "joinStamp": 1787591904,
-        "allTimeRaces": 2596,
-        "wpm": 75,
+        "allTimeRaces": 2597,
+        "wpm": 76,
         "highestWPM": 96,
-        "teamRaces": 407,
-        "acc": 95.61,
+        "teamRaces": 409,
+        "acc": 95.6,
         "season": null,
         "status": "active",
         "lastLogin": 1793651107
@@ -245,7 +245,7 @@
         "acc": 94.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1793550091
+        "lastLogin": 1793652987
       },
       {
         "username": "64c45ad8e0e9d6b8c8eae75b19f3e317",
@@ -280,14 +280,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1293,
-        "wpm": 58,
+        "allTimeRaces": 1294,
+        "wpm": 59,
         "highestWPM": 75,
         "teamRaces": 486,
         "acc": 94.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1793648670
+        "lastLogin": 1793654676
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -490,14 +490,14 @@
         "displayName": "Barcelona",
         "role": "member",
         "joinStamp": 1790805421,
-        "allTimeRaces": 610,
+        "allTimeRaces": 612,
         "wpm": 25,
         "highestWPM": 46,
         "teamRaces": 170,
         "acc": 95,
         "season": null,
         "status": "active",
-        "lastLogin": 1793633986
+        "lastLogin": 1793654948
       },
       {
         "username": "lillie1432",
@@ -684,21 +684,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81650,
+        "races": 81652,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 48
       },
       "daily": {
-        "races": 522,
+        "races": 518,
         "avgWPM": 71,
-        "avgAcc": 92.56,
+        "avgAcc": 92.64,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793652674870
+    "_syncedAt": 1793655086843
   },
   "SVC": {
     "tag": "SVC",
@@ -743,11 +743,11 @@
         "displayName": "TheGoat67",
         "role": "member",
         "joinStamp": 1789586485,
-        "allTimeRaces": 1889,
-        "wpm": 88,
+        "allTimeRaces": 1900,
+        "wpm": 89,
         "highestWPM": 115,
-        "teamRaces": 496,
-        "acc": 94.52,
+        "teamRaces": 508,
+        "acc": 94.53,
         "season": null,
         "status": "active",
         "lastLogin": 1793652433
@@ -925,14 +925,14 @@
         "displayName": "BabyDudeSued",
         "role": "member",
         "joinStamp": 1788876402,
-        "allTimeRaces": 891,
-        "wpm": 93,
+        "allTimeRaces": 895,
+        "wpm": 95,
         "highestWPM": 122,
-        "teamRaces": 347,
-        "acc": 93.62,
+        "teamRaces": 351,
+        "acc": 93.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1793638978
+        "lastLogin": 1793654356
       },
       {
         "username": "walb253",
@@ -953,14 +953,14 @@
         "displayName": "Rico_main",
         "role": "officer",
         "joinStamp": 1786731291,
-        "allTimeRaces": 26485,
-        "wpm": 114,
+        "allTimeRaces": 26488,
+        "wpm": 113,
         "highestWPM": 161,
-        "teamRaces": 3778,
+        "teamRaces": 3781,
         "acc": 96.24,
         "season": null,
         "status": "active",
-        "lastLogin": 1793382469
+        "lastLogin": 1793653124
       },
       {
         "username": "d8cb8a992726bab43a1bc59c2d886bf8",
@@ -1009,14 +1009,14 @@
         "displayName": "WhimsicalAmberDolphin",
         "role": "member",
         "joinStamp": 1792523974,
-        "allTimeRaces": 30,
-        "wpm": 75,
-        "highestWPM": 85,
-        "teamRaces": 1,
-        "acc": 97.58,
+        "allTimeRaces": 32,
+        "wpm": 76,
+        "highestWPM": 89,
+        "teamRaces": 3,
+        "acc": 96.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1792523895
+        "lastLogin": 1793653303
       },
       {
         "username": "carsonthemaniac",
@@ -1245,21 +1245,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 41835,
+        "races": 41856,
         "avgWPM": 82,
         "avgAcc": 94.29,
         "members": 38
       },
       "daily": {
-        "races": 44,
-        "avgWPM": 90,
-        "avgAcc": 94.37,
+        "races": 65,
+        "avgWPM": 91,
+        "avgAcc": 94.56,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793652694981
+    "_syncedAt": 1793655109126
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1311,7 +1311,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793652713880
+    "_syncedAt": 1793655128177
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1923,7 +1923,7 @@
         "acc": 95.57,
         "season": null,
         "status": "active",
-        "lastLogin": 1793631474
+        "lastLogin": 1793653181
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1976,14 +1976,14 @@
         "members": 46
       },
       "daily": {
-        "races": 742,
-        "avgWPM": 79,
-        "avgAcc": 94.09,
+        "races": 732,
+        "avgWPM": 80,
+        "avgAcc": 94.11,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793652883447
+    "_syncedAt": 1793655297946
   }
 }

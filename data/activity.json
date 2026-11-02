@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 20:00:00",
-      "racer": "KirbyDelta",
-      "races": 5
-    },
-    {
       "hour": "2026-11-01 21:00:00",
       "racer": "KirbyDelta",
-      "races": 45
+      "races": 13
     },
     {
       "hour": "2026-11-01 22:00:00",
@@ -272,15 +267,40 @@
     },
     {
       "hour": "2026-11-02 20:00:00",
+      "racer": "Joe and Uh",
+      "races": 19
+    },
+    {
+      "hour": "2026-11-02 20:00:00",
       "racer": "WindMaker",
       "races": 13
     },
     {
       "hour": "2026-11-02 20:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-02 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-02 20:00:00",
       "racer": "sterling757",
       "races": 3
+    },
+    {
+      "hour": "2026-11-02 21:00:00",
+      "racer": "Namedisplayed",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-02 21:00:00",
+      "racer": "Void Racer",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793652627918
+  "_syncedAt": 1793655039960
 }
