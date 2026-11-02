@@ -43,6 +43,19 @@
       },
       {
         "rank": 4,
+        "tag": "KEYCAT",
+        "username": "Unique Cat Halloween",
+        "displayName": "Unique Cat Halloween",
+        "nickname": "Scaredy-Cat",
+        "squad": null,
+        "races": 57,
+        "wpm": 101.2,
+        "accuracy": 94.09,
+        "points": 8076,
+        "tier": "A"
+      },
+      {
+        "rank": 5,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
@@ -55,7 +68,7 @@
         "tier": "A"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -68,7 +81,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -81,7 +94,7 @@
         "tier": "A"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "THB0S",
         "username": "trsgray",
         "displayName": "trsgray",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "THB0S",
         "username": "Mwhit4",
         "displayName": "Mwhit4",
@@ -107,7 +120,7 @@
         "tier": "C"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "KEYCAT",
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
@@ -120,7 +133,7 @@
         "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "THB0S",
         "username": "ella",
         "displayName": "ella",
@@ -130,19 +143,6 @@
         "wpm": 85.2,
         "accuracy": 95.45,
         "points": 4083,
-        "tier": "A"
-      },
-      {
-        "rank": 11,
-        "tag": "KEYCAT",
-        "username": "Unique Cat Halloween",
-        "displayName": "Unique Cat Halloween",
-        "nickname": "Scaredy-Cat",
-        "squad": null,
-        "races": 28,
-        "wpm": 102.5,
-        "accuracy": 94.55,
-        "points": 4004,
         "tier": "A"
       },
       {
@@ -510,7 +510,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793612873668
+    "_syncedAt": 1793616352627
   },
   "1463": {
     "eventId": "1463",
@@ -659,6 +659,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793612877612
+    "_syncedAt": 1793616356519
   }
 }
