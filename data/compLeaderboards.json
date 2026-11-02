@@ -35,10 +35,10 @@
         "displayName": "Itypeforfun",
         "nickname": "Hallowampus Fanclub",
         "squad": "Starter Fund",
-        "races": 58,
-        "wpm": 84.2,
-        "accuracy": 94.26,
-        "points": 7768,
+        "races": 61,
+        "wpm": 84,
+        "accuracy": 94.25,
+        "points": 8165,
         "tier": "B"
       },
       {
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "ella",
+        "displayName": "ella",
+        "nickname": "Velocity Wrapper",
+        "squad": "Officer",
+        "races": 17,
+        "wpm": 84.8,
+        "accuracy": 95.17,
+        "points": 2304,
+        "tier": "A"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -159,7 +172,7 @@
         "tier": "A"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "KEYCAT",
         "username": "BalancedCyanStoat",
         "displayName": "BalancedCyanStoat",
@@ -172,7 +185,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "KEYCAT",
         "username": "Watermelon Cat ALT",
         "displayName": "Watermelon Cat ALT",
@@ -185,7 +198,7 @@
         "tier": "A"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -196,19 +209,6 @@
         "accuracy": 91.23,
         "points": 672,
         "tier": "C"
-      },
-      {
-        "rank": 16,
-        "tag": "THB0S",
-        "username": "ella",
-        "displayName": "ella",
-        "nickname": "Velocity Wrapper",
-        "squad": "Officer",
-        "races": 4,
-        "wpm": 84.6,
-        "accuracy": 95.69,
-        "points": 545,
-        "tier": "A"
       },
       {
         "rank": 17,
@@ -315,7 +315,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793575550881
+    "_syncedAt": 1793577400251
   },
   "1463": {
     "eventId": "1463",
@@ -366,10 +366,10 @@
         "displayName": "Itypeforfun",
         "nickname": "Hallowampus Fanclub",
         "squad": "Starter Fund",
-        "races": 58,
-        "wpm": 84.2,
-        "accuracy": 94.26,
-        "points": 7768,
+        "races": 61,
+        "wpm": 84,
+        "accuracy": 94.25,
+        "points": 8165,
         "tier": null
       },
       {
@@ -438,6 +438,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793575554891
+    "_syncedAt": 1793577404290
   }
 }

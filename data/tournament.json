@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793575528657
+        "_syncedAt": 1793577378812
       }
     },
     {
@@ -1536,7 +1536,7 @@
               "players": [
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Pandora",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -2210,7 +2210,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Pandora",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2546,7 +2546,7 @@
                 },
                 {
                   "seed": "17",
-                  "racer": "Adam Smasher",
+                  "racer": "Pandora",
                   "teamTag": "KEYCAT",
                   "gold": true,
                   "placeholder": false,
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793575546897
+        "_syncedAt": 1793577396165
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793575546901
+  "_syncedAt": 1793577396175
 }

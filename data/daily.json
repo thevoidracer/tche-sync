@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 93,
+      "rank": 94,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,7 +11,7 @@
       "ppr": 130
     },
     {
-      "rank": 132,
+      "rank": 136,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 68,
@@ -21,7 +21,7 @@
       "ppr": 139
     },
     {
-      "rank": 138,
+      "rank": 142,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 68,
@@ -29,6 +29,16 @@
       "wpm": 97.7,
       "points": 9189,
       "ppr": 135
+    },
+    {
+      "rank": 164,
+      "username": "xaliishere",
+      "displayName": "Itypeforfun",
+      "races": 61,
+      "accuracy": 94.25,
+      "wpm": 84,
+      "points": 8165,
+      "ppr": 134
     },
     {
       "rank": 198,
@@ -41,16 +51,6 @@
       "ppr": 138
     },
     {
-      "rank": 204,
-      "username": "xaliishere",
-      "displayName": "Itypeforfun",
-      "races": 47,
-      "accuracy": 94.49,
-      "wpm": 84.5,
-      "points": 6316,
-      "ppr": 134
-    },
-    {
       "rank": 210,
       "username": "taylorja32",
       "displayName": "Void Racer",
@@ -61,7 +61,7 @@
       "ppr": 138
     },
     {
-      "rank": 263,
+      "rank": 265,
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
       "races": 36,
@@ -71,17 +71,17 @@
       "ppr": 129
     },
     {
-      "rank": 384,
+      "rank": 435,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
-      "races": 20,
-      "accuracy": 90.89,
-      "wpm": 75.9,
-      "points": 2508,
+      "races": 15,
+      "accuracy": 90.75,
+      "wpm": 75.2,
+      "points": 1873,
       "ppr": 125
     },
     {
-      "rank": 604,
+      "rank": 612,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -91,5 +91,5 @@
       "ppr": 131
     }
   ],
-  "_syncedAt": 1793575504628
+  "_syncedAt": 1793577355156
 }

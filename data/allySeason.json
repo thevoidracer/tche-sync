@@ -2,7 +2,7 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 39,
+        "rank": 40,
         "races": 205,
         "accuracy": 92.58,
         "wpm": 65.1,
@@ -49,7 +49,7 @@
     "points": 521056,
     "ppr": 122,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793575573607
+    "_syncedAt": 1793577425272
   },
   "SVC": {
     "timeframes": {
@@ -87,7 +87,7 @@
     "points": 246383,
     "ppr": 132,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793575652749
+    "_syncedAt": 1793577504421
   },
   "IMTR": {
     "timeframes": {
@@ -104,40 +104,40 @@
     "points": null,
     "ppr": null,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793575822214
+    "_syncedAt": 1793577673996
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 23,
-        "races": 466,
-        "accuracy": 94.34,
-        "wpm": 75.8,
-        "points": 60630,
+        "rank": 24,
+        "races": 471,
+        "accuracy": 94.31,
+        "wpm": 75.7,
+        "points": 61224,
         "ppr": 130
       },
       "season": {
         "rank": 22,
-        "races": 12950,
+        "races": 12963,
         "accuracy": 94.14,
         "wpm": 76.1,
-        "points": 1683167,
+        "points": 1684928,
         "ppr": 130
       },
       "week": {
         "rank": 16,
-        "races": 7275,
+        "races": 7288,
         "accuracy": 94.49,
-        "wpm": 78.8,
-        "points": 958433,
+        "wpm": 78.9,
+        "points": 960193,
         "ppr": 132
       },
       "weekly": {
         "rank": 24,
-        "races": 392,
-        "accuracy": 94.32,
-        "wpm": 78.6,
-        "points": 51496,
+        "races": 405,
+        "accuracy": 94.34,
+        "wpm": 78.8,
+        "points": 53256,
         "ppr": 131
       },
       "alltime": {
@@ -150,12 +150,12 @@
       }
     },
     "rank": 22,
-    "races": 12950,
+    "races": 12963,
     "accuracy": 94.14,
     "wpm": 76.1,
-    "points": 1683167,
+    "points": 1684928,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793575843258
+    "_syncedAt": 1793577693224
   }
 }

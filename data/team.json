@@ -496,7 +496,7 @@
       "acc": 95.48,
       "season": null,
       "status": "active",
-      "lastLogin": 1793140440
+      "lastLogin": 1793575918
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -531,14 +531,14 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 778,
+      "allTimeRaces": 779,
       "wpm": 75,
       "highestWPM": 98,
       "teamRaces": 126,
       "acc": 91.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793561126
+      "lastLogin": 1793576962
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -660,7 +660,7 @@
       "allTimeRaces": 1733,
       "wpm": 81,
       "highestWPM": 140,
-      "teamRaces": 58,
+      "teamRaces": 61,
       "acc": 94.57,
       "season": null,
       "status": "active",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64260,
+      "races": 64263,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 505,
+      "races": 503,
       "avgWPM": 86,
-      "avgAcc": 94.14,
+      "avgAcc": 94.16,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793575453883
+  "_syncedAt": 1793577296948
 }
