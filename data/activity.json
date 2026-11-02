@@ -1,44 +1,19 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 15:00:00",
-      "racer": "Void Racer",
-      "races": 14
-    },
-    {
-      "hour": "2026-11-01 15:00:00",
-      "racer": "UJAADDAH",
-      "races": 8
+      "hour": "2026-11-01 16:00:00",
+      "racer": "Itypeforfun",
+      "races": 16
     },
     {
       "hour": "2026-11-01 16:00:00",
       "racer": "-HyperTyper-",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-01 16:00:00",
-      "racer": "Itypeforfun",
-      "races": 17
+      "races": 6
     },
     {
       "hour": "2026-11-01 16:00:00",
       "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-01 16:00:00",
-      "racer": "UJAADDAH",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-01 16:00:00",
-      "racer": "Odetari - GMFU",
-      "races": 0
-    },
-    {
-      "hour": "2026-11-01 16:00:00",
-      "racer": "O       G",
-      "races": 0
+      "races": 1
     },
     {
       "hour": "2026-11-01 17:00:00",
@@ -62,12 +37,12 @@
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "UJAADDAH",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -117,12 +92,12 @@
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "Nitrex",
+      "racer": "asteroids",
       "races": 2
     },
     {
       "hour": "2026-11-02 01:00:00",
-      "racer": "asteroids",
+      "racer": "Nitrex",
       "races": 2
     },
     {
@@ -212,18 +187,18 @@
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "certified",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 3
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
+      "racer": "certified",
       "races": 3
     },
     {
       "hour": "2026-11-02 15:00:00",
       "racer": "Namedisplayed",
-      "races": 20
+      "races": 26
     },
     {
       "hour": "2026-11-02 15:00:00",
@@ -232,15 +207,40 @@
     },
     {
       "hour": "2026-11-02 15:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-02 15:00:00",
       "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
       "hour": "2026-11-02 15:00:00",
+      "racer": "UJAADDAH",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-02 15:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-02 16:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-02 16:00:00",
       "racer": "BlazingFlowerz",
-      "races": 2
+      "races": 1
+    },
+    {
+      "hour": "2026-11-02 16:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793633911296
+  "_syncedAt": 1793637615603
 }

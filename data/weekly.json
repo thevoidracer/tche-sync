@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 136,
+      "rank": 141,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,7 +11,7 @@
       "ppr": 130
     },
     {
-      "rank": 149,
+      "rank": 155,
       "username": "xaliishere",
       "displayName": "Itypeforfun",
       "races": 91,
@@ -21,7 +21,7 @@
       "ppr": 134
     },
     {
-      "rank": 191,
+      "rank": 200,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 68,
@@ -31,7 +31,7 @@
       "ppr": 139
     },
     {
-      "rank": 195,
+      "rank": 205,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 68,
@@ -41,7 +41,7 @@
       "ppr": 135
     },
     {
-      "rank": 198,
+      "rank": 210,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 64,
@@ -51,7 +51,7 @@
       "ppr": 139
     },
     {
-      "rank": 296,
+      "rank": 316,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 43,
@@ -61,17 +61,37 @@
       "ppr": 138
     },
     {
-      "rank": 421,
+      "rank": 369,
       "username": "3a0b3a8cc922fae587432ade7a6160f7",
       "displayName": "BlazingFlowerz",
-      "races": 33,
-      "accuracy": 92.02,
-      "wpm": 50.7,
-      "points": 3806,
+      "races": 42,
+      "accuracy": 91.99,
+      "wpm": 51.1,
+      "points": 4851,
       "ppr": 115
     },
     {
       "rank": 467,
+      "username": "b12d93562133c1f47d58fd7c2118abd6",
+      "displayName": "Namedisplayed",
+      "races": 26,
+      "accuracy": 93.42,
+      "wpm": 96.1,
+      "points": 3596,
+      "ppr": 138
+    },
+    {
+      "rank": 486,
+      "username": "735493474a38feb614a4a76e3cde2c1a",
+      "displayName": "UJAADDAH",
+      "races": 26,
+      "accuracy": 87.63,
+      "wpm": 93.9,
+      "points": 3348,
+      "ppr": 129
+    },
+    {
+      "rank": 505,
       "username": "vlambjr",
       "displayName": "certified",
       "races": 25,
@@ -81,27 +101,7 @@
       "ppr": 129
     },
     {
-      "rank": 501,
-      "username": "735493474a38feb614a4a76e3cde2c1a",
-      "displayName": "UJAADDAH",
-      "races": 22,
-      "accuracy": 87.2,
-      "wpm": 92.6,
-      "points": 2807,
-      "ppr": 128
-    },
-    {
-      "rank": 506,
-      "username": "b12d93562133c1f47d58fd7c2118abd6",
-      "displayName": "Namedisplayed",
-      "races": 20,
-      "accuracy": 93.46,
-      "wpm": 97.2,
-      "points": 2777,
-      "ppr": 139
-    },
-    {
-      "rank": 527,
+      "rank": 566,
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
       "races": 28,
@@ -111,7 +111,7 @@
       "ppr": 92
     },
     {
-      "rank": 670,
+      "rank": 725,
       "username": "bc6469247e9ac57a0a45c6c345d4bb57",
       "displayName": "LogicalCrimsonRoadrunner",
       "races": 13,
@@ -121,7 +121,7 @@
       "ppr": 113
     },
     {
-      "rank": 688,
+      "rank": 750,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "races": 11,
@@ -131,7 +131,7 @@
       "ppr": 122
     },
     {
-      "rank": 840,
+      "rank": 912,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 3,
@@ -141,7 +141,27 @@
       "ppr": 138
     },
     {
-      "rank": 887,
+      "rank": 922,
+      "username": "5b7204df5a2e2c2bd6d6088673206b01",
+      "displayName": "I KC Zadkiel I",
+      "races": 3,
+      "accuracy": 93.5,
+      "wpm": 75.7,
+      "points": 387,
+      "ppr": 129
+    },
+    {
+      "rank": 925,
+      "username": "bfa8839baa0642556b69448adee42dca",
+      "displayName": "NotoriousJuJu",
+      "races": 3,
+      "accuracy": 90.31,
+      "wpm": 80.7,
+      "points": 380,
+      "ppr": 127
+    },
+    {
+      "rank": 968,
       "username": "47f3f60e491637ed70f8ada27ed45f03",
       "displayName": "- 9te -",
       "races": 2,
@@ -151,5 +171,5 @@
       "ppr": 128
     }
   ],
-  "_syncedAt": 1793633899011
+  "_syncedAt": 1793637602681
 }
