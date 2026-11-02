@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 50
-    },
-    {
       "hour": "2026-11-01 23:00:00",
       "racer": "Itypeforfun",
       "races": 23
@@ -172,7 +167,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -182,7 +177,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "loganim12btw",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -314,8 +309,33 @@
       "hour": "2026-11-02 21:00:00",
       "racer": "-HyperTyper-",
       "races": 1
+    },
+    {
+      "hour": "2026-11-02 22:00:00",
+      "racer": "KirbyDelta",
+      "races": 33
+    },
+    {
+      "hour": "2026-11-02 22:00:00",
+      "racer": "Void Racer",
+      "races": 19
+    },
+    {
+      "hour": "2026-11-02 22:00:00",
+      "racer": "UJAADDAH",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-02 22:00:00",
+      "racer": "GroundedAquaEmu",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-02 22:00:00",
+      "racer": "StefanO",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793657362682
+  "_syncedAt": 1793659643654
 }
