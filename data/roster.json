@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
-    "tierB": 79,
+    "tierA": 92,
+    "tierB": 78,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -225,8 +225,8 @@
       "tier": "C",
       "avgWPM": 74,
       "topWPM": 93,
-      "lifetimeRaces": 2448,
-      "teamRaces": 553,
+      "lifetimeRaces": 2449,
+      "teamRaces": 554,
       "joined": "10/05/26"
     },
     {
@@ -271,14 +271,14 @@
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
       "displayName": "Victoria Ram",
-      "nickname": "Master Motorist",
+      "nickname": "Epic Engager",
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 80,
+      "avgWPM": 78,
       "topWPM": 94,
-      "lifetimeRaces": 1007,
-      "teamRaces": 128,
+      "lifetimeRaces": 1017,
+      "teamRaces": 138,
       "joined": "10/07/26"
     },
     {
@@ -287,11 +287,11 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 81,
       "topWPM": 127,
-      "lifetimeRaces": 20616,
-      "teamRaces": 264,
+      "lifetimeRaces": 20621,
+      "teamRaces": 269,
       "joined": "10/07/26"
     },
     {
@@ -301,10 +301,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 81,
       "topWPM": 165,
-      "lifetimeRaces": 6663,
-      "teamRaces": 40,
+      "lifetimeRaces": 6675,
+      "teamRaces": 52,
       "joined": "10/09/26"
     },
     {
@@ -404,7 +404,7 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 78,
       "topWPM": 228,
       "lifetimeRaces": 1180,
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 101,
       "topWPM": 128,
-      "lifetimeRaces": 5431,
-      "teamRaces": 419,
+      "lifetimeRaces": 5439,
+      "teamRaces": 427,
       "joined": "10/21/26"
     },
     {
@@ -444,10 +444,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 92,
       "topWPM": 215,
-      "lifetimeRaces": 828,
-      "teamRaces": 48,
+      "lifetimeRaces": 829,
+      "teamRaces": 49,
       "joined": "10/22/26"
     },
     {
@@ -613,10 +613,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 84,
+      "avgWPM": 83,
       "topWPM": 140,
-      "lifetimeRaces": 1763,
-      "teamRaces": 91,
+      "lifetimeRaces": 1786,
+      "teamRaces": 114,
       "joined": "11/01/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793637615601
+  "_syncedAt": 1793640743565
 }

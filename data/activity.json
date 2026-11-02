@@ -1,28 +1,13 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 16:00:00",
-      "racer": "Itypeforfun",
-      "races": 16
-    },
-    {
-      "hour": "2026-11-01 16:00:00",
+      "hour": "2026-11-01 17:00:00",
       "racer": "-HyperTyper-",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-01 16:00:00",
-      "racer": "Void Racer",
-      "races": 1
+      "races": 4
     },
     {
       "hour": "2026-11-01 17:00:00",
       "racer": "Itypeforfun",
-      "races": 18
-    },
-    {
-      "hour": "2026-11-01 17:00:00",
-      "racer": "-HyperTyper-",
       "races": 4
     },
     {
@@ -187,12 +172,12 @@
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
+      "racer": "certified",
       "races": 3
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "certified",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 3
     },
     {
@@ -207,12 +192,12 @@
     },
     {
       "hour": "2026-11-02 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
       "hour": "2026-11-02 15:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
+      "racer": "BlazingFlowerz",
       "races": 10
     },
     {
@@ -227,8 +212,18 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
+      "racer": "Itypeforfun",
+      "races": 21
+    },
+    {
+      "hour": "2026-11-02 16:00:00",
+      "racer": "Victoria Ram",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-02 16:00:00",
       "racer": "I KC Zadkiel I",
-      "races": 3
+      "races": 4
     },
     {
       "hour": "2026-11-02 16:00:00",
@@ -239,8 +234,33 @@
       "hour": "2026-11-02 16:00:00",
       "racer": "UJAADDAH",
       "races": 1
+    },
+    {
+      "hour": "2026-11-02 16:00:00",
+      "racer": "loganim12btw",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "Amaterasu",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "Nathan",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "The Big Yahu",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "Itypeforfun",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793637615603
+  "_syncedAt": 1793640743567
 }
