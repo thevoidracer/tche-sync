@@ -6,11 +6,6 @@
       "races": 1
     },
     {
-      "hour": "2026-11-01 02:00:00",
-      "racer": "Void Racer",
-      "races": 1
-    },
-    {
       "hour": "2026-11-01 03:00:00",
       "racer": "UJAADDAH",
       "races": 13
@@ -117,12 +112,12 @@
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "O       G",
+      "racer": "Odetari - GMFU",
       "races": 0
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "Odetari - GMFU",
+      "racer": "O       G",
       "races": 0
     },
     {
@@ -209,8 +204,13 @@
       "hour": "2026-11-02 01:00:00",
       "racer": "Nitrex",
       "races": 2
+    },
+    {
+      "hour": "2026-11-02 02:00:00",
+      "racer": "Itypeforfun",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793583434325
+  "_syncedAt": 1793586665120
 }

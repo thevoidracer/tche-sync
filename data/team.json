@@ -167,14 +167,14 @@
       "displayName": "xX_VICTORY_Xx",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7297,
+      "allTimeRaces": 7298,
       "wpm": 81,
       "highestWPM": 110,
-      "teamRaces": 191,
+      "teamRaces": 192,
       "acc": 97.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1793574803
+      "lastLogin": 1793586493
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -468,7 +468,7 @@
       "acc": 92.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793563796
+      "lastLogin": 1793586189
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -517,14 +517,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1173,
+      "allTimeRaces": 1177,
       "wpm": 51,
       "highestWPM": 80,
-      "teamRaces": 71,
-      "acc": 92.57,
+      "teamRaces": 75,
+      "acc": 92.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1793476751
+      "lastLogin": 1793585565
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -657,14 +657,14 @@
       "displayName": "Itypeforfun",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1733,
+      "allTimeRaces": 1738,
       "wpm": 81,
       "highestWPM": 140,
-      "teamRaces": 61,
-      "acc": 94.57,
+      "teamRaces": 66,
+      "acc": 94.5,
       "season": null,
       "status": "active",
-      "lastLogin": 1793574062
+      "lastLogin": 1793584768
     },
     {
       "username": "newkeyboard512",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64271,
+      "races": 64281,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 501,
+      "races": 510,
       "avgWPM": 86,
       "avgAcc": 94.15,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793583379592
+  "_syncedAt": 1793586610706
 }
