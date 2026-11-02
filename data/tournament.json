@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793616331996
+        "_syncedAt": 1793619194182
       }
     },
     {
@@ -1626,7 +1626,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 20154
                 },
@@ -1736,7 +1736,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 11775
                 },
@@ -1888,7 +1888,7 @@
               "players": [
                 {
                   "seed": "18",
-                  "racer": "NitroLegends",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2256,7 +2256,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 45645
                 }
@@ -2314,7 +2314,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14620
                 },
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NitroLegends",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2570,7 +2570,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 43029
                 }
@@ -2634,7 +2634,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NitroLegends",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2730,7 +2730,7 @@
                   "seed": "24",
                   "racer": "Void Racer",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14167
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793616348312
+        "_syncedAt": 1793619210757
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793616348314
+  "_syncedAt": 1793619210764
 }
