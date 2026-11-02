@@ -588,11 +588,11 @@
         "displayName": "WiltedMuseGirl",
         "role": "member",
         "joinStamp": 1793373102,
-        "allTimeRaces": 327,
-        "wpm": 61,
+        "allTimeRaces": 337,
+        "wpm": 65,
         "highestWPM": 89,
-        "teamRaces": 27,
-        "acc": 93.5,
+        "teamRaces": 37,
+        "acc": 93.46,
         "season": null,
         "status": "active",
         "lastLogin": 1793585631
@@ -628,21 +628,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81156,
+        "races": 81166,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 44
       },
       "daily": {
-        "races": 160,
+        "races": 170,
         "avgWPM": 67,
-        "avgAcc": 92.01,
+        "avgAcc": 92.08,
         "members": 44
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793586710141
+    "_syncedAt": 1793589600781
   },
   "SVC": {
     "tag": "SVC",
@@ -1198,7 +1198,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793586729031
+    "_syncedAt": 1793589625704
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1250,7 +1250,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793586815605
+    "_syncedAt": 1793589704713
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1259,7 +1259,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 285M+ Cash & 18+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4891,
+    "profileViews": 4892,
     "leagueTier": 13,
     "racers": [
       {
@@ -1284,7 +1284,7 @@
         "allTimeRaces": 925,
         "wpm": 102,
         "highestWPM": 120,
-        "teamRaces": 719,
+        "teamRaces": 725,
         "acc": 96.15,
         "season": null,
         "status": "active",
@@ -1645,11 +1645,11 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3072,
-        "wpm": 68,
+        "allTimeRaces": 3079,
+        "wpm": 62,
         "highestWPM": 92,
-        "teamRaces": 361,
-        "acc": 94.13,
+        "teamRaces": 369,
+        "acc": 94.06,
         "season": null,
         "status": "active",
         "lastLogin": 1793584004
@@ -1729,10 +1729,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19508,
-        "wpm": 94,
+        "allTimeRaces": 19583,
+        "wpm": 87,
         "highestWPM": 123,
-        "teamRaces": 19040,
+        "teamRaces": 19116,
         "acc": 94.01,
         "season": null,
         "status": "active",
@@ -1909,20 +1909,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130365,
+        "races": 130455,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 586,
-        "avgWPM": 80,
-        "avgAcc": 94.82,
+        "races": 676,
+        "avgWPM": 82,
+        "avgAcc": 94.53,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793586985090
+    "_syncedAt": 1793589873927
   }
 }
