@@ -117,12 +117,12 @@
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "UJAADDAH",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-11-01 19:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "hour": "2026-11-02 02:00:00",
-      "racer": "xX_VICTORY_Xx",
+      "racer": "Eclipse",
       "races": 47
     },
     {
@@ -197,7 +197,7 @@
     },
     {
       "hour": "2026-11-02 03:00:00",
-      "racer": "xX_VICTORY_Xx",
+      "racer": "Eclipse",
       "races": 67
     },
     {
@@ -207,15 +207,20 @@
     },
     {
       "hour": "2026-11-02 04:00:00",
-      "racer": "xX_VICTORY_Xx",
+      "racer": "Eclipse",
       "races": 77
     },
     {
       "hour": "2026-11-02 06:00:00",
-      "racer": "xX_VICTORY_Xx",
-      "races": 106
+      "racer": "Eclipse",
+      "races": 144
+    },
+    {
+      "hour": "2026-11-02 07:00:00",
+      "racer": "Eclipse",
+      "races": 12
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793600734054
+  "_syncedAt": 1793605885398
 }

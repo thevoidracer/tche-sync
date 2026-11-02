@@ -34,7 +34,7 @@
       "acc": 0,
       "season": null,
       "status": "active",
-      "lastLogin": 1793556817
+      "lastLogin": 1793605789
     },
     {
       "username": "jonathan711111",
@@ -164,17 +164,17 @@
     },
     {
       "username": "jorgespeedway",
-      "displayName": "xX_VICTORY_Xx",
+      "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7601,
-      "wpm": 81,
+      "allTimeRaces": 7644,
+      "wpm": 74,
       "highestWPM": 110,
-      "teamRaces": 488,
-      "acc": 97.33,
+      "teamRaces": 538,
+      "acc": 97.32,
       "season": null,
       "status": "active",
-      "lastLogin": 1793597382
+      "lastLogin": 1793605407
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -314,7 +314,7 @@
       "acc": 95.75,
       "season": null,
       "status": "active",
-      "lastLogin": 1793582739
+      "lastLogin": 1793605791
     },
     {
       "username": "sterling757",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 64597,
+      "races": 64647,
       "avgWPM": 77,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 704,
-      "avgWPM": 83,
-      "avgAcc": 95.11,
+      "races": 754,
+      "avgWPM": 82,
+      "avgAcc": 95.23,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793600679155
+  "_syncedAt": 1793605830241
 }
