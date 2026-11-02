@@ -3,7 +3,7 @@
     {
       "hour": "2026-11-01 23:00:00",
       "racer": "Itypeforfun",
-      "races": 23
+      "races": 3
     },
     {
       "hour": "2026-11-01 23:00:00",
@@ -172,12 +172,12 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 1
     },
     {
@@ -302,12 +302,12 @@
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "Void Racer",
+      "racer": "-HyperTyper-",
       "races": 1
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "Void Racer",
       "races": 1
     },
     {
@@ -318,7 +318,7 @@
     {
       "hour": "2026-11-02 22:00:00",
       "racer": "Void Racer",
-      "races": 19
+      "races": 20
     },
     {
       "hour": "2026-11-02 22:00:00",
@@ -327,15 +327,25 @@
     },
     {
       "hour": "2026-11-02 22:00:00",
+      "racer": "StefanO",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-02 22:00:00",
       "racer": "GroundedAquaEmu",
       "races": 7
     },
     {
-      "hour": "2026-11-02 22:00:00",
+      "hour": "2026-11-02 23:00:00",
       "racer": "StefanO",
-      "races": 6
+      "races": 9
+    },
+    {
+      "hour": "2026-11-02 23:00:00",
+      "racer": "GroundedAquaEmu",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793659643654
+  "_syncedAt": 1793662035431
 }

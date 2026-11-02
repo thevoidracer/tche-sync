@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 102,
+      "avgWPM": 101,
       "topWPM": 128,
-      "lifetimeRaces": 5501,
-      "teamRaces": 3076,
+      "lifetimeRaces": 5502,
+      "teamRaces": 3077,
       "joined": "06/10/26"
     },
     {
@@ -134,8 +134,8 @@
       "tier": "C",
       "avgWPM": 64,
       "topWPM": 84,
-      "lifetimeRaces": 823,
-      "teamRaces": 322,
+      "lifetimeRaces": 834,
+      "teamRaces": 333,
       "joined": "09/08/26"
     },
     {
@@ -209,11 +209,11 @@
       "nickname": "Nitro Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 95,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 108,
-      "lifetimeRaces": 1394,
-      "teamRaces": 166,
+      "lifetimeRaces": 1402,
+      "teamRaces": 173,
       "joined": "09/29/26"
     },
     {
@@ -247,7 +247,7 @@
       "displayName": "insta _trewatkins",
       "nickname": "B.U.S. Driver",
       "role": "member",
-      "squad": "Entrepreneur 500",
+      "squad": "Investor 1k",
       "tier": "A",
       "avgWPM": 94,
       "topWPM": 115,
@@ -546,7 +546,7 @@
       "displayName": "Eclipse",
       "nickname": "#NitroFurze",
       "role": "member",
-      "squad": "Side Hustler 100",
+      "squad": "Entrepreneur 500",
       "tier": "C",
       "avgWPM": 74,
       "topWPM": 110,
@@ -559,7 +559,7 @@
       "displayName": "BlazingFlowerz",
       "nickname": "Winter Warrior",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "C",
       "avgWPM": 52,
       "topWPM": 80,
@@ -611,7 +611,7 @@
       "displayName": "Itypeforfun",
       "nickname": "Hallowampus Fanclub",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "B",
       "avgWPM": 83,
       "topWPM": 140,
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793659643652
+  "_syncedAt": 1793662035430
 }
