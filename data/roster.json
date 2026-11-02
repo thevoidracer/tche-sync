@@ -30,8 +30,8 @@
       "tier": "B",
       "avgWPM": 85,
       "topWPM": 110,
-      "lifetimeRaces": 20415,
-      "teamRaces": 2776,
+      "lifetimeRaces": 20432,
+      "teamRaces": 2792,
       "joined": "06/24/26"
     },
     {
@@ -340,23 +340,23 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 88,
+      "avgWPM": 79,
       "topWPM": 111,
-      "lifetimeRaces": 5456,
-      "teamRaces": 427,
+      "lifetimeRaces": 5474,
+      "teamRaces": 439,
       "joined": "10/15/26"
     },
     {
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "nickname": "Quicker Than the Fox",
+      "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
       "avgWPM": 76,
       "topWPM": 102,
-      "lifetimeRaces": 7200,
-      "teamRaces": 1175,
+      "lifetimeRaces": 7250,
+      "teamRaces": 1224,
       "joined": "10/15/26"
     },
     {
@@ -443,11 +443,11 @@
       "nickname": "WPM Wonderkid",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 84,
       "topWPM": 215,
-      "lifetimeRaces": 829,
-      "teamRaces": 49,
+      "lifetimeRaces": 873,
+      "teamRaces": 85,
       "joined": "10/22/26"
     },
     {
@@ -600,10 +600,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 92,
       "topWPM": 127,
-      "lifetimeRaces": 717,
-      "teamRaces": 26,
+      "lifetimeRaces": 731,
+      "teamRaces": 40,
       "joined": "10/29/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793640743565
+  "_syncedAt": 1793644245319
 }

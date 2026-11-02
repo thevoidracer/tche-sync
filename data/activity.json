@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 17:00:00",
-      "racer": "-HyperTyper-",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-01 17:00:00",
-      "racer": "Itypeforfun",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-01 18:00:00",
-      "racer": "-HyperTyper-",
-      "races": 8
-    },
-    {
       "hour": "2026-11-01 18:00:00",
       "racer": "UJAADDAH",
       "races": 1
@@ -192,12 +177,12 @@
     },
     {
       "hour": "2026-11-02 15:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
+      "racer": "BlazingFlowerz",
       "races": 10
     },
     {
       "hour": "2026-11-02 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 10
     },
     {
@@ -227,11 +212,6 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-02 16:00:00",
       "racer": "UJAADDAH",
       "races": 1
     },
@@ -241,9 +221,29 @@
       "races": 1
     },
     {
+      "hour": "2026-11-02 16:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "KirbyDelta",
+      "races": 22
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "loganim12btw",
+      "races": 15
+    },
+    {
       "hour": "2026-11-02 17:00:00",
       "racer": "Amaterasu",
       "races": 12
+    },
+    {
+      "hour": "2026-11-02 17:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 9
     },
     {
       "hour": "2026-11-02 17:00:00",
@@ -259,8 +259,33 @@
       "hour": "2026-11-02 17:00:00",
       "racer": "Itypeforfun",
       "races": 2
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "KirbyDelta",
+      "races": 27
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "loganim12btw",
+      "races": 21
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "t_unknown",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793640743567
+  "_syncedAt": 1793644245320
 }
