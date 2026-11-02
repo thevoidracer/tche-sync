@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2343,
+  "profileViews": 2344,
   "leagueTier": 13,
   "racers": [
     {
@@ -251,14 +251,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 4001,
+      "allTimeRaces": 4012,
       "wpm": 100,
       "highestWPM": 120,
       "teamRaces": 352,
       "acc": 96.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1793634973
+      "lastLogin": 1793649690
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -307,14 +307,14 @@
       "displayName": "sterling757",
       "role": "member",
       "joinStamp": 1788901014,
-      "allTimeRaces": 2723,
-      "wpm": 80,
+      "allTimeRaces": 2731,
+      "wpm": 81,
       "highestWPM": 102,
-      "teamRaces": 104,
-      "acc": 95.15,
+      "teamRaces": 109,
+      "acc": 95.11,
       "season": null,
       "status": "active",
-      "lastLogin": 1793646675
+      "lastLogin": 1793649066
     },
     {
       "username": "7f0032fd385260dbd67780a4c053a0f3",
@@ -669,13 +669,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 65071,
+      "races": 65076,
       "avgWPM": 77,
       "avgAcc": 94.93,
       "members": 47
     },
     "daily": {
-      "races": 937,
+      "races": 941,
       "avgWPM": 79,
       "avgAcc": 94.44,
       "members": 47
@@ -683,5 +683,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793647400291
+  "_syncedAt": 1793650154077
 }

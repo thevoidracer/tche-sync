@@ -1,28 +1,18 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 19:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
       "hour": "2026-11-01 20:00:00",
       "racer": "KirbyDelta",
       "races": 5
     },
     {
       "hour": "2026-11-01 20:00:00",
-      "racer": "Itypeforfun",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-01 20:00:00",
-      "racer": "UJAADDAH",
+      "racer": "Nitrex",
       "races": 1
     },
     {
       "hour": "2026-11-01 20:00:00",
-      "racer": "Nitrex",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -147,12 +137,12 @@
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "certified",
+      "racer": "LogicalCrimsonRoadrunner",
       "races": 3
     },
     {
       "hour": "2026-11-02 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
+      "racer": "certified",
       "races": 3
     },
     {
@@ -202,7 +192,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -212,7 +202,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 1
     },
     {
@@ -283,9 +273,14 @@
     {
       "hour": "2026-11-02 19:00:00",
       "racer": "insta _trewatkins",
-      "races": 14
+      "races": 15
+    },
+    {
+      "hour": "2026-11-02 19:00:00",
+      "racer": "sterling757",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793647455113
+  "_syncedAt": 1793650208032
 }
