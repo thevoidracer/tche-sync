@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 18:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-01 19:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
-    },
-    {
       "hour": "2026-11-01 19:00:00",
       "racer": "SKZ FIRAH",
       "races": 1
@@ -212,7 +202,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 1
     },
     {
@@ -222,7 +212,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -262,30 +252,40 @@
     },
     {
       "hour": "2026-11-02 18:00:00",
-      "racer": "KirbyDelta",
-      "races": 27
-    },
-    {
-      "hour": "2026-11-02 18:00:00",
       "racer": "loganim12btw",
-      "races": 21
+      "races": 35
     },
     {
       "hour": "2026-11-02 18:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 16
+      "racer": "KirbyDelta",
+      "races": 28
     },
     {
       "hour": "2026-11-02 18:00:00",
       "racer": "t_unknown",
-      "races": 12
+      "races": 27
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 22
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "insta _trewatkins",
+      "races": 14
     },
     {
       "hour": "2026-11-02 18:00:00",
       "racer": "NotoriousJuJu",
       "races": 5
+    },
+    {
+      "hour": "2026-11-02 19:00:00",
+      "racer": "insta _trewatkins",
+      "races": 14
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793644245320
+  "_syncedAt": 1793647455113
 }
