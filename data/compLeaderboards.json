@@ -9,10 +9,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 250,
-        "wpm": 93.6,
-        "accuracy": 93.72,
-        "points": 34400,
+        "races": 300,
+        "wpm": 92.5,
+        "accuracy": 93.42,
+        "points": 40989,
         "tier": "A"
       },
       {
@@ -212,6 +212,19 @@
       },
       {
         "rank": 17,
+        "tag": "THB0S",
+        "username": "Srivanth",
+        "displayName": "Srivanth",
+        "nickname": "Nitro Rich",
+        "squad": "Loyal",
+        "races": 20,
+        "wpm": 88.5,
+        "accuracy": 94.31,
+        "points": 2721,
+        "tier": "A"
+      },
+      {
+        "rank": 18,
         "tag": "KEYCAT",
         "username": "WiltedMuseGirl",
         "displayName": "WiltedMuseGirl",
@@ -224,7 +237,7 @@
         "tier": "B"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -237,7 +250,7 @@
         "tier": "A"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "THB0S",
         "username": "NL NitroDeveloper",
         "displayName": "NL NitroDeveloper",
@@ -250,7 +263,7 @@
         "tier": "C"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "KEYCAT",
         "username": "BalancedCyanStoat",
         "displayName": "BalancedCyanStoat",
@@ -263,7 +276,7 @@
         "tier": "B"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "KEYCAT",
         "username": "Watermelon Cat ALT",
         "displayName": "Watermelon Cat ALT",
@@ -276,7 +289,20 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
+        "tag": "SVC",
+        "username": "BabyDudeSued",
+        "displayName": "BabyDudeSued",
+        "nickname": "Filthy Rich",
+        "squad": null,
+        "races": 7,
+        "wpm": 99.5,
+        "accuracy": 95.65,
+        "points": 1003,
+        "tier": "A"
+      },
+      {
+        "rank": 24,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -289,7 +315,7 @@
         "tier": "C"
       },
       {
-        "rank": 23,
+        "rank": 25,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -302,7 +328,7 @@
         "tier": "C"
       },
       {
-        "rank": 24,
+        "rank": 26,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -315,7 +341,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 27,
         "tag": "KEYCAT",
         "username": "weak kingsley",
         "displayName": "weak kingsley",
@@ -328,7 +354,7 @@
         "tier": "C"
       },
       {
-        "rank": 26,
+        "rank": 28,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -341,7 +367,20 @@
         "tier": "B"
       },
       {
-        "rank": 27,
+        "rank": 29,
+        "tag": "SVC",
+        "username": "emmett",
+        "displayName": "emmett",
+        "nickname": "Astronaut",
+        "squad": "Member",
+        "races": 2,
+        "wpm": 68.5,
+        "accuracy": 93.77,
+        "points": 252,
+        "tier": "B"
+      },
+      {
+        "rank": 30,
         "tag": "THB0S",
         "username": "zynx_tb",
         "displayName": "zynx_tb",
@@ -354,20 +393,7 @@
         "tier": "B"
       },
       {
-        "rank": 28,
-        "tag": "THB0S",
-        "username": "Srivanth",
-        "displayName": "Srivanth",
-        "nickname": "Nitro Rich",
-        "squad": "Loyal",
-        "races": 1,
-        "wpm": 102.3,
-        "accuracy": 97.45,
-        "points": 147,
-        "tier": "A"
-      },
-      {
-        "rank": 29,
+        "rank": 31,
         "tag": "THB0S",
         "username": "CrazyTyper",
         "displayName": "CrazyTyper",
@@ -380,7 +406,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 32,
         "tag": "IMT",
         "username": "O       G",
         "displayName": "O       G",
@@ -393,7 +419,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793589596812
+    "_syncedAt": 1793593488576
   },
   "1463": {
     "eventId": "1463",
@@ -542,6 +568,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793589600582
+    "_syncedAt": 1793593492464
   }
 }

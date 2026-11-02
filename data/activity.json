@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-01 03:00:00",
-      "racer": "UJAADDAH",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-01 03:00:00",
-      "racer": "asteroids",
-      "races": 2
-    },
-    {
       "hour": "2026-11-01 05:00:00",
       "racer": "xX_VICTORY_Xx",
       "races": 63
@@ -107,12 +97,12 @@
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "O       G",
+      "racer": "Odetari - GMFU",
       "races": 0
     },
     {
       "hour": "2026-11-01 16:00:00",
-      "racer": "Odetari - GMFU",
+      "racer": "O       G",
       "races": 0
     },
     {
@@ -218,14 +208,19 @@
     {
       "hour": "2026-11-02 03:00:00",
       "racer": "xX_VICTORY_Xx",
-      "races": 12
+      "races": 67
     },
     {
       "hour": "2026-11-02 03:00:00",
       "racer": "BlazingFlowerz",
       "races": 1
+    },
+    {
+      "hour": "2026-11-02 04:00:00",
+      "racer": "xX_VICTORY_Xx",
+      "races": 16
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793589554678
+  "_syncedAt": 1793593446869
 }
