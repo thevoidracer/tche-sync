@@ -3,7 +3,7 @@
     {
       "hour": "2026-11-02 06:00:00",
       "racer": "Eclipse",
-      "races": 144
+      "races": 25
     },
     {
       "hour": "2026-11-02 07:00:00",
@@ -247,12 +247,12 @@
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "Void Racer",
       "races": 1
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "Void Racer",
+      "racer": "-HyperTyper-",
       "races": 1
     },
     {
@@ -329,8 +329,13 @@
       "hour": "2026-11-03 04:00:00",
       "racer": "Eclipse",
       "races": 16
+    },
+    {
+      "hour": "2026-11-03 05:00:00",
+      "racer": "asteroids",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793684142627
+  "_syncedAt": 1793687693561
 }
