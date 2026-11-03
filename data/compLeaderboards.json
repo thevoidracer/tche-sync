@@ -30,6 +30,19 @@
       },
       {
         "rank": 3,
+        "tag": "KEYCAT",
+        "username": "Unique Cat Halloween",
+        "displayName": "Unique Cat Halloween",
+        "nickname": "Scaredy-Cat",
+        "squad": "Starter!!",
+        "races": 110,
+        "wpm": 103.1,
+        "accuracy": 93.91,
+        "points": 15654,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
         "tag": "THB0S",
         "username": "trsgray",
         "displayName": "trsgray",
@@ -42,7 +55,7 @@
         "tier": "B"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "IMT",
         "username": "Itypeforfun",
         "displayName": "Itypeforfun",
@@ -55,7 +68,7 @@
         "tier": "B"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
@@ -65,19 +78,6 @@
         "wpm": 111.6,
         "accuracy": 97.74,
         "points": 15227,
-        "tier": "A"
-      },
-      {
-        "rank": 6,
-        "tag": "KEYCAT",
-        "username": "Unique Cat Halloween",
-        "displayName": "Unique Cat Halloween",
-        "nickname": "Scaredy-Cat",
-        "squad": "Starter!!",
-        "races": 91,
-        "wpm": 102.9,
-        "accuracy": 93.89,
-        "points": 12939,
         "tier": "A"
       },
       {
@@ -290,6 +290,19 @@
       },
       {
         "rank": 23,
+        "tag": "KEYCAT",
+        "username": "I am it",
+        "displayName": "I am it",
+        "nickname": "Mystery Man",
+        "squad": "Beginner 100!",
+        "races": 44,
+        "wpm": 66.4,
+        "accuracy": 95.58,
+        "points": 5601,
+        "tier": "B"
+      },
+      {
+        "rank": 24,
         "tag": "THB0S",
         "username": "Speedster-1",
         "displayName": "Speedster-1",
@@ -302,7 +315,7 @@
         "tier": "B"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -315,7 +328,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -328,7 +341,7 @@
         "tier": "A"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -341,7 +354,7 @@
         "tier": "B"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "THB0S",
         "username": "ella",
         "displayName": "ella",
@@ -354,7 +367,7 @@
         "tier": "A"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -367,7 +380,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "KEYCAT",
         "username": "FluffCat",
         "displayName": "FluffCat",
@@ -393,7 +406,7 @@
         "tier": "A"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -404,19 +417,6 @@
         "accuracy": 91.42,
         "points": 3691,
         "tier": "A"
-      },
-      {
-        "rank": 32,
-        "tag": "KEYCAT",
-        "username": "I am it",
-        "displayName": "I am it",
-        "nickname": "Mystery Man",
-        "squad": "Beginner 100!",
-        "races": 29,
-        "wpm": 66.9,
-        "accuracy": 95.2,
-        "points": 3684,
-        "tier": "B"
       },
       {
         "rank": 33,
@@ -1186,7 +1186,7 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1793687739179
+    "_syncedAt": 1793692386381
   },
   "1463": {
     "eventId": "1463",
@@ -1569,7 +1569,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793687743149
+    "_syncedAt": 1793692390269
   },
   "1483": {
     "eventId": "1483",
@@ -1588,6 +1588,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793687734812
+    "_syncedAt": 1793692381869
   }
 }

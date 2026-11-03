@@ -392,14 +392,14 @@
         "displayName": "Unique Cat Halloween",
         "role": "officer",
         "joinStamp": 1793607453,
-        "allTimeRaces": 11161,
-        "wpm": 113,
+        "allTimeRaces": 11180,
+        "wpm": 107,
         "highestWPM": 132,
-        "teamRaces": 92,
-        "acc": 94.25,
+        "teamRaces": 111,
+        "acc": 94.26,
         "season": null,
         "status": "active",
-        "lastLogin": 1793670248
+        "lastLogin": 1793688280
       },
       {
         "username": "quickbrownpony",
@@ -602,14 +602,14 @@
         "displayName": "I am it",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 644,
-        "wpm": 66,
+        "allTimeRaces": 659,
+        "wpm": 65,
         "highestWPM": 83,
-        "teamRaces": 171,
-        "acc": 96.16,
+        "teamRaces": 186,
+        "acc": 96.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1793621240
+        "lastLogin": 1793690542
       },
       {
         "username": "8ef43643c37171193a65d74e3e18efb6",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81763,
+        "races": 81797,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 46
       },
       "daily": {
-        "races": 597,
-        "avgWPM": 71,
-        "avgAcc": 92.94,
+        "races": 600,
+        "avgWPM": 73,
+        "avgAcc": 92.95,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793687743337
+    "_syncedAt": 1793692390428
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793687763008
+    "_syncedAt": 1793692409336
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793687781980
+    "_syncedAt": 1793692428064
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793687951209
+    "_syncedAt": 1793692597319
   }
 }
