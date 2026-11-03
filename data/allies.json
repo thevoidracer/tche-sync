@@ -238,14 +238,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2505,
-        "wpm": 69,
+        "allTimeRaces": 2511,
+        "wpm": 74,
         "highestWPM": 94,
-        "teamRaces": 1458,
+        "teamRaces": 1461,
         "acc": 90.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793704733
+        "lastLogin": 1793707778
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81854,
+        "races": 81857,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 46
       },
       "daily": {
-        "races": 598,
+        "races": 580,
         "avgWPM": 73,
-        "avgAcc": 92.79,
+        "avgAcc": 93.04,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793705486408
+    "_syncedAt": 1793708131366
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793705508587
+    "_syncedAt": 1793708152808
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793705527546
+    "_syncedAt": 1793708171729
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1594,14 +1594,14 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8549,
-        "wpm": 52,
+        "allTimeRaces": 8553,
+        "wpm": 49,
         "highestWPM": 84,
         "teamRaces": 617,
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793657399
+        "lastLogin": 1793707792
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793705697445
+    "_syncedAt": 1793708341196
   }
 }
