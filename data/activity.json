@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 20:00:00",
-      "racer": "Joe and Uh",
-      "races": 19
-    },
-    {
-      "hour": "2026-11-02 20:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-02 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 6
-    },
-    {
       "hour": "2026-11-02 21:00:00",
       "racer": "KirbyDelta",
       "races": 17
@@ -23,7 +8,7 @@
     {
       "hour": "2026-11-02 21:00:00",
       "racer": "Namedisplayed",
-      "races": 17
+      "races": 7
     },
     {
       "hour": "2026-11-02 21:00:00",
@@ -34,11 +19,6 @@
       "hour": "2026-11-02 21:00:00",
       "racer": "StefanO",
       "races": 2
-    },
-    {
-      "hour": "2026-11-02 21:00:00",
-      "racer": "Void Racer",
-      "races": 1
     },
     {
       "hour": "2026-11-02 21:00:00",
@@ -287,12 +267,12 @@
     },
     {
       "hour": "2026-11-03 18:00:00",
-      "racer": "loganim12btw",
+      "racer": "GroundedAquaEmu",
       "races": 1
     },
     {
       "hour": "2026-11-03 18:00:00",
-      "racer": "GroundedAquaEmu",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -313,14 +293,29 @@
     {
       "hour": "2026-11-03 20:00:00",
       "racer": "UJAADDAH",
-      "races": 4
+      "races": 12
+    },
+    {
+      "hour": "2026-11-03 20:00:00",
+      "racer": "Joe and Uh",
+      "races": 11
     },
     {
       "hour": "2026-11-03 20:00:00",
       "racer": "The Queen",
-      "races": 3
+      "races": 4
+    },
+    {
+      "hour": "2026-11-03 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-03 21:00:00",
+      "racer": "Namedisplayed",
+      "races": 12
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793737960274
+  "_syncedAt": 1793741052871
 }
