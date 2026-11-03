@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 100,
       "topWPM": 128,
-      "lifetimeRaces": 5530,
-      "teamRaces": 3105,
+      "lifetimeRaces": 5547,
+      "teamRaces": 3121,
       "joined": "06/10/26"
     },
     {
@@ -132,10 +132,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 63,
+      "avgWPM": 69,
       "topWPM": 85,
-      "lifetimeRaces": 839,
-      "teamRaces": 333,
+      "lifetimeRaces": 845,
+      "teamRaces": 342,
       "joined": "09/08/26"
     },
     {
@@ -355,8 +355,8 @@
       "tier": "C",
       "avgWPM": 75,
       "topWPM": 102,
-      "lifetimeRaces": 7350,
-      "teamRaces": 1320,
+      "lifetimeRaces": 7388,
+      "teamRaces": 1355,
       "joined": "10/15/26"
     },
     {
@@ -442,7 +442,7 @@
       "displayName": "loganim12btw",
       "nickname": "WPM Wonderkid",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "A",
       "avgWPM": 93,
       "topWPM": 215,
@@ -483,10 +483,10 @@
       "role": "officer",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 93,
       "topWPM": 120,
-      "lifetimeRaces": 584,
-      "teamRaces": 341,
+      "lifetimeRaces": 588,
+      "teamRaces": 345,
       "joined": "10/23/26"
     },
     {
@@ -624,7 +624,7 @@
       "displayName": "N4RUTO",
       "nickname": "Redline Ronin",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 58,
       "topWPM": 123,
@@ -637,7 +637,7 @@
       "displayName": "Safire",
       "nickname": "Epic Nitro User",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "B",
       "avgWPM": 86,
       "topWPM": 89,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793743828134
+  "_syncedAt": 1793746170506
 }

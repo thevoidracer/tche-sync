@@ -4,8 +4,8 @@
   "members": 49,
   "activePercent": 97,
   "createdStamp": 1781128952,
-  "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2400,
+  "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
+  "profileViews": 2402,
   "leagueTier": 13,
   "racers": [
     {
@@ -181,14 +181,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 841,
-      "wpm": 64,
+      "allTimeRaces": 845,
+      "wpm": 69,
       "highestWPM": 85,
-      "teamRaces": 333,
-      "acc": 94.56,
+      "teamRaces": 342,
+      "acc": 94.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1793742896
+      "lastLogin": 1793745323
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -237,11 +237,11 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7356,
-      "wpm": 73,
+      "allTimeRaces": 7393,
+      "wpm": 76,
       "highestWPM": 102,
-      "teamRaces": 1320,
-      "acc": 93.56,
+      "teamRaces": 1355,
+      "acc": 93.54,
       "season": null,
       "status": "active",
       "lastLogin": 1793740387
@@ -461,14 +461,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5530,
-      "wpm": 94,
+      "allTimeRaces": 5551,
+      "wpm": 96,
       "highestWPM": 128,
-      "teamRaces": 3105,
+      "teamRaces": 3121,
       "acc": 92.72,
       "season": null,
       "status": "active",
-      "lastLogin": 1793735809
+      "lastLogin": 1793745680
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 584,
-      "wpm": 98,
+      "allTimeRaces": 588,
+      "wpm": 93,
       "highestWPM": 120,
-      "teamRaces": 341,
+      "teamRaces": 345,
       "acc": 91.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793735852
+      "lastLogin": 1793744626
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 66013,
+      "races": 66077,
       "avgWPM": 77,
       "avgAcc": 94.92,
       "members": 49
     },
     "daily": {
-      "races": 845,
+      "races": 835,
       "avgWPM": 82,
-      "avgAcc": 94.14,
+      "avgAcc": 94.16,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793743771749
+  "_syncedAt": 1793746114390
 }

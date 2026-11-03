@@ -2,27 +2,12 @@
   "hours": [
     {
       "hour": "2026-11-02 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 21
+      "racer": "StefanO",
+      "races": 2
     },
     {
       "hour": "2026-11-02 22:00:00",
       "racer": "Void Racer",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-02 22:00:00",
-      "racer": "StefanO",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-02 22:00:00",
-      "racer": "GroundedAquaEmu",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-02 22:00:00",
-      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -152,12 +137,12 @@
     },
     {
       "hour": "2026-11-03 15:00:00",
-      "racer": "sterling757",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-03 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "sterling757",
       "races": 1
     },
     {
@@ -172,12 +157,12 @@
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "VOID_REIGN",
       "races": 7
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "NotoriousJuJu",
       "races": 7
     },
     {
@@ -257,12 +242,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
@@ -304,8 +289,28 @@
       "hour": "2026-11-03 21:00:00",
       "racer": "Joe and Uh",
       "races": 1
+    },
+    {
+      "hour": "2026-11-03 22:00:00",
+      "racer": "KirbyDelta",
+      "races": 35
+    },
+    {
+      "hour": "2026-11-03 22:00:00",
+      "racer": "Void Racer",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-03 22:00:00",
+      "racer": "StefanO",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-03 22:00:00",
+      "racer": "-HyperTyper-",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793743828135
+  "_syncedAt": 1793746170508
 }
