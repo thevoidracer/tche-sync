@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2375,
+  "profileViews": 2378,
   "leagueTier": 13,
   "racers": [
     {
@@ -405,14 +405,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1734,
-      "wpm": 95,
+      "allTimeRaces": 1740,
+      "wpm": 96,
       "highestWPM": 127,
-      "teamRaces": 201,
-      "acc": 90.5,
+      "teamRaces": 207,
+      "acc": 90.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1793718450
+      "lastLogin": 1793721589
     },
     {
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
@@ -447,25 +447,25 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5519,
-      "wpm": 90,
+      "allTimeRaces": 5526,
+      "wpm": 93,
       "highestWPM": 128,
       "teamRaces": 3094,
       "acc": 92.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793720229
+      "lastLogin": 1793723547
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
       "displayName": "NotoriousJuJu",
       "role": "member",
       "joinStamp": 1793293886,
-      "allTimeRaces": 745,
-      "wpm": 105,
+      "allTimeRaces": 756,
+      "wpm": 97,
       "highestWPM": 127,
-      "teamRaces": 48,
-      "acc": 92.78,
+      "teamRaces": 65,
+      "acc": 93.27,
       "season": null,
       "status": "active",
       "lastLogin": 1793721016
@@ -531,14 +531,14 @@
       "displayName": "VOID_REIGN",
       "role": "officer",
       "joinStamp": 1791380526,
-      "allTimeRaces": 1283,
-      "wpm": 59,
+      "allTimeRaces": 1290,
+      "wpm": 60,
       "highestWPM": 108,
       "teamRaces": 1035,
       "acc": 91.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793712603
+      "lastLogin": 1793723508
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -573,11 +573,11 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 916,
+      "allTimeRaces": 939,
       "wpm": 94,
       "highestWPM": 215,
-      "teamRaces": 136,
-      "acc": 91.71,
+      "teamRaces": 154,
+      "acc": 92.09,
       "season": null,
       "status": "active",
       "lastLogin": 1793719640
@@ -655,13 +655,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 65713,
+      "races": 65754,
       "avgWPM": 77,
       "avgAcc": 94.93,
       "members": 46
     },
     "daily": {
-      "races": 907,
+      "races": 935,
       "avgWPM": 83,
       "avgAcc": 94.18,
       "members": 46
@@ -669,5 +669,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793721363724
+  "_syncedAt": 1793723999087
 }

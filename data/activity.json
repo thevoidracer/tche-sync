@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 15:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-02 15:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 3
-    },
-    {
       "hour": "2026-11-02 16:00:00",
       "racer": "Itypeforfun",
       "races": 21
@@ -23,21 +13,6 @@
     {
       "hour": "2026-11-02 16:00:00",
       "racer": "I KC Zadkiel I",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-02 16:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-02 16:00:00",
-      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -162,12 +137,12 @@
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "Void Racer",
       "races": 1
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "Void Racer",
+      "racer": "-HyperTyper-",
       "races": 1
     },
     {
@@ -307,6 +282,11 @@
     },
     {
       "hour": "2026-11-03 15:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-03 15:00:00",
       "racer": "loganim12btw",
       "races": 9
     },
@@ -324,8 +304,23 @@
       "hour": "2026-11-03 15:00:00",
       "racer": "sterling757",
       "races": 1
+    },
+    {
+      "hour": "2026-11-03 16:00:00",
+      "racer": "loganim12btw",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-03 16:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-03 16:00:00",
+      "racer": "UJAADDAH",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793721427019
+  "_syncedAt": 1793724056794
 }
