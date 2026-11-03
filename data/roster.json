@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 95,
       "topWPM": 128,
-      "lifetimeRaces": 5547,
-      "teamRaces": 3121,
+      "lifetimeRaces": 5556,
+      "teamRaces": 3131,
       "joined": "06/10/26"
     },
     {
@@ -135,7 +135,7 @@
       "avgWPM": 69,
       "topWPM": 85,
       "lifetimeRaces": 845,
-      "teamRaces": 342,
+      "teamRaces": 344,
       "joined": "09/08/26"
     },
     {
@@ -352,11 +352,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "C",
-      "avgWPM": 75,
+      "tier": "B",
+      "avgWPM": 78,
       "topWPM": 102,
-      "lifetimeRaces": 7388,
-      "teamRaces": 1355,
+      "lifetimeRaces": 7400,
+      "teamRaces": 1375,
       "joined": "10/15/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 98,
       "topWPM": 127,
-      "lifetimeRaces": 1759,
-      "teamRaces": 226,
+      "lifetimeRaces": 1763,
+      "teamRaces": 228,
       "joined": "10/24/26"
     },
     {
@@ -548,10 +548,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 51,
+      "avgWPM": 52,
       "topWPM": 80,
-      "lifetimeRaces": 1239,
-      "teamRaces": 137,
+      "lifetimeRaces": 1245,
+      "teamRaces": 138,
       "joined": "10/28/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793746170506
+  "_syncedAt": 1793748530889
 }
