@@ -525,7 +525,7 @@
         "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793657037
+        "lastLogin": 1793677080
       },
       {
         "username": "happygoluckygirl07",
@@ -656,7 +656,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793675804693
+    "_syncedAt": 1793678504839
   },
   "SVC": {
     "tag": "SVC",
@@ -1209,15 +1209,15 @@
         "members": 38
       },
       "daily": {
-        "races": 73,
+        "races": 64,
         "avgWPM": 92,
-        "avgAcc": 94.34,
+        "avgAcc": 94.19,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793675823505
+    "_syncedAt": 1793678523775
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1255,7 +1255,7 @@
         "acc": 93.49,
         "season": null,
         "status": "active",
-        "lastLogin": 1793480176
+        "lastLogin": 1793677116
       }
     ],
     "aggregates": {
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793675842359
+    "_syncedAt": 1793678542674
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4928,
+    "profileViews": 4929,
     "leagueTier": 13,
     "racers": [
       {
@@ -1538,11 +1538,11 @@
         "displayName": "redmoon14",
         "role": "member",
         "joinStamp": 1793239434,
-        "allTimeRaces": 6984,
-        "wpm": 58,
+        "allTimeRaces": 7001,
+        "wpm": 55,
         "highestWPM": 71,
-        "teamRaces": 25,
-        "acc": 93.28,
+        "teamRaces": 42,
+        "acc": 92.84,
         "season": null,
         "status": "active",
         "lastLogin": 1793675577
@@ -1608,14 +1608,14 @@
         "displayName": "Srivanth",
         "role": "member",
         "joinStamp": 1788962420,
-        "allTimeRaces": 3430,
-        "wpm": 88,
+        "allTimeRaces": 3431,
+        "wpm": 91,
         "highestWPM": 112,
-        "teamRaces": 1469,
+        "teamRaces": 1470,
         "acc": 94.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1793590657
+        "lastLogin": 1793676865
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1748,10 +1748,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19627,
-        "wpm": 90,
+        "allTimeRaces": 19628,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 19167,
+        "teamRaces": 19168,
         "acc": 94,
         "season": null,
         "status": "active",
@@ -1881,7 +1881,7 @@
         "acc": 95.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1793672783
+        "lastLogin": 1793677664
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131114,
+        "races": 131133,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 659,
-        "avgWPM": 74,
-        "avgAcc": 93.53,
+        "races": 625,
+        "avgWPM": 72,
+        "avgAcc": 93.54,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793676011955
+    "_syncedAt": 1793678712400
   }
 }

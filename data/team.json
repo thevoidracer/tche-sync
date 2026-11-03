@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨CASH for Active Racers✨Tournament NOW✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2365,
+  "profileViews": 2366,
   "leagueTier": 13,
   "racers": [
     {
@@ -153,14 +153,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7746,
+      "allTimeRaces": 7778,
       "wpm": 74,
       "highestWPM": 110,
-      "teamRaces": 638,
+      "teamRaces": 664,
       "acc": 97.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1793674817
+      "lastLogin": 1793678056
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -454,7 +454,7 @@
       "acc": 92.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793668547
+      "lastLogin": 1793677139
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -503,11 +503,11 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1219,
-      "wpm": 51,
+      "allTimeRaces": 1226,
+      "wpm": 50,
       "highestWPM": 80,
-      "teamRaces": 117,
-      "acc": 92.56,
+      "teamRaces": 124,
+      "acc": 92.59,
       "season": null,
       "status": "active",
       "lastLogin": 1793674733
@@ -669,19 +669,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 65376,
+      "races": 65409,
       "avgWPM": 77,
       "avgAcc": 94.93,
       "members": 47
     },
     "daily": {
-      "races": 1017,
-      "avgWPM": 81,
-      "avgAcc": 94.46,
+      "races": 1010,
+      "avgWPM": 80,
+      "avgAcc": 94.41,
       "members": 47
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793675697846
+  "_syncedAt": 1793678402173
 }
