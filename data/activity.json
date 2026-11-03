@@ -1,49 +1,29 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 17:00:00",
-      "racer": "KirbyDelta",
-      "races": 22
-    },
-    {
-      "hour": "2026-11-02 17:00:00",
-      "racer": "loganim12btw",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-02 17:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 9
-    },
-    {
       "hour": "2026-11-02 18:00:00",
       "racer": "loganim12btw",
-      "races": 35
-    },
-    {
-      "hour": "2026-11-02 18:00:00",
-      "racer": "KirbyDelta",
-      "races": 28
+      "races": 26
     },
     {
       "hour": "2026-11-02 18:00:00",
       "racer": "t_unknown",
-      "races": 27
+      "races": 25
     },
     {
       "hour": "2026-11-02 18:00:00",
       "racer": "PootsyWafflebiscuits",
-      "races": 22
+      "races": 16
+    },
+    {
+      "hour": "2026-11-02 18:00:00",
+      "racer": "KirbyDelta",
+      "races": 16
     },
     {
       "hour": "2026-11-02 18:00:00",
       "racer": "insta _trewatkins",
       "races": 14
-    },
-    {
-      "hour": "2026-11-02 18:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 5
     },
     {
       "hour": "2026-11-02 19:00:00",
@@ -102,12 +82,12 @@
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "Void Racer",
+      "racer": "-HyperTyper-",
       "races": 1
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "Void Racer",
       "races": 1
     },
     {
@@ -302,10 +282,25 @@
     },
     {
       "hour": "2026-11-03 17:00:00",
+      "racer": "NotoriousJuJu",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-03 17:00:00",
       "racer": "t_unknown",
-      "races": 2
+      "races": 13
+    },
+    {
+      "hour": "2026-11-03 17:00:00",
+      "racer": "loganim12btw",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-03 17:00:00",
+      "racer": "me_likey_typey",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793727040290
+  "_syncedAt": 1793729714595
 }
