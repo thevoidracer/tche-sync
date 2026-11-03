@@ -2,8 +2,8 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 45,
-    "activePercent": 90,
+    "members": 46,
+    "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
     "profileViews": 3103,
@@ -336,11 +336,11 @@
         "displayName": "mintzzz",
         "role": "officer",
         "joinStamp": 1793410644,
-        "allTimeRaces": 2935,
-        "wpm": 58,
-        "highestWPM": 73,
-        "teamRaces": 134,
-        "acc": 96.18,
+        "allTimeRaces": 2953,
+        "wpm": 64,
+        "highestWPM": 74,
+        "teamRaces": 147,
+        "acc": 96.17,
         "season": null,
         "status": "active",
         "lastLogin": 1793680605
@@ -638,34 +638,48 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793620445
+      },
+      {
+        "username": "1e5bb966fcf861b0430fa9dedd42cf47",
+        "displayName": "JoyousGoldCrocodile",
+        "role": "member",
+        "joinStamp": 1793681921,
+        "allTimeRaces": 2,
+        "wpm": 85,
+        "highestWPM": 91,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1793681759
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 81744,
+        "races": 81757,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 45
+        "members": 46
       },
       "daily": {
-        "races": 578,
+        "races": 591,
         "avgWPM": 71,
-        "avgAcc": 92.86,
-        "members": 45
+        "avgAcc": 92.91,
+        "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793681194661
+    "_syncedAt": 1793684193100
   },
   "SVC": {
     "tag": "SVC",
     "name": "-Servants of Christ-",
     "members": 38,
-    "activePercent": 52,
+    "activePercent": 57,
     "createdStamp": 1754425651,
     "otherInfo": "⭐Website: https://bit.ly/SVC-Website⭐Chill Team⚡ Currently looking for active members⚡Weekly Comps⚡️Discord Code: pmUkaJ6Un6⚡",
-    "profileViews": 2079,
+    "profileViews": 2080,
     "leagueTier": 11,
     "racers": [
       {
@@ -1209,15 +1223,15 @@
         "members": 38
       },
       "daily": {
-        "races": 64,
+        "races": 62,
         "avgWPM": 92,
-        "avgAcc": 94.19,
+        "avgAcc": 94.18,
         "members": 38
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793681213650
+    "_syncedAt": 1793684211931
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793681232532
+    "_syncedAt": 1793684230778
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1278,7 +1292,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4929,
+    "profileViews": 4930,
     "leagueTier": 13,
     "racers": [
       {
@@ -1286,10 +1300,10 @@
         "displayName": "ella   ",
         "role": "officer",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102136,
+        "allTimeRaces": 102137,
         "wpm": 84,
         "highestWPM": 156,
-        "teamRaces": 1085,
+        "teamRaces": 1086,
         "acc": 96.11,
         "season": null,
         "status": "active",
@@ -1419,7 +1433,7 @@
         "acc": 93.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1793665313
+        "lastLogin": 1793683196
       },
       {
         "username": "pigglepigglepiggle",
@@ -1552,10 +1566,10 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8679,
-        "wpm": 66,
+        "allTimeRaces": 8687,
+        "wpm": 65,
         "highestWPM": 95,
-        "teamRaces": 1128,
+        "teamRaces": 1140,
         "acc": 97.33,
         "season": null,
         "status": "active",
@@ -1611,7 +1625,7 @@
         "allTimeRaces": 3442,
         "wpm": 87,
         "highestWPM": 112,
-        "teamRaces": 1477,
+        "teamRaces": 1481,
         "acc": 94.08,
         "season": null,
         "status": "active",
@@ -1928,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131147,
+        "races": 131164,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 613,
+        "races": 630,
         "avgWPM": 73,
-        "avgAcc": 93.4,
+        "avgAcc": 93.47,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793681402191
+    "_syncedAt": 1793684399758
   }
 }

@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 92,
+    "tierA": 89,
     "tierB": 78,
     "weeklyReq": 100
   },
@@ -53,7 +53,7 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Tycoon 7.5k ",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 118,
       "lifetimeRaces": 10236,
@@ -391,7 +391,7 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 89,
       "topWPM": 100,
       "lifetimeRaces": 1505,
@@ -521,10 +521,10 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 94,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 112,
-      "lifetimeRaces": 3479,
+      "lifetimeRaces": 3489,
       "teamRaces": 269,
       "joined": "10/25/26"
     },
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793681146124
+  "_syncedAt": 1793684142623
 }
