@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 101,
+      "avgWPM": 92,
       "topWPM": 128,
-      "lifetimeRaces": 5502,
-      "teamRaces": 3077,
+      "lifetimeRaces": 5511,
+      "teamRaces": 3086,
       "joined": "06/10/26"
     },
     {
@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 110,
-      "lifetimeRaces": 20437,
-      "teamRaces": 2798,
+      "lifetimeRaces": 20451,
+      "teamRaces": 2811,
       "joined": "06/24/26"
     },
     {
@@ -264,8 +264,8 @@
       "tier": "C",
       "avgWPM": 59,
       "topWPM": 108,
-      "lifetimeRaces": 1273,
-      "teamRaces": 1025,
+      "lifetimeRaces": 1283,
+      "teamRaces": 1035,
       "joined": "10/07/26"
     },
     {
@@ -443,11 +443,11 @@
       "nickname": "WPM Wonderkid",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 91,
       "topWPM": 215,
-      "lifetimeRaces": 879,
-      "teamRaces": 99,
+      "lifetimeRaces": 894,
+      "teamRaces": 111,
       "joined": "10/22/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793711549278
+  "_syncedAt": 1793715613370
 }

@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 46,
+    "members": 45,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3104,
+    "profileViews": 3106,
     "leagueTier": 13,
     "racers": [
       {
@@ -238,14 +238,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2511,
-        "wpm": 74,
+        "allTimeRaces": 2525,
+        "wpm": 67,
         "highestWPM": 94,
-        "teamRaces": 1466,
+        "teamRaces": 1480,
         "acc": 90.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1793707778
+        "lastLogin": 1793714147
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -371,7 +371,7 @@
         "acc": 93.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1793708469
+        "lastLogin": 1793712187
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -476,14 +476,14 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5458,
-        "wpm": 86,
+        "allTimeRaces": 5464,
+        "wpm": 83,
         "highestWPM": 112,
-        "teamRaces": 1016,
+        "teamRaces": 1028,
         "acc": 94.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1793710604
+        "lastLogin": 1793714708
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -638,39 +638,25 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793620445
-      },
-      {
-        "username": "1e5bb966fcf861b0430fa9dedd42cf47",
-        "displayName": "JoyousGoldCrocodile",
-        "role": "member",
-        "joinStamp": 1793681921,
-        "allTimeRaces": 2,
-        "wpm": 85,
-        "highestWPM": 91,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793681759
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 81877,
+        "races": 81903,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 46
+        "members": 45
       },
       "daily": {
-        "races": 552,
+        "races": 519,
         "avgWPM": 74,
-        "avgAcc": 93.02,
-        "members": 46
+        "avgAcc": 93.09,
+        "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793711600342
+    "_syncedAt": 1793715666978
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793711619408
+    "_syncedAt": 1793715689901
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793711638289
+    "_syncedAt": 1793715708840
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1292,7 +1278,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4931,
+    "profileViews": 4932,
     "leagueTier": 13,
     "racers": [
       {
@@ -1524,14 +1510,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4911,
-        "wpm": 51,
+        "allTimeRaces": 4922,
+        "wpm": 46,
         "highestWPM": 121,
-        "teamRaces": 1497,
-        "acc": 87.54,
+        "teamRaces": 1508,
+        "acc": 87.52,
         "season": null,
         "status": "active",
-        "lastLogin": 1793637498
+        "lastLogin": 1793713401
       },
       {
         "username": "francisreynolds",
@@ -1923,7 +1909,7 @@
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793711430
+        "lastLogin": 1793714764
       },
       {
         "username": "malott12",
@@ -1937,25 +1923,25 @@
         "acc": 95.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1793288833
+        "lastLogin": 1793715802
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 131177,
+        "races": 131188,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.03,
         "members": 46
       },
       "daily": {
-        "races": 614,
-        "avgWPM": 73,
-        "avgAcc": 93.61,
+        "races": 598,
+        "avgWPM": 74,
+        "avgAcc": 93.53,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793711807888
+    "_syncedAt": 1793715878476
   }
 }
