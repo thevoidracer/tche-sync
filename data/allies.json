@@ -238,14 +238,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2503,
-        "wpm": 66,
+        "allTimeRaces": 2505,
+        "wpm": 69,
         "highestWPM": 94,
         "teamRaces": 1458,
         "acc": 90.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793647300
+        "lastLogin": 1793704733
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -602,14 +602,14 @@
         "displayName": "I am it",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 659,
-        "wpm": 65,
+        "allTimeRaces": 663,
+        "wpm": 63,
         "highestWPM": 83,
-        "teamRaces": 186,
-        "acc": 96.18,
+        "teamRaces": 190,
+        "acc": 96.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1793690542
+        "lastLogin": 1793703594
       },
       {
         "username": "8ef43643c37171193a65d74e3e18efb6",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81850,
+        "races": 81854,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 46
       },
       "daily": {
-        "races": 595,
+        "races": 598,
         "avgWPM": 73,
-        "avgAcc": 92.77,
+        "avgAcc": 92.79,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793702032201
+    "_syncedAt": 1793705486408
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793702051057
+    "_syncedAt": 1793705508587
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793702069938
+    "_syncedAt": 1793705527546
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1755,7 +1755,7 @@
         "acc": 91.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1793660397
+        "lastLogin": 1793705293
       },
       {
         "username": "sara0010",
@@ -1956,6 +1956,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793702239461
+    "_syncedAt": 1793705697445
   }
 }

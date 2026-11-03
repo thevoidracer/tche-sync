@@ -92,12 +92,12 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "loganim12btw",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -314,8 +314,18 @@
       "hour": "2026-11-03 05:00:00",
       "racer": "asteroids",
       "races": 10
+    },
+    {
+      "hour": "2026-11-03 10:00:00",
+      "racer": "rorok09",
+      "races": 28
+    },
+    {
+      "hour": "2026-11-03 11:00:00",
+      "racer": "rorok09",
+      "races": 27
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793701982096
+  "_syncedAt": 1793705434802
 }
