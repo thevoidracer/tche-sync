@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 48,
+    "members": 49,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3112,
+    "profileViews": 3116,
     "leagueTier": 13,
     "racers": [
       {
@@ -140,14 +140,14 @@
         "displayName": "Jamusisthebeaver",
         "role": "member",
         "joinStamp": 1791396232,
-        "allTimeRaces": 746,
-        "wpm": 54,
+        "allTimeRaces": 747,
+        "wpm": 55,
         "highestWPM": 105,
-        "teamRaces": 441,
+        "teamRaces": 442,
         "acc": 93.07,
         "season": null,
         "status": "active",
-        "lastLogin": 1793650160
+        "lastLogin": 1793732915
       },
       {
         "username": "e6c26c62f86a10bff77dd164ac359f83",
@@ -204,6 +204,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793719747
+      },
+      {
+        "username": "11969368e1d286433628b658e045fcd1",
+        "displayName": "hilover",
+        "role": "member",
+        "joinStamp": 1793735686,
+        "allTimeRaces": 663,
+        "wpm": 70,
+        "highestWPM": 83,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1793732786
       },
       {
         "username": "k9vr_17",
@@ -280,14 +294,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2569,
+        "allTimeRaces": 2570,
         "wpm": 65,
         "highestWPM": 94,
         "teamRaces": 1524,
         "acc": 90.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793731687
+        "lastLogin": 1793735613
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -518,10 +532,10 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5486,
-        "wpm": 80,
+        "allTimeRaces": 5494,
+        "wpm": 79,
         "highestWPM": 112,
-        "teamRaces": 1050,
+        "teamRaces": 1058,
         "acc": 94.9,
         "season": null,
         "status": "active",
@@ -684,21 +698,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82032,
+        "races": 82041,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 48
+        "members": 49
       },
       "daily": {
-        "races": 450,
+        "races": 438,
         "avgWPM": 76,
-        "avgAcc": 93.73,
-        "members": 48
+        "avgAcc": 93.8,
+        "members": 49
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793732554852
+    "_syncedAt": 1793735890801
   },
   "SVC": {
     "tag": "SVC",
@@ -1259,7 +1273,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793732573981
+    "_syncedAt": 1793735910115
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1268,7 +1282,7 @@
     "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
-    "profileViews": 24,
+    "profileViews": 25,
     "leagueTier": 3,
     "racers": [
       {
@@ -1283,7 +1297,7 @@
         "acc": 98.75,
         "season": null,
         "status": "active",
-        "lastLogin": 1793621641
+        "lastLogin": 1793735271
       },
       {
         "username": "the_only_winner123",
@@ -1311,7 +1325,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793732593078
+    "_syncedAt": 1793735928860
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1356,14 +1370,14 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10728,
-        "wpm": 110,
+        "allTimeRaces": 10778,
+        "wpm": 111,
         "highestWPM": 135,
-        "teamRaces": 1300,
-        "acc": 98.16,
+        "teamRaces": 1350,
+        "acc": 98.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1793727542
+        "lastLogin": 1793735109
       },
       {
         "username": "mcculpar",
@@ -1391,7 +1405,7 @@
         "acc": 96.52,
         "season": null,
         "status": "active",
-        "lastLogin": 1793726902
+        "lastLogin": 1793733070
       },
       {
         "username": "joereynolds",
@@ -1552,14 +1566,14 @@
         "displayName": "Zeus 19",
         "role": "member",
         "joinStamp": 1787662648,
-        "allTimeRaces": 4940,
-        "wpm": 51,
+        "allTimeRaces": 4944,
+        "wpm": 53,
         "highestWPM": 121,
-        "teamRaces": 1526,
-        "acc": 87.49,
+        "teamRaces": 1530,
+        "acc": 87.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1793727807
+        "lastLogin": 1793734948
       },
       {
         "username": "francisreynolds",
@@ -1629,7 +1643,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793728976
+        "lastLogin": 1793733771
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1748,14 +1762,14 @@
         "displayName": "GetGooder",
         "role": "member",
         "joinStamp": 1791207216,
-        "allTimeRaces": 14644,
+        "allTimeRaces": 14651,
         "wpm": 79,
         "highestWPM": 101,
-        "teamRaces": 1355,
-        "acc": 95.87,
+        "teamRaces": 1362,
+        "acc": 95.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1793725442
+        "lastLogin": 1793734153
       },
       {
         "username": "27f21e3a9f339bfe4b2a7ba915cb61c7",
@@ -1944,14 +1958,14 @@
         "displayName": "NL NitroDeveloper",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3211,
-        "wpm": 49,
+        "allTimeRaces": 3229,
+        "wpm": 54,
         "highestWPM": 74,
-        "teamRaces": 1013,
-        "acc": 93.98,
+        "teamRaces": 1031,
+        "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793722031
+        "lastLogin": 1793734448
       },
       {
         "username": "malott12",
@@ -1970,20 +1984,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131549,
+        "races": 131628,
         "avgWPM": 68,
         "avgAcc": 94.03,
         "members": 46
       },
       "daily": {
-        "races": 763,
-        "avgWPM": 75,
-        "avgAcc": 93.47,
+        "races": 817,
+        "avgWPM": 78,
+        "avgAcc": 94.1,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793732762875
+    "_syncedAt": 1793736098092
   }
 }

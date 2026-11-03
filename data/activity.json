@@ -2,11 +2,6 @@
   "hours": [
     {
       "hour": "2026-11-02 19:00:00",
-      "racer": "insta _trewatkins",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-02 19:00:00",
       "racer": "sterling757",
       "races": 5
     },
@@ -37,12 +32,12 @@
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "Namedisplayed",
+      "racer": "KirbyDelta",
       "races": 17
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "KirbyDelta",
+      "racer": "Namedisplayed",
       "races": 17
     },
     {
@@ -314,8 +309,13 @@
       "hour": "2026-11-03 18:00:00",
       "racer": "GroundedAquaEmu",
       "races": 1
+    },
+    {
+      "hour": "2026-11-03 19:00:00",
+      "racer": "me_likey_typey",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793732502067
+  "_syncedAt": 1793735839770
 }
