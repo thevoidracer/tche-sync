@@ -30,7 +30,6 @@
     competitions: "competitions.html",
     tournament: "tournament.html",
     allies: "allies.html",
-    showdown: "showdown.html",
     notifications: "notifications.html",
     info: "info.html",
   };
@@ -42,7 +41,6 @@
     competitions: "Competitions",
     tournament: "Tournament",
     allies: "Allies",
-    showdown: "Showdown",
     notifications: "Notifications",
     info: "Info",
   };
@@ -66,7 +64,6 @@
     roster: null,          // squad/tier/role + thresholds (Startrack roster API)
     activity: null,        // hourly races per racer, last ~24h (Startrack)
     notifications: null,   // team event feed (new members, milestones, comps, tournament results)
-    selectedRivalTag: null, // Showdown page: which ally tag is the current head-to-head opponent
     notes: {},             // notes/<username> → { text, updatedAt }
     pinnedNotice: null,    // settings/pinnedNotice doc
     history: [],           // history/YYYY-MM-DD list for charts
@@ -1285,7 +1282,6 @@
       else if (p === "competitions") view.innerHTML = staleBanner() + renderCompetitions();
       else if (p === "tournament") view.innerHTML = staleBanner() + renderTournament();
       else if (p === "allies") view.innerHTML = staleBanner() + renderAllies();
-      else if (p === "showdown") view.innerHTML = staleBanner() + renderShowdown();
       else if (p === "notifications") view.innerHTML = staleBanner() + renderNotifications();
       else if (p === "info") view.innerHTML = renderInfo();
       else if (p === "racer") view.innerHTML = staleBanner() + renderRacerProfile();
@@ -2735,139 +2731,6 @@
     `;
   }
 
-  // ----- SHOWDOWN (team vs. team head-to-head) -----
-  const SHOWDOWN_TIMEFRAMES = [
-    { key: "24h", label: "Last 24h" },
-    { key: "week", label: "Last 7 days" },
-    { key: "weekly", label: "Weekly" },
-    { key: "season", label: "Season" },
-    { key: "alltime", label: "All-time" },
-  ];
-  function renderShowdown() {
-    const tags = state.allies.filter(tag => state.allyData[tag] && !state.allyData[tag].error);
-    if (!tags.length) return emptyState("No rival to show down with yet", "Add an ally team on the Allies page — Showdown compares TCHE head-to-head against any of your tracked teams.");
-
-    if (state.selectedRivalTag == null || !tags.includes(state.selectedRivalTag)) {
-      state.selectedRivalTag = tags[0];
-    }
-    const rival = state.selectedRivalTag;
-    const rivalData = state.allyData[rival];
-    const rivalSeason = state.allySeason[rival] || {};
-    const rivalTf = rivalSeason.timeframes || {};
-    const meTf = (state.startrack && state.startrack.timeframes) || {};
-
-    const rivalSwitcher = tags.length > 1 ? `
-      <select id="rival-switcher" class="input-select">
-        ${tags.map(t => `<option value="${esc(t)}" ${t === rival ? "selected" : ""}>vs ${esc(t)}</option>`).join("")}
-      </select>` : "";
-
-    // Duel score for the "Weekly" timeframe — 1 point to whichever team leads
-    // in each of races / WPM / accuracy / points; ties score nobody.
-    const weeklyMe = meTf.weekly || {};
-    const weeklyRival = rivalTf.weekly || {};
-    const duelMetrics = ["races", "wpm", "accuracy", "points"];
-    let meScore = 0, rivalScore = 0;
-    duelMetrics.forEach(k => {
-      const a = weeklyMe[k], b = weeklyRival[k];
-      if (a == null || b == null || a === b) return;
-      if (a > b) meScore++; else rivalScore++;
-    });
-    const meLeading = meScore > rivalScore, rivalLeading = rivalScore > meScore;
-
-    const duelHeader = `
-      <div class="card" style="margin-bottom:24px; text-align:center;">
-        <div class="text-muted" style="font-size:12px; letter-spacing:1px; text-transform:uppercase; margin-bottom:4px;">🏆 Weekly showdown</div>
-        <div class="text-dim" style="font-size:12.5px; margin-bottom:18px;">Who's leading this week, scored 1 point per category: races, WPM, accuracy, points.</div>
-        <div class="flex-between" style="align-items:center; gap:18px; max-width:480px; margin:0 auto;">
-          <div style="flex:1; min-width:0;">
-            <div style="font-family:var(--font-display); font-weight:700; font-size:15px; color:${meLeading ? "var(--gold-strong)" : "var(--text)"};">[${esc(TEAM_TAG)}]</div>
-            <div class="text-muted" style="font-size:11.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${esc((state.team && state.team.name) || "")}</div>
-          </div>
-          <div style="display:flex; align-items:baseline; gap:10px; font-family:var(--font-display); font-weight:800; font-size:40px;">
-            <span style="color:${meLeading ? "var(--gold-strong)" : "var(--text-dim)"};">${meScore}</span>
-            <span class="text-muted" style="font-size:18px;">–</span>
-            <span style="color:${rivalLeading ? "var(--gold-strong)" : "var(--text-dim)"};">${rivalScore}</span>
-          </div>
-          <div style="flex:1; min-width:0;">
-            <div style="font-family:var(--font-display); font-weight:700; font-size:15px; color:${rivalLeading ? "var(--gold-strong)" : "var(--text)"};">[${esc(rival)}]</div>
-            <div class="text-muted" style="font-size:11.5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">${esc((rivalData && rivalData.name) || "")}</div>
-          </div>
-        </div>
-        ${meScore === rivalScore ? `<div class="text-muted" style="font-size:12px; margin-top:16px;">Dead even this week.</div>` : `<div class="text-muted" style="font-size:12px; margin-top:16px;">${meLeading ? `[${esc(TEAM_TAG)}]` : `[${esc(rival)}]`} leads ${Math.max(meScore, rivalScore)}–${Math.min(meScore, rivalScore)} this week.</div>`}
-      </div>`;
-
-    const metricRow = (label, a, b, fmtFn, unit, lowerIsBetter) => {
-      if (a == null && b == null) return "";
-      const better = (x, y) => lowerIsBetter ? x < y : x > y;
-      const aWins = a != null && b != null && better(a, b);
-      const bWins = a != null && b != null && better(b, a);
-      return `
-        <tr>
-          <td class="text-dim" data-label="Metric">${esc(label)}</td>
-          <td class="num ${aWins ? "num-primary" : ""}" data-label="[${esc(TEAM_TAG)}]" style="${aWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${a != null ? fmtFn(a) + (unit || "") : "—"}</td>
-          <td class="num ${bWins ? "num-primary" : ""}" data-label="[${esc(rival)}]" style="${bWins ? "color: var(--gold-strong); font-weight:700;" : ""}">${b != null ? fmtFn(b) + (unit || "") : "—"}</td>
-        </tr>`;
-    };
-
-    const tfBreakdown = `
-      <div class="card" style="margin-bottom:24px;">
-        <div class="card-head">
-          <h3 class="card-title">Timeframe breakdown</h3>
-          ${rivalSwitcher}
-        </div>
-        <div class="table-wrap" style="box-shadow:none; border:0;">
-          <table class="racers">
-            <thead>
-              <tr><th></th><th style="text-align:right;">[${esc(TEAM_TAG)}]</th><th style="text-align:right;">[${esc(rival)}]</th></tr>
-            </thead>
-            <tbody>
-              ${SHOWDOWN_TIMEFRAMES.map(({ key, label }) => {
-                const a = meTf[key], b = rivalTf[key];
-                if (!a && !b) return "";
-                return `
-                  <tr style="background: var(--surface-2);"><td colspan="3" style="font-weight:700; font-size:12px; letter-spacing:0.5px; text-transform:uppercase; padding-top:14px;">${esc(label)}</td></tr>
-                  ${metricRow("Rank", a && a.rank, b && b.rank, v => "#" + fmt(v), "", true)}
-                  ${metricRow("Races", a && a.races, b && b.races, fmt)}
-                  ${metricRow("WPM", a && a.wpm, b && b.wpm, fmt)}
-                  ${metricRow("Accuracy", a && a.accuracy, b && b.accuracy, fmt, "%")}
-                  ${metricRow("Points", a && a.points, b && b.points, fmt)}
-                `;
-              }).join("")}
-            </tbody>
-          </table>
-        </div>
-      </div>`;
-
-    const meAgg = (state.team && state.team.aggregates && state.team.aggregates.alltime) || {};
-    const rivalAgg = (rivalData && rivalData.aggregates && rivalData.aggregates.alltime) || {};
-    const teamTotals = `
-      <div class="card">
-        <div class="card-head"><h3 class="card-title">Team totals</h3></div>
-        <div class="table-wrap" style="box-shadow:none; border:0;">
-          <table class="racers">
-            <thead><tr><th></th><th style="text-align:right;">[${esc(TEAM_TAG)}]</th><th style="text-align:right;">[${esc(rival)}]</th></tr></thead>
-            <tbody>
-              ${metricRow("Members", state.team && state.team.members, rivalData && rivalData.members, fmt)}
-              ${metricRow("All-time races", meAgg.races, rivalAgg.races, fmt)}
-              ${metricRow("Avg WPM", meAgg.avgWPM, rivalAgg.avgWPM, fmt)}
-              ${metricRow("Avg accuracy", meAgg.avgAcc, rivalAgg.avgAcc, fmt, "%")}
-            </tbody>
-          </table>
-        </div>
-      </div>`;
-
-    return `
-      <div class="page-head"><div>
-        <div class="page-eyebrow">Showdown</div>
-        <h1 class="page-title">Head-to-Head</h1>
-        <p class="page-sub">A weekly, duel-style matchup between ${esc(TEAM_TAG)} and whichever ally you pick.</p>
-      </div></div>
-      ${duelHeader}
-      ${tfBreakdown}
-      ${teamTotals}
-    `;
-  }
-
   // ----- INFO (admin-editable feed of posts) -----
   // data/info.json shape: { posts: [{ id, title, content, createdAt, updatedAt }, ...] }
   // normalizeInfo() upgrades the old single-blob {content, updatedAt} shape
@@ -3078,10 +2941,6 @@
       }
       jumper.value = "";
     });
-
-    // Showdown rival switcher
-    const rivalSw = document.getElementById("rival-switcher");
-    if (rivalSw) rivalSw.addEventListener("change", (e) => { state.selectedRivalTag = e.target.value; render(); });
 
     // Tournament switcher (pick which tournament to view)
     const tourSw = document.getElementById("tournament-switcher");
