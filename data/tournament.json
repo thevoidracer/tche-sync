@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793735859503
+        "_syncedAt": 1793737981118
       }
     },
     {
@@ -2020,7 +2020,7 @@
               "players": [
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2452,7 +2452,7 @@
                 },
                 {
                   "seed": "30",
-                  "racer": "HastyBeanAttack",
+                  "racer": "prismaticbeam",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793735876981
+        "_syncedAt": 1793737999336
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793735876985
+  "_syncedAt": 1793737999340
 }

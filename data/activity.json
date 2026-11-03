@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 19:00:00",
-      "racer": "sterling757",
-      "races": 5
-    },
-    {
       "hour": "2026-11-02 20:00:00",
       "racer": "Joe and Uh",
       "races": 19
-    },
-    {
-      "hour": "2026-11-02 20:00:00",
-      "racer": "WindMaker",
-      "races": 13
     },
     {
       "hour": "2026-11-02 20:00:00",
@@ -24,11 +14,6 @@
       "hour": "2026-11-02 20:00:00",
       "racer": "Namedisplayed",
       "races": 6
-    },
-    {
-      "hour": "2026-11-02 20:00:00",
-      "racer": "sterling757",
-      "races": 3
     },
     {
       "hour": "2026-11-02 21:00:00",
@@ -232,12 +217,12 @@
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "NotoriousJuJu",
       "races": 7
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "VOID_REIGN",
       "races": 7
     },
     {
@@ -314,8 +299,28 @@
       "hour": "2026-11-03 19:00:00",
       "racer": "me_likey_typey",
       "races": 2
+    },
+    {
+      "hour": "2026-11-03 19:00:00",
+      "racer": "Safire",
+      "races": 0
+    },
+    {
+      "hour": "2026-11-03 19:00:00",
+      "racer": "N4RUTO",
+      "races": 0
+    },
+    {
+      "hour": "2026-11-03 20:00:00",
+      "racer": "UJAADDAH",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-03 20:00:00",
+      "racer": "The Queen",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793735839770
+  "_syncedAt": 1793737960274
 }

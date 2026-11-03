@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "key": "new-member:b6456e4c4be6acdfede3e806a662ed4c",
+      "type": "new-member",
+      "text": "Safire joined the team.",
+      "meta": {
+        "username": "b6456e4c4be6acdfede3e806a662ed4c"
+      },
+      "createdAt": 1793737999344
+    },
+    {
+      "key": "new-member:328473829095dbxdfhd",
+      "type": "new-member",
+      "text": "N4RUTO joined the team.",
+      "meta": {
+        "username": "328473829095dbxdfhd"
+      },
+      "createdAt": 1793737999344
+    },
+    {
       "key": "new-member:61d10b8f23f7f8535f91a789fc7c0895",
       "type": "new-member",
       "text": "The Queen joined the team.",
@@ -675,5 +693,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793735876988
+  "_syncedAt": 1793737999344
 }

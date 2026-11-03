@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 93,
       "topWPM": 127,
-      "lifetimeRaces": 1740,
-      "teamRaces": 207,
+      "lifetimeRaces": 1750,
+      "teamRaces": 211,
       "joined": "10/24/26"
     },
     {
@@ -615,11 +615,37 @@
       "tier": "B",
       "avgWPM": 83,
       "topWPM": 104,
-      "lifetimeRaces": 1482,
-      "teamRaces": 65,
+      "lifetimeRaces": 1485,
+      "teamRaces": 68,
+      "joined": "11/03/26"
+    },
+    {
+      "username": "328473829095dbxdfhd",
+      "displayName": "N4RUTO",
+      "nickname": "Redline Ronin",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 58,
+      "topWPM": 123,
+      "lifetimeRaces": 804,
+      "teamRaces": 0,
+      "joined": "11/03/26"
+    },
+    {
+      "username": "b6456e4c4be6acdfede3e806a662ed4c",
+      "displayName": "Safire",
+      "nickname": "Epic Nitro User",
+      "role": "member",
+      "squad": null,
+      "tier": "B",
+      "avgWPM": 86,
+      "topWPM": 89,
+      "lifetimeRaces": 1206,
+      "teamRaces": 0,
       "joined": "11/03/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793735839764
+  "_syncedAt": 1793737960272
 }
