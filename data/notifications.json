@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:61d10b8f23f7f8535f91a789fc7c0895",
+      "type": "new-member",
+      "text": "The Queen joined the team.",
+      "meta": {
+        "username": "61d10b8f23f7f8535f91a789fc7c0895"
+      },
+      "createdAt": 1793727080180
+    },
+    {
       "key": "tour-win:57:Match 2329",
       "type": "tournament-win",
       "text": "rorok09 won their Final 4 ($2,000,000) * match vs Namedisplayed in IMT Ally Celebration Tournament.",
@@ -666,5 +675,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793724095089
+  "_syncedAt": 1793727080180
 }

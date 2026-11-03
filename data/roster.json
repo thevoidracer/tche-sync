@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 89,
+      "avgWPM": 94,
       "topWPM": 128,
-      "lifetimeRaces": 5520,
-      "teamRaces": 3094,
+      "lifetimeRaces": 5530,
+      "teamRaces": 3105,
       "joined": "06/10/26"
     },
     {
@@ -262,10 +262,10 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 59,
+      "avgWPM": 60,
       "topWPM": 108,
-      "lifetimeRaces": 1286,
-      "teamRaces": 1035,
+      "lifetimeRaces": 1290,
+      "teamRaces": 1042,
       "joined": "10/07/26"
     },
     {
@@ -340,10 +340,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 77,
+      "avgWPM": 73,
       "topWPM": 111,
-      "lifetimeRaces": 5483,
-      "teamRaces": 454,
+      "lifetimeRaces": 5491,
+      "teamRaces": 456,
       "joined": "10/15/26"
     },
     {
@@ -447,7 +447,7 @@
       "avgWPM": 94,
       "topWPM": 215,
       "lifetimeRaces": 939,
-      "teamRaces": 154,
+      "teamRaces": 159,
       "joined": "10/22/26"
     },
     {
@@ -605,8 +605,21 @@
       "lifetimeRaces": 1786,
       "teamRaces": 114,
       "joined": "11/01/26"
+    },
+    {
+      "username": "61d10b8f23f7f8535f91a789fc7c0895",
+      "displayName": "The Queen",
+      "nickname": "Endurance Racer",
+      "role": "member",
+      "squad": "Starter Fund",
+      "tier": "B",
+      "avgWPM": 83,
+      "topWPM": 104,
+      "lifetimeRaces": 1482,
+      "teamRaces": 65,
+      "joined": "11/03/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793724056793
+  "_syncedAt": 1793727040289
 }

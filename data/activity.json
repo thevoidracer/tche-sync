@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 16:00:00",
-      "racer": "Itypeforfun",
-      "races": 21
-    },
-    {
-      "hour": "2026-11-02 16:00:00",
-      "racer": "Victoria Ram",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-02 16:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 1
-    },
-    {
       "hour": "2026-11-02 17:00:00",
       "racer": "KirbyDelta",
       "races": 22
@@ -27,28 +12,8 @@
     },
     {
       "hour": "2026-11-02 17:00:00",
-      "racer": "Amaterasu",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-02 17:00:00",
       "racer": "NotoriousJuJu",
       "races": 9
-    },
-    {
-      "hour": "2026-11-02 17:00:00",
-      "racer": "Nathan",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-02 17:00:00",
-      "racer": "The Big Yahu",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-02 17:00:00",
-      "racer": "Itypeforfun",
-      "races": 2
     },
     {
       "hour": "2026-11-02 18:00:00",
@@ -308,7 +273,12 @@
     {
       "hour": "2026-11-03 16:00:00",
       "racer": "loganim12btw",
-      "races": 18
+      "races": 23
+    },
+    {
+      "hour": "2026-11-03 16:00:00",
+      "racer": "Void Racer",
+      "races": 11
     },
     {
       "hour": "2026-11-03 16:00:00",
@@ -317,10 +287,25 @@
     },
     {
       "hour": "2026-11-03 16:00:00",
+      "racer": "VOID_REIGN",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-03 16:00:00",
       "racer": "UJAADDAH",
       "races": 6
+    },
+    {
+      "hour": "2026-11-03 16:00:00",
+      "racer": "The Queen",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-03 17:00:00",
+      "racer": "t_unknown",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793724056794
+  "_syncedAt": 1793727040290
 }
