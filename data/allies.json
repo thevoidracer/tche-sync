@@ -6,7 +6,7 @@
     "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3099,
+    "profileViews": 3100,
     "leagueTier": 13,
     "racers": [
       {
@@ -392,14 +392,14 @@
         "displayName": "Unique Cat Halloween",
         "role": "officer",
         "joinStamp": 1793607453,
-        "allTimeRaces": 11127,
+        "allTimeRaces": 11130,
         "wpm": 97,
         "highestWPM": 132,
-        "teamRaces": 58,
-        "acc": 94.42,
+        "teamRaces": 61,
+        "acc": 94.4,
         "season": null,
         "status": "active",
-        "lastLogin": 1793605503
+        "lastLogin": 1793662773
       },
       {
         "username": "quickbrownpony",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81675,
+        "races": 81678,
         "avgWPM": 55,
         "avgAcc": 93.52,
         "members": 45
       },
       "daily": {
-        "races": 538,
+        "races": 541,
         "avgWPM": 70,
-        "avgAcc": 92.66,
+        "avgAcc": 92.67,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793662083530
+    "_syncedAt": 1793663900683
   },
   "SVC": {
     "tag": "SVC",
@@ -799,14 +799,14 @@
         "displayName": "Javier Mendez",
         "role": "officer",
         "joinStamp": 1789668102,
-        "allTimeRaces": 4677,
-        "wpm": 89,
+        "allTimeRaces": 4680,
+        "wpm": 84,
         "highestWPM": 104,
         "teamRaces": 1323,
         "acc": 93.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1793655627
+        "lastLogin": 1793663732
       },
       {
         "username": "hieuanp",
@@ -1217,7 +1217,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793662102731
+    "_syncedAt": 1793663920008
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1269,7 +1269,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793662121828
+    "_syncedAt": 1793663939161
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1314,10 +1314,10 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10688,
-        "wpm": 113,
+        "allTimeRaces": 10710,
+        "wpm": 115,
         "highestWPM": 135,
-        "teamRaces": 1259,
+        "teamRaces": 1279,
         "acc": 98.17,
         "season": null,
         "status": "active",
@@ -1664,14 +1664,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3080,
-        "wpm": 61,
+        "allTimeRaces": 3103,
+        "wpm": 72,
         "highestWPM": 92,
-        "teamRaces": 370,
-        "acc": 94.06,
+        "teamRaces": 392,
+        "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1793662169
+        "lastLogin": 1793664051
       },
       {
         "username": "joey2011allgyer",
@@ -1928,20 +1928,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 130895,
+        "races": 130937,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 724,
+        "races": 744,
         "avgWPM": 78,
-        "avgAcc": 93.83,
+        "avgAcc": 93.88,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793662291810
+    "_syncedAt": 1793664109009
   }
 }
