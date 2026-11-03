@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 00:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-02 01:00:00",
-      "racer": "asteroids",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-02 01:00:00",
-      "racer": "Nitrex",
-      "races": 2
-    },
-    {
       "hour": "2026-11-02 02:00:00",
       "racer": "Eclipse",
       "races": 47
@@ -132,12 +117,12 @@
     },
     {
       "hour": "2026-11-02 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "NotoriousJuJu",
       "races": 3
     },
     {
       "hour": "2026-11-02 15:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "UJAADDAH",
       "races": 3
     },
     {
@@ -162,12 +147,12 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "loganim12btw",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "UJAADDAH",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -339,8 +324,13 @@
       "hour": "2026-11-03 00:00:00",
       "racer": "SKZ FIRAH",
       "races": 3
+    },
+    {
+      "hour": "2026-11-03 01:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793665815788
+  "_syncedAt": 1793669823013
 }
