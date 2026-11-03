@@ -3,7 +3,7 @@
     {
       "hour": "2026-11-02 04:00:00",
       "racer": "Eclipse",
-      "races": 77
+      "races": 31
     },
     {
       "hour": "2026-11-02 06:00:00",
@@ -252,12 +252,12 @@
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "Void Racer",
       "races": 1
     },
     {
       "hour": "2026-11-02 21:00:00",
-      "racer": "Void Racer",
+      "racer": "-HyperTyper-",
       "races": 1
     },
     {
@@ -323,14 +323,19 @@
     {
       "hour": "2026-11-03 03:00:00",
       "racer": "Eclipse",
-      "races": 27
+      "races": 35
     },
     {
       "hour": "2026-11-03 03:00:00",
       "racer": "BlazingFlowerz",
       "races": 11
+    },
+    {
+      "hour": "2026-11-03 04:00:00",
+      "racer": "Eclipse",
+      "races": 16
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793678458542
+  "_syncedAt": 1793681146126
 }
