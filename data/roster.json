@@ -28,10 +28,10 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 90,
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 20451,
-      "teamRaces": 2811,
+      "lifetimeRaces": 20472,
+      "teamRaces": 2833,
       "joined": "06/24/26"
     },
     {
@@ -141,13 +141,13 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "Any% Speedrunner",
+      "nickname": "Olde School",
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 52,
+      "avgWPM": 53,
       "topWPM": 82,
-      "lifetimeRaces": 9391,
+      "lifetimeRaces": 9395,
       "teamRaces": 1345,
       "joined": "09/09/26"
     },
@@ -443,11 +443,11 @@
       "nickname": "WPM Wonderkid",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 91,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 215,
-      "lifetimeRaces": 894,
-      "teamRaces": 111,
+      "lifetimeRaces": 907,
+      "teamRaces": 127,
       "joined": "10/22/26"
     },
     {
@@ -457,10 +457,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 57,
+      "avgWPM": 60,
       "topWPM": 78,
-      "lifetimeRaces": 1461,
-      "teamRaces": 192,
+      "lifetimeRaces": 1471,
+      "teamRaces": 198,
       "joined": "10/22/26"
     },
     {
@@ -621,5 +621,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793715613370
+  "_syncedAt": 1793718754968
 }

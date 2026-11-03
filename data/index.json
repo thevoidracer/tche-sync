@@ -1,24 +1,18 @@
 {
-  "_syncedAt": 1793715897409,
-  "team": 1793715556181,
-  "startrack": 1793715578207,
-  "comps": 1793715582536,
-  "seasons": 1793715897409,
-  "weekly": 1793715897409,
-  "daily": 1793715897409,
-  "tournament": 1793715652095,
-  "roster": 1793715613370,
-  "activity": 1793715613372,
-  "notifications": 1793715652098,
-  "allies": [
-    "KEYCAT",
-    "SVC",
-    "IMTR",
-    "THB0S"
-  ],
-  "took": 341631,
+  "_syncedAt": 1793719034424,
+  "team": null,
+  "startrack": 1793718721068,
+  "comps": 1793718724790,
+  "seasons": 1793719034424,
+  "weekly": 1793719034424,
+  "daily": 1793719034424,
+  "tournament": 1793718791325,
+  "roster": 1793718754968,
+  "activity": 1793718754968,
+  "notifications": 1793718791327,
+  "allies": [],
+  "took": 345734,
   "ok": [
-    "team",
     "startrack",
     "comps",
     "season",
@@ -29,14 +23,16 @@
     "comp-lb-1483",
     "comp-lb-1346",
     "comp-lb-1463",
-    "ally-KEYCAT",
     "ally-sr-KEYCAT",
-    "ally-SVC",
     "ally-sr-SVC",
-    "ally-IMTR",
     "ally-sr-IMTR",
-    "ally-THB0S",
     "ally-sr-THB0S"
   ],
-  "failed": []
+  "failed": [
+    "team: NT didn't return JSON",
+    "ally-KEYCAT: NT didn't return JSON",
+    "ally-SVC: NT didn't return JSON",
+    "ally-IMTR: NT didn't return JSON",
+    "ally-THB0S: NT didn't return JSON"
+  ]
 }

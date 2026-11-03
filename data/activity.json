@@ -1,39 +1,24 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 14:00:00",
-      "racer": "me_likey_typey",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-02 14:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-02 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
-      "races": 3
-    },
-    {
       "hour": "2026-11-02 15:00:00",
       "racer": "Namedisplayed",
-      "races": 26
+      "races": 25
     },
     {
       "hour": "2026-11-02 15:00:00",
       "racer": "me_likey_typey",
-      "races": 17
+      "races": 15
     },
     {
       "hour": "2026-11-02 15:00:00",
       "racer": "BlazingFlowerz",
-      "races": 10
+      "races": 8
     },
     {
       "hour": "2026-11-02 15:00:00",
       "racer": "LogicalCrimsonRoadrunner",
-      "races": 10
+      "races": 4
     },
     {
       "hour": "2026-11-02 15:00:00",
@@ -62,7 +47,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "loganim12btw",
       "races": 1
     },
     {
@@ -72,7 +57,7 @@
     },
     {
       "hour": "2026-11-02 16:00:00",
-      "racer": "loganim12btw",
+      "racer": "BlazingFlowerz",
       "races": 1
     },
     {
@@ -318,14 +303,19 @@
     {
       "hour": "2026-11-03 14:00:00",
       "racer": "loganim12btw",
-      "races": 12
+      "races": 28
     },
     {
       "hour": "2026-11-03 14:00:00",
       "racer": "PootsyWafflebiscuits",
-      "races": 2
+      "races": 24
+    },
+    {
+      "hour": "2026-11-03 14:00:00",
+      "racer": "LogicalCrimsonRoadrunner",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793715613372
+  "_syncedAt": 1793718754968
 }
