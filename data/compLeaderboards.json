@@ -35,10 +35,10 @@
         "displayName": "Unique Cat Halloween",
         "nickname": "Scaredy-Cat",
         "squad": "Starter!!",
-        "races": 125,
-        "wpm": 103.7,
-        "accuracy": 93.89,
-        "points": 17820,
+        "races": 130,
+        "wpm": 103.8,
+        "accuracy": 93.86,
+        "points": 18532,
         "tier": "A"
       },
       {
@@ -1186,7 +1186,7 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1793695613623
+    "_syncedAt": 1793698600486
   },
   "1463": {
     "eventId": "1463",
@@ -1569,7 +1569,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793695617565
+    "_syncedAt": 1793698604513
   },
   "1483": {
     "eventId": "1483",
@@ -1588,6 +1588,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793695609132
+    "_syncedAt": 1793698595613
   }
 }

@@ -392,11 +392,11 @@
         "displayName": "Unique Cat Halloween",
         "role": "officer",
         "joinStamp": 1793607453,
-        "allTimeRaces": 11200,
-        "wpm": 107,
+        "allTimeRaces": 11205,
+        "wpm": 104,
         "highestWPM": 132,
-        "teamRaces": 127,
-        "acc": 94.24,
+        "teamRaces": 135,
+        "acc": 94.16,
         "season": null,
         "status": "active",
         "lastLogin": 1793688280
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81813,
+        "races": 81821,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 46
       },
       "daily": {
-        "races": 610,
+        "races": 599,
         "avgWPM": 73,
-        "avgAcc": 92.96,
+        "avgAcc": 92.87,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793695617726
+    "_syncedAt": 1793698604753
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793695636627
+    "_syncedAt": 1793698623774
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793695655504
+    "_syncedAt": 1793698642669
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1948,14 +1948,14 @@
         "members": 46
       },
       "daily": {
-        "races": 616,
-        "avgWPM": 73,
-        "avgAcc": 93.42,
+        "races": 604,
+        "avgWPM": 74,
+        "avgAcc": 93.6,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793695824870
+    "_syncedAt": 1793698812131
   }
 }

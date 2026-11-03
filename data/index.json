@@ -1,25 +1,24 @@
 {
-  "_syncedAt": 1793695845086,
-  "team": 1793695515023,
-  "startrack": 1793695534677,
-  "comps": 1793695538412,
-  "seasons": 1793695845086,
-  "weekly": 1793695845086,
-  "daily": 1793695845086,
-  "tournament": 1793695605223,
-  "roster": 1793695569228,
-  "activity": 1793695569229,
-  "notifications": 1793695605226,
+  "_syncedAt": 1793698830922,
+  "team": 1793698449419,
+  "startrack": null,
+  "comps": 1793698513327,
+  "seasons": 1793698830922,
+  "weekly": 1793698830922,
+  "daily": 1793698830922,
+  "tournament": 1793698591791,
+  "roster": 1793698554651,
+  "activity": 1793698554652,
+  "notifications": 1793698591793,
   "allies": [
     "KEYCAT",
     "SVC",
     "IMTR",
     "THB0S"
   ],
-  "took": 330504,
+  "took": 381938,
   "ok": [
     "team",
-    "startrack",
     "comps",
     "season",
     "weekly",
@@ -38,5 +37,7 @@
     "ally-THB0S",
     "ally-sr-THB0S"
   ],
-  "failed": []
+  "failed": [
+    "startrack: page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://ntstartrack.org/leaderboards\", waiting until \"networkidle\"\n"
+  ]
 }
