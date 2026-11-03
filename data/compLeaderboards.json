@@ -43,6 +43,19 @@
       },
       {
         "rank": 4,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 115,
+        "wpm": 86.6,
+        "accuracy": 96.82,
+        "points": 15954,
+        "tier": "B"
+      },
+      {
+        "rank": 5,
         "tag": "THB0S",
         "username": "trsgray",
         "displayName": "trsgray",
@@ -55,7 +68,7 @@
         "tier": "B"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
         "username": "Itypeforfun",
         "displayName": "Itypeforfun",
@@ -68,7 +81,7 @@
         "tier": "B"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
@@ -81,20 +94,20 @@
         "tier": "A"
       },
       {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 106,
-        "wpm": 86.6,
-        "accuracy": 96.84,
-        "points": 14708,
-        "tier": "B"
+        "rank": 8,
+        "tag": "THB0S",
+        "username": "Mwhit4",
+        "displayName": "Mwhit4",
+        "nickname": "Night Patrol",
+        "squad": "Newbies!",
+        "races": 108,
+        "wpm": 49.8,
+        "accuracy": 92.89,
+        "points": 12532,
+        "tier": "C"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -107,33 +120,33 @@
         "tier": "A"
       },
       {
-        "rank": 9,
-        "tag": "THB0S",
-        "username": "Mwhit4",
-        "displayName": "Mwhit4",
-        "nickname": "Night Patrol",
-        "squad": "Newbies!",
-        "races": 95,
-        "wpm": 49.8,
-        "accuracy": 92.69,
-        "points": 10999,
-        "tier": "C"
-      },
-      {
         "rank": 10,
         "tag": "KEYCAT",
         "username": "Pandora",
         "displayName": "Pandora",
         "nickname": "I Love Cats",
         "squad": "Investor 1k ;)",
-        "races": 69,
-        "wpm": 63.9,
-        "accuracy": 88.04,
-        "points": 8016,
+        "races": 74,
+        "wpm": 64.7,
+        "accuracy": 88.22,
+        "points": 8641,
         "tier": "A"
       },
       {
         "rank": 11,
+        "tag": "KEYCAT",
+        "username": "haleyyrose",
+        "displayName": "haleyyrose",
+        "nickname": "Filthy Rich",
+        "squad": "Investor 1k ;)",
+        "races": 64,
+        "wpm": 77.2,
+        "accuracy": 94.38,
+        "points": 8372,
+        "tier": "A"
+      },
+      {
+        "rank": 12,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -144,19 +157,6 @@
         "accuracy": 95.42,
         "points": 7687,
         "tier": "B"
-      },
-      {
-        "rank": 12,
-        "tag": "KEYCAT",
-        "username": "haleyyrose",
-        "displayName": "haleyyrose",
-        "nickname": "Filthy Rich",
-        "squad": "Investor 1k ;)",
-        "races": 58,
-        "wpm": 77.1,
-        "accuracy": 94.26,
-        "points": 7575,
-        "tier": "A"
       },
       {
         "rank": 13,
@@ -190,12 +190,12 @@
         "username": "Ace_TypingLegend",
         "displayName": "Ace_TypingLegend",
         "nickname": "Nitro Drift",
-        "squad": "Novice 300!",
-        "races": 58,
-        "wpm": 58.8,
-        "accuracy": 93.74,
-        "points": 7035,
-        "tier": "B"
+        "squad": "Rookie 500!",
+        "races": 59,
+        "wpm": 58.7,
+        "accuracy": 93.73,
+        "points": 7154,
+        "tier": "C"
       },
       {
         "rank": 16,
@@ -1199,7 +1199,7 @@
         "tier": "A"
       }
     ],
-    "_syncedAt": 1793708127053
+    "_syncedAt": 1793711596042
   },
   "1463": {
     "eventId": "1463",
@@ -1224,10 +1224,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 174,
+        "races": 183,
         "wpm": 87,
         "accuracy": 96.8,
-        "points": 24175,
+        "points": 25421,
         "tier": "$3,000,000"
       },
       {
@@ -1582,7 +1582,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793708131179
+    "_syncedAt": 1793711600089
   },
   "1483": {
     "eventId": "1483",
@@ -1594,11 +1594,11 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 106,
+        "races": 115,
         "wpm": 86.6,
-        "accuracy": 96.84,
-        "points": 14708,
-        "tier": "$600,000"
+        "accuracy": 96.82,
+        "points": 15954,
+        "tier": "$700,000"
       },
       {
         "rank": 2,
@@ -1614,6 +1614,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793708122200
+    "_syncedAt": 1793711591683
   }
 }

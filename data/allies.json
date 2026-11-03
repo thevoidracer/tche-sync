@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3103,
+    "profileViews": 3104,
     "leagueTier": 13,
     "racers": [
       {
@@ -241,8 +241,8 @@
         "allTimeRaces": 2511,
         "wpm": 74,
         "highestWPM": 94,
-        "teamRaces": 1461,
-        "acc": 90.19,
+        "teamRaces": 1466,
+        "acc": 90.2,
         "season": null,
         "status": "active",
         "lastLogin": 1793707778
@@ -252,14 +252,14 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1315,
-        "wpm": 59,
+        "allTimeRaces": 1316,
+        "wpm": 58,
         "highestWPM": 75,
-        "teamRaces": 508,
+        "teamRaces": 509,
         "acc": 94.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1793670320
+        "lastLogin": 1793708750
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -371,7 +371,7 @@
         "acc": 93.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1793666249
+        "lastLogin": 1793708469
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -385,7 +385,7 @@
         "acc": 96.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1793669805
+        "lastLogin": 1793710094
       },
       {
         "username": "phrase2bomb",
@@ -476,14 +476,14 @@
         "displayName": "haleyyrose",
         "role": "member",
         "joinStamp": 1790076529,
-        "allTimeRaces": 5438,
-        "wpm": 75,
+        "allTimeRaces": 5458,
+        "wpm": 86,
         "highestWPM": 112,
-        "teamRaces": 1002,
+        "teamRaces": 1016,
         "acc": 94.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1793648846
+        "lastLogin": 1793710604
       },
       {
         "username": "c3d82c7617aee254df7e8f77d3de405b",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 81857,
+        "races": 81877,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 46
       },
       "daily": {
-        "races": 580,
-        "avgWPM": 73,
-        "avgAcc": 93.04,
+        "races": 552,
+        "avgWPM": 74,
+        "avgAcc": 93.02,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793708131366
+    "_syncedAt": 1793711600342
   },
   "SVC": {
     "tag": "SVC",
@@ -1231,7 +1231,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793708152808
+    "_syncedAt": 1793711619408
   },
   "IMTR": {
     "tag": "IMTR",
@@ -1240,7 +1240,7 @@
     "activePercent": 50,
     "createdStamp": 1791146859,
     "otherInfo": "Official IMT retirement team | NO cheating of any type | Racing is not necessary but is appreciated | Allies: KEYCAT, SVC, IMT, & THB0S",
-    "profileViews": 23,
+    "profileViews": 24,
     "leagueTier": 3,
     "racers": [
       {
@@ -1283,7 +1283,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793708171729
+    "_syncedAt": 1793711638289
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1594,11 +1594,11 @@
         "displayName": "Mwhit4",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8553,
-        "wpm": 49,
+        "allTimeRaces": 8562,
+        "wpm": 52,
         "highestWPM": 84,
-        "teamRaces": 617,
-        "acc": 94.01,
+        "teamRaces": 630,
+        "acc": 94.02,
         "season": null,
         "status": "active",
         "lastLogin": 1793707792
@@ -1769,7 +1769,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793679449
+        "lastLogin": 1793711390
       },
       {
         "username": "taco13001",
@@ -1923,7 +1923,7 @@
         "acc": 93.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793664415
+        "lastLogin": 1793711430
       },
       {
         "username": "malott12",
@@ -1942,20 +1942,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131164,
+        "races": 131177,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 604,
-        "avgWPM": 74,
-        "avgAcc": 93.6,
+        "races": 614,
+        "avgWPM": 73,
+        "avgAcc": 93.61,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793708341196
+    "_syncedAt": 1793711807888
   }
 }
