@@ -81,10 +81,18 @@
       "end": "11/27/2026, 08:00 PM"
     },
     {
+      "id": "1544",
+      "status": "Pending",
+      "title": "Turbo Tuesday - Nov 9Recurring comp",
+      "desc": "Get ready to turn your laps into instant cash with our weekly Turbo Tuesday event! For every 10 races you complete after the first 40, you will automatically earn 100,000 NTC with a limit of a staggering 5 million NTC. Just log your races, hit your milestones, and claim your rewards at the end of the day—so fire up your engines, hit the track, and go get that money!",
+      "start": "11/10/2026, 05:00 AM",
+      "end": "11/11/2026, 05:00 AM"
+    },
+    {
       "id": "1522",
       "status": "Pending",
       "title": "Weekly Cash Comp - Nov 9Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $10M NTC. 1st: $3.5M NTC - 2nd: $3M NTC - 3rd: $2.5M NTC - 4th: $2M NTC - 5th: $1.5M NTC - 6th: $1M NTC - 7th: $750k NTC - 8th: $500k NTC",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC.",
       "start": "11/09/2026, 01:00 PM",
       "end": "11/16/2026, 01:00 PM"
     },
@@ -116,7 +124,7 @@
       "id": "1463",
       "status": "Active",
       "title": "Weekly Cash Comp - Nov 1Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $10M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC.",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC. Botting/cheating = disqualified.",
       "start": "11/01/2026, 01:00 PM",
       "end": "11/08/2026, 01:00 PM"
     },
@@ -202,5 +210,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793827788616
+  "_syncedAt": 1793830526840
 }

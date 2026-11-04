@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 98,
       "topWPM": 128,
-      "lifetimeRaces": 5589,
-      "teamRaces": 3160,
+      "lifetimeRaces": 5600,
+      "teamRaces": 3167,
       "joined": "06/10/26"
     },
     {
@@ -106,10 +106,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 96,
       "topWPM": 119,
-      "lifetimeRaces": 1929,
-      "teamRaces": 1575,
+      "lifetimeRaces": 1939,
+      "teamRaces": 1592,
       "joined": "08/31/26"
     },
     {
@@ -132,10 +132,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 69,
+      "avgWPM": 68,
       "topWPM": 85,
-      "lifetimeRaces": 845,
-      "teamRaces": 344,
+      "lifetimeRaces": 848,
+      "teamRaces": 347,
       "joined": "09/08/26"
     },
     {
@@ -529,19 +529,6 @@
       "joined": "10/28/26"
     },
     {
-      "username": "db27599c851d0e7546cb486ec2caf538",
-      "displayName": "1ightwork",
-      "nickname": "Shadow in the Snow",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "B",
-      "avgWPM": 79,
-      "topWPM": 183,
-      "lifetimeRaces": 23717,
-      "teamRaces": 1,
-      "joined": "10/29/26"
-    },
-    {
       "username": "bfa8839baa0642556b69448adee42dca",
       "displayName": "NotoriousJuJu",
       "nickname": "Grim Reaper",
@@ -624,7 +611,7 @@
       "displayName": "1luhhkd3",
       "nickname": "Super Luxury Driver",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 65,
       "topWPM": 109,
@@ -637,7 +624,7 @@
       "displayName": "GregThe2ndFastTyper",
       "nickname": "Ace Accelerator",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 96,
       "topWPM": 124,
@@ -650,7 +637,7 @@
       "displayName": "JaydaYounGan-Y2K-120",
       "nickname": "RIP",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 71,
       "topWPM": 99,
@@ -660,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793827839341
+  "_syncedAt": 1793830557255
 }

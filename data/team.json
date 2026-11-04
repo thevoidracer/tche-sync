@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2465,
+  "profileViews": 2466,
   "leagueTier": 13,
   "racers": [
     {
@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 845,
-      "wpm": 69,
+      "allTimeRaces": 848,
+      "wpm": 68,
       "highestWPM": 85,
-      "teamRaces": 344,
+      "teamRaces": 347,
       "acc": 94.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793764323
+      "lastLogin": 1793828689
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -377,11 +377,11 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1932,
-      "wpm": 98,
+      "allTimeRaces": 1939,
+      "wpm": 96,
       "highestWPM": 119,
-      "teamRaces": 1575,
-      "acc": 94.21,
+      "teamRaces": 1592,
+      "acc": 94.2,
       "season": null,
       "status": "active",
       "lastLogin": 1793825209
@@ -461,14 +461,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5589,
-      "wpm": 93,
+      "allTimeRaces": 5600,
+      "wpm": 98,
       "highestWPM": 128,
-      "teamRaces": 3160,
-      "acc": 92.74,
+      "teamRaces": 3167,
+      "acc": 92.75,
       "season": null,
       "status": "active",
-      "lastLogin": 1793825580
+      "lastLogin": 1793828615
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -711,19 +711,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 66973,
+      "races": 67000,
       "avgWPM": 77,
       "avgAcc": 94.91,
       "members": 50
     },
     "daily": {
-      "races": 1017,
-      "avgWPM": 83,
-      "avgAcc": 94.08,
+      "races": 968,
+      "avgWPM": 84,
+      "avgAcc": 94.15,
       "members": 50
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793827760626
+  "_syncedAt": 1793830503401
 }

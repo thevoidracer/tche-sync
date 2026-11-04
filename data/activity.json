@@ -1,24 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 26
-    },
-    {
-      "hour": "2026-11-03 21:00:00",
-      "racer": "Namedisplayed",
-      "races": 13
-    },
-    {
-      "hour": "2026-11-03 21:00:00",
-      "racer": "UJAADDAH",
-      "races": 5
-    },
-    {
       "hour": "2026-11-03 22:00:00",
       "racer": "KirbyDelta",
-      "races": 55
+      "races": 43
     },
     {
       "hour": "2026-11-03 22:00:00",
@@ -27,12 +12,12 @@
     },
     {
       "hour": "2026-11-03 22:00:00",
-      "racer": "StefanO",
-      "races": 11
+      "racer": "-HyperTyper-",
+      "races": 4
     },
     {
       "hour": "2026-11-03 22:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "StefanO",
       "races": 4
     },
     {
@@ -57,12 +42,12 @@
     },
     {
       "hour": "2026-11-04 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "Void Racer",
       "races": 1
     },
     {
       "hour": "2026-11-04 00:00:00",
-      "racer": "Void Racer",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -197,12 +182,12 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "The Queen",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "me_likey_typey",
+      "racer": "The Queen",
       "races": 1
     },
     {
@@ -357,15 +342,25 @@
     },
     {
       "hour": "2026-11-04 21:00:00",
-      "racer": "Void Racer",
-      "races": 13
+      "racer": "Namedisplayed",
+      "races": 22
     },
     {
       "hour": "2026-11-04 21:00:00",
-      "racer": "Namedisplayed",
-      "races": 5
+      "racer": "Void Racer",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-04 21:00:00",
+      "racer": "StefanO",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-04 22:00:00",
+      "racer": "Void Racer",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793827839342
+  "_syncedAt": 1793830557256
 }
