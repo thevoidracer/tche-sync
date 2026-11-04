@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2454,
+  "profileViews": 2462,
   "leagueTier": 13,
   "racers": [
     {
@@ -195,14 +195,14 @@
       "displayName": "t_unknown",
       "role": "member",
       "joinStamp": 1792076776,
-      "allTimeRaces": 5497,
-      "wpm": 74,
+      "allTimeRaces": 5517,
+      "wpm": 63,
       "highestWPM": 111,
-      "teamRaces": 468,
-      "acc": 94.69,
+      "teamRaces": 488,
+      "acc": 94.63,
       "season": null,
       "status": "active",
-      "lastLogin": 1793807816
+      "lastLogin": 1793817400
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -226,8 +226,8 @@
       "allTimeRaces": 7475,
       "wpm": 80,
       "highestWPM": 102,
-      "teamRaces": 1448,
-      "acc": 93.49,
+      "teamRaces": 1450,
+      "acc": 93.48,
       "season": null,
       "status": "active",
       "lastLogin": 1793814174
@@ -244,7 +244,7 @@
       "acc": 0,
       "season": null,
       "status": "active",
-      "lastLogin": 1793814537
+      "lastLogin": 1793817285
     },
     {
       "username": "cash4087",
@@ -482,7 +482,7 @@
       "acc": 93.14,
       "season": null,
       "status": "active",
-      "lastLogin": 1793727859
+      "lastLogin": 1793817158
     },
     {
       "username": "2ee8114b79a8dbe9aa406f885f04362c",
@@ -517,14 +517,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1293,
+      "allTimeRaces": 1297,
       "wpm": 49,
       "highestWPM": 80,
-      "teamRaces": 191,
-      "acc": 92.29,
+      "teamRaces": 195,
+      "acc": 92.25,
       "season": null,
       "status": "active",
-      "lastLogin": 1793753581
+      "lastLogin": 1793817601
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -552,7 +552,7 @@
       "acc": 91.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793812807
+      "lastLogin": 1793816618
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -615,11 +615,11 @@
       "displayName": "Safire",
       "role": "member",
       "joinStamp": 1793735818,
-      "allTimeRaces": 1225,
+      "allTimeRaces": 1228,
       "wpm": 46,
       "highestWPM": 108,
-      "teamRaces": 18,
-      "acc": 86.56,
+      "teamRaces": 22,
+      "acc": 86.65,
       "season": null,
       "status": "active",
       "lastLogin": 1793814165
@@ -711,19 +711,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 66890,
+      "races": 66920,
       "avgWPM": 77,
       "avgAcc": 94.91,
       "members": 50
     },
     "daily": {
-      "races": 1036,
-      "avgWPM": 84,
-      "avgAcc": 94.11,
+      "races": 1018,
+      "avgWPM": 83,
+      "avgAcc": 94.01,
       "members": 50
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793816512622
+  "_syncedAt": 1793819031936
 }
