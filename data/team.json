@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2464,
+  "profileViews": 2465,
   "leagueTier": 13,
   "racers": [
     {
@@ -377,14 +377,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1909,
-      "wpm": 95,
+      "allTimeRaces": 1932,
+      "wpm": 98,
       "highestWPM": 119,
-      "teamRaces": 1562,
+      "teamRaces": 1575,
       "acc": 94.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1793813700
+      "lastLogin": 1793825209
     },
     {
       "username": "imenishat",
@@ -461,14 +461,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5572,
-      "wpm": 94,
+      "allTimeRaces": 5589,
+      "wpm": 93,
       "highestWPM": 128,
-      "teamRaces": 3147,
-      "acc": 92.73,
+      "teamRaces": 3160,
+      "acc": 92.74,
       "season": null,
       "status": "active",
-      "lastLogin": 1793815137
+      "lastLogin": 1793825580
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -711,13 +711,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 66947,
+      "races": 66973,
       "avgWPM": 77,
       "avgAcc": 94.91,
       "members": 50
     },
     "daily": {
-      "races": 1028,
+      "races": 1017,
       "avgWPM": 83,
       "avgAcc": 94.08,
       "members": 50
@@ -725,5 +725,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793825003544
+  "_syncedAt": 1793827760626
 }

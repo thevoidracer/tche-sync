@@ -1,39 +1,19 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 20:00:00",
-      "racer": "Joe and Uh",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-03 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-03 20:00:00",
-      "racer": "The Queen",
-      "races": 1
-    },
-    {
       "hour": "2026-11-03 21:00:00",
       "racer": "KirbyDelta",
-      "races": 45
+      "races": 26
     },
     {
       "hour": "2026-11-03 21:00:00",
       "racer": "Namedisplayed",
-      "races": 28
+      "races": 13
     },
     {
       "hour": "2026-11-03 21:00:00",
       "racer": "UJAADDAH",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-03 21:00:00",
-      "racer": "Joe and Uh",
-      "races": 1
+      "races": 5
     },
     {
       "hour": "2026-11-03 22:00:00",
@@ -222,17 +202,17 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
+      "racer": "me_likey_typey",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
       "racer": "t_unknown",
       "races": 1
     },
     {
       "hour": "2026-11-04 15:00:00",
       "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-04 15:00:00",
-      "racer": "me_likey_typey",
       "races": 1
     },
     {
@@ -368,9 +348,24 @@
     {
       "hour": "2026-11-04 20:00:00",
       "racer": "I KC Zadkiel I",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-04 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-04 21:00:00",
+      "racer": "Void Racer",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-04 21:00:00",
+      "racer": "Namedisplayed",
       "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793825058630
+  "_syncedAt": 1793827839342
 }
