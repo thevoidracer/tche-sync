@@ -9,10 +9,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain",
-        "races": 370,
+        "races": 373,
         "wpm": 92.8,
         "accuracy": 93.49,
-        "points": 50648,
+        "points": 51053,
         "tier": "A"
       },
       {
@@ -44,6 +44,19 @@
       {
         "rank": 4,
         "tag": "THB0S",
+        "username": "Mythical Dragon",
+        "displayName": "Mythical Dragon",
+        "nickname": "Night Patrol",
+        "squad": "Newbies!",
+        "races": 199,
+        "wpm": 50.3,
+        "accuracy": 92.88,
+        "points": 23132,
+        "tier": "C"
+      },
+      {
+        "rank": 5,
+        "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
@@ -53,19 +66,6 @@
         "accuracy": 97.78,
         "points": 22891,
         "tier": "A"
-      },
-      {
-        "rank": 5,
-        "tag": "THB0S",
-        "username": "Mythical Dragon",
-        "displayName": "Mythical Dragon",
-        "nickname": "Night Patrol",
-        "squad": "Newbies!",
-        "races": 172,
-        "wpm": 50.4,
-        "accuracy": 92.79,
-        "points": 19985,
-        "tier": "C"
       },
       {
         "rank": 6,
@@ -87,10 +87,10 @@
         "displayName": "Pandora",
         "nickname": "I Love Cats",
         "squad": "Investor 1k ;)",
-        "races": 138,
-        "wpm": 66.1,
-        "accuracy": 88.6,
-        "points": 16267,
+        "races": 154,
+        "wpm": 66.6,
+        "accuracy": 88.63,
+        "points": 18195,
         "tier": "A"
       },
       {
@@ -113,10 +113,10 @@
         "displayName": "Itypeforfun",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 114,
-        "wpm": 83.3,
-        "accuracy": 94.54,
-        "points": 15268,
+        "races": 115,
+        "wpm": 83.4,
+        "accuracy": 94.57,
+        "points": 15408,
         "tier": "B"
       },
       {
@@ -1330,6 +1330,19 @@
       },
       {
         "rank": 103,
+        "tag": "KEYCAT",
+        "username": "KindCyanCat",
+        "displayName": "KindCyanCat",
+        "nickname": "Wampus Thwamper",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "B"
+      },
+      {
+        "rank": 104,
         "tag": "IMT",
         "username": "N4RUTO",
         "displayName": "N4RUTO",
@@ -1342,7 +1355,7 @@
         "tier": "C"
       },
       {
-        "rank": 104,
+        "rank": 105,
         "tag": "IMT",
         "username": "Safire",
         "displayName": "Safire",
@@ -1355,7 +1368,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793795329773
+    "_syncedAt": 1793799631318
   },
   "1463": {
     "eventId": "1463",
@@ -1419,10 +1432,10 @@
         "displayName": "Itypeforfun",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 114,
-        "wpm": 83.3,
-        "accuracy": 94.54,
-        "points": 15268,
+        "races": 115,
+        "wpm": 83.4,
+        "accuracy": 94.57,
+        "points": 15408,
         "tier": "$1,500,000"
       },
       {
@@ -1803,6 +1816,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793795333746
+    "_syncedAt": 1793799635490
   }
 }

@@ -162,12 +162,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
@@ -324,8 +324,13 @@
       "hour": "2026-11-04 11:00:00",
       "racer": "rorok09",
       "races": 1
+    },
+    {
+      "hour": "2026-11-04 12:00:00",
+      "racer": "Itypeforfun",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793795286813
+  "_syncedAt": 1793799589510
 }
