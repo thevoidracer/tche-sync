@@ -238,14 +238,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2570,
-        "wpm": 65,
+        "allTimeRaces": 2585,
+        "wpm": 72,
         "highestWPM": 94,
-        "teamRaces": 1525,
+        "teamRaces": 1530,
         "acc": 90.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793788249
+        "lastLogin": 1793794497
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -259,7 +259,7 @@
         "acc": 94.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1793742943
+        "lastLogin": 1793793532
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -334,7 +334,7 @@
       {
         "username": "71f735414500acf2b569f99379a8b399",
         "displayName": "mintzzz",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1793410644,
         "allTimeRaces": 3005,
         "wpm": 64,
@@ -602,11 +602,11 @@
         "displayName": "I am it",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 690,
+        "allTimeRaces": 691,
         "wpm": 62,
         "highestWPM": 83,
-        "teamRaces": 215,
-        "acc": 96.19,
+        "teamRaces": 218,
+        "acc": 96.17,
         "season": null,
         "status": "active",
         "lastLogin": 1793789179
@@ -642,13 +642,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82219,
+        "races": 82227,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 45
       },
       "daily": {
-        "races": 362,
+        "races": 365,
         "avgWPM": 65,
         "avgAcc": 93.96,
         "members": 45
@@ -656,7 +656,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793792719936
+    "_syncedAt": 1793795333897
   },
   "THB0S": {
     "tag": "THB0S",
@@ -932,7 +932,7 @@
         "acc": 97.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1793681117
+        "lastLogin": 1793794976
       },
       {
         "username": "3fd8525390cb7ea33574379957d39827",
@@ -953,14 +953,14 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8626,
-        "wpm": 50,
+        "allTimeRaces": 8633,
+        "wpm": 52,
         "highestWPM": 84,
         "teamRaces": 694,
         "acc": 93.94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793746558
+        "lastLogin": 1793794533
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1307,7 +1307,7 @@
         "members": 45
       },
       "daily": {
-        "races": 741,
+        "races": 736,
         "avgWPM": 77,
         "avgAcc": 94.26,
         "members": 45
@@ -1315,6 +1315,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793792739450
+    "_syncedAt": 1793795352746
   }
 }
