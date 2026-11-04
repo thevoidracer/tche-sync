@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 14:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 13
-    },
-    {
-      "hour": "2026-11-03 14:00:00",
-      "racer": "LogicalCrimsonRoadrunner",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "Namedisplayed",
-      "races": 23
-    },
-    {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "me_likey_typey",
-      "races": 20
-    },
-    {
       "hour": "2026-11-03 15:00:00",
       "racer": "NotoriousJuJu",
       "races": 10
@@ -34,11 +14,6 @@
       "hour": "2026-11-03 15:00:00",
       "racer": "Void Racer",
       "races": 8
-    },
-    {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
     },
     {
       "hour": "2026-11-03 15:00:00",
@@ -322,15 +297,45 @@
     },
     {
       "hour": "2026-11-04 14:00:00",
+      "racer": "KirbyDelta",
+      "races": 25
+    },
+    {
+      "hour": "2026-11-04 14:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 20
+    },
+    {
+      "hour": "2026-11-04 14:00:00",
       "racer": "loganim12btw",
       "races": 5
     },
     {
       "hour": "2026-11-04 14:00:00",
-      "racer": "KirbyDelta",
-      "races": 3
+      "racer": "UJAADDAH",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "IMIME_IMIME",
+      "races": 29
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "Namedisplayed",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "UJAADDAH",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793803164604
+  "_syncedAt": 1793806208583
 }
