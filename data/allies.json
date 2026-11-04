@@ -245,7 +245,7 @@
         "acc": 90.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793743849
+        "lastLogin": 1793788249
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -371,7 +371,7 @@
         "acc": 93.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1793757237
+        "lastLogin": 1793792711
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -602,14 +602,14 @@
         "displayName": "I am it",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 663,
-        "wpm": 63,
+        "allTimeRaces": 690,
+        "wpm": 62,
         "highestWPM": 83,
-        "teamRaces": 190,
-        "acc": 96.2,
+        "teamRaces": 215,
+        "acc": 96.19,
         "season": null,
         "status": "active",
-        "lastLogin": 1793703594
+        "lastLogin": 1793789179
       },
       {
         "username": "8ef43643c37171193a65d74e3e18efb6",
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82194,
+        "races": 82219,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 45
       },
       "daily": {
-        "races": 373,
-        "avgWPM": 68,
-        "avgAcc": 93.69,
+        "races": 362,
+        "avgWPM": 65,
+        "avgAcc": 93.96,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793784892770
+    "_syncedAt": 1793792719936
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1114,7 +1114,7 @@
         "acc": 91.98,
         "season": null,
         "status": "active",
-        "lastLogin": 1793741530
+        "lastLogin": 1793791613
       },
       {
         "username": "sara0010",
@@ -1315,6 +1315,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793784912250
+    "_syncedAt": 1793792739450
   }
 }

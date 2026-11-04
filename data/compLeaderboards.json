@@ -30,6 +30,19 @@
       },
       {
         "rank": 3,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Tycoon 7.5k",
+        "races": 179,
+        "wpm": 87.8,
+        "accuracy": 96.89,
+        "points": 24956,
+        "tier": "A"
+      },
+      {
+        "rank": 4,
         "tag": "THB0S",
         "username": "JCKrayzie",
         "displayName": "JCKrayzie",
@@ -42,7 +55,7 @@
         "tier": "A"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "tag": "THB0S",
         "username": "Mythical Dragon",
         "displayName": "Mythical Dragon",
@@ -55,7 +68,7 @@
         "tier": "C"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -68,7 +81,7 @@
         "tier": "A"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "THB0S",
         "username": "trsgray",
         "displayName": "trsgray",
@@ -78,19 +91,6 @@
         "wpm": 69.5,
         "accuracy": 91.79,
         "points": 16079,
-        "tier": "B"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Tycoon 7.5k",
-        "races": 115,
-        "wpm": 86.6,
-        "accuracy": 96.82,
-        "points": 15954,
         "tier": "B"
       },
       {
@@ -290,6 +290,19 @@
       },
       {
         "rank": 23,
+        "tag": "KEYCAT",
+        "username": "I am it",
+        "displayName": "I am it",
+        "nickname": "Mystery Man",
+        "squad": "Beginner 100!",
+        "races": 68,
+        "wpm": 65,
+        "accuracy": 95.78,
+        "points": 8629,
+        "tier": "B"
+      },
+      {
+        "rank": 24,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -302,7 +315,7 @@
         "tier": "A"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -315,7 +328,7 @@
         "tier": "A"
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
@@ -328,7 +341,7 @@
         "tier": "C"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "THB0S",
         "username": "B-D-R-",
         "displayName": "B-D-R-",
@@ -341,7 +354,7 @@
         "tier": "A"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -354,7 +367,7 @@
         "tier": "C"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -367,7 +380,7 @@
         "tier": "A"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
@@ -393,7 +406,7 @@
         "tier": "A"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "WiltedMuseGirl",
         "displayName": "WiltedMuseGirl",
@@ -406,7 +419,7 @@
         "tier": "B"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "THB0S",
         "username": "WsCaster",
         "displayName": "WsCaster",
@@ -416,19 +429,6 @@
         "wpm": 72.5,
         "accuracy": 95.67,
         "points": 6125,
-        "tier": "B"
-      },
-      {
-        "rank": 33,
-        "tag": "KEYCAT",
-        "username": "I am it",
-        "displayName": "I am it",
-        "nickname": "Mystery Man",
-        "squad": "Beginner 100!",
-        "races": 48,
-        "wpm": 65.8,
-        "accuracy": 95.71,
-        "points": 6105,
         "tier": "B"
       },
       {
@@ -1355,7 +1355,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793784888360
+    "_syncedAt": 1793792715373
   },
   "1463": {
     "eventId": "1463",
@@ -1380,10 +1380,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Tycoon 7.5k",
-        "races": 183,
-        "wpm": 87,
-        "accuracy": 96.8,
-        "points": 25421,
+        "races": 247,
+        "wpm": 87.8,
+        "accuracy": 96.85,
+        "points": 34423,
         "tier": "$3,000,000"
       },
       {
@@ -1803,6 +1803,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793784892577
+    "_syncedAt": 1793792719766
   }
 }

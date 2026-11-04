@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 10:00:00",
-      "racer": "rorok09",
-      "races": 28
-    },
-    {
       "hour": "2026-11-03 11:00:00",
       "racer": "rorok09",
-      "races": 78
+      "races": 25
     },
     {
       "hour": "2026-11-03 12:00:00",
@@ -72,12 +67,12 @@
     },
     {
       "hour": "2026-11-03 15:00:00",
-      "racer": "sterling757",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
       "hour": "2026-11-03 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "sterling757",
       "races": 1
     },
     {
@@ -92,12 +87,12 @@
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "VOID_REIGN",
       "races": 7
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "NotoriousJuJu",
       "races": 7
     },
     {
@@ -177,12 +172,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
@@ -329,8 +324,18 @@
       "hour": "2026-11-04 06:00:00",
       "racer": "Eclipse",
       "races": 30
+    },
+    {
+      "hour": "2026-11-04 10:00:00",
+      "racer": "rorok09",
+      "races": 63
+    },
+    {
+      "hour": "2026-11-04 11:00:00",
+      "racer": "rorok09",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793784845541
+  "_syncedAt": 1793792672385
 }
