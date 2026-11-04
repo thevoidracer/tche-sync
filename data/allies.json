@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3124,
+    "profileViews": 3125,
     "leagueTier": 13,
     "racers": [
       {
@@ -70,11 +70,11 @@
         "displayName": "slushy is back",
         "role": "member",
         "joinStamp": 1790267328,
-        "allTimeRaces": 6764,
-        "wpm": 60,
+        "allTimeRaces": 6767,
+        "wpm": 59,
         "highestWPM": 108,
-        "teamRaces": 337,
-        "acc": 90.8,
+        "teamRaces": 341,
+        "acc": 90.83,
         "season": null,
         "status": "active",
         "lastLogin": 1793756247
@@ -371,7 +371,7 @@
         "acc": 93.14,
         "season": null,
         "status": "active",
-        "lastLogin": 1793741747
+        "lastLogin": 1793757237
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -448,14 +448,14 @@
         "displayName": "hammerdrill7350",
         "role": "member",
         "joinStamp": 1793753149,
-        "allTimeRaces": 312,
+        "allTimeRaces": 313,
         "wpm": 30,
         "highestWPM": 41,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 1,
+        "acc": 96.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1793747312
+        "lastLogin": 1793757367
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
@@ -656,21 +656,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82117,
+        "races": 82122,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 46
       },
       "daily": {
-        "races": 422,
-        "avgWPM": 75,
-        "avgAcc": 93.8,
+        "races": 383,
+        "avgWPM": 74,
+        "avgAcc": 93.74,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793756745768
+    "_syncedAt": 1793759388965
   },
   "THB0S": {
     "tag": "THB0S",
@@ -679,7 +679,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4960,
+    "profileViews": 4964,
     "leagueTier": 13,
     "racers": [
       {
@@ -757,14 +757,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12281,
-        "wpm": 89,
+        "allTimeRaces": 12298,
+        "wpm": 97,
         "highestWPM": 120,
-        "teamRaces": 5320,
+        "teamRaces": 5337,
         "acc": 92.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1793669687
+        "lastLogin": 1793757005
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -792,7 +792,7 @@
         "acc": 91.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1793672845
+        "lastLogin": 1793756951
       },
       {
         "username": "strive_rip",
@@ -1135,14 +1135,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19663,
-        "wpm": 101,
+        "allTimeRaces": 19675,
+        "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 19203,
+        "teamRaces": 19215,
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793753858
+        "lastLogin": 1793757067
       },
       {
         "username": "taco13001",
@@ -1315,13 +1315,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131796,
+        "races": 131825,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.03,
         "members": 45
       },
       "daily": {
-        "races": 718,
+        "races": 737,
         "avgWPM": 75,
         "avgAcc": 93.88,
         "members": 45
@@ -1329,6 +1329,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793756768402
+    "_syncedAt": 1793759407792
   }
 }
