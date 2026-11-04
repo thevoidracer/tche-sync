@@ -252,11 +252,11 @@
         "displayName": "Ace_TypingLegend",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1431,
-        "wpm": 63,
+        "allTimeRaces": 1448,
+        "wpm": 60,
         "highestWPM": 76,
-        "teamRaces": 621,
-        "acc": 94.4,
+        "teamRaces": 641,
+        "acc": 94.35,
         "season": null,
         "status": "active",
         "lastLogin": 1793831412
@@ -684,21 +684,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82598,
+        "races": 82618,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 48
       },
       "daily": {
-        "races": 483,
+        "races": 503,
         "avgWPM": 64,
-        "avgAcc": 93.37,
+        "avgAcc": 93.35,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793833114477
+    "_syncedAt": 1793835196940
   },
   "THB0S": {
     "tag": "THB0S",
@@ -707,7 +707,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4989,
+    "profileViews": 4992,
     "leagueTier": 13,
     "racers": [
       {
@@ -729,11 +729,11 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1065,
-        "wpm": 94,
+        "allTimeRaces": 1100,
+        "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 865,
-        "acc": 96.26,
+        "teamRaces": 899,
+        "acc": 96.28,
         "season": null,
         "status": "active",
         "lastLogin": 1793830091
@@ -848,7 +848,7 @@
         "acc": 93.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1793754252
+        "lastLogin": 1793834614
       },
       {
         "username": "pigglepigglepiggle",
@@ -1303,14 +1303,14 @@
         "displayName": "B-D-R-",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2397,
+        "allTimeRaces": 2434,
         "wpm": 93,
         "highestWPM": 119,
-        "teamRaces": 2379,
-        "acc": 95.59,
+        "teamRaces": 2415,
+        "acc": 95.6,
         "season": null,
         "status": "active",
-        "lastLogin": 1793832160
+        "lastLogin": 1793835108
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1357,20 +1357,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 132579,
+        "races": 132649,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 866,
-        "avgWPM": 80,
-        "avgAcc": 95.29,
+        "races": 914,
+        "avgWPM": 81,
+        "avgAcc": 95.42,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793833133824
+    "_syncedAt": 1793835219591
   }
 }

@@ -135,7 +135,7 @@
       "avgWPM": 72,
       "topWPM": 85,
       "lifetimeRaces": 851,
-      "teamRaces": 347,
+      "teamRaces": 350,
       "joined": "09/08/26"
     },
     {
@@ -160,8 +160,8 @@
       "tier": "A",
       "avgWPM": 101,
       "topWPM": 111,
-      "lifetimeRaces": 2381,
-      "teamRaces": 241,
+      "lifetimeRaces": 2398,
+      "teamRaces": 274,
       "joined": "09/17/26"
     },
     {
@@ -209,11 +209,11 @@
       "nickname": "Nitro Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 109,
-      "lifetimeRaces": 1429,
-      "teamRaces": 195,
+      "lifetimeRaces": 1440,
+      "teamRaces": 212,
       "joined": "09/29/26"
     },
     {
@@ -457,10 +457,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 97,
+      "avgWPM": 91,
       "topWPM": 127,
-      "lifetimeRaces": 1830,
-      "teamRaces": 297,
+      "lifetimeRaces": 1845,
+      "teamRaces": 307,
       "joined": "10/24/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793833066661
+  "_syncedAt": 1793835147977
 }

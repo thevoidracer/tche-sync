@@ -1,24 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-03 22:00:00",
-      "racer": "Void Racer",
-      "races": 4
-    },
-    {
       "hour": "2026-11-03 23:00:00",
       "racer": "BlazingFlowerz",
-      "races": 34
+      "races": 23
     },
     {
       "hour": "2026-11-03 23:00:00",
       "racer": "UJAADDAH",
-      "races": 10
+      "races": 3
     },
     {
       "hour": "2026-11-04 00:00:00",
@@ -157,12 +147,12 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "UJAADDAH",
       "races": 13
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "PootsyWafflebiscuits",
       "races": 13
     },
     {
@@ -172,7 +162,12 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "me_likey_typey",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "The Queen",
       "races": 1
     },
     {
@@ -182,12 +177,7 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "me_likey_typey",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-04 15:00:00",
-      "racer": "The Queen",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -348,12 +338,12 @@
     {
       "hour": "2026-11-04 22:00:00",
       "racer": "IMIME_IMIME",
-      "races": 24
+      "races": 40
     },
     {
       "hour": "2026-11-04 22:00:00",
       "racer": "Nish_OUT",
-      "races": 17
+      "races": 29
     },
     {
       "hour": "2026-11-04 22:00:00",
@@ -363,9 +353,29 @@
     {
       "hour": "2026-11-04 22:00:00",
       "racer": "UJAADDAH",
-      "races": 10
+      "races": 12
+    },
+    {
+      "hour": "2026-11-04 22:00:00",
+      "racer": "StefanO",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-04 23:00:00",
+      "racer": "IMIME_IMIME",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-04 23:00:00",
+      "racer": "UJAADDAH",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-04 23:00:00",
+      "racer": "Nish_OUT",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793833066662
+  "_syncedAt": 1793835147978
 }
