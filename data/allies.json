@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 46,
+    "members": 45,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -336,14 +336,14 @@
         "displayName": "mintzzz",
         "role": "member",
         "joinStamp": 1793410644,
-        "allTimeRaces": 2953,
-        "wpm": 64,
+        "allTimeRaces": 2993,
+        "wpm": 66,
         "highestWPM": 74,
-        "teamRaces": 152,
-        "acc": 96.18,
+        "teamRaces": 168,
+        "acc": 96.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1793739457
+        "lastLogin": 1793767634
       },
       {
         "username": "vertur",
@@ -386,20 +386,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793710094
-      },
-      {
-        "username": "phrase2bomb",
-        "displayName": "Unique Cat Halloween",
-        "role": "officer",
-        "joinStamp": 1793607453,
-        "allTimeRaces": 11233,
-        "wpm": 104,
-        "highestWPM": 132,
-        "teamRaces": 164,
-        "acc": 93.9,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793765430
       },
       {
         "username": "quickbrownpony",
@@ -448,14 +434,14 @@
         "displayName": "hammerdrill7350",
         "role": "member",
         "joinStamp": 1793753149,
-        "allTimeRaces": 313,
-        "wpm": 30,
+        "allTimeRaces": 333,
+        "wpm": 29,
         "highestWPM": 41,
-        "teamRaces": 1,
-        "acc": 96.97,
+        "teamRaces": 21,
+        "acc": 95.65,
         "season": null,
         "status": "active",
-        "lastLogin": 1793757367
+        "lastLogin": 1793766994
       },
       {
         "username": "0aec5c58b29b446a974707cee786e4b6",
@@ -656,27 +642,27 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82122,
+        "races": 82158,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 46
+        "members": 45
       },
       "daily": {
-        "races": 379,
-        "avgWPM": 74,
-        "avgAcc": 93.74,
-        "members": 46
+        "races": 401,
+        "avgWPM": 72,
+        "avgAcc": 93.75,
+        "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793766145616
+    "_syncedAt": 1793769898868
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 45,
-    "activePercent": 95,
+    "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
     "profileViews": 4968,
@@ -1135,14 +1121,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19675,
-        "wpm": 95,
+        "allTimeRaces": 19680,
+        "wpm": 94,
         "highestWPM": 123,
-        "teamRaces": 19215,
-        "acc": 94,
+        "teamRaces": 19220,
+        "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793757067
+        "lastLogin": 1793766192
       },
       {
         "username": "taco13001",
@@ -1268,7 +1254,7 @@
         "acc": 95.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1793745848
+        "lastLogin": 1793767488
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1315,20 +1301,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131894,
+        "races": 131899,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 45
       },
       "daily": {
-        "races": 761,
+        "races": 735,
         "avgWPM": 77,
-        "avgAcc": 94.27,
+        "avgAcc": 94.24,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793766164480
+    "_syncedAt": 1793769925776
   }
 }

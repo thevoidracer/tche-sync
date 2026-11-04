@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 89,
-    "tierB": 78,
+    "tierA": 88,
+    "tierB": 79,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -158,9 +158,9 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 68,
+      "avgWPM": 63,
       "topWPM": 85,
-      "lifetimeRaces": 2305,
+      "lifetimeRaces": 2308,
       "teamRaces": 131,
       "joined": "09/17/26"
     },
@@ -274,7 +274,7 @@
       "nickname": "Epic Engager",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 78,
       "topWPM": 94,
       "lifetimeRaces": 1017,
@@ -352,7 +352,7 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 78,
       "topWPM": 102,
       "lifetimeRaces": 7400,
@@ -365,7 +365,7 @@
       "nickname": "Need 4 Speed",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 88,
       "topWPM": 120,
       "lifetimeRaces": 4024,
@@ -391,7 +391,7 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 78,
       "topWPM": 228,
       "lifetimeRaces": 1180,
@@ -483,10 +483,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 90,
       "topWPM": 127,
-      "lifetimeRaces": 1776,
-      "teamRaces": 237,
+      "lifetimeRaces": 1795,
+      "teamRaces": 262,
       "joined": "10/24/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793766096430
+  "_syncedAt": 1793769850763
 }
