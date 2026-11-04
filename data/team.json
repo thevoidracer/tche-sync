@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 50,
+  "members": 49,
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2413,
+  "profileViews": 2414,
   "leagueTier": 13,
   "racers": [
     {
@@ -121,20 +121,6 @@
       "lastLogin": 1793710425
     },
     {
-      "username": "0ccde8a573d2a2ea52362b3c44e31c5d",
-      "displayName": "12 loyal",
-      "role": "member",
-      "joinStamp": 1792293705,
-      "allTimeRaces": 1072,
-      "wpm": 88,
-      "highestWPM": 120,
-      "teamRaces": 10,
-      "acc": 95.94,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1792606017
-    },
-    {
       "username": "crxy99",
       "displayName": "Amaterasu",
       "role": "member",
@@ -153,14 +139,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7827,
-      "wpm": 80,
+      "allTimeRaces": 7876,
+      "wpm": 81,
       "highestWPM": 110,
-      "teamRaces": 709,
-      "acc": 97.31,
+      "teamRaces": 770,
+      "acc": 97.3,
       "season": null,
       "status": "active",
-      "lastLogin": 1793760979
+      "lastLogin": 1793763010
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -188,7 +174,7 @@
       "acc": 94.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793745323
+      "lastLogin": 1793764323
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -405,14 +391,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1769,
-      "wpm": 100,
+      "allTimeRaces": 1782,
+      "wpm": 92,
       "highestWPM": 127,
-      "teamRaces": 236,
-      "acc": 90.32,
+      "teamRaces": 248,
+      "acc": 90.48,
       "season": null,
       "status": "active",
-      "lastLogin": 1793747834
+      "lastLogin": 1793765119
     },
     {
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
@@ -468,7 +454,7 @@
       "acc": 92.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1793757224
+      "lastLogin": 1793763294
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -711,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 66239,
+      "races": 66312,
       "avgWPM": 77,
-      "avgAcc": 94.91,
-      "members": 50
+      "avgAcc": 94.92,
+      "members": 49
     },
     "daily": {
-      "races": 863,
-      "avgWPM": 81,
-      "avgAcc": 93.56,
-      "members": 50
+      "races": 879,
+      "avgWPM": 82,
+      "avgAcc": 93.61,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793762250507
+  "_syncedAt": 1793766042734
 }
