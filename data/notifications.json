@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "key": "new-member:coolkidk400",
+      "type": "new-member",
+      "text": "1luhhkd3 joined the team.",
+      "meta": {
+        "username": "coolkidk400"
+      },
+      "createdAt": 1793812762152
+    },
+    {
+      "key": "new-member:gregthefasttyper",
+      "type": "new-member",
+      "text": "GregThe2ndFastTyper joined the team.",
+      "meta": {
+        "username": "gregthefasttyper"
+      },
+      "createdAt": 1793812762152
+    },
+    {
       "key": "new-member:844660ad903d804f47af80a4617a90d0",
       "type": "new-member",
       "text": "Just gold-racer joined the team.",
@@ -702,5 +720,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793809348962
+  "_syncedAt": 1793812762152
 }

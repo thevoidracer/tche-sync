@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 88,
+    "tierA": 89,
     "tierB": 79,
     "weeklyReq": 100
   },
@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 95,
       "topWPM": 128,
-      "lifetimeRaces": 5557,
-      "teamRaces": 3132,
+      "lifetimeRaces": 5564,
+      "teamRaces": 3139,
       "joined": "06/10/26"
     },
     {
@@ -158,10 +158,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 101,
+      "avgWPM": 98,
       "topWPM": 111,
-      "lifetimeRaces": 2363,
-      "teamRaces": 216,
+      "lifetimeRaces": 2364,
+      "teamRaces": 217,
       "joined": "09/17/26"
     },
     {
@@ -223,10 +223,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 71,
+      "avgWPM": 73,
       "topWPM": 93,
-      "lifetimeRaces": 2451,
-      "teamRaces": 554,
+      "lifetimeRaces": 2467,
+      "teamRaces": 572,
       "joined": "10/05/26"
     },
     {
@@ -290,8 +290,8 @@
       "tier": "B",
       "avgWPM": 81,
       "topWPM": 127,
-      "lifetimeRaces": 20621,
-      "teamRaces": 269,
+      "lifetimeRaces": 20622,
+      "teamRaces": 270,
       "joined": "10/07/26"
     },
     {
@@ -316,7 +316,7 @@
       "tier": "A",
       "avgWPM": 109,
       "topWPM": 129,
-      "lifetimeRaces": 1281,
+      "lifetimeRaces": 1287,
       "teamRaces": 145,
       "joined": "10/13/26"
     },
@@ -365,7 +365,7 @@
       "nickname": "Need 4 Speed",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 88,
       "topWPM": 120,
       "lifetimeRaces": 4024,
@@ -431,10 +431,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 94,
       "topWPM": 215,
-      "lifetimeRaces": 967,
-      "teamRaces": 184,
+      "lifetimeRaces": 976,
+      "teamRaces": 196,
       "joined": "10/22/26"
     },
     {
@@ -448,19 +448,6 @@
       "topWPM": 117,
       "lifetimeRaces": 13965,
       "teamRaces": 68,
-      "joined": "10/22/26"
-    },
-    {
-      "username": "linmauelmiranda",
-      "displayName": "LedByHim",
-      "nickname": "Leafed on Read",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 93,
-      "topWPM": 110,
-      "lifetimeRaces": 4154,
-      "teamRaces": 75,
       "joined": "10/22/26"
     },
     {
@@ -483,10 +470,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 97,
+      "avgWPM": 99,
       "topWPM": 127,
-      "lifetimeRaces": 1810,
-      "teamRaces": 277,
+      "lifetimeRaces": 1820,
+      "teamRaces": 283,
       "joined": "10/24/26"
     },
     {
@@ -539,19 +526,6 @@
       "topWPM": 80,
       "lifetimeRaces": 1293,
       "teamRaces": 191,
-      "joined": "10/28/26"
-    },
-    {
-      "username": "elibarbers",
-      "displayName": "Brodence",
-      "nickname": "Secret Agent",
-      "role": "member",
-      "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 76,
-      "topWPM": 98,
-      "lifetimeRaces": 9108,
-      "teamRaces": 0,
       "joined": "10/28/26"
     },
     {
@@ -637,15 +611,41 @@
       "displayName": "Just gold-racer",
       "nickname": "May The 4th Be With You",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 53,
       "topWPM": 72,
       "lifetimeRaces": 7033,
       "teamRaces": 0,
       "joined": "11/04/26"
+    },
+    {
+      "username": "coolkidk400",
+      "displayName": "1luhhkd3",
+      "nickname": "Super Luxury Driver",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 65,
+      "topWPM": 109,
+      "lifetimeRaces": 2108,
+      "teamRaces": 0,
+      "joined": "11/04/26"
+    },
+    {
+      "username": "gregthefasttyper",
+      "displayName": "GregThe2ndFastTyper",
+      "nickname": "Ace Accelerator",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 96,
+      "topWPM": 124,
+      "lifetimeRaces": 1218,
+      "teamRaces": 18,
+      "joined": "11/04/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793809310505
+  "_syncedAt": 1793812722029
 }
