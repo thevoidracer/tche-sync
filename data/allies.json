@@ -336,11 +336,11 @@
         "displayName": "mintzzz",
         "role": "member",
         "joinStamp": 1793410644,
-        "allTimeRaces": 2993,
-        "wpm": 66,
+        "allTimeRaces": 3005,
+        "wpm": 64,
         "highestWPM": 74,
-        "teamRaces": 168,
-        "acc": 96.05,
+        "teamRaces": 204,
+        "acc": 95.87,
         "season": null,
         "status": "active",
         "lastLogin": 1793767634
@@ -642,21 +642,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82158,
+        "races": 82194,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 45
       },
       "daily": {
-        "races": 401,
+        "races": 431,
         "avgWPM": 72,
-        "avgAcc": 93.75,
+        "avgAcc": 93.82,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793769898868
+    "_syncedAt": 1793773378927
   },
   "THB0S": {
     "tag": "THB0S",
@@ -680,7 +680,7 @@
         "acc": 96.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1793761742
+        "lastLogin": 1793770555
       },
       {
         "username": "joepellicc_gold",
@@ -743,14 +743,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12298,
-        "wpm": 97,
+        "allTimeRaces": 12304,
+        "wpm": 88,
         "highestWPM": 120,
-        "teamRaces": 5337,
+        "teamRaces": 5343,
         "acc": 92.37,
         "season": null,
         "status": "active",
-        "lastLogin": 1793757005
+        "lastLogin": 1793769928
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -1301,20 +1301,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131899,
+        "races": 131905,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 45
       },
       "daily": {
-        "races": 735,
+        "races": 741,
         "avgWPM": 77,
-        "avgAcc": 94.24,
+        "avgAcc": 94.26,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793769925776
+    "_syncedAt": 1793773399699
   }
 }

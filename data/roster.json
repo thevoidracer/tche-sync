@@ -157,11 +157,11 @@
       "nickname": "Yeah, Buoy!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 63,
-      "topWPM": 85,
-      "lifetimeRaces": 2308,
-      "teamRaces": 131,
+      "tier": "A",
+      "avgWPM": 103,
+      "topWPM": 107,
+      "lifetimeRaces": 2330,
+      "teamRaces": 165,
       "joined": "09/17/26"
     },
     {
@@ -522,10 +522,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "B",
-      "avgWPM": 81,
+      "avgWPM": 79,
       "topWPM": 110,
-      "lifetimeRaces": 7876,
-      "teamRaces": 770,
+      "lifetimeRaces": 7917,
+      "teamRaces": 803,
       "joined": "10/28/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793769850763
+  "_syncedAt": 1793773334274
 }
