@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 45,
+    "members": 46,
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 7| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3123,
+    "profileViews": 3124,
     "leagueTier": 13,
     "racers": [
       {
@@ -444,6 +444,20 @@
         "lastLogin": 1793282654
       },
       {
+        "username": "hammerdrill7350",
+        "displayName": "hammerdrill7350",
+        "role": "member",
+        "joinStamp": 1793753149,
+        "allTimeRaces": 312,
+        "wpm": 30,
+        "highestWPM": 41,
+        "teamRaces": 0,
+        "acc": 0,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1793747312
+      },
+      {
         "username": "0aec5c58b29b446a974707cee786e4b6",
         "displayName": "SteadyLimeGoat",
         "role": "member",
@@ -525,7 +539,7 @@
         "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793745635
+        "lastLogin": 1793753138
       },
       {
         "username": "happygoluckygirl07",
@@ -645,18 +659,18 @@
         "races": 82115,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 45
+        "members": 46
       },
       "daily": {
-        "races": 437,
+        "races": 436,
         "avgWPM": 76,
         "avgAcc": 93.79,
-        "members": 45
+        "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793750521478
+    "_syncedAt": 1793753224448
   },
   "THB0S": {
     "tag": "THB0S",
@@ -680,7 +694,7 @@
         "acc": 96.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1793742178
+        "lastLogin": 1793752111
       },
       {
         "username": "joepellicc_gold",
@@ -806,7 +820,7 @@
         "acc": 93.82,
         "season": null,
         "status": "active",
-        "lastLogin": 1793748331
+        "lastLogin": 1793752322
       },
       {
         "username": "pigglepigglepiggle",
@@ -1149,10 +1163,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19643,
+        "allTimeRaces": 19649,
         "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 19182,
+        "teamRaces": 19189,
         "acc": 94.01,
         "season": null,
         "status": "active",
@@ -1310,7 +1324,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1793734448
+        "lastLogin": 1793750970
       },
       {
         "username": "malott12",
@@ -1329,20 +1343,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 131740,
+        "races": 131747,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 47
       },
       "daily": {
-        "races": 803,
+        "races": 736,
         "avgWPM": 74,
-        "avgAcc": 93.86,
+        "avgAcc": 93.78,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793750547434
+    "_syncedAt": 1793753243377
   }
 }

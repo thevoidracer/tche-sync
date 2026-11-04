@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 00:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 3
-    },
-    {
       "hour": "2026-11-03 01:00:00",
       "racer": "Eclipse",
       "races": 16
@@ -222,12 +217,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
@@ -293,14 +288,29 @@
     {
       "hour": "2026-11-03 23:00:00",
       "racer": "BlazingFlowerz",
-      "races": 23
+      "races": 34
     },
     {
       "hour": "2026-11-03 23:00:00",
       "racer": "UJAADDAH",
       "races": 10
+    },
+    {
+      "hour": "2026-11-04 00:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-04 00:00:00",
+      "racer": "me_likey_typey",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-04 00:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793750470246
+  "_syncedAt": 1793753172084
 }
