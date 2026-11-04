@@ -1,29 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "loganim12btw",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-03 15:00:00",
-      "racer": "sterling757",
-      "races": 1
-    },
-    {
       "hour": "2026-11-03 16:00:00",
       "racer": "loganim12btw",
-      "races": 23
+      "races": 19
     },
     {
       "hour": "2026-11-03 16:00:00",
@@ -32,18 +12,8 @@
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "NotoriousJuJu",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-03 16:00:00",
       "racer": "VOID_REIGN",
       "races": 7
-    },
-    {
-      "hour": "2026-11-03 16:00:00",
-      "racer": "UJAADDAH",
-      "races": 6
     },
     {
       "hour": "2026-11-03 16:00:00",
@@ -117,12 +87,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
@@ -318,7 +288,17 @@
     {
       "hour": "2026-11-04 15:00:00",
       "racer": "IMIME_IMIME",
-      "races": 29
+      "races": 51
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "Namedisplayed",
+      "races": 35
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "Joe and Uh",
+      "races": 15
     },
     {
       "hour": "2026-11-04 15:00:00",
@@ -327,15 +307,35 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "Namedisplayed",
-      "races": 11
+      "racer": "UJAADDAH",
+      "races": 13
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "UJAADDAH",
-      "races": 7
+      "racer": "loganim12btw",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "me_likey_typey",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "The Queen",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "t_unknown",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793806208583
+  "_syncedAt": 1793809310507
 }
