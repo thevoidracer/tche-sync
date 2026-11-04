@@ -1,29 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 13:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-03 13:00:00",
-      "racer": "VOID_REIGN",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-03 13:00:00",
-      "racer": "Void Racer",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-03 14:00:00",
-      "racer": "loganim12btw",
-      "races": 28
-    },
-    {
       "hour": "2026-11-03 14:00:00",
       "racer": "PootsyWafflebiscuits",
-      "races": 24
+      "races": 13
     },
     {
       "hour": "2026-11-03 14:00:00",
@@ -162,12 +142,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
@@ -329,8 +309,28 @@
       "hour": "2026-11-04 12:00:00",
       "racer": "Itypeforfun",
       "races": 1
+    },
+    {
+      "hour": "2026-11-04 13:00:00",
+      "racer": "loganim12btw",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-04 13:00:00",
+      "racer": "The Queen",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-04 14:00:00",
+      "racer": "loganim12btw",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-04 14:00:00",
+      "racer": "KirbyDelta",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793799589510
+  "_syncedAt": 1793803164604
 }
