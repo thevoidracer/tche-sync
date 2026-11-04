@@ -1,24 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 02:00:00",
-      "racer": "Eclipse",
-      "races": 52
-    },
-    {
-      "hour": "2026-11-03 02:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
-    },
-    {
       "hour": "2026-11-03 03:00:00",
       "racer": "Eclipse",
-      "races": 35
+      "races": 34
     },
     {
       "hour": "2026-11-03 03:00:00",
       "racer": "BlazingFlowerz",
-      "races": 11
+      "races": 7
     },
     {
       "hour": "2026-11-03 04:00:00",
@@ -102,12 +92,12 @@
     },
     {
       "hour": "2026-11-03 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "sterling757",
       "races": 1
     },
     {
       "hour": "2026-11-03 15:00:00",
-      "racer": "sterling757",
+      "racer": "UJAADDAH",
       "races": 1
     },
     {
@@ -309,8 +299,33 @@
       "hour": "2026-11-04 01:00:00",
       "racer": "BlazingFlowerz",
       "races": 2
+    },
+    {
+      "hour": "2026-11-04 02:00:00",
+      "racer": "asteroids",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-04 02:00:00",
+      "racer": "Eclipse",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-04 02:00:00",
+      "racer": "Just gold-racer",
+      "races": 0
+    },
+    {
+      "hour": "2026-11-04 03:00:00",
+      "racer": "Eclipse",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-04 03:00:00",
+      "racer": "asteroids",
+      "races": 11
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793759339453
+  "_syncedAt": 1793762307350
 }

@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:844660ad903d804f47af80a4617a90d0",
+      "type": "new-member",
+      "text": "Just gold-racer joined the team.",
+      "meta": {
+        "username": "844660ad903d804f47af80a4617a90d0"
+      },
+      "createdAt": 1793762345883
+    },
+    {
       "key": "new-member:b6456e4c4be6acdfede3e806a662ed4c",
       "type": "new-member",
       "text": "Safire joined the team.",
@@ -693,5 +702,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793759376172
+  "_syncedAt": 1793762345883
 }

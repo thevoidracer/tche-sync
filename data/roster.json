@@ -508,11 +508,11 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 94,
       "topWPM": 112,
-      "lifetimeRaces": 3489,
-      "teamRaces": 279,
+      "lifetimeRaces": 3516,
+      "teamRaces": 306,
       "joined": "10/25/26"
     },
     {
@@ -534,11 +534,11 @@
       "nickname": "#NitroFurze",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 75,
+      "tier": "B",
+      "avgWPM": 79,
       "topWPM": 110,
-      "lifetimeRaces": 7794,
-      "teamRaces": 688,
+      "lifetimeRaces": 7824,
+      "teamRaces": 709,
       "joined": "10/28/26"
     },
     {
@@ -644,8 +644,21 @@
       "lifetimeRaces": 1206,
       "teamRaces": 0,
       "joined": "11/03/26"
+    },
+    {
+      "username": "844660ad903d804f47af80a4617a90d0",
+      "displayName": "Just gold-racer",
+      "nickname": "May The 4th Be With You",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 53,
+      "topWPM": 72,
+      "lifetimeRaces": 7033,
+      "teamRaces": 0,
+      "joined": "11/04/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793759339452
+  "_syncedAt": 1793762307349
 }

@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 49,
+  "members": 50,
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2411,
+  "profileViews": 2413,
   "leagueTier": 13,
   "racers": [
     {
@@ -153,14 +153,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 7794,
-      "wpm": 75,
+      "allTimeRaces": 7827,
+      "wpm": 80,
       "highestWPM": 110,
-      "teamRaces": 688,
+      "teamRaces": 709,
       "acc": 97.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1793678056
+      "lastLogin": 1793760979
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -293,14 +293,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3489,
-      "wpm": 87,
+      "allTimeRaces": 3516,
+      "wpm": 94,
       "highestWPM": 112,
-      "teamRaces": 279,
-      "acc": 95.67,
+      "teamRaces": 306,
+      "acc": 95.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793682044
+      "lastLogin": 1793760434
     },
     {
       "username": "sterling757",
@@ -569,6 +569,20 @@
       "lastLogin": 1793390392
     },
     {
+      "username": "844660ad903d804f47af80a4617a90d0",
+      "displayName": "Just gold-racer",
+      "role": "member",
+      "joinStamp": 1793761199,
+      "allTimeRaces": 7033,
+      "wpm": 53,
+      "highestWPM": 72,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1793761740
+    },
+    {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
       "displayName": "Victoria Ram",
       "role": "member",
@@ -678,7 +692,7 @@
       "acc": 94.82,
       "season": null,
       "status": "active",
-      "lastLogin": 1793673706
+      "lastLogin": 1793760444
     },
     {
       "username": "newkeyboard512",
@@ -697,19 +711,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 66191,
+      "races": 66239,
       "avgWPM": 77,
       "avgAcc": 94.91,
-      "members": 49
+      "members": 50
     },
     "daily": {
-      "races": 874,
-      "avgWPM": 80,
-      "avgAcc": 93.59,
-      "members": 49
+      "races": 863,
+      "avgWPM": 81,
+      "avgAcc": 93.56,
+      "members": 50
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793759283432
+  "_syncedAt": 1793762250507
 }
