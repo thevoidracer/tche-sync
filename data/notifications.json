@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:f09fe0ef3a642c5a3f429fa873139e72",
+      "type": "new-member",
+      "text": "JaydaYounGan-Y2K-120 joined the team.",
+      "meta": {
+        "username": "f09fe0ef3a642c5a3f429fa873139e72"
+      },
+      "createdAt": 1793816608353
+    },
+    {
       "key": "new-member:coolkidk400",
       "type": "new-member",
       "text": "1luhhkd3 joined the team.",
@@ -720,5 +729,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793812762152
+  "_syncedAt": 1793816608353
 }
