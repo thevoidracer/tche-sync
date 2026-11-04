@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-02 23:00:00",
-      "racer": "GroundedAquaEmu",
-      "races": 4
-    },
-    {
       "hour": "2026-11-03 00:00:00",
       "racer": "SKZ FIRAH",
       "races": 3
@@ -142,12 +137,12 @@
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "VOID_REIGN",
+      "racer": "NotoriousJuJu",
       "races": 7
     },
     {
       "hour": "2026-11-03 16:00:00",
-      "racer": "NotoriousJuJu",
+      "racer": "VOID_REIGN",
       "races": 7
     },
     {
@@ -227,12 +222,12 @@
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
+      "racer": "N4RUTO",
       "races": 0
     },
     {
       "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
+      "racer": "Safire",
       "races": 0
     },
     {
@@ -297,15 +292,15 @@
     },
     {
       "hour": "2026-11-03 23:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
+      "racer": "BlazingFlowerz",
+      "races": 23
     },
     {
       "hour": "2026-11-03 23:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 1
+      "racer": "UJAADDAH",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793748530890
+  "_syncedAt": 1793750470246
 }

@@ -5,7 +5,7 @@
   "activePercent": 97,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨48.6M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2404,
+  "profileViews": 2406,
   "leagueTier": 13,
   "racers": [
     {
@@ -405,11 +405,11 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1764,
-      "wpm": 99,
+      "allTimeRaces": 1769,
+      "wpm": 100,
       "highestWPM": 127,
-      "teamRaces": 228,
-      "acc": 90.39,
+      "teamRaces": 236,
+      "acc": 90.32,
       "season": null,
       "status": "active",
       "lastLogin": 1793747834
@@ -517,11 +517,11 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1247,
-      "wpm": 52,
+      "allTimeRaces": 1273,
+      "wpm": 50,
       "highestWPM": 80,
-      "teamRaces": 138,
-      "acc": 92.47,
+      "teamRaces": 171,
+      "acc": 92.51,
       "season": null,
       "status": "active",
       "lastLogin": 1793747524
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 66112,
+      "races": 66153,
       "avgWPM": 77,
       "avgAcc": 94.92,
       "members": 49
     },
     "daily": {
-      "races": 851,
-      "avgWPM": 82,
-      "avgAcc": 94.15,
+      "races": 888,
+      "avgWPM": 81,
+      "avgAcc": 94.03,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793748451594
+  "_syncedAt": 1793750412003
 }
