@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-03 19:00:00",
-      "racer": "me_likey_typey",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-03 19:00:00",
-      "racer": "Safire",
-      "races": 0
-    },
-    {
-      "hour": "2026-11-03 19:00:00",
-      "racer": "N4RUTO",
-      "races": 0
-    },
-    {
       "hour": "2026-11-03 20:00:00",
       "racer": "UJAADDAH",
       "races": 12
@@ -97,12 +82,12 @@
     },
     {
       "hour": "2026-11-04 00:00:00",
-      "racer": "Void Racer",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-11-04 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "Void Racer",
       "races": 1
     },
     {
@@ -172,7 +157,7 @@
     },
     {
       "hour": "2026-11-04 12:00:00",
-      "racer": "Itypeforfun",
+      "racer": "- Void Grinder -",
       "races": 1
     },
     {
@@ -222,12 +207,12 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "UJAADDAH",
       "races": 13
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "PootsyWafflebiscuits",
       "races": 13
     },
     {
@@ -353,7 +338,7 @@
     {
       "hour": "2026-11-04 18:00:00",
       "racer": "t_unknown",
-      "races": 14
+      "races": 20
     },
     {
       "hour": "2026-11-04 18:00:00",
@@ -367,15 +352,25 @@
     },
     {
       "hour": "2026-11-04 18:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-04 18:00:00",
       "racer": "me_likey_typey",
       "races": 2
     },
     {
-      "hour": "2026-11-04 18:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 2
+      "hour": "2026-11-04 19:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-04 19:00:00",
+      "racer": "- Void Grinder -",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793819085402
+  "_syncedAt": 1793822439164
 }
