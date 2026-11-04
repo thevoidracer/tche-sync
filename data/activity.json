@@ -2,22 +2,17 @@
   "hours": [
     {
       "hour": "2026-11-03 20:00:00",
-      "racer": "UJAADDAH",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-03 20:00:00",
       "racer": "Joe and Uh",
       "races": 11
     },
     {
       "hour": "2026-11-03 20:00:00",
-      "racer": "The Queen",
-      "races": 4
+      "racer": "Namedisplayed",
+      "races": 1
     },
     {
       "hour": "2026-11-03 20:00:00",
-      "racer": "Namedisplayed",
+      "racer": "The Queen",
       "races": 1
     },
     {
@@ -207,23 +202,18 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "PootsyWafflebiscuits",
       "races": 13
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "UJAADDAH",
       "races": 13
     },
     {
       "hour": "2026-11-04 15:00:00",
       "racer": "loganim12btw",
       "races": 6
-    },
-    {
-      "hour": "2026-11-04 15:00:00",
-      "racer": "me_likey_typey",
-      "races": 1
     },
     {
       "hour": "2026-11-04 15:00:00",
@@ -238,6 +228,11 @@
     {
       "hour": "2026-11-04 15:00:00",
       "racer": "SKZ FIRAH",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-04 15:00:00",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
@@ -369,8 +364,13 @@
       "hour": "2026-11-04 19:00:00",
       "racer": "- Void Grinder -",
       "races": 3
+    },
+    {
+      "hour": "2026-11-04 20:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793822439164
+  "_syncedAt": 1793825058630
 }
