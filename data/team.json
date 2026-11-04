@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 50,
+  "members": 48,
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨2x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2466,
+  "profileViews": 2468,
   "leagueTier": 13,
   "racers": [
     {
@@ -80,17 +80,17 @@
     },
     {
       "username": "470256",
-      "displayName": "GroundedAquaEmu",
+      "displayName": "Nish_OUT",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1406,
-      "wpm": 92,
+      "allTimeRaces": 1431,
+      "wpm": 91,
       "highestWPM": 109,
-      "teamRaces": 178,
-      "acc": 96.99,
+      "teamRaces": 195,
+      "acc": 97.04,
       "season": null,
       "status": "active",
-      "lastLogin": 1793730751
+      "lastLogin": 1793831329
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 848,
-      "wpm": 68,
+      "allTimeRaces": 851,
+      "wpm": 72,
       "highestWPM": 85,
       "teamRaces": 347,
       "acc": 94.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793828689
+      "lastLogin": 1793832467
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -331,20 +331,6 @@
       "lastLogin": 1793812231
     },
     {
-      "username": "db27599c851d0e7546cb486ec2caf538",
-      "displayName": "1ightwork",
-      "role": "member",
-      "joinStamp": 1793244740,
-      "allTimeRaces": 23717,
-      "wpm": 79,
-      "highestWPM": 183,
-      "teamRaces": 1,
-      "acc": 93.45,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1793244405
-    },
-    {
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "role": "member",
@@ -391,28 +377,28 @@
       "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2364,
-      "wpm": 98,
+      "allTimeRaces": 2382,
+      "wpm": 100,
       "highestWPM": 111,
-      "teamRaces": 217,
-      "acc": 94.26,
+      "teamRaces": 241,
+      "acc": 94.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1793815691
+      "lastLogin": 1793831749
     },
     {
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1820,
-      "wpm": 99,
+      "allTimeRaces": 1830,
+      "wpm": 97,
       "highestWPM": 127,
-      "teamRaces": 287,
-      "acc": 90.44,
+      "teamRaces": 297,
+      "acc": 90.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1793811204
+      "lastLogin": 1793830949
     },
     {
       "username": "80946fcd92ffca5b3b7b8ef4b1ee7eac",
@@ -461,14 +447,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5600,
-      "wpm": 98,
+      "allTimeRaces": 5601,
+      "wpm": 97,
       "highestWPM": 128,
-      "teamRaces": 3167,
+      "teamRaces": 3176,
       "acc": 92.75,
       "season": null,
       "status": "active",
-      "lastLogin": 1793828615
+      "lastLogin": 1793831192
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -483,20 +469,6 @@
       "season": null,
       "status": "active",
       "lastLogin": 1793817158
-    },
-    {
-      "username": "2ee8114b79a8dbe9aa406f885f04362c",
-      "displayName": "Bobby Junior",
-      "role": "member",
-      "joinStamp": 1792456341,
-      "allTimeRaces": 1180,
-      "wpm": 78,
-      "highestWPM": 228,
-      "teamRaces": 45,
-      "acc": 95.48,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1793582222
     },
     {
       "username": "0e94cbfd8e8ec77e912046bb79b8af07",
@@ -711,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 67000,
+      "races": 67060,
       "avgWPM": 77,
       "avgAcc": 94.91,
-      "members": 50
+      "members": 48
     },
     "daily": {
-      "races": 968,
-      "avgWPM": 84,
-      "avgAcc": 94.15,
-      "members": 50
+      "races": 960,
+      "avgWPM": 85,
+      "avgAcc": 94.28,
+      "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793830503401
+  "_syncedAt": 1793833007912
 }
