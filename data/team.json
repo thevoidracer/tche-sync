@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2492,
+  "profileViews": 2493,
   "leagueTier": 10,
   "racers": [
     {
@@ -69,10 +69,10 @@
       "displayName": "insta _trewatkins",
       "role": "member",
       "joinStamp": 1791311495,
-      "allTimeRaces": 5363,
-      "wpm": 89,
+      "allTimeRaces": 5390,
+      "wpm": 91,
       "highestWPM": 115,
-      "teamRaces": 1177,
+      "teamRaces": 1210,
       "acc": 94.81,
       "season": null,
       "status": "active",
@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 851,
-      "wpm": 72,
+      "allTimeRaces": 866,
+      "wpm": 66,
       "highestWPM": 85,
-      "teamRaces": 350,
-      "acc": 94.58,
+      "teamRaces": 355,
+      "acc": 94.59,
       "season": null,
       "status": "active",
-      "lastLogin": 1793832467
+      "lastLogin": 1793901990
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -184,7 +184,7 @@
       "allTimeRaces": 1460,
       "wpm": 78,
       "highestWPM": 120,
-      "teamRaces": 273,
+      "teamRaces": 275,
       "acc": 95.25,
       "season": null,
       "status": "active",
@@ -223,14 +223,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7525,
-      "wpm": 76,
+      "allTimeRaces": 7561,
+      "wpm": 81,
       "highestWPM": 102,
-      "teamRaces": 1500,
-      "acc": 93.48,
+      "teamRaces": 1520,
+      "acc": 93.46,
       "season": null,
       "status": "active",
-      "lastLogin": 1793889381
+      "lastLogin": 1793901396
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -377,11 +377,11 @@
       "displayName": "IMIME_IMIME",
       "role": "member",
       "joinStamp": 1789678350,
-      "allTimeRaces": 2779,
-      "wpm": 119,
+      "allTimeRaces": 2792,
+      "wpm": 118,
       "highestWPM": 126,
-      "teamRaces": 869,
-      "acc": 96.39,
+      "teamRaces": 895,
+      "acc": 96.41,
       "season": null,
       "status": "active",
       "lastLogin": 1793899238
@@ -447,14 +447,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5621,
-      "wpm": 85,
+      "allTimeRaces": 5638,
+      "wpm": 94,
       "highestWPM": 128,
-      "teamRaces": 3196,
-      "acc": 92.76,
+      "teamRaces": 3209,
+      "acc": 92.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1793891997
+      "lastLogin": 1793901573
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -496,7 +496,7 @@
       "acc": 92.18,
       "season": null,
       "status": "active",
-      "lastLogin": 1793889443
+      "lastLogin": 1793900769
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -580,7 +580,7 @@
       "acc": 92.21,
       "season": null,
       "status": "active",
-      "lastLogin": 1793894277
+      "lastLogin": 1793900762
     },
     {
       "username": "b6456e4c4be6acdfede3e806a662ed4c",
@@ -657,11 +657,11 @@
       "displayName": "- Void Grinder -",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1861,
-      "wpm": 85,
+      "allTimeRaces": 1862,
+      "wpm": 86,
       "highestWPM": 140,
-      "teamRaces": 183,
-      "acc": 94.93,
+      "teamRaces": 190,
+      "acc": 94.9,
       "season": null,
       "status": "active",
       "lastLogin": 1793899137
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 68459,
+      "races": 68565,
       "avgWPM": 78,
       "avgAcc": 94.93,
       "members": 48
     },
     "daily": {
-      "races": 1683,
-      "avgWPM": 94,
-      "avgAcc": 95.49,
+      "races": 1694,
+      "avgWPM": 95,
+      "avgAcc": 95.61,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793900254734
+  "_syncedAt": 1793902796335
 }

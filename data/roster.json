@@ -14,11 +14,11 @@
       "nickname": "Nitro Rich",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 85,
+      "tier": "A",
+      "avgWPM": 93,
       "topWPM": 128,
-      "lifetimeRaces": 5621,
-      "teamRaces": 3196,
+      "lifetimeRaces": 5637,
+      "teamRaces": 3209,
       "joined": "06/10/26"
     },
     {
@@ -132,10 +132,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 72,
+      "avgWPM": 66,
       "topWPM": 85,
-      "lifetimeRaces": 851,
-      "teamRaces": 350,
+      "lifetimeRaces": 862,
+      "teamRaces": 355,
       "joined": "09/08/26"
     },
     {
@@ -158,10 +158,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 119,
+      "avgWPM": 118,
       "topWPM": 126,
-      "lifetimeRaces": 2779,
-      "teamRaces": 869,
+      "lifetimeRaces": 2792,
+      "teamRaces": 895,
       "joined": "09/17/26"
     },
     {
@@ -248,11 +248,11 @@
       "nickname": "B.U.S. Driver",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
-      "avgWPM": 85,
+      "tier": "A",
+      "avgWPM": 91,
       "topWPM": 115,
-      "lifetimeRaces": 5360,
-      "teamRaces": 1177,
+      "lifetimeRaces": 5390,
+      "teamRaces": 1210,
       "joined": "10/06/26"
     },
     {
@@ -352,11 +352,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "C",
-      "avgWPM": 76,
+      "tier": "B",
+      "avgWPM": 79,
       "topWPM": 102,
-      "lifetimeRaces": 7525,
-      "teamRaces": 1500,
+      "lifetimeRaces": 7553,
+      "teamRaces": 1520,
       "joined": "10/15/26"
     },
     {
@@ -408,7 +408,7 @@
       "avgWPM": 78,
       "topWPM": 120,
       "lifetimeRaces": 1460,
-      "teamRaces": 273,
+      "teamRaces": 275,
       "joined": "10/21/26"
     },
     {
@@ -535,10 +535,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 87,
+      "avgWPM": 86,
       "topWPM": 140,
-      "lifetimeRaces": 1859,
-      "teamRaces": 183,
+      "lifetimeRaces": 1862,
+      "teamRaces": 190,
       "joined": "11/01/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793900319421
+  "_syncedAt": 1793902853833
 }
