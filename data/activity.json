@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 21:00:00",
-      "racer": "Namedisplayed",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-04 21:00:00",
-      "racer": "StefanO",
-      "races": 3
-    },
-    {
       "hour": "2026-11-04 22:00:00",
       "racer": "IMIME_IMIME",
       "races": 40
@@ -27,13 +17,13 @@
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "Void Racer",
-      "races": 12
+      "racer": "StefanO",
+      "races": 3
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "StefanO",
-      "races": 3
+      "racer": "Void Racer",
+      "races": 1
     },
     {
       "hour": "2026-11-04 23:00:00",
@@ -197,12 +187,12 @@
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "me_likey_typey",
+      "racer": "GregThe2ndFastTyper",
       "races": 1
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "GregThe2ndFastTyper",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
@@ -237,12 +227,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "Void Racer",
+      "racer": "loganim12btw",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "loganim12btw",
+      "racer": "Void Racer",
       "races": 8
     },
     {
@@ -427,10 +417,35 @@
     },
     {
       "hour": "2026-11-05 21:00:00",
+      "racer": "Nathan",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-05 21:00:00",
+      "racer": "Void Racer",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-05 21:00:00",
+      "racer": "StefanO",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-05 21:00:00",
       "racer": "One for One",
       "races": 4
+    },
+    {
+      "hour": "2026-11-05 22:00:00",
+      "racer": "StefanO",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-05 22:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793914323414
+  "_syncedAt": 1793917642363
 }
