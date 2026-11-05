@@ -167,11 +167,11 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 897,
+      "allTimeRaces": 900,
       "wpm": 69,
       "highestWPM": 85,
-      "teamRaces": 389,
-      "acc": 94.45,
+      "teamRaces": 399,
+      "acc": 94.4,
       "season": null,
       "status": "active",
       "lastLogin": 1793915211
@@ -230,7 +230,7 @@
       "acc": 93.41,
       "season": null,
       "status": "active",
-      "lastLogin": 1793901396
+      "lastLogin": 1793920004
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -258,7 +258,7 @@
       "acc": 96.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1793908687
+      "lastLogin": 1793920017
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -464,7 +464,7 @@
       "allTimeRaces": 5649,
       "wpm": 91,
       "highestWPM": 128,
-      "teamRaces": 3223,
+      "teamRaces": 3224,
       "acc": 92.77,
       "season": null,
       "status": "active",
@@ -685,31 +685,31 @@
       "displayName": "-HyperTyper-",
       "role": "officer",
       "joinStamp": 1792787085,
-      "allTimeRaces": 588,
+      "allTimeRaces": 589,
       "wpm": 93,
       "highestWPM": 120,
-      "teamRaces": 345,
+      "teamRaces": 346,
       "acc": 91.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1793914631
+      "lastLogin": 1793918698
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 68813,
+      "races": 68825,
       "avgWPM": 78,
       "avgAcc": 94.93,
       "members": 49
     },
     "daily": {
-      "races": 1805,
+      "races": 1732,
       "avgWPM": 95,
-      "avgAcc": 95.65,
+      "avgAcc": 95.63,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793917586156
+  "_syncedAt": 1793920128517
 }

@@ -57,20 +57,20 @@
       "end": "12/09/2026, 03:45 PM"
     },
     {
-      "id": "1551",
-      "status": "Pending",
-      "title": "Monthly Tracker - November - Dec 5Recurring comp",
-      "desc": "Tracking monthly races for the team.",
-      "start": "12/05/2026, 03:45 PM",
-      "end": "12/31/2026, 05:00 AM"
-    },
-    {
       "id": "1398",
       "status": "Pending",
       "title": "Nitro Christmas ❄️ - Seeding",
       "desc": "This event is part of a tournament. Seeding round for Nitro Christmas ❄️\n\nWelcome to the Nitro Christmas tournament, hosted to celebrate the holiday season and the arrival of winter. Created to highlight outstanding Nitro Type teams and bring racers together, this competition features a total prize pool of 10M to 20M NT Cash distributed among the top finishers. Prepare your team, sharpen your typing skills, and join us for an exciting winter celebration.",
       "start": "12/01/2026, 04:00 PM",
       "end": "12/05/2026, 03:45 PM"
+    },
+    {
+      "id": "1551",
+      "status": "Pending",
+      "title": "Monthly Tracker - November - Dec 5Recurring comp",
+      "desc": "Tracking monthly races for the team.",
+      "start": "12/01/2026, 05:00 AM",
+      "end": "01/01/2027, 05:00 AM"
     },
     {
       "id": "1386",
@@ -226,5 +226,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793917611305
+  "_syncedAt": 1793920155066
 }

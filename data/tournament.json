@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793917663098
+        "_syncedAt": 1793920205988
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1910,7 +1910,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2400,7 +2400,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2648,7 +2648,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2772,7 +2772,7 @@
                 },
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793917679568
+        "_syncedAt": 1793920223429
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793917679569
+  "_syncedAt": 1793920223432
 }
