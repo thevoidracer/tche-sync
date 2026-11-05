@@ -57,6 +57,14 @@
       "end": "12/09/2026, 03:45 PM"
     },
     {
+      "id": "1551",
+      "status": "Pending",
+      "title": "Monthly Tracker - November - Dec 5Recurring comp",
+      "desc": "Tracking monthly races for the team.",
+      "start": "12/05/2026, 03:45 PM",
+      "end": "12/31/2026, 05:00 AM"
+    },
+    {
       "id": "1398",
       "status": "Pending",
       "title": "Nitro Christmas ❄️ - Seeding",
@@ -91,7 +99,7 @@
     {
       "id": "1522",
       "status": "Pending",
-      "title": "Weekly Cash Comp - Nov 9Recurring comp",
+      "title": "Weekly Cash Comp - Nov 10Recurring comp",
       "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC.",
       "start": "11/09/2026, 01:00 PM",
       "end": "11/16/2026, 01:00 PM"
@@ -127,6 +135,14 @@
       "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-7th place, you will get an extra 100k NTC. Botting/cheating = disqualified.",
       "start": "11/01/2026, 01:00 PM",
       "end": "11/08/2026, 01:00 PM"
+    },
+    {
+      "id": "1550",
+      "status": "Active",
+      "title": "Monthly Tracker - NovemberRecurring comp",
+      "desc": "Tracking monthly races for the team.",
+      "start": "11/01/2026, 04:00 AM",
+      "end": "12/01/2026, 05:00 AM"
     },
     {
       "id": "1345",
@@ -210,5 +226,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793893083348
+  "_syncedAt": 1793896961978
 }
