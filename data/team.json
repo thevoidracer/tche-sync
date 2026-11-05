@@ -279,14 +279,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3536,
-      "wpm": 86,
+      "allTimeRaces": 3549,
+      "wpm": 89,
       "highestWPM": 112,
-      "teamRaces": 326,
+      "teamRaces": 339,
       "acc": 95.67,
       "season": null,
       "status": "active",
-      "lastLogin": 1793851607
+      "lastLogin": 1793867162
     },
     {
       "username": "gregthefasttyper",
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 67987,
+      "races": 68000,
       "avgWPM": 77,
-      "avgAcc": 94.93,
+      "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 1580,
+      "races": 1593,
       "avgWPM": 95,
       "avgAcc": 95.53,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793864687167
+  "_syncedAt": 1793868077527
 }

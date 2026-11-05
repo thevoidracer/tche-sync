@@ -334,11 +334,11 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Side Hustler 100",
-        "races": 78,
+        "races": 82,
         "wpm": 90.3,
-        "accuracy": 95.24,
-        "points": 10781,
-        "tier": "B"
+        "accuracy": 95.23,
+        "points": 11333,
+        "tier": "A"
       },
       {
         "rank": 27,
@@ -1382,6 +1382,19 @@
       },
       {
         "rank": 107,
+        "tag": "KEYCAT",
+        "username": "akiraaa",
+        "displayName": "akiraaa",
+        "nickname": "First Trimester",
+        "squad": "Starter!!",
+        "races": 4,
+        "wpm": 78.4,
+        "accuracy": 95.86,
+        "points": 534,
+        "tier": "A"
+      },
+      {
+        "rank": 108,
         "tag": "SVC",
         "username": "Rico_main",
         "displayName": "Rico_main",
@@ -1394,7 +1407,7 @@
         "tier": "A"
       },
       {
-        "rank": 108,
+        "rank": 109,
         "tag": "KEYCAT",
         "username": "mazen_67",
         "displayName": "mazen_67",
@@ -1407,7 +1420,7 @@
         "tier": "C"
       },
       {
-        "rank": 109,
+        "rank": 110,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1420,7 +1433,7 @@
         "tier": "A"
       },
       {
-        "rank": 110,
+        "rank": 111,
         "tag": "KEYCAT",
         "username": "Yvng_Legend29",
         "displayName": "Yvng_Legend29",
@@ -1433,7 +1446,7 @@
         "tier": "A"
       },
       {
-        "rank": 111,
+        "rank": 112,
         "tag": "KEYCAT",
         "username": "HastyBeanAttack",
         "displayName": "HastyBeanAttack",
@@ -1446,7 +1459,7 @@
         "tier": "A"
       },
       {
-        "rank": 112,
+        "rank": 113,
         "tag": "SVC",
         "username": "WhimsicalAmberDolphin",
         "displayName": "WhimsicalAmberDolphin",
@@ -1459,7 +1472,7 @@
         "tier": "C"
       },
       {
-        "rank": 113,
+        "rank": 114,
         "tag": "IMT",
         "username": "- 9te -",
         "displayName": "- 9te -",
@@ -1472,7 +1485,7 @@
         "tier": "B"
       },
       {
-        "rank": 114,
+        "rank": 115,
         "tag": "SVC",
         "username": "BalancedGoldEagle",
         "displayName": "BalancedGoldEagle",
@@ -1482,19 +1495,6 @@
         "wpm": 117.1,
         "accuracy": 94.26,
         "points": 149,
-        "tier": "A"
-      },
-      {
-        "rank": 115,
-        "tag": "KEYCAT",
-        "username": "akiraaa",
-        "displayName": "akiraaa",
-        "nickname": "First Trimester",
-        "squad": "Starter!!",
-        "races": 1,
-        "wpm": 64.8,
-        "accuracy": 93.65,
-        "points": 124,
         "tier": "A"
       },
       {
@@ -1589,7 +1589,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793864782239
+    "_syncedAt": 1793868196694
   },
   "1463": {
     "eventId": "1463",
@@ -1727,6 +1727,19 @@
       {
         "rank": 11,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 82,
+        "wpm": 90.3,
+        "accuracy": 95.23,
+        "points": 11333,
+        "tier": null
+      },
+      {
+        "rank": 12,
+        "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
         "nickname": "Nitro Rich",
@@ -1735,19 +1748,6 @@
         "wpm": 56.5,
         "accuracy": 72.93,
         "points": 7388,
-        "tier": null
-      },
-      {
-        "rank": 12,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 78,
-        "wpm": 90.3,
-        "accuracy": 95.24,
-        "points": 10781,
         "tier": null
       },
       {
@@ -2089,6 +2089,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793864786165
+    "_syncedAt": 1793868200912
   }
 }
