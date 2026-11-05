@@ -1,24 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 13:00:00",
-      "racer": "loganim12btw",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-04 14:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
       "hour": "2026-11-04 14:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 20
     },
     {
       "hour": "2026-11-04 14:00:00",
-      "racer": "loganim12btw",
-      "races": 5
+      "racer": "KirbyDelta",
+      "races": 12
     },
     {
       "hour": "2026-11-04 14:00:00",
@@ -242,12 +232,12 @@
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "UJAADDAH",
+      "racer": "Void Racer",
       "races": 12
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "Void Racer",
+      "racer": "UJAADDAH",
       "races": 12
     },
     {
@@ -297,12 +287,12 @@
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "me_likey_typey",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -383,9 +373,34 @@
     {
       "hour": "2026-11-05 13:00:00",
       "racer": "- Void Grinder -",
-      "races": 2
+      "races": 4
+    },
+    {
+      "hour": "2026-11-05 13:00:00",
+      "racer": "loganim12btw",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-05 14:00:00",
+      "racer": "rorok09",
+      "races": 14
+    },
+    {
+      "hour": "2026-11-05 14:00:00",
+      "racer": "KirbyDelta",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-05 14:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-05 14:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793886862751
+  "_syncedAt": 1793889939926
 }

@@ -20,7 +20,7 @@
       "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1793803506
+      "lastLogin": 1793889823
     },
     {
       "username": "jonathan711111",
@@ -76,7 +76,7 @@
       "acc": 94.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1793836459
+      "lastLogin": 1793887086
     },
     {
       "username": "470256",
@@ -209,28 +209,28 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 10415,
-      "wpm": 89,
+      "allTimeRaces": 10435,
+      "wpm": 91,
       "highestWPM": 118,
-      "teamRaces": 9605,
+      "teamRaces": 9619,
       "acc": 97.08,
       "season": null,
       "status": "active",
-      "lastLogin": 1793786419
+      "lastLogin": 1793888775
     },
     {
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7500,
-      "wpm": 87,
+      "allTimeRaces": 7511,
+      "wpm": 81,
       "highestWPM": 102,
-      "teamRaces": 1475,
-      "acc": 93.46,
+      "teamRaces": 1479,
+      "acc": 93.47,
       "season": null,
       "status": "active",
-      "lastLogin": 1793835209
+      "lastLogin": 1793889381
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -293,14 +293,14 @@
       "displayName": "GregThe2ndFastTyper",
       "role": "member",
       "joinStamp": 1793810179,
-      "allTimeRaces": 1218,
-      "wpm": 96,
+      "allTimeRaces": 1219,
+      "wpm": 97,
       "highestWPM": 124,
-      "teamRaces": 18,
-      "acc": 95.09,
+      "teamRaces": 19,
+      "acc": 95.17,
       "season": null,
       "status": "active",
-      "lastLogin": 1793806012
+      "lastLogin": 1793887219
     },
     {
       "username": "sterling757",
@@ -447,14 +447,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5610,
-      "wpm": 95,
+      "allTimeRaces": 5613,
+      "wpm": 91,
       "highestWPM": 128,
       "teamRaces": 3185,
       "acc": 92.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1793883396
+      "lastLogin": 1793889568
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -489,14 +489,14 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1297,
-      "wpm": 49,
+      "allTimeRaces": 1301,
+      "wpm": 52,
       "highestWPM": 80,
-      "teamRaces": 195,
-      "acc": 92.25,
+      "teamRaces": 196,
+      "acc": 92.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1793883463
+      "lastLogin": 1793889443
     },
     {
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 68011,
+      "races": 68031,
       "avgWPM": 77,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 1529,
+      "races": 1526,
       "avgWPM": 95,
-      "avgAcc": 95.47,
+      "avgAcc": 95.51,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793886806502
+  "_syncedAt": 1793889883702
 }
