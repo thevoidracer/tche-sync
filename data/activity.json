@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 19:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-04 19:00:00",
-      "racer": "- Void Grinder -",
-      "races": 3
-    },
-    {
       "hour": "2026-11-04 20:00:00",
       "racer": "I KC Zadkiel I",
       "races": 9
@@ -222,12 +212,12 @@
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "GregThe2ndFastTyper",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "me_likey_typey",
+      "racer": "GregThe2ndFastTyper",
       "races": 1
     },
     {
@@ -262,22 +252,22 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
       "racer": "loganim12btw",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
-      "races": 5
+      "racer": "Void Racer",
+      "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
       "racer": "KirbyDelta",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-05 15:00:00",
+      "racer": "The Queen",
       "races": 5
     },
     {
@@ -423,9 +413,24 @@
     {
       "hour": "2026-11-05 19:00:00",
       "racer": "rorok09",
+      "races": 34
+    },
+    {
+      "hour": "2026-11-05 19:00:00",
+      "racer": "Namedisplayed",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-05 19:00:00",
+      "racer": "Victoria Ram",
       "races": 10
+    },
+    {
+      "hour": "2026-11-05 19:00:00",
+      "racer": "WindMaker",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793906617556
+  "_syncedAt": 1793909645842
 }

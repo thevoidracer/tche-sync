@@ -53,11 +53,11 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Tycoon 7.5k ",
-      "tier": "A",
-      "avgWPM": 91,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 118,
-      "lifetimeRaces": 10556,
-      "teamRaces": 9739,
+      "lifetimeRaces": 10573,
+      "teamRaces": 9763,
       "joined": "07/04/26"
     },
     {
@@ -106,10 +106,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 100,
       "topWPM": 119,
-      "lifetimeRaces": 1979,
-      "teamRaces": 1632,
+      "lifetimeRaces": 1999,
+      "teamRaces": 1650,
       "joined": "08/31/26"
     },
     {
@@ -275,10 +275,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 78,
+      "avgWPM": 83,
       "topWPM": 94,
-      "lifetimeRaces": 1017,
-      "teamRaces": 138,
+      "lifetimeRaces": 1027,
+      "teamRaces": 148,
       "joined": "10/07/26"
     },
     {
@@ -366,10 +366,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 106,
+      "avgWPM": 105,
       "topWPM": 120,
-      "lifetimeRaces": 4041,
-      "teamRaces": 392,
+      "lifetimeRaces": 4043,
+      "teamRaces": 394,
       "joined": "10/16/26"
     },
     {
@@ -637,7 +637,7 @@
       "displayName": "One for One",
       "nickname": "March Madness Champ",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 93,
       "topWPM": 110,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793906617555
+  "_syncedAt": 1793909645841
 }

@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2496,
+  "profileViews": 2500,
   "leagueTier": 10,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5439,
-      "wpm": 101,
+      "allTimeRaces": 5447,
+      "wpm": 105,
       "highestWPM": 128,
-      "teamRaces": 427,
-      "acc": 95.37,
+      "teamRaces": 431,
+      "acc": 95.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1793639074
+      "lastLogin": 1793909130
     },
     {
       "username": "tre1typer",
@@ -209,10 +209,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 10567,
-      "wpm": 88,
+      "allTimeRaces": 10573,
+      "wpm": 87,
       "highestWPM": 118,
-      "teamRaces": 9753,
+      "teamRaces": 9763,
       "acc": 97.07,
       "season": null,
       "status": "active",
@@ -251,14 +251,14 @@
       "displayName": "WindMaker",
       "role": "member",
       "joinStamp": 1792162883,
-      "allTimeRaces": 4041,
-      "wpm": 106,
+      "allTimeRaces": 4043,
+      "wpm": 105,
       "highestWPM": 120,
-      "teamRaces": 392,
-      "acc": 96.82,
+      "teamRaces": 394,
+      "acc": 96.81,
       "season": null,
       "status": "active",
-      "lastLogin": 1793898171
+      "lastLogin": 1793908687
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 1979,
-      "wpm": 96,
+      "allTimeRaces": 2001,
+      "wpm": 98,
       "highestWPM": 119,
-      "teamRaces": 1632,
-      "acc": 94.18,
+      "teamRaces": 1654,
+      "acc": 94.17,
       "season": null,
       "status": "active",
-      "lastLogin": 1793903031
+      "lastLogin": 1793907279
     },
     {
       "username": "imenishat",
@@ -468,7 +468,7 @@
       "acc": 92.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1793901573
+      "lastLogin": 1793906751
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -573,14 +573,14 @@
       "displayName": "Victoria Ram",
       "role": "member",
       "joinStamp": 1791380695,
-      "allTimeRaces": 1017,
-      "wpm": 78,
+      "allTimeRaces": 1027,
+      "wpm": 83,
       "highestWPM": 94,
-      "teamRaces": 138,
-      "acc": 95.87,
+      "teamRaces": 148,
+      "acc": 95.86,
       "season": null,
       "status": "active",
-      "lastLogin": 1793637724
+      "lastLogin": 1793907266
     },
     {
       "username": "53f35d28a54dfa99bfab7ecbf663428e",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 68709,
+      "races": 68757,
       "avgWPM": 78,
       "avgAcc": 94.93,
       "members": 49
     },
     "daily": {
-      "races": 1789,
+      "races": 1819,
       "avgWPM": 95,
-      "avgAcc": 95.62,
+      "avgAcc": 95.61,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793906557504
+  "_syncedAt": 1793909583989
 }
