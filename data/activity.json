@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 04:00:00",
-      "racer": "UJAADDAH",
-      "races": 14
-    },
-    {
       "hour": "2026-11-04 05:00:00",
       "racer": "IMIME_IMIME",
       "races": 34
@@ -97,12 +92,12 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "The Queen",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "The Queen",
       "races": 1
     },
     {
@@ -112,7 +107,7 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "me_likey_typey",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -378,19 +373,19 @@
     {
       "hour": "2026-11-05 04:00:00",
       "racer": "IMIME_IMIME",
-      "races": 31
+      "races": 89
     },
     {
       "hour": "2026-11-05 04:00:00",
       "racer": "Eclipse",
-      "races": 24
+      "races": 52
     },
     {
       "hour": "2026-11-05 04:00:00",
       "racer": "asteroids",
-      "races": 14
+      "races": 20
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793852740832
+  "_syncedAt": 1793856312029
 }

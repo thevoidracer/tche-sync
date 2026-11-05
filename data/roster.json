@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 89,
-    "tierB": 79,
+    "tierA": 88,
+    "tierB": 78,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -160,8 +160,8 @@
       "tier": "A",
       "avgWPM": 120,
       "topWPM": 126,
-      "lifetimeRaces": 2668,
-      "teamRaces": 683,
+      "lifetimeRaces": 2711,
+      "teamRaces": 741,
       "joined": "09/17/26"
     },
     {
@@ -209,7 +209,7 @@
       "nickname": "Nitro Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 88,
       "topWPM": 109,
       "lifetimeRaces": 1440,
@@ -274,7 +274,7 @@
       "nickname": "Epic Engager",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 78,
       "topWPM": 94,
       "lifetimeRaces": 1017,
@@ -365,7 +365,7 @@
       "nickname": "Need 4 Speed",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 88,
       "topWPM": 120,
       "lifetimeRaces": 4024,
@@ -470,10 +470,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 84,
+      "avgWPM": 86,
       "topWPM": 112,
-      "lifetimeRaces": 3535,
-      "teamRaces": 320,
+      "lifetimeRaces": 3536,
+      "teamRaces": 326,
       "joined": "10/25/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 78,
+      "avgWPM": 75,
       "topWPM": 110,
-      "lifetimeRaces": 8004,
-      "teamRaces": 889,
+      "lifetimeRaces": 8023,
+      "teamRaces": 917,
       "joined": "10/28/26"
     },
     {
@@ -634,5 +634,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793852740831
+  "_syncedAt": 1793856312028
 }
