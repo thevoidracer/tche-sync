@@ -698,7 +698,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793849459523
+    "_syncedAt": 1793852787555
   },
   "THB0S": {
     "tag": "THB0S",
@@ -707,7 +707,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4998,
+    "profileViews": 4999,
     "leagueTier": 10,
     "racers": [
       {
@@ -841,11 +841,11 @@
         "displayName": "Festive Typer",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1913,
-        "wpm": 61,
+        "allTimeRaces": 1939,
+        "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 1607,
-        "acc": 93.85,
+        "teamRaces": 1633,
+        "acc": 93.83,
         "season": null,
         "status": "active",
         "lastLogin": 1793847662
@@ -1310,7 +1310,7 @@
         "acc": 95.62,
         "season": null,
         "status": "active",
-        "lastLogin": 1793844800
+        "lastLogin": 1793852579
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1357,20 +1357,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 132960,
+        "races": 132986,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1076,
+        "races": 1092,
         "avgWPM": 80,
-        "avgAcc": 95.07,
+        "avgAcc": 95.03,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793849478900
+    "_syncedAt": 1793852806666
   }
 }
