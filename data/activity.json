@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 18:00:00",
-      "racer": "t_unknown",
-      "races": 20
-    },
-    {
-      "hour": "2026-11-04 18:00:00",
-      "racer": "Safire",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-04 18:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-04 18:00:00",
-      "racer": "KirbyDelta",
-      "races": 2
-    },
-    {
       "hour": "2026-11-04 19:00:00",
       "racer": "I KC Zadkiel I",
       "races": 15
@@ -67,12 +47,12 @@
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "UJAADDAH",
+      "racer": "Void Racer",
       "races": 12
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "Void Racer",
+      "racer": "UJAADDAH",
       "races": 12
     },
     {
@@ -122,12 +102,12 @@
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "me_likey_typey",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -202,12 +182,12 @@
     },
     {
       "hour": "2026-11-05 13:00:00",
-      "racer": "- Void Grinder -",
+      "racer": "Void Racer",
       "races": 4
     },
     {
       "hour": "2026-11-05 13:00:00",
-      "racer": "Void Racer",
+      "racer": "- Void Grinder -",
       "races": 4
     },
     {
@@ -282,22 +262,22 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "loganim12btw",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
       "racer": "Void Racer",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "KirbyDelta",
-      "races": 5
+      "racer": "loganim12btw",
+      "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
       "racer": "The Queen",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-05 15:00:00",
+      "racer": "KirbyDelta",
       "races": 5
     },
     {
@@ -312,12 +292,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 2
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 2
     },
     {
@@ -398,6 +378,26 @@
     {
       "hour": "2026-11-05 18:00:00",
       "racer": "KirbyDelta",
+      "races": 45
+    },
+    {
+      "hour": "2026-11-05 18:00:00",
+      "racer": "t_unknown",
+      "races": 35
+    },
+    {
+      "hour": "2026-11-05 18:00:00",
+      "racer": "StefanO",
+      "races": 26
+    },
+    {
+      "hour": "2026-11-05 18:00:00",
+      "racer": "rorok09",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-05 18:00:00",
+      "racer": "Void Racer",
       "races": 15
     },
     {
@@ -407,15 +407,25 @@
     },
     {
       "hour": "2026-11-05 18:00:00",
-      "racer": "Void Racer",
-      "races": 11
+      "racer": "Namedisplayed",
+      "races": 9
     },
     {
       "hour": "2026-11-05 18:00:00",
-      "racer": "StefanO",
-      "races": 5
+      "racer": "BlazingFlowerz",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-05 18:00:00",
+      "racer": "One for One",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-05 19:00:00",
+      "racer": "rorok09",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793902853834
+  "_syncedAt": 1793906617556
 }

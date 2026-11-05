@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:85ff6f2e24db1d59f1c3ff5f3030f046",
+      "type": "new-member",
+      "text": "One for One joined the team.",
+      "meta": {
+        "username": "85ff6f2e24db1d59f1c3ff5f3030f046"
+      },
+      "createdAt": 1793906658650
+    },
+    {
       "key": "milestone:53f35d28a54dfa99bfab7ecbf663428e:1000",
       "type": "milestone",
       "text": "loganim12btw crossed 1,000 lifetime races!",
@@ -767,5 +776,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793902893238
+  "_syncedAt": 1793906658650
 }

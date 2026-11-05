@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793902876008
+        "_syncedAt": 1793906640308
       }
     },
     {
@@ -1736,7 +1736,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 11775
                 },
@@ -1910,7 +1910,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2314,7 +2314,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14620
                 },
@@ -2400,7 +2400,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2648,7 +2648,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2772,7 +2772,7 @@
                 },
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2868,7 +2868,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 12928
+                  "score": 16759
                 },
                 {
                   "seed": "2",
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793902893229
+        "_syncedAt": 1793906658643
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793902893234
+  "_syncedAt": 1793906658647
 }

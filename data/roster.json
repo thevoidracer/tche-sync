@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 94,
       "topWPM": 128,
-      "lifetimeRaces": 5637,
-      "teamRaces": 3209,
+      "lifetimeRaces": 5638,
+      "teamRaces": 3213,
       "joined": "06/10/26"
     },
     {
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "A",
-      "avgWPM": 89,
+      "avgWPM": 91,
       "topWPM": 118,
-      "lifetimeRaces": 10522,
-      "teamRaces": 9712,
+      "lifetimeRaces": 10556,
+      "teamRaces": 9739,
       "joined": "07/04/26"
     },
     {
@@ -106,10 +106,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 96,
       "topWPM": 119,
-      "lifetimeRaces": 1970,
-      "teamRaces": 1623,
+      "lifetimeRaces": 1979,
+      "teamRaces": 1632,
       "joined": "08/31/26"
     },
     {
@@ -132,10 +132,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 66,
+      "avgWPM": 62,
       "topWPM": 85,
-      "lifetimeRaces": 862,
-      "teamRaces": 355,
+      "lifetimeRaces": 877,
+      "teamRaces": 376,
       "joined": "09/08/26"
     },
     {
@@ -340,10 +340,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 86,
+      "avgWPM": 81,
       "topWPM": 111,
-      "lifetimeRaces": 5528,
-      "teamRaces": 499,
+      "lifetimeRaces": 5563,
+      "teamRaces": 534,
       "joined": "10/15/26"
     },
     {
@@ -352,11 +352,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "B",
-      "avgWPM": 79,
+      "tier": "C",
+      "avgWPM": 76,
       "topWPM": 102,
-      "lifetimeRaces": 7553,
-      "teamRaces": 1520,
+      "lifetimeRaces": 7575,
+      "teamRaces": 1550,
       "joined": "10/15/26"
     },
     {
@@ -509,10 +509,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 58,
+      "avgWPM": 55,
       "topWPM": 80,
-      "lifetimeRaces": 1309,
-      "teamRaces": 207,
+      "lifetimeRaces": 1312,
+      "teamRaces": 210,
       "joined": "10/28/26"
     },
     {
@@ -631,8 +631,21 @@
       "lifetimeRaces": 10038,
       "teamRaces": 0,
       "joined": "11/04/26"
+    },
+    {
+      "username": "85ff6f2e24db1d59f1c3ff5f3030f046",
+      "displayName": "One for One",
+      "nickname": "March Madness Champ",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 93,
+      "topWPM": 110,
+      "lifetimeRaces": 2512,
+      "teamRaces": 1,
+      "joined": "11/05/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793902853833
+  "_syncedAt": 1793906617555
 }
