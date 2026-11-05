@@ -98,11 +98,11 @@
     },
     {
       "id": "1347",
-      "status": "Pending",
+      "status": "Active",
       "title": "IMT Ally Celebration Tournament - Championship",
       "desc": "This event is part of a tournament. Championship for IMT Ally Celebration Tournament\n\nJoin for a chance to win up to 10M NTC!!! Captains pay their own team members if they want to.",
-      "start": "11/05/2026, 03:00 PM",
-      "end": "11/10/2026, 02:45 PM"
+      "start": "11/05/2026, 02:45 PM",
+      "end": "11/10/2026, 02:30 PM"
     },
     {
       "id": "1483",
@@ -124,7 +124,7 @@
       "id": "1463",
       "status": "Active",
       "title": "Weekly Cash Comp - Nov 1Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC. Botting/cheating = disqualified.",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-7th place, you will get an extra 100k NTC. Botting/cheating = disqualified.",
       "start": "11/01/2026, 01:00 PM",
       "end": "11/08/2026, 01:00 PM"
     },
@@ -210,5 +210,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793889907744
+  "_syncedAt": 1793893083348
 }
