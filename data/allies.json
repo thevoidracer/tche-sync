@@ -238,14 +238,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2633,
+        "allTimeRaces": 2638,
         "wpm": 65,
         "highestWPM": 94,
         "teamRaces": 1588,
         "acc": 90.17,
         "season": null,
         "status": "active",
-        "lastLogin": 1793806992
+        "lastLogin": 1793878051
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -690,15 +690,15 @@
         "members": 48
       },
       "daily": {
-        "races": 493,
+        "races": 473,
         "avgWPM": 65,
-        "avgAcc": 93.18,
+        "avgAcc": 93.07,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793875251701
+    "_syncedAt": 1793878437169
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1371,6 +1371,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793875271238
+    "_syncedAt": 1793878456482
   }
 }
