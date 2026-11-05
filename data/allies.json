@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3138,
+    "profileViews": 3139,
     "leagueTier": 10,
     "racers": [
       {
@@ -698,7 +698,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793846136246
+    "_syncedAt": 1793849459523
   },
   "THB0S": {
     "tag": "THB0S",
@@ -707,7 +707,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | Active Daily=$$$ | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 4997,
+    "profileViews": 4998,
     "leagueTier": 10,
     "racers": [
       {
@@ -841,14 +841,14 @@
         "displayName": "Festive Typer",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1901,
-        "wpm": 67,
+        "allTimeRaces": 1913,
+        "wpm": 61,
         "highestWPM": 87,
-        "teamRaces": 1595,
-        "acc": 93.82,
+        "teamRaces": 1607,
+        "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1793843153
+        "lastLogin": 1793847662
       },
       {
         "username": "pigglepigglepiggle",
@@ -1177,11 +1177,11 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19720,
-        "wpm": 94,
+        "allTimeRaces": 19744,
+        "wpm": 87,
         "highestWPM": 123,
-        "teamRaces": 19260,
-        "acc": 94.01,
+        "teamRaces": 19284,
+        "acc": 94,
         "season": null,
         "status": "active",
         "lastLogin": 1793842518
@@ -1205,11 +1205,11 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 14647,
-        "wpm": 72,
+        "allTimeRaces": 14665,
+        "wpm": 70,
         "highestWPM": 96,
-        "teamRaces": 428,
-        "acc": 96.16,
+        "teamRaces": 447,
+        "acc": 96.13,
         "season": null,
         "status": "active",
         "lastLogin": 1793846047
@@ -1303,11 +1303,11 @@
         "displayName": "B-D-R-",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2474,
-        "wpm": 94,
+        "allTimeRaces": 2490,
+        "wpm": 92,
         "highestWPM": 119,
-        "teamRaces": 2453,
-        "acc": 95.61,
+        "teamRaces": 2476,
+        "acc": 95.62,
         "season": null,
         "status": "active",
         "lastLogin": 1793844800
@@ -1357,20 +1357,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 132882,
+        "races": 132960,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1057,
-        "avgWPM": 81,
-        "avgAcc": 95.18,
+        "races": 1076,
+        "avgWPM": 80,
+        "avgAcc": 95.07,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793846157202
+    "_syncedAt": 1793849478900
   }
 }
