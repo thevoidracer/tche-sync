@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793909666822
+        "_syncedAt": 1793912266517
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1646,7 +1646,7 @@
               "players": [
                 {
                   "seed": "4",
-                  "racer": "Spy on teams",
+                  "racer": "Sakupen",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -1736,7 +1736,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 11775
                 },
@@ -1910,9 +1910,9 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 27512
                 },
@@ -2020,7 +2020,7 @@
               "players": [
                 {
                   "seed": "30",
-                  "racer": "prismaticbeam",
+                  "racer": "HastyBeanAttack",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2314,7 +2314,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 14620
                 },
@@ -2400,9 +2400,9 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 3739
                 },
@@ -2452,7 +2452,7 @@
                 },
                 {
                   "seed": "30",
-                  "racer": "prismaticbeam",
+                  "racer": "HastyBeanAttack",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -2648,9 +2648,9 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 10120
                 },
@@ -2772,9 +2772,9 @@
                 },
                 {
                   "seed": "7",
-                  "racer": "CrazyTyper",
+                  "racer": "Festive Typer",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 13367
                 }
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793909683194
+        "_syncedAt": 1793912283412
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793909683196
+  "_syncedAt": 1793912283414
 }

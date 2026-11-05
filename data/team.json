@@ -55,11 +55,11 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5447,
-      "wpm": 105,
+      "allTimeRaces": 5456,
+      "wpm": 100,
       "highestWPM": 128,
-      "teamRaces": 431,
-      "acc": 95.38,
+      "teamRaces": 444,
+      "acc": 95.37,
       "season": null,
       "status": "active",
       "lastLogin": 1793909130
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 68757,
+      "races": 68770,
       "avgWPM": 78,
       "avgAcc": 94.93,
       "members": 49
     },
     "daily": {
-      "races": 1819,
+      "races": 1820,
       "avgWPM": 95,
-      "avgAcc": 95.61,
+      "avgAcc": 95.62,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793909583989
+  "_syncedAt": 1793912186998
 }
