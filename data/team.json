@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2503,
+  "profileViews": 2504,
   "leagueTier": 10,
   "racers": [
     {
@@ -223,14 +223,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7575,
-      "wpm": 76,
+      "allTimeRaces": 7585,
+      "wpm": 78,
       "highestWPM": 102,
-      "teamRaces": 1550,
-      "acc": 93.41,
+      "teamRaces": 1560,
+      "acc": 93.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1793920004
+      "lastLogin": 1793920150
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -468,7 +468,7 @@
       "acc": 92.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1793917205
+      "lastLogin": 1793922430
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -671,14 +671,14 @@
       "displayName": "- Void Grinder -",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1862,
-      "wpm": 86,
+      "allTimeRaces": 1869,
+      "wpm": 85,
       "highestWPM": 140,
-      "teamRaces": 190,
-      "acc": 94.9,
+      "teamRaces": 197,
+      "acc": 94.89,
       "season": null,
       "status": "active",
-      "lastLogin": 1793899137
+      "lastLogin": 1793920558
     },
     {
       "username": "newkeyboard512",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 68825,
+      "races": 68842,
       "avgWPM": 78,
       "avgAcc": 94.93,
       "members": 49
     },
     "daily": {
-      "races": 1732,
+      "races": 1671,
       "avgWPM": 95,
-      "avgAcc": 95.63,
+      "avgAcc": 95.64,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793920128517
+  "_syncedAt": 1793922476561
 }

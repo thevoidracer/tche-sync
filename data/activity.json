@@ -3,22 +3,12 @@
     {
       "hour": "2026-11-04 23:00:00",
       "racer": "IMIME_IMIME",
-      "races": 79
+      "races": 30
     },
     {
       "hour": "2026-11-04 23:00:00",
       "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-04 23:00:00",
-      "racer": "UJAADDAH",
-      "races": 16
-    },
-    {
-      "hour": "2026-11-04 23:00:00",
-      "racer": "Nish_OUT",
-      "races": 5
+      "races": 18
     },
     {
       "hour": "2026-11-04 23:00:00",
@@ -122,12 +112,12 @@
     },
     {
       "hour": "2026-11-05 13:00:00",
-      "racer": "Void Racer",
+      "racer": "- Void Grinder -",
       "races": 4
     },
     {
       "hour": "2026-11-05 13:00:00",
-      "racer": "- Void Grinder -",
+      "racer": "Void Racer",
       "races": 4
     },
     {
@@ -162,12 +152,12 @@
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "me_likey_typey",
+      "racer": "GregThe2ndFastTyper",
       "races": 1
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "GregThe2ndFastTyper",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
@@ -202,22 +192,22 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
       "racer": "loganim12btw",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
-      "races": 5
+      "racer": "Void Racer",
+      "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
       "racer": "KirbyDelta",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-05 15:00:00",
+      "racer": "The Queen",
       "races": 5
     },
     {
@@ -232,12 +222,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 2
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 2
     },
     {
@@ -429,8 +419,18 @@
       "hour": "2026-11-05 22:00:00",
       "racer": "-HyperTyper-",
       "races": 1
+    },
+    {
+      "hour": "2026-11-05 23:00:00",
+      "racer": "KirbyDelta",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-05 23:00:00",
+      "racer": "- Void Grinder -",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793920185549
+  "_syncedAt": 1793922551558
 }
