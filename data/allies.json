@@ -644,14 +644,14 @@
         "displayName": "I am it",
         "role": "member",
         "joinStamp": 1792754932,
-        "allTimeRaces": 691,
-        "wpm": 62,
+        "allTimeRaces": 699,
+        "wpm": 61,
         "highestWPM": 83,
-        "teamRaces": 218,
+        "teamRaces": 226,
         "acc": 96.17,
         "season": null,
         "status": "active",
-        "lastLogin": 1793789179
+        "lastLogin": 1793873154
       },
       {
         "username": "8ef43643c37171193a65d74e3e18efb6",
@@ -684,21 +684,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82679,
+        "races": 82687,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 48
       },
       "daily": {
-        "races": 485,
+        "races": 493,
         "avgWPM": 65,
-        "avgAcc": 93.14,
+        "avgAcc": 93.18,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793871554592
+    "_syncedAt": 1793875251701
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1371,6 +1371,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793871573903
+    "_syncedAt": 1793875271238
   }
 }

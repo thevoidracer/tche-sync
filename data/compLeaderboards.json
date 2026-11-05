@@ -342,6 +342,19 @@
       },
       {
         "rank": 27,
+        "tag": "KEYCAT",
+        "username": "I am it",
+        "displayName": "I am it",
+        "nickname": "Mystery Man",
+        "squad": "Beginner 100!",
+        "races": 84,
+        "wpm": 64.5,
+        "accuracy": 95.77,
+        "points": 10638,
+        "tier": "B"
+      },
+      {
+        "rank": 28,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -352,19 +365,6 @@
         "accuracy": 89.64,
         "points": 9928,
         "tier": "C"
-      },
-      {
-        "rank": 28,
-        "tag": "KEYCAT",
-        "username": "I am it",
-        "displayName": "I am it",
-        "nickname": "Mystery Man",
-        "squad": "Beginner 100!",
-        "races": 76,
-        "wpm": 64.9,
-        "accuracy": 95.74,
-        "points": 9636,
-        "tier": "B"
       },
       {
         "rank": 29,
@@ -1589,7 +1589,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793871549829
+    "_syncedAt": 1793875246980
   },
   "1463": {
     "eventId": "1463",
@@ -2089,6 +2089,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793871554172
+    "_syncedAt": 1793875251510
   }
 }
