@@ -112,12 +112,12 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "UJAADDAH",
       "races": 13
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "PootsyWafflebiscuits",
       "races": 13
     },
     {
@@ -378,14 +378,24 @@
     {
       "hour": "2026-11-05 01:00:00",
       "racer": "IMIME_IMIME",
-      "races": 46
+      "races": 91
     },
     {
       "hour": "2026-11-05 01:00:00",
       "racer": "- Void Grinder -",
-      "races": 29
+      "races": 58
+    },
+    {
+      "hour": "2026-11-05 02:00:00",
+      "racer": "IMIME_IMIME",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-05 02:00:00",
+      "racer": "- Void Grinder -",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793842651344
+  "_syncedAt": 1793846089564
 }

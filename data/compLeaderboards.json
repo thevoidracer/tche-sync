@@ -5,6 +5,32 @@
       {
         "rank": 1,
         "tag": "IMT",
+        "username": "IMIME_IMIME",
+        "displayName": "IMIME_IMIME",
+        "nickname": "Yeah, Buoy!",
+        "squad": "Entrepreneur 500",
+        "races": 392,
+        "wpm": 101,
+        "accuracy": 96.74,
+        "points": 57065,
+        "tier": "A"
+      },
+      {
+        "rank": 2,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain",
+        "races": 410,
+        "wpm": 93,
+        "accuracy": 93.53,
+        "points": 56168,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
         "nickname": "Night Patrol",
@@ -16,42 +42,16 @@
         "tier": "B"
       },
       {
-        "rank": 2,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain",
-        "races": 373,
-        "wpm": 92.8,
-        "accuracy": 93.49,
-        "points": 51053,
-        "tier": "A"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "IMIME_IMIME",
-        "displayName": "IMIME_IMIME",
-        "nickname": "Yeah, Buoy!",
-        "squad": "Side Hustler 100",
-        "races": 332,
-        "wpm": 101,
-        "accuracy": 96.77,
-        "points": 48350,
-        "tier": "A"
-      },
-      {
         "rank": 4,
         "tag": "THB0S",
         "username": "trsgray",
         "displayName": "trsgray",
         "nickname": "Mystery Man",
         "squad": "Newbies!",
-        "races": 276,
-        "wpm": 73.8,
-        "accuracy": 91.48,
-        "points": 34564,
+        "races": 318,
+        "wpm": 73.5,
+        "accuracy": 91.53,
+        "points": 39795,
         "tier": "B"
       },
       {
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Keeper of the Keys",
+        "squad": "Side Hustler 100",
+        "races": 178,
+        "wpm": 83.1,
+        "accuracy": 94.65,
+        "points": 23847,
+        "tier": "B"
+      },
+      {
+        "rank": 13,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "KEYCAT",
         "username": "Pandora",
         "displayName": "Pandora",
@@ -172,7 +185,7 @@
         "tier": "B"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -185,7 +198,7 @@
         "tier": "A"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -198,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -211,29 +224,16 @@
         "tier": "A"
       },
       {
-        "rank": 17,
-        "tag": "IMT",
-        "username": "- Void Grinder -",
-        "displayName": "- Void Grinder -",
-        "nickname": "Keeper of the Keys",
-        "squad": "Side Hustler 100",
-        "races": 147,
-        "wpm": 83.5,
-        "accuracy": 94.73,
-        "points": 19742,
-        "tier": "B"
-      },
-      {
         "rank": 18,
         "tag": "THB0S",
         "username": "B-D-R-",
         "displayName": "B-D-R-",
         "nickname": "TOUGE「峠」VIPER",
         "squad": "Officer",
-        "races": 111,
-        "wpm": 95.3,
-        "accuracy": 96,
-        "points": 15731,
+        "races": 128,
+        "wpm": 95.7,
+        "accuracy": 96.07,
+        "points": 18180,
         "tier": "A"
       },
       {
@@ -381,6 +381,19 @@
       },
       {
         "rank": 30,
+        "tag": "SVC",
+        "username": "BabyDudeSued",
+        "displayName": "BabyDudeSued",
+        "nickname": "I Hate Words",
+        "squad": null,
+        "races": 63,
+        "wpm": 92.1,
+        "accuracy": 92.75,
+        "points": 8535,
+        "tier": "B"
+      },
+      {
+        "rank": 31,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -393,7 +406,7 @@
         "tier": "A"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "KEYCAT",
         "username": "WiltedMuseGirl",
         "displayName": "WiltedMuseGirl",
@@ -406,7 +419,7 @@
         "tier": "A"
       },
       {
-        "rank": 32,
+        "rank": 33,
         "tag": "THB0S",
         "username": "NL NitroDeveloper",
         "displayName": "NL NitroDeveloper",
@@ -419,7 +432,7 @@
         "tier": "C"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
@@ -432,7 +445,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -443,19 +456,6 @@
         "accuracy": 92.92,
         "points": 7621,
         "tier": "C"
-      },
-      {
-        "rank": 35,
-        "tag": "SVC",
-        "username": "BabyDudeSued",
-        "displayName": "BabyDudeSued",
-        "nickname": "I Hate Words",
-        "squad": null,
-        "races": 56,
-        "wpm": 92.3,
-        "accuracy": 92.78,
-        "points": 7593,
-        "tier": "B"
       },
       {
         "rank": 36,
@@ -1589,13 +1589,26 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793842692241
+    "_syncedAt": 1793846132192
   },
   "1463": {
     "eventId": "1463",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "IMIME_IMIME",
+        "displayName": "IMIME_IMIME",
+        "nickname": "Yeah, Buoy!",
+        "squad": "Entrepreneur 500",
+        "races": 410,
+        "wpm": 101.6,
+        "accuracy": 96.74,
+        "points": 59821,
+        "tier": "$3,500,000"
+      },
+      {
+        "rank": 2,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -1605,19 +1618,6 @@
         "wpm": 77.6,
         "accuracy": 92.54,
         "points": 51370,
-        "tier": "$3,500,000"
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "IMIME_IMIME",
-        "displayName": "IMIME_IMIME",
-        "nickname": "Yeah, Buoy!",
-        "squad": "Side Hustler 100",
-        "races": 332,
-        "wpm": 101,
-        "accuracy": 96.77,
-        "points": 48350,
         "tier": "$3,000,000"
       },
       {
@@ -1649,6 +1649,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Keeper of the Keys",
+        "squad": "Side Hustler 100",
+        "races": 178,
+        "wpm": 83.1,
+        "accuracy": 94.65,
+        "points": 23847,
+        "tier": "$1,500,000"
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
         "nickname": "Master Motorist",
@@ -1657,10 +1670,10 @@
         "wpm": 95.8,
         "accuracy": 93,
         "points": 23104,
-        "tier": "$1,500,000"
+        "tier": "$1,000,000"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -1670,10 +1683,10 @@
         "wpm": 95.3,
         "accuracy": 93.41,
         "points": 22892,
-        "tier": "$1,000,000"
+        "tier": "$500,000"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -1683,19 +1696,6 @@
         "wpm": 95,
         "accuracy": 88.24,
         "points": 20432,
-        "tier": "$500,000"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "- Void Grinder -",
-        "displayName": "- Void Grinder -",
-        "nickname": "Keeper of the Keys",
-        "squad": "Side Hustler 100",
-        "races": 147,
-        "wpm": 83.5,
-        "accuracy": 94.73,
-        "points": 19742,
         "tier": null
       },
       {
@@ -2089,6 +2089,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793842696136
+    "_syncedAt": 1793846136088
   }
 }
