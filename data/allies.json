@@ -112,10 +112,10 @@
         "displayName": "FluffCat",
         "role": "member",
         "joinStamp": 1787591904,
-        "allTimeRaces": 2616,
-        "wpm": 84,
+        "allTimeRaces": 2623,
+        "wpm": 82,
         "highestWPM": 97,
-        "teamRaces": 427,
+        "teamRaces": 435,
         "acc": 95.62,
         "season": null,
         "status": "active",
@@ -378,10 +378,10 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2673,
-        "wpm": 63,
+        "allTimeRaces": 2676,
+        "wpm": 55,
         "highestWPM": 83,
-        "teamRaces": 182,
+        "teamRaces": 192,
         "acc": 95.76,
         "season": null,
         "status": "active",
@@ -586,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83054,
+        "races": 83072,
         "avgWPM": 56,
-        "avgAcc": 93.51,
+        "avgAcc": 93.52,
         "members": 41
       },
       "daily": {
-        "races": 536,
-        "avgWPM": 64,
-        "avgAcc": 93.28,
+        "races": 532,
+        "avgWPM": 63,
+        "avgAcc": 93.27,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793912297097
+    "_syncedAt": 1793914374557
   },
   "THB0S": {
     "tag": "THB0S",
@@ -897,25 +897,25 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8685,
-        "wpm": 50,
+        "allTimeRaces": 8686,
+        "wpm": 51,
         "highestWPM": 84,
-        "teamRaces": 753,
-        "acc": 93.92,
+        "teamRaces": 754,
+        "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1793900521
+        "lastLogin": 1793912636
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 3009,
-        "wpm": 47,
+        "allTimeRaces": 3018,
+        "wpm": 51,
         "highestWPM": 85,
-        "teamRaces": 1580,
-        "acc": 90.01,
+        "teamRaces": 1601,
+        "acc": 90.03,
         "season": null,
         "status": "active",
         "lastLogin": 1793909259
@@ -988,18 +988,18 @@
         "acc": 93.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1793900711
+        "lastLogin": 1793913545
       },
       {
         "username": "joey2011allgyer",
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6419,
+        "allTimeRaces": 6438,
         "wpm": 70,
         "highestWPM": 98,
-        "teamRaces": 266,
-        "acc": 85.15,
+        "teamRaces": 292,
+        "acc": 85.06,
         "season": null,
         "status": "active",
         "lastLogin": 1793911866
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 133508,
+        "races": 133556,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 47
       },
       "daily": {
-        "races": 1033,
+        "races": 1068,
         "avgWPM": 74,
-        "avgAcc": 93.74,
+        "avgAcc": 93.47,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793912316401
+    "_syncedAt": 1793914393449
   }
 }

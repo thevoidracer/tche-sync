@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 5
-    },
-    {
       "hour": "2026-11-04 21:00:00",
       "racer": "Namedisplayed",
-      "races": 22
-    },
-    {
-      "hour": "2026-11-04 21:00:00",
-      "racer": "Void Racer",
-      "races": 17
+      "races": 6
     },
     {
       "hour": "2026-11-04 21:00:00",
@@ -32,12 +22,12 @@
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "Void Racer",
+      "racer": "UJAADDAH",
       "races": 12
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "UJAADDAH",
+      "racer": "Void Racer",
       "races": 12
     },
     {
@@ -207,12 +197,12 @@
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "GregThe2ndFastTyper",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "me_likey_typey",
+      "racer": "GregThe2ndFastTyper",
       "races": 1
     },
     {
@@ -247,22 +237,22 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "loganim12btw",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
       "racer": "Void Racer",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
-      "races": 5
+      "racer": "loganim12btw",
+      "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
       "racer": "KirbyDelta",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-05 15:00:00",
+      "racer": "The Queen",
       "races": 5
     },
     {
@@ -434,8 +424,13 @@
       "hour": "2026-11-05 20:00:00",
       "racer": "Namedisplayed",
       "races": 4
+    },
+    {
+      "hour": "2026-11-05 21:00:00",
+      "racer": "One for One",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793912245433
+  "_syncedAt": 1793914323414
 }

@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1793912266517
+        "_syncedAt": 1793914344600
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1736,7 +1736,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 11775
                 },
@@ -1910,7 +1910,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2314,7 +2314,7 @@
                   "seed": "5",
                   "racer": "Cats_4_Eva",
                   "teamTag": "KEYCAT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 14620
                 },
@@ -2400,7 +2400,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2648,7 +2648,7 @@
               "players": [
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -2772,7 +2772,7 @@
                 },
                 {
                   "seed": "7",
-                  "racer": "Festive Typer",
+                  "racer": "CrazyTyper",
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
@@ -3784,10 +3784,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1793912283412
+        "_syncedAt": 1793914361664
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793912283414
+  "_syncedAt": 1793914361666
 }
