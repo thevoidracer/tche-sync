@@ -6,7 +6,7 @@
     "activePercent": 91,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3144,
+    "profileViews": 3145,
     "leagueTier": 10,
     "racers": [
       {
@@ -238,14 +238,14 @@
         "displayName": "Pandora",
         "role": "officer",
         "joinStamp": 1790358284,
-        "allTimeRaces": 2638,
-        "wpm": 65,
+        "allTimeRaces": 2651,
+        "wpm": 61,
         "highestWPM": 94,
-        "teamRaces": 1588,
-        "acc": 90.17,
+        "teamRaces": 1605,
+        "acc": 90.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1793878051
+        "lastLogin": 1793880842
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -259,7 +259,7 @@
         "acc": 94.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1793831412
+        "lastLogin": 1793879479
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -322,14 +322,14 @@
         "displayName": "weak kingsley",
         "role": "member",
         "joinStamp": 1792163292,
-        "allTimeRaces": 1120,
+        "allTimeRaces": 1121,
         "wpm": 41,
         "highestWPM": 102,
-        "teamRaces": 118,
-        "acc": 90.96,
+        "teamRaces": 119,
+        "acc": 90.97,
         "season": null,
         "status": "active",
-        "lastLogin": 1793814008
+        "lastLogin": 1793880861
       },
       {
         "username": "dc7021a089975ab161ac339f7dd7fc2a",
@@ -385,7 +385,7 @@
         "acc": 93.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1793837219
+        "lastLogin": 1793879468
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -684,21 +684,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 82687,
+        "races": 82705,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 48
       },
       "daily": {
-        "races": 473,
+        "races": 467,
         "avgWPM": 65,
-        "avgAcc": 93.07,
+        "avgAcc": 92.98,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793878437169
+    "_syncedAt": 1793882172372
   },
   "THB0S": {
     "tag": "THB0S",
@@ -974,7 +974,7 @@
         "acc": 97.31,
         "season": null,
         "status": "active",
-        "lastLogin": 1793861869
+        "lastLogin": 1793881031
       },
       {
         "username": "3fd8525390cb7ea33574379957d39827",
@@ -1002,7 +1002,7 @@
         "acc": 93.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1793840973
+        "lastLogin": 1793880943
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1163,14 +1163,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 4007,
-        "wpm": 43,
+        "allTimeRaces": 4020,
+        "wpm": 46,
         "highestWPM": 61,
-        "teamRaces": 2469,
+        "teamRaces": 2474,
         "acc": 91.99,
         "season": null,
         "status": "active",
-        "lastLogin": 1793827296
+        "lastLogin": 1793881419
       },
       {
         "username": "sara0010",
@@ -1357,13 +1357,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 133030,
+        "races": 133035,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1125,
+        "races": 1123,
         "avgWPM": 79,
         "avgAcc": 95.07,
         "members": 46
@@ -1371,6 +1371,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793878456482
+    "_syncedAt": 1793882191484
   }
 }

@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "KEYCAT",
+        "username": "Pandora",
+        "displayName": "Pandora",
+        "nickname": "I Love Cats",
+        "squad": "Investor 1k ;)",
+        "races": 205,
+        "wpm": 66.5,
+        "accuracy": 88.59,
+        "points": 24202,
+        "tier": "B"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -169,19 +182,6 @@
         "wpm": 78.2,
         "accuracy": 95.54,
         "points": 23522,
-        "tier": "B"
-      },
-      {
-        "rank": 14,
-        "tag": "KEYCAT",
-        "username": "Pandora",
-        "displayName": "Pandora",
-        "nickname": "I Love Cats",
-        "squad": "Investor 1k ;)",
-        "races": 196,
-        "wpm": 66.6,
-        "accuracy": 88.58,
-        "points": 23140,
         "tier": "B"
       },
       {
@@ -369,6 +369,19 @@
       {
         "rank": 29,
         "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 84,
+        "wpm": 43.2,
+        "accuracy": 90.94,
+        "points": 9287,
+        "tier": "C"
+      },
+      {
+        "rank": 30,
+        "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
         "nickname": "Nitro Rich",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "IMT",
         "username": "NotoriousJuJu",
         "displayName": "NotoriousJuJu",
@@ -391,19 +404,6 @@
         "accuracy": 92.96,
         "points": 8980,
         "tier": "A"
-      },
-      {
-        "rank": 31,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer",
-        "races": 79,
-        "wpm": 43.2,
-        "accuracy": 90.87,
-        "points": 8729,
-        "tier": "C"
       },
       {
         "rank": 32,
@@ -720,6 +720,19 @@
       {
         "rank": 56,
         "tag": "KEYCAT",
+        "username": "weak kingsley",
+        "displayName": "weak kingsley",
+        "nickname": "Speed Demon",
+        "squad": "Starter!!",
+        "races": 34,
+        "wpm": 45.1,
+        "accuracy": 87.93,
+        "points": 3663,
+        "tier": "C"
+      },
+      {
+        "rank": 57,
+        "tag": "KEYCAT",
         "username": "JaysonG",
         "displayName": "JaysonG",
         "nickname": "Master Motorist",
@@ -729,19 +742,6 @@
         "accuracy": 90.72,
         "points": 3623,
         "tier": "B"
-      },
-      {
-        "rank": 57,
-        "tag": "KEYCAT",
-        "username": "weak kingsley",
-        "displayName": "weak kingsley",
-        "nickname": "Speed Demon",
-        "squad": "Starter!!",
-        "races": 33,
-        "wpm": 45,
-        "accuracy": 87.83,
-        "points": 3551,
-        "tier": "C"
       },
       {
         "rank": 58,
@@ -1589,7 +1589,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1793878432601
+    "_syncedAt": 1793882167454
   },
   "1463": {
     "eventId": "1463",
@@ -2089,6 +2089,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793878436989
+    "_syncedAt": 1793882172219
   }
 }
