@@ -3,12 +3,7 @@
     {
       "hour": "2026-11-04 13:00:00",
       "racer": "loganim12btw",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-04 13:00:00",
-      "racer": "The Queen",
-      "races": 7
+      "races": 5
     },
     {
       "hour": "2026-11-04 14:00:00",
@@ -247,12 +242,12 @@
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "Void Racer",
+      "racer": "UJAADDAH",
       "races": 12
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "UJAADDAH",
+      "racer": "Void Racer",
       "races": 12
     },
     {
@@ -302,12 +297,12 @@
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "me_likey_typey",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
@@ -374,8 +369,23 @@
       "hour": "2026-11-05 08:00:00",
       "racer": "asteroids",
       "races": 13
+    },
+    {
+      "hour": "2026-11-05 12:00:00",
+      "racer": "Void Racer",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-05 13:00:00",
+      "racer": "Void Racer",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-05 13:00:00",
+      "racer": "- Void Grinder -",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793882124861
+  "_syncedAt": 1793886862751
 }
