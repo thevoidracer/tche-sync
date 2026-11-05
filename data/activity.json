@@ -1,31 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-04 00:00:00",
-      "racer": "me_likey_typey",
-      "races": 14
-    },
-    {
-      "hour": "2026-11-04 00:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-04 00:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-04 00:00:00",
-      "racer": "Void Racer",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-04 01:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 2
-    },
-    {
       "hour": "2026-11-04 02:00:00",
       "racer": "asteroids",
       "races": 16
@@ -157,7 +132,7 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "SKZ FIRAH",
+      "racer": "The Queen",
       "races": 1
     },
     {
@@ -167,7 +142,7 @@
     },
     {
       "hour": "2026-11-04 15:00:00",
-      "racer": "The Queen",
+      "racer": "SKZ FIRAH",
       "races": 1
     },
     {
@@ -337,12 +312,12 @@
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "UJAADDAH",
+      "racer": "Void Racer",
       "races": 12
     },
     {
       "hour": "2026-11-04 22:00:00",
-      "racer": "Void Racer",
+      "racer": "UJAADDAH",
       "races": 12
     },
     {
@@ -382,15 +357,35 @@
     },
     {
       "hour": "2026-11-05 00:00:00",
-      "racer": "insta _trewatkins",
-      "races": 14
+      "racer": "IMIME_IMIME",
+      "races": 81
     },
     {
       "hour": "2026-11-05 00:00:00",
+      "racer": "insta _trewatkins",
+      "races": 64
+    },
+    {
+      "hour": "2026-11-05 00:00:00",
+      "racer": "me_likey_typey",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-05 00:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-05 01:00:00",
       "racer": "IMIME_IMIME",
-      "races": 12
+      "races": 46
+    },
+    {
+      "hour": "2026-11-05 01:00:00",
+      "racer": "- Void Grinder -",
+      "races": 29
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793838080520
+  "_syncedAt": 1793842651344
 }

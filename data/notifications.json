@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "key": "milestone:imenishat:2500",
+      "type": "milestone",
+      "text": "IMIME_IMIME crossed 2,500 lifetime races!",
+      "meta": {
+        "username": "imenishat",
+        "milestone": 2500
+      },
+      "createdAt": 1793842687434
+    },
+    {
       "key": "new-member:f09fe0ef3a642c5a3f429fa873139e72",
       "type": "new-member",
       "text": "JaydaYounGan-Y2K-120 joined the team.",
@@ -729,5 +739,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793838118776
+  "_syncedAt": 1793842687434
 }
