@@ -2,7 +2,7 @@
   "tag": "IMT",
   "name": "Weekly Cash Comp",
   "members": 48,
-  "activePercent": 91,
+  "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
   "profileViews": 2526,
@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 8095,
-      "wpm": 80,
+      "allTimeRaces": 8125,
+      "wpm": 78,
       "highestWPM": 110,
-      "teamRaces": 982,
+      "teamRaces": 1011,
       "acc": 97.3,
       "season": null,
       "status": "active",
-      "lastLogin": 1793937097
+      "lastLogin": 1793939779
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 69250,
+      "races": 69279,
       "avgWPM": 78,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 1466,
-      "avgWPM": 91,
-      "avgAcc": 95.35,
+      "races": 1403,
+      "avgWPM": 89,
+      "avgAcc": 95.27,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793939050965
+  "_syncedAt": 1793942640828
 }
