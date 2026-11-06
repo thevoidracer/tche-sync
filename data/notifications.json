@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "key": "milestone:5b7204df5a2e2c2bd6d6088673206b01:2500",
+      "type": "milestone",
+      "text": "I KC Zadkiel I crossed 2,500 lifetime races!",
+      "meta": {
+        "username": "5b7204df5a2e2c2bd6d6088673206b01",
+        "milestone": 2500
+      },
+      "createdAt": 1793978728987
+    },
+    {
+      "key": "new-member:nataliefinger",
+      "type": "new-member",
+      "text": "nataliefinger joined the team.",
+      "meta": {
+        "username": "nataliefinger"
+      },
+      "createdAt": 1793978728987
+    },
+    {
       "key": "new-member:wackogamer",
       "type": "new-member",
       "text": "\fPeNsBuRg yT\f joined the team.",
@@ -805,5 +824,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793975739527
+  "_syncedAt": 1793978728987
 }
