@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 48,
+  "members": 49,
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨53.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2527,
+  "profileViews": 2530,
   "leagueTier": 10,
   "racers": [
     {
@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20554,
-      "wpm": 89,
+      "allTimeRaces": 20561,
+      "wpm": 90,
       "highestWPM": 110,
       "teamRaces": 2915,
       "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1793916029
+      "lastLogin": 1793971809
     },
     {
       "username": "jonathan711111",
@@ -63,6 +63,20 @@
       "season": null,
       "status": "active",
       "lastLogin": 1793914073
+    },
+    {
+      "username": "wackogamer",
+      "displayName": "\fPeNsBuRg yT\f",
+      "role": "member",
+      "joinStamp": 1793968016,
+      "allTimeRaces": 6418,
+      "wpm": 108,
+      "highestWPM": 128,
+      "teamRaces": 12,
+      "acc": 98.59,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1793969042
     },
     {
       "username": "tre1typer",
@@ -454,7 +468,7 @@
       "acc": 92.77,
       "season": null,
       "status": "active",
-      "lastLogin": 1793935871
+      "lastLogin": 1793967997
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -538,7 +552,7 @@
       "acc": 91.69,
       "season": null,
       "status": "active",
-      "lastLogin": 1793884939
+      "lastLogin": 1793967977
     },
     {
       "username": "10712a0152fd25105448b6ef1298504b",
@@ -657,14 +671,14 @@
       "displayName": "- Void Grinder -",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1907,
-      "wpm": 83,
+      "allTimeRaces": 1914,
+      "wpm": 84,
       "highestWPM": 140,
-      "teamRaces": 235,
-      "acc": 94.89,
+      "teamRaces": 242,
+      "acc": 94.91,
       "season": null,
       "status": "active",
-      "lastLogin": 1793929061
+      "lastLogin": 1793971110
     },
     {
       "username": "newkeyboard512",
@@ -683,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 69434,
+      "races": 69453,
       "avgWPM": 78,
       "avgAcc": 94.94,
-      "members": 48
+      "members": 49
     },
     "daily": {
-      "races": 1434,
+      "races": 1446,
       "avgWPM": 87,
-      "avgAcc": 95.27,
-      "members": 48
+      "avgAcc": 95.31,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793967542684
+  "_syncedAt": 1793972164488
 }

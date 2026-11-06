@@ -27,10 +27,10 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 110,
-      "lifetimeRaces": 20554,
+      "lifetimeRaces": 20560,
       "teamRaces": 2915,
       "joined": "06/24/26"
     },
@@ -535,10 +535,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 83,
+      "avgWPM": 84,
       "topWPM": 140,
-      "lifetimeRaces": 1907,
-      "teamRaces": 235,
+      "lifetimeRaces": 1914,
+      "teamRaces": 242,
       "joined": "11/01/26"
     },
     {
@@ -631,8 +631,21 @@
       "lifetimeRaces": 36867,
       "teamRaces": 0,
       "joined": "11/06/26"
+    },
+    {
+      "username": "wackogamer",
+      "displayName": "\fPeNsBuRg yT\f",
+      "nickname": "Ghost Lap",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 108,
+      "topWPM": 128,
+      "lifetimeRaces": 6418,
+      "teamRaces": 12,
+      "joined": "11/06/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793967616921
+  "_syncedAt": 1793972241148
 }

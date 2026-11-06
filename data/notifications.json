@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:wackogamer",
+      "type": "new-member",
+      "text": "\fPeNsBuRg yT\f joined the team.",
+      "meta": {
+        "username": "wackogamer"
+      },
+      "createdAt": 1793972279706
+    },
+    {
       "key": "new-member:mrimtoslow",
       "type": "new-member",
       "text": "-Elite- joined the team.",
@@ -796,5 +805,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793967655064
+  "_syncedAt": 1793972279706
 }
