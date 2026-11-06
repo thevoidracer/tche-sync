@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "key": "tour-win:57:Match 2331",
+      "type": "tournament-win",
+      "text": "rorok09 won their Championship ($4,000,000) * match vs Sara10 in IMT Ally Celebration Tournament.",
+      "meta": {
+        "matchId": "Match 2331",
+        "username": "rorok09",
+        "tournamentId": "57"
+      },
+      "createdAt": 1793929526663
+    },
+    {
       "key": "new-member:85ff6f2e24db1d59f1c3ff5f3030f046",
       "type": "new-member",
       "text": "One for One joined the team.",
@@ -776,5 +787,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1793925109071
+  "_syncedAt": 1793929526663
 }

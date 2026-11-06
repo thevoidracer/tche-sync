@@ -1,34 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-05 00:00:00",
-      "racer": "IMIME_IMIME",
-      "races": 43
-    },
-    {
-      "hour": "2026-11-05 00:00:00",
-      "racer": "insta _trewatkins",
-      "races": 30
-    },
-    {
-      "hour": "2026-11-05 00:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-05 00:00:00",
-      "racer": "me_likey_typey",
-      "races": 1
-    },
-    {
       "hour": "2026-11-05 01:00:00",
       "racer": "IMIME_IMIME",
-      "races": 91
+      "races": 30
     },
     {
       "hour": "2026-11-05 01:00:00",
       "racer": "- Void Grinder -",
-      "races": 58
+      "races": 24
     },
     {
       "hour": "2026-11-05 02:00:00",
@@ -172,22 +152,22 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "loganim12btw",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
       "racer": "Void Racer",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "KirbyDelta",
-      "races": 5
+      "racer": "loganim12btw",
+      "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
       "racer": "The Queen",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-05 15:00:00",
+      "racer": "KirbyDelta",
       "races": 5
     },
     {
@@ -423,19 +403,24 @@
     {
       "hour": "2026-11-06 00:00:00",
       "racer": "rorok09",
-      "races": 30
+      "races": 77
     },
     {
       "hour": "2026-11-06 00:00:00",
       "racer": "insta _trewatkins",
-      "races": 23
+      "races": 70
     },
     {
       "hour": "2026-11-06 00:00:00",
       "racer": "KirbyDelta",
       "races": 9
+    },
+    {
+      "hour": "2026-11-06 01:00:00",
+      "racer": "rorok09",
+      "races": 38
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793925068073
+  "_syncedAt": 1793929489684
 }

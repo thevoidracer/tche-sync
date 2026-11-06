@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 89,
       "topWPM": 118,
-      "lifetimeRaces": 10613,
-      "teamRaces": 9795,
+      "lifetimeRaces": 10695,
+      "teamRaces": 9880,
       "joined": "07/04/26"
     },
     {
@@ -248,11 +248,11 @@
       "nickname": "B.U.S. Driver",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "A",
-      "avgWPM": 94,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 115,
-      "lifetimeRaces": 5428,
-      "teamRaces": 1243,
+      "lifetimeRaces": 5470,
+      "teamRaces": 1290,
       "joined": "10/06/26"
     },
     {
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793925068072
+  "_syncedAt": 1793929489683
 }
