@@ -1,7 +1,7 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 50,
+  "members": 49,
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨60.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
@@ -293,11 +293,11 @@
       "displayName": "GregThe2ndFastTyper",
       "role": "member",
       "joinStamp": 1793810179,
-      "allTimeRaces": 1264,
-      "wpm": 98,
+      "allTimeRaces": 1320,
+      "wpm": 95,
       "highestWPM": 124,
-      "teamRaces": 61,
-      "acc": 96.1,
+      "teamRaces": 112,
+      "acc": 95.42,
       "season": null,
       "status": "active",
       "lastLogin": 1793980094
@@ -527,20 +527,6 @@
       "lastLogin": 1793840237
     },
     {
-      "username": "mrimtoslow",
-      "displayName": "-Elite-",
-      "role": "member",
-      "joinStamp": 1793930684,
-      "allTimeRaces": 36867,
-      "wpm": 95,
-      "highestWPM": 122,
-      "teamRaces": 0,
-      "acc": 0,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1793981019
-    },
-    {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
       "displayName": "VOID_REIGN",
       "role": "officer",
@@ -601,11 +587,11 @@
       "displayName": "Safire",
       "role": "member",
       "joinStamp": 1793735818,
-      "allTimeRaces": 1245,
-      "wpm": 45,
+      "allTimeRaces": 1261,
+      "wpm": 46,
       "highestWPM": 108,
-      "teamRaces": 39,
-      "acc": 87.42,
+      "teamRaces": 55,
+      "acc": 86.78,
       "season": null,
       "status": "active",
       "lastLogin": 1793981399
@@ -711,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 69764,
+      "races": 69831,
       "avgWPM": 78,
       "avgAcc": 94.95,
-      "members": 50
+      "members": 49
     },
     "daily": {
-      "races": 1391,
+      "races": 1410,
       "avgWPM": 86,
-      "avgAcc": 95.46,
-      "members": 50
+      "avgAcc": 95.41,
+      "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793981550922
+  "_syncedAt": 1793984243815
 }

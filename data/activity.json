@@ -3,37 +3,12 @@
     {
       "hour": "2026-11-05 16:00:00",
       "racer": "Joe and Uh",
-      "races": 34
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "loganim12btw",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "GregThe2ndFastTyper",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "Safire",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "certified",
-      "races": 3
+      "races": 6
     },
     {
       "hour": "2026-11-05 16:00:00",
       "racer": "t_unknown",
       "races": 2
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "WindMaker",
-      "races": 1
     },
     {
       "hour": "2026-11-05 17:00:00",
@@ -387,15 +362,35 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Safire",
       "races": 2
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
+      "racer": "nataliefinger",
       "races": 2
+    },
+    {
+      "hour": "2026-11-06 16:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 64
+    },
+    {
+      "hour": "2026-11-06 16:00:00",
+      "racer": "Safire",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-06 16:00:00",
+      "racer": "t_unknown",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-06 16:00:00",
+      "racer": "Nish_OUT",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793981604350
+  "_syncedAt": 1793984305082
 }
