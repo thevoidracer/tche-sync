@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-05 13:00:00",
-      "racer": "- Void Grinder -",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-05 13:00:00",
-      "racer": "loganim12btw",
-      "races": 1
-    },
-    {
       "hour": "2026-11-05 14:00:00",
       "racer": "rorok09",
-      "races": 39
+      "races": 37
     },
     {
       "hour": "2026-11-05 14:00:00",
@@ -34,11 +24,6 @@
       "hour": "2026-11-05 14:00:00",
       "racer": "Void Racer",
       "races": 3
-    },
-    {
-      "hour": "2026-11-05 14:00:00",
-      "racer": "GregThe2ndFastTyper",
-      "races": 1
     },
     {
       "hour": "2026-11-05 14:00:00",
@@ -412,10 +397,35 @@
     },
     {
       "hour": "2026-11-06 13:00:00",
+      "racer": "rorok09",
+      "races": 28
+    },
+    {
+      "hour": "2026-11-06 13:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 14
+    },
+    {
+      "hour": "2026-11-06 13:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-06 13:00:00",
       "racer": "- Void Grinder -",
       "races": 6
+    },
+    {
+      "hour": "2026-11-06 14:00:00",
+      "racer": "rorok09",
+      "races": 29
+    },
+    {
+      "hour": "2026-11-06 14:00:00",
+      "racer": "Joe and Uh",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793972241149
+  "_syncedAt": 1793975698997
 }

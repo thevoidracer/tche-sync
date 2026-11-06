@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 20560,
-      "teamRaces": 2915,
+      "lifetimeRaces": 20568,
+      "teamRaces": 2929,
       "joined": "06/24/26"
     },
     {
@@ -54,10 +54,10 @@
       "role": "officer",
       "squad": "Tycoon 7.5k ",
       "tier": "B",
-      "avgWPM": 89,
+      "avgWPM": 88,
       "topWPM": 118,
-      "lifetimeRaces": 10791,
-      "teamRaces": 9981,
+      "lifetimeRaces": 10855,
+      "teamRaces": 10038,
       "joined": "07/04/26"
     },
     {
@@ -223,10 +223,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 73,
+      "avgWPM": 75,
       "topWPM": 93,
-      "lifetimeRaces": 2491,
-      "teamRaces": 596,
+      "lifetimeRaces": 2499,
+      "teamRaces": 604,
       "joined": "10/05/26"
     },
     {
@@ -405,10 +405,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 78,
+      "avgWPM": 79,
       "topWPM": 120,
-      "lifetimeRaces": 1460,
-      "teamRaces": 275,
+      "lifetimeRaces": 1461,
+      "teamRaces": 276,
       "joined": "10/21/26"
     },
     {
@@ -637,7 +637,7 @@
       "displayName": "\fPeNsBuRg yT\f",
       "nickname": "Ghost Lap",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 108,
       "topWPM": 128,
@@ -647,5 +647,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793972241148
+  "_syncedAt": 1793975698996
 }
