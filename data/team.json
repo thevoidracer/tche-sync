@@ -97,11 +97,11 @@
       "displayName": "Nish_OUT",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1496,
-      "wpm": 92,
+      "allTimeRaces": 1503,
+      "wpm": 96,
       "highestWPM": 109,
-      "teamRaces": 258,
-      "acc": 97.05,
+      "teamRaces": 275,
+      "acc": 97.04,
       "season": null,
       "status": "active",
       "lastLogin": 1793999540
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70292,
+      "races": 70309,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 1455,
+      "races": 1467,
       "avgWPM": 88,
-      "avgAcc": 95.66,
+      "avgAcc": 95.69,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794007762892
+  "_syncedAt": 1794009425804
 }
