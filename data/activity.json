@@ -1,39 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "Joe and Uh",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "t_unknown",
-      "races": 2
-    },
-    {
       "hour": "2026-11-05 17:00:00",
       "racer": "IMIME_IMIME",
       "races": 26
     },
     {
       "hour": "2026-11-05 17:00:00",
-      "racer": "Joe and Uh",
-      "races": 21
-    },
-    {
-      "hour": "2026-11-05 17:00:00",
       "racer": "insta _trewatkins",
-      "races": 20
-    },
-    {
-      "hour": "2026-11-05 17:00:00",
-      "racer": "t_unknown",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-05 17:00:00",
-      "racer": "- Void Grinder -",
-      "races": 8
+      "races": 12
     },
     {
       "hour": "2026-11-05 17:00:00",
@@ -44,11 +19,6 @@
       "hour": "2026-11-05 17:00:00",
       "racer": "Void Racer",
       "races": 2
-    },
-    {
-      "hour": "2026-11-05 17:00:00",
-      "racer": "WindMaker",
-      "races": 1
     },
     {
       "hour": "2026-11-05 18:00:00",
@@ -362,18 +332,18 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
+      "racer": "nataliefinger",
       "races": 2
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Safire",
       "races": 2
     },
     {
       "hour": "2026-11-06 16:00:00",
       "racer": "GregThe2ndFastTyper",
-      "races": 64
+      "races": 75
     },
     {
       "hour": "2026-11-06 16:00:00",
@@ -389,8 +359,38 @@
       "hour": "2026-11-06 16:00:00",
       "racer": "Nish_OUT",
       "races": 1
+    },
+    {
+      "hour": "2026-11-06 17:00:00",
+      "racer": "StefanO",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-06 17:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-06 17:00:00",
+      "racer": "Nathan",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-06 17:00:00",
+      "racer": "Safire",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-06 17:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-06 17:00:00",
+      "racer": "loganim12btw",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793984305082
+  "_syncedAt": 1793986807768
 }

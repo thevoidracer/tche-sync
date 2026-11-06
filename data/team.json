@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5467,
-      "wpm": 104,
+      "allTimeRaces": 5478,
+      "wpm": 105,
       "highestWPM": 128,
-      "teamRaces": 455,
-      "acc": 95.36,
+      "teamRaces": 462,
+      "acc": 95.35,
       "season": null,
       "status": "active",
-      "lastLogin": 1793914073
+      "lastLogin": 1793985693
     },
     {
       "username": "wackogamer",
@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 900,
+      "allTimeRaces": 910,
       "wpm": 69,
       "highestWPM": 85,
-      "teamRaces": 399,
+      "teamRaces": 409,
       "acc": 94.4,
       "season": null,
       "status": "active",
-      "lastLogin": 1793915211
+      "lastLogin": 1793984890
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -293,11 +293,11 @@
       "displayName": "GregThe2ndFastTyper",
       "role": "member",
       "joinStamp": 1793810179,
-      "allTimeRaces": 1320,
-      "wpm": 95,
+      "allTimeRaces": 1331,
+      "wpm": 104,
       "highestWPM": 124,
-      "teamRaces": 112,
-      "acc": 95.42,
+      "teamRaces": 131,
+      "acc": 95.27,
       "season": null,
       "status": "active",
       "lastLogin": 1793980094
@@ -349,14 +349,14 @@
       "displayName": "I KC Zadkiel I",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2504,
-      "wpm": 73,
+      "allTimeRaces": 2505,
+      "wpm": 75,
       "highestWPM": 93,
-      "teamRaces": 609,
+      "teamRaces": 610,
       "acc": 93.71,
       "season": null,
       "status": "active",
-      "lastLogin": 1793975751
+      "lastLogin": 1793986613
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -573,28 +573,28 @@
       "displayName": "loganim12btw",
       "role": "member",
       "joinStamp": 1792673236,
-      "allTimeRaces": 1009,
+      "allTimeRaces": 1010,
       "wpm": 99,
       "highestWPM": 215,
-      "teamRaces": 229,
-      "acc": 92.21,
+      "teamRaces": 230,
+      "acc": 92.23,
       "season": null,
       "status": "active",
-      "lastLogin": 1793979171
+      "lastLogin": 1793985490
     },
     {
       "username": "b6456e4c4be6acdfede3e806a662ed4c",
       "displayName": "Safire",
       "role": "member",
       "joinStamp": 1793735818,
-      "allTimeRaces": 1261,
+      "allTimeRaces": 1263,
       "wpm": 46,
       "highestWPM": 108,
-      "teamRaces": 55,
-      "acc": 86.78,
+      "teamRaces": 57,
+      "acc": 86.65,
       "season": null,
       "status": "active",
-      "lastLogin": 1793981399
+      "lastLogin": 1793985222
     },
     {
       "username": "328473829095dbxdfhd",
@@ -697,19 +697,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 69831,
+      "races": 69871,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 49
     },
     "daily": {
-      "races": 1410,
-      "avgWPM": 86,
-      "avgAcc": 95.41,
+      "races": 1412,
+      "avgWPM": 87,
+      "avgAcc": 95.42,
       "members": 49
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793984243815
+  "_syncedAt": 1793986753418
 }
