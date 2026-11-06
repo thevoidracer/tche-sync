@@ -498,6 +498,19 @@
       },
       {
         "rank": 39,
+        "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer",
+        "races": 20,
+        "wpm": 43.2,
+        "accuracy": 91.58,
+        "points": 2227,
+        "tier": "C"
+      },
+      {
+        "rank": 40,
         "tag": "KEYCAT",
         "username": "Limit RyZex1x",
         "displayName": "Limit RyZex1x",
@@ -508,19 +521,6 @@
         "accuracy": 94.93,
         "points": 2194,
         "tier": "A"
-      },
-      {
-        "rank": 40,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer",
-        "races": 19,
-        "wpm": 43.6,
-        "accuracy": 91.9,
-        "points": 2127,
-        "tier": "C"
       },
       {
         "rank": 41,
@@ -926,7 +926,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793964693372
+    "_syncedAt": 1793967659444
   },
   "1463": {
     "eventId": "1463",
@@ -1413,7 +1413,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1793964697653
+    "_syncedAt": 1793967663807
   },
   "1550": {
     "eventId": "1550",
@@ -1900,6 +1900,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1793964701804
+    "_syncedAt": 1793967668001
   }
 }

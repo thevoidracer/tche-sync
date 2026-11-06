@@ -3,10 +3,10 @@
     "timeframes": {
       "24h": {
         "rank": 36,
-        "races": 510,
-        "accuracy": 92.69,
+        "races": 500,
+        "accuracy": 92.76,
         "wpm": 65,
-        "points": 62626,
+        "points": 61448,
         "ppr": 123
       },
       "season": {
@@ -18,11 +18,11 @@
         "ppr": 123
       },
       "week": {
-        "rank": 39,
-        "races": 2744,
-        "accuracy": 92.79,
+        "rank": 40,
+        "races": 2696,
+        "accuracy": 92.81,
         "wpm": 66.7,
-        "points": 339530,
+        "points": 333593,
         "ppr": 124
       },
       "weekly": {
@@ -49,40 +49,40 @@
     "points": 777002,
     "ppr": 123,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793964720718
+    "_syncedAt": 1793967690793
   },
   "THB0S": {
     "timeframes": {
       "24h": {
         "rank": 27,
-        "races": 899,
-        "accuracy": 93.41,
+        "races": 900,
+        "accuracy": 93.4,
         "wpm": 74,
-        "points": 115053,
+        "points": 115156,
         "ppr": 128
       },
       "season": {
         "rank": 21,
-        "races": 16601,
+        "races": 16602,
         "accuracy": 94.03,
         "wpm": 76.1,
-        "points": 2154928,
+        "points": 2155031,
         "ppr": 130
       },
       "week": {
         "rank": 20,
-        "races": 5942,
+        "races": 5932,
         "accuracy": 93.84,
         "wpm": 75.9,
-        "points": 769231,
+        "points": 768068,
         "ppr": 129
       },
       "weekly": {
         "rank": 26,
-        "races": 4043,
+        "races": 4044,
         "accuracy": 93.71,
         "wpm": 76.2,
-        "points": 523266,
+        "points": 523368,
         "ppr": 129
       },
       "alltime": {
@@ -95,12 +95,12 @@
       }
     },
     "rank": 21,
-    "races": 16601,
+    "races": 16602,
     "accuracy": 94.03,
     "wpm": 76.1,
-    "points": 2154928,
+    "points": 2155031,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1793964739746
+    "_syncedAt": 1793967709920
   }
 }
