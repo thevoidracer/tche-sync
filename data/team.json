@@ -363,14 +363,14 @@
       "displayName": "Namedisplayed",
       "role": "member",
       "joinStamp": 1788206941,
-      "allTimeRaces": 2027,
-      "wpm": 98,
+      "allTimeRaces": 2029,
+      "wpm": 96,
       "highestWPM": 119,
-      "teamRaces": 1680,
+      "teamRaces": 1682,
       "acc": 94.16,
       "season": null,
       "status": "active",
-      "lastLogin": 1793986784
+      "lastLogin": 1793996530
     },
     {
       "username": "85ff6f2e24db1d59f1c3ff5f3030f046",
@@ -657,11 +657,11 @@
       "displayName": "- Void Grinder -",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1915,
+      "allTimeRaces": 1924,
       "wpm": 82,
       "highestWPM": 140,
-      "teamRaces": 242,
-      "acc": 94.91,
+      "teamRaces": 252,
+      "acc": 94.92,
       "season": null,
       "status": "active",
       "lastLogin": 1793995988
@@ -683,13 +683,13 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70002,
+      "races": 70014,
       "avgWPM": 78,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 1245,
+      "races": 1244,
       "avgWPM": 86,
       "avgAcc": 95.44,
       "members": 48
@@ -697,5 +697,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793996292067
+  "_syncedAt": 1793998230208
 }
