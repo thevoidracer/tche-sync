@@ -2,23 +2,18 @@
   "hours": [
     {
       "hour": "2026-11-05 21:00:00",
-      "racer": "Nathan",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-05 21:00:00",
       "racer": "Void Racer",
       "races": 10
     },
     {
       "hour": "2026-11-05 21:00:00",
-      "racer": "StefanO",
-      "races": 7
+      "racer": "Nathan",
+      "races": 9
     },
     {
       "hour": "2026-11-05 21:00:00",
-      "racer": "One for One",
-      "races": 4
+      "racer": "StefanO",
+      "races": 7
     },
     {
       "hour": "2026-11-05 22:00:00",
@@ -237,12 +232,12 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
+      "racer": "nataliefinger",
       "races": 2
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Safire",
       "races": 2
     },
     {
@@ -352,6 +347,11 @@
     },
     {
       "hour": "2026-11-06 20:00:00",
+      "racer": "rorok09",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-06 20:00:00",
       "racer": "- Void Grinder -",
       "races": 10
     },
@@ -364,8 +364,33 @@
       "hour": "2026-11-06 20:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 1
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "rorok09",
+      "races": 39
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "Nathan",
+      "races": 27
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "Namedisplayed",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "Nish_OUT",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793998292886
+  "_syncedAt": 1794001037883
 }
