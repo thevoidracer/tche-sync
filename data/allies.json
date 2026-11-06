@@ -406,14 +406,14 @@
         "displayName": "hammerdrill7350",
         "role": "member",
         "joinStamp": 1793753149,
-        "allTimeRaces": 347,
-        "wpm": 31,
+        "allTimeRaces": 348,
+        "wpm": 30,
         "highestWPM": 41,
-        "teamRaces": 35,
-        "acc": 95.35,
+        "teamRaces": 36,
+        "acc": 95.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1793941861
+        "lastLogin": 1793945466
       },
       {
         "username": "lillie1432",
@@ -572,13 +572,13 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83200,
+        "races": 83201,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 40
       },
       "daily": {
-        "races": 524,
+        "races": 525,
         "avgWPM": 64,
         "avgAcc": 93.17,
         "members": 40
@@ -586,7 +586,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793942756863
+    "_syncedAt": 1793946279492
   },
   "THB0S": {
     "tag": "THB0S",
@@ -736,7 +736,7 @@
         "acc": 93.83,
         "season": null,
         "status": "active",
-        "lastLogin": 1793941702
+        "lastLogin": 1793943493
       },
       {
         "username": "pigglepigglepiggle",
@@ -1093,14 +1093,14 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 14726,
-        "wpm": 71,
+        "allTimeRaces": 14736,
+        "wpm": 76,
         "highestWPM": 96,
-        "teamRaces": 508,
-        "acc": 96.14,
+        "teamRaces": 512,
+        "acc": 96.15,
         "season": null,
         "status": "active",
-        "lastLogin": 1793935083
+        "lastLogin": 1793945784
       },
       {
         "username": "clpz200",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 133900,
+        "races": 133904,
         "avgWPM": 68,
         "avgAcc": 94.04,
         "members": 48
       },
       "daily": {
-        "races": 905,
+        "races": 909,
         "avgWPM": 74,
-        "avgAcc": 93.82,
+        "avgAcc": 93.84,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793942776545
+    "_syncedAt": 1793946298444
   }
 }

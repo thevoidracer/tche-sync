@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 8125,
-      "wpm": 78,
+      "allTimeRaces": 8174,
+      "wpm": 79,
       "highestWPM": 110,
-      "teamRaces": 1011,
-      "acc": 97.3,
+      "teamRaces": 1063,
+      "acc": 97.29,
       "season": null,
       "status": "active",
-      "lastLogin": 1793939779
+      "lastLogin": 1793944222
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 69279,
+      "races": 69331,
       "avgWPM": 78,
       "avgAcc": 94.94,
       "members": 48
     },
     "daily": {
-      "races": 1403,
-      "avgWPM": 89,
-      "avgAcc": 95.27,
+      "races": 1344,
+      "avgWPM": 88,
+      "avgAcc": 95.16,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793942640828
+  "_syncedAt": 1793946175611
 }
