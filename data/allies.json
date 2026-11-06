@@ -283,8 +283,8 @@
         "allTimeRaces": 332,
         "wpm": 43,
         "highestWPM": 52,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 1,
+        "acc": 87,
         "season": null,
         "status": "active",
         "lastLogin": 1793998651
@@ -392,11 +392,11 @@
         "displayName": "soap2x",
         "role": "member",
         "joinStamp": 1792437480,
-        "allTimeRaces": 2705,
-        "wpm": 62,
+        "allTimeRaces": 2719,
+        "wpm": 58,
         "highestWPM": 83,
-        "teamRaces": 209,
-        "acc": 95.79,
+        "teamRaces": 235,
+        "acc": 95.91,
         "season": null,
         "status": "active",
         "lastLogin": 1794000455
@@ -420,14 +420,14 @@
         "displayName": "hammerdrill7350",
         "role": "member",
         "joinStamp": 1793753149,
-        "allTimeRaces": 348,
+        "allTimeRaces": 349,
         "wpm": 30,
         "highestWPM": 41,
         "teamRaces": 36,
         "acc": 95.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1794001071
+        "lastLogin": 1794002633
       },
       {
         "username": "lillie1432",
@@ -586,26 +586,26 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83431,
+        "races": 83458,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 41
       },
       "daily": {
-        "races": 359,
+        "races": 365,
         "avgWPM": 69,
-        "avgAcc": 94.11,
+        "avgAcc": 94.24,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794001089630
+    "_syncedAt": 1794002756891
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 49,
+    "members": 48,
     "activePercent": 89,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
@@ -645,14 +645,14 @@
         "displayName": "JCKrayzie",
         "role": "member",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10828,
-        "wpm": 107,
+        "allTimeRaces": 10845,
+        "wpm": 111,
         "highestWPM": 135,
-        "teamRaces": 1400,
+        "teamRaces": 1409,
         "acc": 98.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1793970525
+        "lastLogin": 1794001339
       },
       {
         "username": "mcculpar",
@@ -879,20 +879,6 @@
         "lastLogin": 1793926741
       },
       {
-        "username": "3fd8525390cb7ea33574379957d39827",
-        "displayName": "corvette",
-        "role": "member",
-        "joinStamp": 1793749236,
-        "allTimeRaces": 3055,
-        "wpm": 67,
-        "highestWPM": 95,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793749125
-      },
-      {
         "username": "mwhit4",
         "displayName": "Mythical Dragon",
         "role": "member",
@@ -995,14 +981,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3646,
-        "wpm": 74,
+        "allTimeRaces": 3669,
+        "wpm": 78,
         "highestWPM": 97,
-        "teamRaces": 936,
-        "acc": 93.15,
+        "teamRaces": 952,
+        "acc": 93.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1793996395
+        "lastLogin": 1794001596
       },
       {
         "username": "joey2011allgyer",
@@ -1219,14 +1205,14 @@
         "displayName": "B-D-R-",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2589,
+        "allTimeRaces": 2590,
         "wpm": 95,
         "highestWPM": 119,
-        "teamRaces": 2575,
+        "teamRaces": 2576,
         "acc": 95.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1793978130
+        "lastLogin": 1794002248
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1301,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 134381,
+        "races": 134407,
         "avgWPM": 68,
         "avgAcc": 94.04,
-        "members": 49
+        "members": 48
       },
       "daily": {
-        "races": 825,
+        "races": 849,
         "avgWPM": 71,
-        "avgAcc": 93.56,
-        "members": 49
+        "avgAcc": 93.65,
+        "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794001108955
+    "_syncedAt": 1794002782013
   }
 }
