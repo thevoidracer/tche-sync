@@ -97,11 +97,11 @@
       "displayName": "Nish_OUT",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1467,
-      "wpm": 96,
+      "allTimeRaces": 1496,
+      "wpm": 92,
       "highestWPM": 109,
-      "teamRaces": 233,
-      "acc": 97.03,
+      "teamRaces": 258,
+      "acc": 97.05,
       "season": null,
       "status": "active",
       "lastLogin": 1793999540
@@ -167,14 +167,14 @@
       "displayName": "StefanO",
       "role": "member",
       "joinStamp": 1788901732,
-      "allTimeRaces": 910,
-      "wpm": 69,
+      "allTimeRaces": 915,
+      "wpm": 71,
       "highestWPM": 85,
-      "teamRaces": 409,
-      "acc": 94.4,
+      "teamRaces": 414,
+      "acc": 94.42,
       "season": null,
       "status": "active",
-      "lastLogin": 1793984890
+      "lastLogin": 1794005670
     },
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
@@ -223,14 +223,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7689,
-      "wpm": 78,
+      "allTimeRaces": 7700,
+      "wpm": 79,
       "highestWPM": 102,
-      "teamRaces": 1663,
-      "acc": 93.39,
+      "teamRaces": 1675,
+      "acc": 93.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1793999892
+      "lastLogin": 1794005264
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -391,11 +391,11 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1861,
-      "wpm": 100,
+      "allTimeRaces": 1865,
+      "wpm": 101,
       "highestWPM": 127,
-      "teamRaces": 327,
-      "acc": 90.37,
+      "teamRaces": 332,
+      "acc": 90.43,
       "season": null,
       "status": "active",
       "lastLogin": 1794004460
@@ -510,7 +510,7 @@
       "acc": 91.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1793840237
+      "lastLogin": 1794006409
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -683,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70245,
+      "races": 70292,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 48
     },
     "daily": {
-      "races": 1421,
+      "races": 1455,
       "avgWPM": 88,
-      "avgAcc": 95.63,
+      "avgAcc": 95.66,
       "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794005086251
+  "_syncedAt": 1794007762892
 }
