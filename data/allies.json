@@ -578,15 +578,15 @@
         "members": 40
       },
       "daily": {
-        "races": 525,
+        "races": 522,
         "avgWPM": 64,
-        "avgAcc": 93.17,
+        "avgAcc": 93.15,
         "members": 40
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793946279492
+    "_syncedAt": 1793951069413
   },
   "THB0S": {
     "tag": "THB0S",
@@ -595,7 +595,7 @@
     "activePercent": 89,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5043,
+    "profileViews": 5044,
     "leagueTier": 10,
     "racers": [
       {
@@ -1093,11 +1093,11 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 14736,
-        "wpm": 76,
+        "allTimeRaces": 14755,
+        "wpm": 74,
         "highestWPM": 96,
-        "teamRaces": 512,
-        "acc": 96.15,
+        "teamRaces": 537,
+        "acc": 96.18,
         "season": null,
         "status": "active",
         "lastLogin": 1793945784
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 133904,
+        "races": 133929,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.05,
         "members": 48
       },
       "daily": {
-        "races": 909,
+        "races": 899,
         "avgWPM": 74,
-        "avgAcc": 93.84,
+        "avgAcc": 93.82,
         "members": 48
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793946298444
+    "_syncedAt": 1793951088571
   }
 }

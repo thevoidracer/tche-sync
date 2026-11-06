@@ -102,12 +102,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
+      "racer": "KirbyDelta",
       "races": 5
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "KirbyDelta",
+      "racer": "The Queen",
       "races": 5
     },
     {
@@ -122,12 +122,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 2
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 2
     },
     {
@@ -312,12 +312,12 @@
     },
     {
       "hour": "2026-11-05 22:00:00",
-      "racer": "-HyperTyper-",
+      "racer": "Void Racer",
       "races": 1
     },
     {
       "hour": "2026-11-05 22:00:00",
-      "racer": "Void Racer",
+      "racer": "-HyperTyper-",
       "races": 1
     },
     {
@@ -398,9 +398,24 @@
     {
       "hour": "2026-11-06 06:00:00",
       "racer": "Eclipse",
-      "races": 15
+      "races": 88
+    },
+    {
+      "hour": "2026-11-06 06:00:00",
+      "racer": "asteroids",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-06 07:00:00",
+      "racer": "asteroids",
+      "races": 24
+    },
+    {
+      "hour": "2026-11-06 07:00:00",
+      "racer": "Eclipse",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793946229566
+  "_syncedAt": 1793951018122
 }
