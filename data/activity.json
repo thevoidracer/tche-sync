@@ -1,19 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-05 02:00:00",
-      "racer": "IMIME_IMIME",
-      "races": 22
-    },
-    {
       "hour": "2026-11-05 03:00:00",
       "racer": "IMIME_IMIME",
-      "races": 79
+      "races": 35
     },
     {
       "hour": "2026-11-05 03:00:00",
       "racer": "Eclipse",
-      "races": 48
+      "races": 13
     },
     {
       "hour": "2026-11-05 04:00:00",
@@ -147,12 +142,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "KirbyDelta",
+      "racer": "The Queen",
       "races": 5
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
+      "racer": "KirbyDelta",
       "races": 5
     },
     {
@@ -167,12 +162,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 2
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 2
     },
     {
@@ -418,14 +413,19 @@
     {
       "hour": "2026-11-06 02:00:00",
       "racer": "rorok09",
-      "races": 44
+      "races": 64
     },
     {
       "hour": "2026-11-06 02:00:00",
       "racer": "- Void Grinder -",
       "races": 28
+    },
+    {
+      "hour": "2026-11-06 02:00:00",
+      "racer": "asteroids",
+      "races": 26
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793933054723
+  "_syncedAt": 1793935819681
 }
