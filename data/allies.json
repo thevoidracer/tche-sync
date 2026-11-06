@@ -308,14 +308,14 @@
         "displayName": "mintzzz",
         "role": "officer",
         "joinStamp": 1793410644,
-        "allTimeRaces": 3005,
-        "wpm": 64,
+        "allTimeRaces": 3012,
+        "wpm": 61,
         "highestWPM": 74,
-        "teamRaces": 204,
-        "acc": 95.87,
+        "teamRaces": 209,
+        "acc": 95.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1793767634
+        "lastLogin": 1793953350
       },
       {
         "username": "vertur",
@@ -572,21 +572,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83201,
+        "races": 83206,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 40
       },
       "daily": {
-        "races": 522,
+        "races": 527,
         "avgWPM": 64,
-        "avgAcc": 93.15,
+        "avgAcc": 93.16,
         "members": 40
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793951069413
+    "_syncedAt": 1793954241044
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1287,6 +1287,6 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1793951088571
+    "_syncedAt": 1793954263389
   }
 }
