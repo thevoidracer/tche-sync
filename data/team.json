@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 49,
+  "members": 48,
   "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨60.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2536,
+  "profileViews": 2538,
   "leagueTier": 10,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5478,
-      "wpm": 105,
+      "allTimeRaces": 5484,
+      "wpm": 104,
       "highestWPM": 128,
-      "teamRaces": 466,
+      "teamRaces": 472,
       "acc": 95.34,
       "season": null,
       "status": "active",
-      "lastLogin": 1793985693
+      "lastLogin": 1793991164
     },
     {
       "username": "wackogamer",
@@ -181,14 +181,14 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1461,
-      "wpm": 79,
+      "allTimeRaces": 1472,
+      "wpm": 96,
       "highestWPM": 120,
-      "teamRaces": 276,
-      "acc": 95.24,
+      "teamRaces": 287,
+      "acc": 95.2,
       "season": null,
       "status": "active",
-      "lastLogin": 1793973837
+      "lastLogin": 1793990381
     },
     {
       "username": "teraceeben21",
@@ -349,14 +349,14 @@
       "displayName": "I KC Zadkiel I",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2506,
-      "wpm": 75,
-      "highestWPM": 93,
-      "teamRaces": 611,
-      "acc": 93.71,
+      "allTimeRaces": 2517,
+      "wpm": 78,
+      "highestWPM": 94,
+      "teamRaces": 622,
+      "acc": 93.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1793986613
+      "lastLogin": 1793991799
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -373,32 +373,18 @@
       "lastLogin": 1793986784
     },
     {
-      "username": "imenishat",
-      "displayName": "IMIME_IMIME",
-      "role": "member",
-      "joinStamp": 1789678350,
-      "allTimeRaces": 2792,
-      "wpm": 118,
-      "highestWPM": 126,
-      "teamRaces": 895,
-      "acc": 96.41,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1793989147
-    },
-    {
       "username": "85ff6f2e24db1d59f1c3ff5f3030f046",
       "displayName": "One for One",
       "role": "member",
       "joinStamp": 1793902907,
-      "allTimeRaces": 2516,
-      "wpm": 73,
-      "highestWPM": 110,
-      "teamRaces": 5,
-      "acc": 94.24,
+      "allTimeRaces": 2524,
+      "wpm": 95,
+      "highestWPM": 114,
+      "teamRaces": 13,
+      "acc": 94.82,
       "season": null,
       "status": "active",
-      "lastLogin": 1793912314
+      "lastLogin": 1793989908
     },
     {
       "username": "735493474a38feb614a4a76e3cde2c1a",
@@ -697,19 +683,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 69930,
+      "races": 69966,
       "avgWPM": 78,
       "avgAcc": 94.94,
-      "members": 49
+      "members": 48
     },
     "daily": {
-      "races": 1335,
+      "races": 1257,
       "avgWPM": 86,
       "avgAcc": 95.43,
-      "members": 49
+      "members": 48
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1793989649657
+  "_syncedAt": 1793993020547
 }
