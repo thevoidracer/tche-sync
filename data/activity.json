@@ -1,79 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "rorok09",
-      "races": 45
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "IMIME_IMIME",
-      "races": 43
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "Namedisplayed",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "me_likey_typey",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "GregThe2ndFastTyper",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "certified",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "WindMaker",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
-      "racer": "loganim12btw",
-      "races": 1
-    },
-    {
       "hour": "2026-11-05 16:00:00",
       "racer": "Joe and Uh",
       "races": 34
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "certified",
-      "races": 17
-    },
-    {
-      "hour": "2026-11-05 16:00:00",
-      "racer": "WindMaker",
-      "races": 13
     },
     {
       "hour": "2026-11-05 16:00:00",
@@ -92,8 +22,18 @@
     },
     {
       "hour": "2026-11-05 16:00:00",
+      "racer": "certified",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-05 16:00:00",
       "racer": "t_unknown",
       "races": 2
+    },
+    {
+      "hour": "2026-11-05 16:00:00",
+      "racer": "WindMaker",
+      "races": 1
     },
     {
       "hour": "2026-11-05 17:00:00",
@@ -413,17 +353,37 @@
     {
       "hour": "2026-11-06 15:00:00",
       "racer": "rorok09",
-      "races": 8
+      "races": 47
     },
     {
       "hour": "2026-11-06 15:00:00",
       "racer": "Namedisplayed",
+      "races": 16
+    },
+    {
+      "hour": "2026-11-06 15:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-06 15:00:00",
+      "racer": "insta _trewatkins",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-06 15:00:00",
+      "racer": "loganim12btw",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-06 15:00:00",
+      "racer": "PootsyWafflebiscuits",
       "races": 6
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
-      "races": 2
+      "racer": "t_unknown",
+      "races": 3
     },
     {
       "hour": "2026-11-06 15:00:00",
@@ -432,10 +392,10 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "insta _trewatkins",
-      "races": 1
+      "racer": "Safire",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793978689016
+  "_syncedAt": 1793981604350
 }
