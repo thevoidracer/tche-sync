@@ -56,8 +56,8 @@
       "tier": "A",
       "avgWPM": 89,
       "topWPM": 118,
-      "lifetimeRaces": 10695,
-      "teamRaces": 9880,
+      "lifetimeRaces": 10775,
+      "teamRaces": 9961,
       "joined": "07/04/26"
     },
     {
@@ -469,10 +469,10 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 89,
+      "tier": "B",
+      "avgWPM": 87,
       "topWPM": 112,
-      "lifetimeRaces": 3549,
+      "lifetimeRaces": 3553,
       "teamRaces": 339,
       "joined": "10/25/26"
     },
@@ -531,14 +531,14 @@
     {
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
-      "nickname": "Keeper of the Keys",
+      "nickname": "Hallowampus Fanclub",
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 83,
       "topWPM": 140,
-      "lifetimeRaces": 1869,
-      "teamRaces": 197,
+      "lifetimeRaces": 1907,
+      "teamRaces": 235,
       "joined": "11/01/26"
     },
     {
@@ -644,8 +644,21 @@
       "lifetimeRaces": 2516,
       "teamRaces": 5,
       "joined": "11/05/26"
+    },
+    {
+      "username": "mrimtoslow",
+      "displayName": "-Elite-",
+      "nickname": ":D",
+      "role": "member",
+      "squad": null,
+      "tier": "A",
+      "avgWPM": 95,
+      "topWPM": 122,
+      "lifetimeRaces": 36867,
+      "teamRaces": 0,
+      "joined": "11/06/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793929489683
+  "_syncedAt": 1793933054722
 }

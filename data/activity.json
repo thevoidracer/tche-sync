@@ -1,24 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-05 01:00:00",
-      "racer": "IMIME_IMIME",
-      "races": 30
-    },
-    {
-      "hour": "2026-11-05 01:00:00",
-      "racer": "- Void Grinder -",
-      "races": 24
-    },
-    {
       "hour": "2026-11-05 02:00:00",
       "racer": "IMIME_IMIME",
-      "races": 65
-    },
-    {
-      "hour": "2026-11-05 02:00:00",
-      "racer": "- Void Grinder -",
-      "races": 2
+      "races": 22
     },
     {
       "hour": "2026-11-05 03:00:00",
@@ -72,12 +57,12 @@
     },
     {
       "hour": "2026-11-05 13:00:00",
-      "racer": "Void Racer",
+      "racer": "- Void Grinder -",
       "races": 4
     },
     {
       "hour": "2026-11-05 13:00:00",
-      "racer": "- Void Grinder -",
+      "racer": "Void Racer",
       "races": 4
     },
     {
@@ -112,12 +97,12 @@
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "me_likey_typey",
+      "racer": "GregThe2ndFastTyper",
       "races": 1
     },
     {
       "hour": "2026-11-05 14:00:00",
-      "racer": "GregThe2ndFastTyper",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
@@ -152,22 +137,22 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "Void Racer",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-05 15:00:00",
       "racer": "loganim12btw",
       "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "The Queen",
-      "races": 5
+      "racer": "Void Racer",
+      "races": 8
     },
     {
       "hour": "2026-11-05 15:00:00",
       "racer": "KirbyDelta",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-05 15:00:00",
+      "racer": "The Queen",
       "races": 5
     },
     {
@@ -182,12 +167,12 @@
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "BlazingFlowerz",
+      "racer": "UJAADDAH",
       "races": 2
     },
     {
       "hour": "2026-11-05 15:00:00",
-      "racer": "UJAADDAH",
+      "racer": "BlazingFlowerz",
       "races": 2
     },
     {
@@ -418,9 +403,29 @@
     {
       "hour": "2026-11-06 01:00:00",
       "racer": "rorok09",
-      "races": 38
+      "races": 75
+    },
+    {
+      "hour": "2026-11-06 01:00:00",
+      "racer": "- Void Grinder -",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-06 01:00:00",
+      "racer": "-Elite-",
+      "races": 0
+    },
+    {
+      "hour": "2026-11-06 02:00:00",
+      "racer": "rorok09",
+      "races": 44
+    },
+    {
+      "hour": "2026-11-06 02:00:00",
+      "racer": "- Void Grinder -",
+      "races": 28
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1793929489684
+  "_syncedAt": 1793933054723
 }
