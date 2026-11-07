@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 99,
+      "rank": 97,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 118,
@@ -11,27 +11,17 @@
       "ppr": 140
     },
     {
-      "rank": 118,
+      "rank": 132,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "races": 112,
-      "accuracy": 90.81,
-      "wpm": 79.2,
-      "points": 14197,
+      "races": 100,
+      "accuracy": 90.75,
+      "wpm": 79.3,
+      "points": 12672,
       "ppr": 127
     },
     {
-      "rank": 258,
-      "username": "470256",
-      "displayName": "Nish_OUT",
-      "races": 42,
-      "accuracy": 96.97,
-      "wpm": 95.7,
-      "points": 6022,
-      "ppr": 143
-    },
-    {
-      "rank": 329,
+      "rank": 325,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 28,
@@ -41,7 +31,7 @@
       "ppr": 138
     },
     {
-      "rank": 359,
+      "rank": 350,
       "username": "nathanmduncan",
       "displayName": "Nathan",
       "races": 23,
@@ -51,7 +41,7 @@
       "ppr": 144
     },
     {
-      "rank": 367,
+      "rank": 360,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
       "races": 24,
@@ -61,7 +51,7 @@
       "ppr": 135
     },
     {
-      "rank": 391,
+      "rank": 383,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 20,
@@ -71,27 +61,17 @@
       "ppr": 141
     },
     {
-      "rank": 559,
-      "username": "735493474a38feb614a4a76e3cde2c1a",
-      "displayName": "UJAADDAH",
-      "races": 5,
-      "accuracy": 93.55,
-      "wpm": 98.1,
-      "points": 697,
-      "ppr": 139
+      "rank": 391,
+      "username": "470256",
+      "displayName": "Nish_OUT",
+      "races": 18,
+      "accuracy": 96.77,
+      "wpm": 95.8,
+      "points": 2576,
+      "ppr": 143
     },
     {
-      "rank": 567,
-      "username": "1ea0b919208e21b376a29ac0befb794c",
-      "displayName": "StefanO",
-      "races": 5,
-      "accuracy": 96.32,
-      "wpm": 73,
-      "points": 657,
-      "ppr": 131
-    },
-    {
-      "rank": 586,
+      "rank": 579,
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
       "displayName": "LeoRuna",
       "races": 4,
@@ -101,5 +81,5 @@
       "ppr": 124
     }
   ],
-  "_syncedAt": 1794091353312
+  "_syncedAt": 1794093250993
 }

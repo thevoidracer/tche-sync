@@ -22,10 +22,10 @@
         "displayName": "trsgray",
         "nickname": "Mystery Man",
         "squad": "Watching you!😏😏😏😏",
-        "races": 573,
+        "races": 579,
         "wpm": 71.2,
-        "accuracy": 92.98,
-        "points": 72245,
+        "accuracy": 92.99,
+        "points": 73021,
         "tier": "A"
       },
       {
@@ -35,10 +35,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Officer😲😱😱😱",
-        "races": 363,
-        "wpm": 112.4,
-        "accuracy": 97.76,
-        "points": 55428,
+        "races": 398,
+        "wpm": 112.6,
+        "accuracy": 97.77,
+        "points": 60828,
         "tier": "A"
       },
       {
@@ -61,10 +61,10 @@
         "displayName": "Sara10",
         "nickname": "I Love Dogs",
         "squad": "THEB0S captain🥳🤩🤩🤩🤩🤩",
-        "races": 186,
-        "wpm": 93.6,
-        "accuracy": 93.93,
-        "points": 25649,
+        "races": 224,
+        "wpm": 93.3,
+        "accuracy": 93.66,
+        "points": 30770,
         "tier": "A"
       },
       {
@@ -269,10 +269,10 @@
         "displayName": "Joereynolds",
         "nickname": "Boo!",
         "squad": "Officer😲😱😱😱",
-        "races": 75,
-        "wpm": 81.5,
-        "accuracy": 92.78,
-        "points": 9796,
+        "races": 83,
+        "wpm": 82.7,
+        "accuracy": 92.82,
+        "points": 10891,
         "tier": "A"
       },
       {
@@ -616,6 +616,19 @@
       {
         "rank": 48,
         "tag": "THB0S",
+        "username": "join my team please",
+        "displayName": "join my team please",
+        "nickname": "Ghost Lap",
+        "squad": null,
+        "races": 29,
+        "wpm": 52.4,
+        "accuracy": 90.8,
+        "points": 3322,
+        "tier": "C"
+      },
+      {
+        "rank": 49,
+        "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
         "nickname": "Champion Chaser",
@@ -627,7 +640,7 @@
         "tier": "B"
       },
       {
-        "rank": 49,
+        "rank": 50,
         "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
@@ -637,19 +650,6 @@
         "wpm": 75.8,
         "accuracy": 90.49,
         "points": 3245,
-        "tier": "C"
-      },
-      {
-        "rank": 50,
-        "tag": "THB0S",
-        "username": "join my team please",
-        "displayName": "join my team please",
-        "nickname": "Ghost Lap",
-        "squad": null,
-        "races": 26,
-        "wpm": 52.3,
-        "accuracy": 91.05,
-        "points": 2987,
         "tier": "C"
       },
       {
@@ -1225,7 +1225,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794091400136
+    "_syncedAt": 1794093299011
   },
   "1463": {
     "eventId": "1463",
@@ -1725,7 +1725,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794091404848
+    "_syncedAt": 1794093303264
   },
   "1550": {
     "eventId": "1550",
@@ -2225,6 +2225,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794091409113
+    "_syncedAt": 1794093307800
   }
 }

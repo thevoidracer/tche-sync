@@ -1,39 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 22:00:00",
-      "racer": "Nish_OUT",
-      "races": 23
-    },
-    {
-      "hour": "2026-11-06 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-06 22:00:00",
-      "racer": "UJAADDAH",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-06 22:00:00",
-      "racer": "StefanO",
-      "races": 3
-    },
-    {
       "hour": "2026-11-06 23:00:00",
       "racer": "Nish_OUT",
-      "races": 19
-    },
-    {
-      "hour": "2026-11-06 23:00:00",
-      "racer": "KirbyDelta",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-06 23:00:00",
-      "racer": "StefanO",
-      "races": 2
+      "races": 18
     },
     {
       "hour": "2026-11-07 00:00:00",
@@ -122,5 +92,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794091357399
+  "_syncedAt": 1794093254719
 }
