@@ -49,12 +49,12 @@
     "points": 821704,
     "ppr": 123,
     "source": "ntstartrack.org",
-    "_syncedAt": 1794048519013
+    "_syncedAt": 1794050672269
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 19,
+        "rank": 20,
         "races": 1057,
         "accuracy": 94.44,
         "wpm": 79,
@@ -71,10 +71,10 @@
       },
       "week": {
         "rank": 22,
-        "races": 5800,
-        "accuracy": 93.87,
+        "races": 5791,
+        "accuracy": 93.88,
         "wpm": 76.4,
-        "points": 752387,
+        "points": 751394,
         "ppr": 130
       },
       "weekly": {
@@ -101,6 +101,6 @@
     "points": 2294209,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1794048538253
+    "_syncedAt": 1794050690998
   }
 }
