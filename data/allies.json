@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 42,
+    "members": 41,
     "activePercent": 90,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3187,
+    "profileViews": 3190,
     "leagueTier": 10,
     "racers": [
       {
@@ -206,20 +206,6 @@
         "lastLogin": 1793816418
       },
       {
-        "username": "ecf6fca5d4cfd6db9bf37ea626d00c4b",
-        "displayName": "I NEED NITRO GOLD",
-        "role": "member",
-        "joinStamp": 1794011626,
-        "allTimeRaces": 2447,
-        "wpm": 49,
-        "highestWPM": 84,
-        "teamRaces": 163,
-        "acc": 90.92,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1794010397
-      },
-      {
         "username": "1e47c8cfaf1f8f2565f896d4d9b4ef7a",
         "displayName": "Pandora",
         "role": "officer",
@@ -238,14 +224,14 @@
         "displayName": "Iwantnitrogold",
         "role": "officer",
         "joinStamp": 1792527933,
-        "allTimeRaces": 1576,
-        "wpm": 61,
+        "allTimeRaces": 1601,
+        "wpm": 62,
         "highestWPM": 76,
-        "teamRaces": 769,
-        "acc": 94.17,
+        "teamRaces": 794,
+        "acc": 94.13,
         "season": null,
         "status": "active",
-        "lastLogin": 1794006666
+        "lastLogin": 1794011892
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -364,11 +350,11 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 14215,
-        "wpm": 85,
+        "allTimeRaces": 14239,
+        "wpm": 76,
         "highestWPM": 111,
-        "teamRaces": 12001,
-        "acc": 93.12,
+        "teamRaces": 12031,
+        "acc": 93.11,
         "season": null,
         "status": "active",
         "lastLogin": 1794010916
@@ -511,7 +497,7 @@
         "acc": 93.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1793972552
+        "lastLogin": 1794012552
       },
       {
         "username": "happygoluckygirl07",
@@ -595,26 +581,26 @@
         "acc": 96.2,
         "season": null,
         "status": "active",
-        "lastLogin": 1793955282
+        "lastLogin": 1794014552
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 83515,
+        "races": 83570,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 42
+        "members": 41
       },
       "daily": {
-        "races": 320,
-        "avgWPM": 66,
-        "avgAcc": 94.47,
-        "members": 42
+        "races": 370,
+        "avgWPM": 67,
+        "avgAcc": 94.03,
+        "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794011686998
+    "_syncedAt": 1794015798915
   },
   "THB0S": {
     "tag": "THB0S",
@@ -623,7 +609,7 @@
     "activePercent": 89,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5064,
+    "profileViews": 5067,
     "leagueTier": 10,
     "racers": [
       {
@@ -645,24 +631,24 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1244,
-        "wpm": 88,
+        "allTimeRaces": 1250,
+        "wpm": 95,
         "highestWPM": 123,
-        "teamRaces": 1040,
+        "teamRaces": 1050,
         "acc": 96.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1794009638
+        "lastLogin": 1794015163
       },
       {
         "username": "jckrayzie",
         "displayName": "JCKrayzie",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 10934,
-        "wpm": 116,
-        "highestWPM": 135,
-        "teamRaces": 1501,
+        "allTimeRaces": 10978,
+        "wpm": 115,
+        "highestWPM": 142,
+        "teamRaces": 1547,
         "acc": 98.11,
         "season": null,
         "status": "active",
@@ -686,7 +672,7 @@
         "username": "unhstk1",
         "displayName": "-Mystery-",
         "role": "member",
-        "joinStamp": 1793406540,
+        "joinStamp": 1794014729,
         "allTimeRaces": 20825,
         "wpm": 92,
         "highestWPM": 143,
@@ -694,7 +680,7 @@
         "acc": 96.5,
         "season": null,
         "status": "active",
-        "lastLogin": 1793986694
+        "lastLogin": 1794015581
       },
       {
         "username": "joereynolds",
@@ -914,7 +900,7 @@
         "allTimeRaces": 3031,
         "wpm": 49,
         "highestWPM": 85,
-        "teamRaces": 1609,
+        "teamRaces": 1614,
         "acc": 90.03,
         "season": null,
         "status": "active",
@@ -1086,7 +1072,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1794011263
+        "lastLogin": 1794014724
       },
       {
         "username": "taco13001",
@@ -1287,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 134649,
+        "races": 134710,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.05,
         "members": 47
       },
       "daily": {
-        "races": 1045,
-        "avgWPM": 76,
-        "avgAcc": 94.29,
+        "races": 1019,
+        "avgWPM": 78,
+        "avgAcc": 94.59,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794011705916
+    "_syncedAt": 1794015818160
   }
 }
