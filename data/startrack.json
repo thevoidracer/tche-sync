@@ -1,11 +1,11 @@
 {
   "timeframes": {
     "24h": {
-      "rank": 15,
-      "races": 1285,
-      "accuracy": 95.32,
+      "rank": 16,
+      "races": 1181,
+      "accuracy": 95.37,
       "wpm": 88.9,
-      "points": 176928,
+      "points": 162694,
       "ppr": 138
     },
     "season": {
@@ -25,7 +25,7 @@
       "ppr": 134
     },
     "weekly": {
-      "rank": 25,
+      "rank": 26,
       "races": 4565,
       "accuracy": 93.92,
       "wpm": 85.3,
@@ -48,5 +48,5 @@
   "points": 1888255,
   "ppr": 133,
   "source": "ntstartrack.org",
-  "_syncedAt": 1794009450743
+  "_syncedAt": 1794011598693
 }
