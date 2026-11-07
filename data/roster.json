@@ -14,11 +14,11 @@
       "nickname": "Nitro Rich",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 90,
+      "tier": "A",
+      "avgWPM": 103,
       "topWPM": 128,
-      "lifetimeRaces": 5654,
-      "teamRaces": 3229,
+      "lifetimeRaces": 5667,
+      "teamRaces": 3241,
       "joined": "06/10/26"
     },
     {
@@ -39,7 +39,7 @@
       "displayName": "rorok09",
       "nickname": "Original Gangster",
       "role": "officer",
-      "squad": "Tycoon 7.5k ",
+      "squad": "Phantom 10k",
       "tier": "A",
       "avgWPM": 93,
       "topWPM": 118,
@@ -351,7 +351,7 @@
       "displayName": "Nathan",
       "nickname": "No Nitros Needed",
       "role": "member",
-      "squad": "Side Hustler 100",
+      "squad": "Entrepreneur 500",
       "tier": "A",
       "avgWPM": 100,
       "topWPM": 128,
@@ -546,7 +546,7 @@
       "displayName": "GregThe2ndFastTyper",
       "nickname": "Ace Accelerator",
       "role": "member",
-      "squad": "Starter Fund",
+      "squad": "Side Hustler 100",
       "tier": "A",
       "avgWPM": 104,
       "topWPM": 124,
@@ -585,7 +585,7 @@
       "displayName": "nataliefinger",
       "nickname": "Continue?",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "A",
       "avgWPM": 96,
       "topWPM": 125,
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794074286993
+  "_syncedAt": 1794076054932
 }
