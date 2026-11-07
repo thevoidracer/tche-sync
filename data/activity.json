@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 12:00:00",
-      "racer": "\fPeNsBuRg yT\f",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-06 12:00:00",
-      "racer": "- Void Grinder -",
-      "races": 1
-    },
-    {
       "hour": "2026-11-06 13:00:00",
       "racer": "rorok09",
       "races": 28
@@ -24,11 +14,6 @@
       "hour": "2026-11-06 13:00:00",
       "racer": "I KC Zadkiel I",
       "races": 8
-    },
-    {
-      "hour": "2026-11-06 13:00:00",
-      "racer": "- Void Grinder -",
-      "races": 6
     },
     {
       "hour": "2026-11-06 14:00:00",
@@ -102,12 +87,12 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
+      "racer": "nataliefinger",
       "races": 2
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Safire",
       "races": 2
     },
     {
@@ -262,12 +247,12 @@
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "The Big Yahu",
       "races": 6
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "The Big Yahu",
+      "racer": "PootsyWafflebiscuits",
       "races": 6
     },
     {
@@ -344,8 +329,13 @@
       "hour": "2026-11-07 05:00:00",
       "racer": "LeoRuna",
       "races": 3
+    },
+    {
+      "hour": "2026-11-07 13:00:00",
+      "racer": "- Void Grinder -",
+      "races": 12
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794055131181
+  "_syncedAt": 1794058368371
 }

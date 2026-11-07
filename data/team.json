@@ -615,14 +615,14 @@
       "displayName": "- Void Grinder -",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1934,
-      "wpm": 83,
+      "allTimeRaces": 1948,
+      "wpm": 84,
       "highestWPM": 140,
-      "teamRaces": 262,
-      "acc": 94.92,
+      "teamRaces": 276,
+      "acc": 94.98,
       "season": null,
       "status": "active",
-      "lastLogin": 1794021203
+      "lastLogin": 1794056260
     },
     {
       "username": "newkeyboard512",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70377,
+      "races": 70391,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 943,
+      "races": 938,
       "avgWPM": 88,
-      "avgAcc": 95.47,
+      "avgAcc": 95.44,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794055065812
+  "_syncedAt": 1794058273428
 }
