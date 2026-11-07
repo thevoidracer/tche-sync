@@ -226,6 +226,19 @@
       {
         "rank": 18,
         "tag": "THB0S",
+        "username": "Mythical Dragon",
+        "displayName": "Mythical Dragon",
+        "nickname": "(Has a good gaming chair)",
+        "squad": "Newbies!😅😅😅😅",
+        "races": 94,
+        "wpm": 52.8,
+        "accuracy": 93.41,
+        "points": 11098,
+        "tier": "C"
+      },
+      {
+        "rank": 19,
+        "tag": "THB0S",
         "username": "Sakupen",
         "displayName": "Sakupen",
         "nickname": "Original Gangster",
@@ -237,7 +250,7 @@
         "tier": "C"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "KEYCAT",
         "username": "soap2x",
         "displayName": "soap2x",
@@ -250,7 +263,7 @@
         "tier": "B"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "Nathan",
         "displayName": "Nathan",
@@ -261,19 +274,6 @@
         "accuracy": 94.81,
         "points": 10947,
         "tier": "A"
-      },
-      {
-        "rank": 21,
-        "tag": "THB0S",
-        "username": "Mythical Dragon",
-        "displayName": "Mythical Dragon",
-        "nickname": "(Has a good gaming chair)",
-        "squad": "Newbies!😅😅😅😅",
-        "races": 80,
-        "wpm": 52.6,
-        "accuracy": 93.65,
-        "points": 9460,
-        "tier": "C"
       },
       {
         "rank": 22,
@@ -438,10 +438,10 @@
         "displayName": "Joereynolds",
         "nickname": "Boo!",
         "squad": "Officer😲😱😱😱",
-        "races": 49,
-        "wpm": 91.4,
-        "accuracy": 92.29,
-        "points": 6588,
+        "races": 50,
+        "wpm": 91.3,
+        "accuracy": 92.41,
+        "points": 6730,
         "tier": "A"
       },
       {
@@ -1136,6 +1136,19 @@
       {
         "rank": 88,
         "tag": "THB0S",
+        "username": "SUPER_PIGGLE",
+        "displayName": "SUPER_PIGGLE",
+        "nickname": "Car Collector",
+        "squad": "Loyal😎😎😎😎😎😎😎",
+        "races": 1,
+        "wpm": 58,
+        "accuracy": 96.55,
+        "points": 125,
+        "tier": "C"
+      },
+      {
+        "rank": 89,
+        "tag": "THB0S",
         "username": "zynx_tb",
         "displayName": "zynx_tb",
         "nickname": "Where's the remote?",
@@ -1147,7 +1160,7 @@
         "tier": "B"
       },
       {
-        "rank": 89,
+        "rank": 90,
         "tag": "THB0S",
         "username": "-BOSS PLZ PROMOTE-",
         "displayName": "-BOSS PLZ PROMOTE-",
@@ -1160,7 +1173,7 @@
         "tier": "C"
       },
       {
-        "rank": 90,
+        "rank": 91,
         "tag": "KEYCAT",
         "username": "Circus_cat_26",
         "displayName": "Circus_cat_26",
@@ -1173,7 +1186,7 @@
         "tier": "C"
       },
       {
-        "rank": 91,
+        "rank": 92,
         "tag": "KEYCAT",
         "username": "i n v s i b l e hehe",
         "displayName": "i n v s i b l e hehe",
@@ -1186,7 +1199,7 @@
         "tier": "C"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "tag": "THB0S",
         "username": "ketchup boy",
         "displayName": "ketchup boy",
@@ -1199,7 +1212,7 @@
         "tier": "B"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "tag": "THB0S",
         "username": "TDS1234",
         "displayName": "TDS1234",
@@ -1212,7 +1225,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794072525243
+    "_syncedAt": 1794074328245
   },
   "1463": {
     "eventId": "1463",
@@ -1712,7 +1725,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794072529200
+    "_syncedAt": 1794074332079
   },
   "1550": {
     "eventId": "1550",
@@ -2212,6 +2225,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794072533138
+    "_syncedAt": 1794074335903
   }
 }

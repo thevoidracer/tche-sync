@@ -353,7 +353,7 @@
           "ppr": 115
         },
         {
-          "rank": 552,
+          "rank": 554,
           "username": "nathanmduncan",
           "displayName": "Nathan",
           "races": 503,
@@ -363,7 +363,7 @@
           "ppr": 142
         },
         {
-          "rank": 565,
+          "rank": 566,
           "username": "sidoh",
           "displayName": "PootsyWafflebiscuits",
           "races": 500,
@@ -463,7 +463,7 @@
           "ppr": 137
         },
         {
-          "rank": 916,
+          "rank": 917,
           "username": "xaliishere",
           "displayName": "- Void Grinder -",
           "races": 276,
@@ -573,7 +573,7 @@
           "ppr": 133
         },
         {
-          "rank": 1623,
+          "rank": 1624,
           "username": "bfa8839baa0642556b69448adee42dca",
           "displayName": "NotoriousJuJu",
           "races": 88,
@@ -583,7 +583,7 @@
           "ppr": 138
         },
         {
-          "rank": 1662,
+          "rank": 1661,
           "username": "vlambjr",
           "displayName": "certified",
           "races": 89,
@@ -593,7 +593,7 @@
           "ppr": 129
         },
         {
-          "rank": 1740,
+          "rank": 1739,
           "username": "linmauelmiranda",
           "displayName": "LedByHim",
           "races": 71,
@@ -603,7 +603,7 @@
           "ppr": 143
         },
         {
-          "rank": 1744,
+          "rank": 1743,
           "username": "61d10b8f23f7f8535f91a789fc7c0895",
           "displayName": "The Queen",
           "races": 74,
@@ -613,7 +613,7 @@
           "ppr": 136
         },
         {
-          "rank": 1767,
+          "rank": 1766,
           "username": "1f3436c751b4f5f64b1093338f118942",
           "displayName": "The Big Yahu",
           "races": 73,
@@ -623,7 +623,7 @@
           "ppr": 133
         },
         {
-          "rank": 1986,
+          "rank": 1980,
           "username": "b6456e4c4be6acdfede3e806a662ed4c",
           "displayName": "Safire",
           "races": 66,
@@ -631,10 +631,20 @@
           "wpm": 46,
           "points": 6865,
           "ppr": 104
+        },
+        {
+          "rank": 1999,
+          "username": "7f0032fd385260dbd67780a4c053a0f3",
+          "displayName": "Sile314",
+          "races": 45,
+          "accuracy": 95.64,
+          "wpm": 112.1,
+          "points": 6716,
+          "ppr": 149
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1794072463466
+      "_syncedAt": 1794074265105
     }
   },
   "order": [
@@ -642,5 +652,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1794072463466
+  "_syncedAt": 1794074265105
 }
