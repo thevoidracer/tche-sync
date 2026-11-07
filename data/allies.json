@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 43,
+    "members": 42,
     "activePercent": 83,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -232,20 +232,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1794020491
-      },
-      {
-        "username": "c52fd2ca61cebcfa9c50be45911b7138",
-        "displayName": "Iwantnitrogold",
-        "role": "officer",
-        "joinStamp": 1792527933,
-        "allTimeRaces": 1601,
-        "wpm": 62,
-        "highestWPM": 76,
-        "teamRaces": 794,
-        "acc": 94.13,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1794011892
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -617,18 +603,18 @@
         "races": 83570,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 43
+        "members": 42
       },
       "daily": {
-        "races": 340,
-        "avgWPM": 67,
-        "avgAcc": 94.01,
-        "members": 43
+        "races": 301,
+        "avgWPM": 66,
+        "avgAcc": 93.97,
+        "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794058417461
+    "_syncedAt": 1794061432092
   },
   "THB0S": {
     "tag": "THB0S",
@@ -904,7 +890,7 @@
         "acc": 93.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1794057726
+        "lastLogin": 1794058705
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1065,14 +1051,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 4069,
-        "wpm": 42,
+        "allTimeRaces": 4084,
+        "wpm": 43,
         "highestWPM": 61,
-        "teamRaces": 2531,
+        "teamRaces": 2543,
         "acc": 92,
         "season": null,
         "status": "active",
-        "lastLogin": 1794009089
+        "lastLogin": 1794060630
       },
       {
         "username": "sara0010",
@@ -1191,11 +1177,11 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9612,
+        "allTimeRaces": 9653,
         "wpm": 41,
         "highestWPM": 75,
-        "teamRaces": 2180,
-        "acc": 86.39,
+        "teamRaces": 2223,
+        "acc": 86.36,
         "season": null,
         "status": "active",
         "lastLogin": 1794054532
@@ -1226,7 +1212,7 @@
         "acc": 83.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1793982207
+        "lastLogin": 1794058853
       },
       {
         "username": "ad38ffc7d68aced29c2d30b9b7c839fb",
@@ -1287,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135089,
+        "races": 135144,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1127,
-        "avgWPM": 76,
-        "avgAcc": 94.31,
+        "races": 1147,
+        "avgWPM": 75,
+        "avgAcc": 94.14,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794058442690
+    "_syncedAt": 1794061450808
   }
 }

@@ -1,24 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 13:00:00",
-      "racer": "rorok09",
-      "races": 28
-    },
-    {
-      "hour": "2026-11-06 13:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 14
-    },
-    {
-      "hour": "2026-11-06 13:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 8
-    },
-    {
       "hour": "2026-11-06 14:00:00",
       "racer": "rorok09",
-      "races": 81
+      "races": 52
     },
     {
       "hour": "2026-11-06 14:00:00",
@@ -39,11 +24,6 @@
       "hour": "2026-11-06 14:00:00",
       "racer": "I KC Zadkiel I",
       "races": 5
-    },
-    {
-      "hour": "2026-11-06 14:00:00",
-      "racer": "Joe and Uh",
-      "races": 1
     },
     {
       "hour": "2026-11-06 14:00:00",
@@ -87,12 +67,12 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Safire",
       "races": 2
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
+      "racer": "nataliefinger",
       "races": 2
     },
     {
@@ -137,12 +117,12 @@
     },
     {
       "hour": "2026-11-06 17:00:00",
-      "racer": "Safire",
+      "racer": "Namedisplayed",
       "races": 3
     },
     {
       "hour": "2026-11-06 17:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Safire",
       "races": 3
     },
     {
@@ -247,12 +227,12 @@
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "The Big Yahu",
+      "racer": "PootsyWafflebiscuits",
       "races": 6
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "The Big Yahu",
       "races": 6
     },
     {
@@ -332,10 +312,15 @@
     },
     {
       "hour": "2026-11-07 13:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-07 13:00:00",
       "racer": "- Void Grinder -",
-      "races": 12
+      "races": 14
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794058368371
+  "_syncedAt": 1794061384200
 }
