@@ -336,14 +336,14 @@
         "displayName": "vertur",
         "role": "member",
         "joinStamp": 1792431116,
-        "allTimeRaces": 1559,
-        "wpm": 53,
+        "allTimeRaces": 1571,
+        "wpm": 57,
         "highestWPM": 72,
-        "teamRaces": 248,
-        "acc": 93.3,
+        "teamRaces": 258,
+        "acc": 93.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1794006074
+        "lastLogin": 1794080389
       },
       {
         "username": "cats_4_eva",
@@ -476,11 +476,11 @@
         "displayName": "I N V I S I B L E",
         "role": "member",
         "joinStamp": 1794074920,
-        "allTimeRaces": 1665,
+        "allTimeRaces": 1667,
         "wpm": 31,
         "highestWPM": 103,
-        "teamRaces": 24,
-        "acc": 95.9,
+        "teamRaces": 26,
+        "acc": 95.86,
         "season": null,
         "status": "active",
         "lastLogin": 1794074720
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83630,
+        "races": 83642,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 278,
-        "avgWPM": 62,
-        "avgAcc": 93.75,
+        "races": 242,
+        "avgWPM": 60,
+        "avgAcc": 93.47,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794078943831
+    "_syncedAt": 1794081059205
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5103,
+    "profileViews": 5105,
     "leagueTier": 10,
     "racers": [
       {
@@ -981,14 +981,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3851,
+        "allTimeRaces": 3870,
         "wpm": 66,
         "highestWPM": 97,
-        "teamRaces": 1133,
-        "acc": 93.25,
+        "teamRaces": 1160,
+        "acc": 93.27,
         "season": null,
         "status": "active",
-        "lastLogin": 1794077341
+        "lastLogin": 1794079393
       },
       {
         "username": "joey2011allgyer",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135474,
+        "races": 135501,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1157,
-        "avgWPM": 78,
-        "avgAcc": 94.8,
+        "races": 1143,
+        "avgWPM": 79,
+        "avgAcc": 94.91,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794078962770
+    "_syncedAt": 1794081078368
   }
 }
