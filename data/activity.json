@@ -1,29 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 18:00:00",
-      "racer": "Joe and Uh",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-06 18:00:00",
-      "racer": "One for One",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-06 18:00:00",
-      "racer": "Nathan",
-      "races": 6
-    },
-    {
       "hour": "2026-11-06 19:00:00",
       "racer": "WindMaker",
       "races": 16
-    },
-    {
-      "hour": "2026-11-06 19:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 11
     },
     {
       "hour": "2026-11-06 19:00:00",
@@ -39,6 +19,11 @@
       "hour": "2026-11-06 19:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 4
+    },
+    {
+      "hour": "2026-11-06 19:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 3
     },
     {
       "hour": "2026-11-06 20:00:00",
@@ -203,9 +188,9 @@
     {
       "hour": "2026-11-07 18:00:00",
       "racer": "Void Racer",
-      "races": 12
+      "races": 23
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794076054933
+  "_syncedAt": 1794078895209
 }

@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 44,
+    "members": 43,
     "activePercent": 83,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -232,20 +232,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1794020491
-      },
-      {
-        "username": "c52fd2ca61cebcfa9c50be45911b7138",
-        "displayName": "Iwantnitrogold",
-        "role": "member",
-        "joinStamp": 1794061737,
-        "allTimeRaces": 1626,
-        "wpm": 64,
-        "highestWPM": 76,
-        "teamRaces": 818,
-        "acc": 94.14,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1794074589
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -490,11 +476,11 @@
         "displayName": "I N V I S I B L E",
         "role": "member",
         "joinStamp": 1794074920,
-        "allTimeRaces": 1647,
-        "wpm": 32,
+        "allTimeRaces": 1665,
+        "wpm": 31,
         "highestWPM": 103,
-        "teamRaces": 5,
-        "acc": 95.68,
+        "teamRaces": 24,
+        "acc": 95.9,
         "season": null,
         "status": "active",
         "lastLogin": 1794074720
@@ -628,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83610,
+        "races": 83630,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 44
+        "members": 43
       },
       "daily": {
-        "races": 277,
-        "avgWPM": 64,
-        "avgAcc": 93.74,
-        "members": 44
+        "races": 278,
+        "avgWPM": 62,
+        "avgAcc": 93.75,
+        "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794076103756
+    "_syncedAt": 1794078943831
   },
   "THB0S": {
     "tag": "THB0S",
@@ -651,7 +637,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5097,
+    "profileViews": 5103,
     "leagueTier": 10,
     "racers": [
       {
@@ -715,14 +701,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12354,
-        "wpm": 88,
+        "allTimeRaces": 12361,
+        "wpm": 52,
         "highestWPM": 120,
-        "teamRaces": 5393,
+        "teamRaces": 5400,
         "acc": 92.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1794073260
+        "lastLogin": 1794077348
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -995,14 +981,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3799,
-        "wpm": 70,
+        "allTimeRaces": 3851,
+        "wpm": 66,
         "highestWPM": 97,
-        "teamRaces": 1078,
-        "acc": 93.21,
+        "teamRaces": 1133,
+        "acc": 93.25,
         "season": null,
         "status": "active",
-        "lastLogin": 1794074974
+        "lastLogin": 1794077341
       },
       {
         "username": "joey2011allgyer",
@@ -1301,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135412,
+        "races": 135474,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1164,
-        "avgWPM": 79,
-        "avgAcc": 94.63,
+        "races": 1157,
+        "avgWPM": 78,
+        "avgAcc": 94.8,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794076122643
+    "_syncedAt": 1794078962770
   }
 }
