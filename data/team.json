@@ -55,10 +55,10 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5524,
-      "wpm": 102,
-      "highestWPM": 128,
-      "teamRaces": 510,
+      "allTimeRaces": 5538,
+      "wpm": 110,
+      "highestWPM": 138,
+      "teamRaces": 526,
       "acc": 95.31,
       "season": null,
       "status": "active",
@@ -209,11 +209,11 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7796,
+      "allTimeRaces": 7800,
       "wpm": 72,
       "highestWPM": 102,
-      "teamRaces": 1765,
-      "acc": 93.3,
+      "teamRaces": 1775,
+      "acc": 93.27,
       "season": null,
       "status": "active",
       "lastLogin": 1794078563
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70650,
+      "races": 70676,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 572,
+      "races": 484,
       "avgWPM": 88,
-      "avgAcc": 95.62,
+      "avgAcc": 95.45,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794086903867
+  "_syncedAt": 1794088894262
 }
