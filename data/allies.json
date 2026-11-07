@@ -371,7 +371,7 @@
         "acc": 93.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794010916
+        "lastLogin": 1794052443
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794050653538
+    "_syncedAt": 1794052896875
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 300M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5085,
+    "profileViews": 5086,
     "leagueTier": 10,
     "racers": [
       {
@@ -1191,14 +1191,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9516,
-        "wpm": 44,
+        "allTimeRaces": 9535,
+        "wpm": 40,
         "highestWPM": 75,
-        "teamRaces": 2086,
-        "acc": 86.43,
+        "teamRaces": 2102,
+        "acc": 86.42,
         "season": null,
         "status": "active",
-        "lastLogin": 1794050298
+        "lastLogin": 1794051155
       },
       {
         "username": "legendsince2026",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 134986,
+        "races": 135002,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1057,
-        "avgWPM": 79,
-        "avgAcc": 94.73,
+        "races": 1073,
+        "avgWPM": 78,
+        "avgAcc": 94.65,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794050672414
+    "_syncedAt": 1794052915823
   }
 }
