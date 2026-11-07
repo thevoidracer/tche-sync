@@ -3,27 +3,27 @@
     {
       "hour": "2026-11-06 21:00:00",
       "racer": "rorok09",
-      "races": 76
+      "races": 47
     },
     {
       "hour": "2026-11-06 21:00:00",
       "racer": "Nathan",
-      "races": 31
-    },
-    {
-      "hour": "2026-11-06 21:00:00",
-      "racer": "Nish_OUT",
-      "races": 19
-    },
-    {
-      "hour": "2026-11-06 21:00:00",
-      "racer": "Namedisplayed",
       "races": 17
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "KirbyDelta",
+      "racer": "Nish_OUT",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "Namedisplayed",
       "races": 12
+    },
+    {
+      "hour": "2026-11-06 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 11
     },
     {
       "hour": "2026-11-06 21:00:00",
@@ -153,9 +153,19 @@
     {
       "hour": "2026-11-07 20:00:00",
       "racer": "KirbyDelta",
-      "races": 21
+      "races": 31
+    },
+    {
+      "hour": "2026-11-07 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 24
+    },
+    {
+      "hour": "2026-11-07 21:00:00",
+      "racer": "Nathan",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794085248171
+  "_syncedAt": 1794086968585
 }

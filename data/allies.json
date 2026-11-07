@@ -606,15 +606,15 @@
         "members": 42
       },
       "daily": {
-        "races": 223,
-        "avgWPM": 59,
-        "avgAcc": 93.36,
+        "races": 213,
+        "avgWPM": 58,
+        "avgAcc": 93.27,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794085298118
+    "_syncedAt": 1794087017900
   },
   "THB0S": {
     "tag": "THB0S",
@@ -623,7 +623,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5108,
+    "profileViews": 5111,
     "leagueTier": 10,
     "racers": [
       {
@@ -883,14 +883,14 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8780,
-        "wpm": 56,
+        "allTimeRaces": 8791,
+        "wpm": 59,
         "highestWPM": 84,
-        "teamRaces": 848,
-        "acc": 93.91,
+        "teamRaces": 859,
+        "acc": 93.9,
         "season": null,
         "status": "active",
-        "lastLogin": 1794082237
+        "lastLogin": 1794085364
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1065,10 +1065,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19838,
-        "wpm": 94,
+        "allTimeRaces": 19862,
+        "wpm": 99,
         "highestWPM": 123,
-        "teamRaces": 19378,
+        "teamRaces": 19402,
         "acc": 94.01,
         "season": null,
         "status": "active",
@@ -1198,7 +1198,7 @@
         "acc": 95.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1794083934
+        "lastLogin": 1794086412
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135558,
+        "races": 135593,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1181,
-        "avgWPM": 78,
-        "avgAcc": 94.89,
+        "races": 1212,
+        "avgWPM": 79,
+        "avgAcc": 94.87,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794085317094
+    "_syncedAt": 1794087044463
   }
 }

@@ -5,7 +5,7 @@
   "activePercent": 91,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨60.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2561,
+  "profileViews": 2562,
   "leagueTier": 10,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5515,
-      "wpm": 100,
+      "allTimeRaces": 5524,
+      "wpm": 102,
       "highestWPM": 128,
-      "teamRaces": 503,
-      "acc": 95.32,
+      "teamRaces": 510,
+      "acc": 95.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1793999374
+      "lastLogin": 1794085291
     },
     {
       "username": "tre1typer",
@@ -209,11 +209,11 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7766,
-      "wpm": 83,
+      "allTimeRaces": 7796,
+      "wpm": 72,
       "highestWPM": 102,
-      "teamRaces": 1731,
-      "acc": 93.33,
+      "teamRaces": 1765,
+      "acc": 93.3,
       "season": null,
       "status": "active",
       "lastLogin": 1794078563
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70609,
+      "races": 70650,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 595,
-      "avgWPM": 89,
-      "avgAcc": 95.93,
+      "races": 572,
+      "avgWPM": 88,
+      "avgAcc": 95.62,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794085188440
+  "_syncedAt": 1794086903867
 }
