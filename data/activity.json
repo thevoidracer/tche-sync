@@ -132,12 +132,12 @@
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Safire",
       "races": 2
     },
     {
       "hour": "2026-11-06 15:00:00",
-      "racer": "Safire",
+      "racer": "nataliefinger",
       "races": 2
     },
     {
@@ -182,12 +182,12 @@
     },
     {
       "hour": "2026-11-06 17:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Safire",
       "races": 3
     },
     {
       "hour": "2026-11-06 17:00:00",
-      "racer": "Safire",
+      "racer": "Namedisplayed",
       "races": 3
     },
     {
@@ -354,8 +354,18 @@
       "hour": "2026-11-07 01:00:00",
       "racer": "Void Racer",
       "races": 4
+    },
+    {
+      "hour": "2026-11-07 03:00:00",
+      "racer": "Eclipse",
+      "races": 48
+    },
+    {
+      "hour": "2026-11-07 03:00:00",
+      "racer": "- Void Grinder -",
+      "races": 10
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794021192911
+  "_syncedAt": 1794023734621
 }
