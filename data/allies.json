@@ -606,15 +606,15 @@
         "members": 42
       },
       "daily": {
-        "races": 236,
-        "avgWPM": 60,
-        "avgAcc": 93.38,
+        "races": 223,
+        "avgWPM": 59,
+        "avgAcc": 93.36,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794083036381
+    "_syncedAt": 1794085298118
   },
   "THB0S": {
     "tag": "THB0S",
@@ -623,7 +623,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5105,
+    "profileViews": 5108,
     "leagueTier": 10,
     "racers": [
       {
@@ -967,14 +967,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3904,
-        "wpm": 62,
+        "allTimeRaces": 3916,
+        "wpm": 63,
         "highestWPM": 97,
-        "teamRaces": 1190,
+        "teamRaces": 1206,
         "acc": 93.28,
         "season": null,
         "status": "active",
-        "lastLogin": 1794079393
+        "lastLogin": 1794084098
       },
       {
         "username": "joey2011allgyer",
@@ -1065,10 +1065,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19830,
-        "wpm": 95,
+        "allTimeRaces": 19838,
+        "wpm": 94,
         "highestWPM": 123,
-        "teamRaces": 19370,
+        "teamRaces": 19378,
         "acc": 94.01,
         "season": null,
         "status": "active",
@@ -1198,7 +1198,7 @@
         "acc": 95.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1794068854
+        "lastLogin": 1794083934
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135534,
+        "races": 135558,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1176,
+        "races": 1181,
         "avgWPM": 78,
-        "avgAcc": 94.88,
+        "avgAcc": 94.89,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794083055316
+    "_syncedAt": 1794085317094
   }
 }
