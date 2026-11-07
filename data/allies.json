@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794029310144
+    "_syncedAt": 1794031959388
   },
   "THB0S": {
     "tag": "THB0S",
@@ -760,7 +760,7 @@
         "allTimeRaces": 1971,
         "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 1654,
+        "teamRaces": 1665,
         "acc": 93.86,
         "season": null,
         "status": "active",
@@ -1110,8 +1110,8 @@
         "allTimeRaces": 14810,
         "wpm": 71,
         "highestWPM": 96,
-        "teamRaces": 569,
-        "acc": 96.16,
+        "teamRaces": 592,
+        "acc": 96.12,
         "season": null,
         "status": "active",
         "lastLogin": 1794027845
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 134952,
+        "races": 134986,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1052,
+        "races": 1086,
         "avgWPM": 79,
-        "avgAcc": 94.77,
+        "avgAcc": 94.79,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794029328972
+    "_syncedAt": 1794031978862
   }
 }
