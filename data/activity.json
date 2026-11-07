@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 19:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-06 19:00:00",
-      "racer": "WindMaker",
-      "races": 1
-    },
-    {
       "hour": "2026-11-06 20:00:00",
       "racer": "rorok09",
       "races": 11
@@ -18,17 +8,12 @@
     {
       "hour": "2026-11-06 20:00:00",
       "racer": "- Void Grinder -",
-      "races": 10
+      "races": 9
     },
     {
       "hour": "2026-11-06 20:00:00",
       "racer": "Namedisplayed",
       "races": 2
-    },
-    {
-      "hour": "2026-11-06 20:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 1
     },
     {
       "hour": "2026-11-06 21:00:00",
@@ -57,12 +42,12 @@
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "The Big Yahu",
       "races": 6
     },
     {
       "hour": "2026-11-06 21:00:00",
-      "racer": "The Big Yahu",
+      "racer": "PootsyWafflebiscuits",
       "races": 6
     },
     {
@@ -178,9 +163,14 @@
     {
       "hour": "2026-11-07 19:00:00",
       "racer": "KirbyDelta",
-      "races": 25
+      "races": 35
+    },
+    {
+      "hour": "2026-11-07 20:00:00",
+      "racer": "KirbyDelta",
+      "races": 14
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794081010186
+  "_syncedAt": 1794082986344
 }

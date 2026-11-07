@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 43,
+    "members": 42,
     "activePercent": 83,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -206,20 +206,6 @@
         "lastLogin": 1793816418
       },
       {
-        "username": "ecf6fca5d4cfd6db9bf37ea626d00c4b",
-        "displayName": "I NEED NITRO GOLD",
-        "role": "member",
-        "joinStamp": 1794020433,
-        "allTimeRaces": 2460,
-        "wpm": 48,
-        "highestWPM": 84,
-        "teamRaces": 163,
-        "acc": 90.92,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1794019836
-      },
-      {
         "username": "1e47c8cfaf1f8f2565f896d4d9b4ef7a",
         "displayName": "Pandora",
         "role": "officer",
@@ -339,8 +325,8 @@
         "allTimeRaces": 1571,
         "wpm": 57,
         "highestWPM": 72,
-        "teamRaces": 258,
-        "acc": 93.32,
+        "teamRaces": 260,
+        "acc": 93.28,
         "season": null,
         "status": "active",
         "lastLogin": 1794080389
@@ -357,7 +343,7 @@
         "acc": 93.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794052443
+        "lastLogin": 1794082187
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -614,21 +600,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83642,
+        "races": 83644,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 43
+        "members": 42
       },
       "daily": {
-        "races": 242,
+        "races": 236,
         "avgWPM": 60,
-        "avgAcc": 93.47,
-        "members": 43
+        "avgAcc": 93.38,
+        "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794081059205
+    "_syncedAt": 1794083036381
   },
   "THB0S": {
     "tag": "THB0S",
@@ -897,14 +883,14 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8777,
+        "allTimeRaces": 8780,
         "wpm": 56,
         "highestWPM": 84,
-        "teamRaces": 845,
-        "acc": 93.92,
+        "teamRaces": 848,
+        "acc": 93.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1794070943
+        "lastLogin": 1794082237
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -981,11 +967,11 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3870,
-        "wpm": 66,
+        "allTimeRaces": 3904,
+        "wpm": 62,
         "highestWPM": 97,
-        "teamRaces": 1160,
-        "acc": 93.27,
+        "teamRaces": 1190,
+        "acc": 93.28,
         "season": null,
         "status": "active",
         "lastLogin": 1794079393
@@ -1086,7 +1072,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1794074769
+        "lastLogin": 1794081206
       },
       {
         "username": "taco13001",
@@ -1287,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135501,
+        "races": 135534,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1143,
-        "avgWPM": 79,
-        "avgAcc": 94.91,
+        "races": 1176,
+        "avgWPM": 78,
+        "avgAcc": 94.88,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794081078368
+    "_syncedAt": 1794083055316
   }
 }
