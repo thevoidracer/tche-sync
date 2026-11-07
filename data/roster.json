@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
+    "tierA": 92,
     "tierB": 81,
     "weeklyReq": 100
   },
@@ -14,7 +14,7 @@
       "nickname": "Nitro Rich",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 128,
       "lifetimeRaces": 5654,
@@ -27,25 +27,12 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 110,
       "lifetimeRaces": 20585,
       "teamRaces": 2946,
       "joined": "06/24/26"
-    },
-    {
-      "username": "33e83773380949c7f2fd34d850d93d34",
-      "displayName": "KippKat",
-      "nickname": "Grim Reaper",
-      "role": "member",
-      "squad": "Entrepreneur 500",
-      "tier": "B",
-      "avgWPM": 82,
-      "topWPM": 96,
-      "lifetimeRaces": 996,
-      "teamRaces": 983,
-      "joined": "06/26/26"
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -67,9 +54,9 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 69,
+      "avgWPM": 68,
       "topWPM": 107,
-      "lifetimeRaces": 7980,
+      "lifetimeRaces": 7981,
       "teamRaces": 500,
       "joined": "07/08/26"
     },
@@ -150,19 +137,6 @@
       "lifetimeRaces": 9465,
       "teamRaces": 1419,
       "joined": "09/09/26"
-    },
-    {
-      "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
-      "displayName": "viewmyvioletgarage",
-      "nickname": "Titan",
-      "role": "member",
-      "squad": "Investor 1k",
-      "tier": "B",
-      "avgWPM": 87,
-      "topWPM": 111,
-      "lifetimeRaces": 4804,
-      "teamRaces": 1168,
-      "joined": "09/19/26"
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -417,7 +391,7 @@
       "nickname": "Olde School",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 117,
       "lifetimeRaces": 13986,
@@ -621,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794026274492
+  "_syncedAt": 1794029260921
 }
