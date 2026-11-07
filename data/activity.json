@@ -1,49 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 15:00:00",
-      "racer": "GregThe2ndFastTyper",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-06 15:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-06 15:00:00",
-      "racer": "rorok09",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-06 15:00:00",
-      "racer": "t_unknown",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-06 15:00:00",
-      "racer": "loganim12btw",
-      "races": 1
-    },
-    {
       "hour": "2026-11-06 16:00:00",
       "racer": "GregThe2ndFastTyper",
-      "races": 75
+      "races": 62
     },
     {
       "hour": "2026-11-06 16:00:00",
       "racer": "Safire",
       "races": 16
-    },
-    {
-      "hour": "2026-11-06 16:00:00",
-      "racer": "t_unknown",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-06 16:00:00",
-      "racer": "Nish_OUT",
-      "races": 1
     },
     {
       "hour": "2026-11-06 17:00:00",
@@ -67,12 +32,12 @@
     },
     {
       "hour": "2026-11-06 17:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Safire",
       "races": 3
     },
     {
       "hour": "2026-11-06 17:00:00",
-      "racer": "Safire",
+      "racer": "Namedisplayed",
       "races": 3
     },
     {
@@ -278,9 +243,9 @@
     {
       "hour": "2026-11-07 15:00:00",
       "racer": "rorok09",
-      "races": 37
+      "races": 61
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794066208250
+  "_syncedAt": 1794068264015
 }
