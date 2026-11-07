@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 16:00:00",
-      "racer": "GregThe2ndFastTyper",
-      "races": 62
-    },
-    {
-      "hour": "2026-11-06 16:00:00",
-      "racer": "Safire",
-      "races": 16
-    },
-    {
       "hour": "2026-11-06 17:00:00",
       "racer": "KirbyDelta",
       "races": 26
@@ -244,8 +234,13 @@
       "hour": "2026-11-07 15:00:00",
       "racer": "rorok09",
       "races": 61
+    },
+    {
+      "hour": "2026-11-07 16:00:00",
+      "racer": "LeoRuna",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794068264015
+  "_syncedAt": 1794070828950
 }

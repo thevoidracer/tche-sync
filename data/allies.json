@@ -6,7 +6,7 @@
     "activePercent": 83,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3196,
+    "profileViews": 3197,
     "leagueTier": 10,
     "racers": [
       {
@@ -42,14 +42,14 @@
         "displayName": "slushy is back",
         "role": "member",
         "joinStamp": 1790267328,
-        "allTimeRaces": 6767,
-        "wpm": 59,
+        "allTimeRaces": 6778,
+        "wpm": 63,
         "highestWPM": 108,
-        "teamRaces": 341,
-        "acc": 90.83,
+        "teamRaces": 352,
+        "acc": 90.79,
         "season": null,
         "status": "active",
-        "lastLogin": 1793929129
+        "lastLogin": 1794069503
       },
       {
         "username": "66e96614eb894403e575fc229ce9b81f",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83576,
+        "races": 83587,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 290,
+        "races": 280,
         "avgWPM": 66,
-        "avgAcc": 94.08,
+        "avgAcc": 93.82,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794068313163
+    "_syncedAt": 1794070879246
   },
   "THB0S": {
     "tag": "THB0S",
@@ -673,11 +673,11 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11129,
-        "wpm": 108,
+        "allTimeRaces": 11178,
+        "wpm": 114,
         "highestWPM": 142,
-        "teamRaces": 1693,
-        "acc": 98.07,
+        "teamRaces": 1750,
+        "acc": 98.06,
         "season": null,
         "status": "active",
         "lastLogin": 1794065794
@@ -981,11 +981,11 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3732,
-        "wpm": 73,
+        "allTimeRaces": 3763,
+        "wpm": 72,
         "highestWPM": 97,
-        "teamRaces": 1022,
-        "acc": 93.22,
+        "teamRaces": 1050,
+        "acc": 93.21,
         "season": null,
         "status": "active",
         "lastLogin": 1794068266
@@ -1205,14 +1205,14 @@
         "displayName": "B-D-R-",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2590,
+        "allTimeRaces": 2598,
         "wpm": 95,
         "highestWPM": 119,
-        "teamRaces": 2576,
+        "teamRaces": 2584,
         "acc": 95.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1794062101
+        "lastLogin": 1794068854
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135265,
+        "races": 135358,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1157,
-        "avgWPM": 76,
-        "avgAcc": 94.23,
+        "races": 1224,
+        "avgWPM": 78,
+        "avgAcc": 94.52,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794068332084
+    "_syncedAt": 1794070898052
   }
 }
