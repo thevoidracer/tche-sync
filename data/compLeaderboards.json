@@ -21,7 +21,7 @@
         "username": "trsgray",
         "displayName": "trsgray",
         "nickname": "Mystery Man",
-        "squad": "Watching you!😏🥳🥳",
+        "squad": "Watching you!😏",
         "races": 381,
         "wpm": 72.4,
         "accuracy": 92.86,
@@ -35,10 +35,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Officer😲😱😱😱",
-        "races": 192,
-        "wpm": 113.4,
-        "accuracy": 97.75,
-        "points": 29415,
+        "races": 235,
+        "wpm": 113,
+        "accuracy": 97.71,
+        "points": 35942,
         "tier": "A"
       },
       {
@@ -139,10 +139,10 @@
         "displayName": "Zeus 19",
         "nickname": "Master Motorist",
         "squad": "Need to become more active🤔",
-        "races": 113,
-        "wpm": 51,
-        "accuracy": 85.71,
-        "points": 12156,
+        "races": 114,
+        "wpm": 50.8,
+        "accuracy": 85.69,
+        "points": 12252,
         "tier": "C"
       },
       {
@@ -225,6 +225,19 @@
       },
       {
         "rank": 18,
+        "tag": "THB0S",
+        "username": "Sara10",
+        "displayName": "Sara10",
+        "nickname": "I Love Dogs",
+        "squad": "THEB0S captain🥳🥳🥳🥳🤩🤩🤩🤩🤩",
+        "races": 67,
+        "wpm": 92.3,
+        "accuracy": 94.62,
+        "points": 9263,
+        "tier": "A"
+      },
+      {
+        "rank": 19,
         "tag": "KEYCAT",
         "username": "IM A FOODIE",
         "displayName": "IM A FOODIE",
@@ -237,7 +250,7 @@
         "tier": "B"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "tag": "KEYCAT",
         "username": "Cats_4_Eva",
         "displayName": "Cats_4_Eva",
@@ -250,7 +263,7 @@
         "tier": "A"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "tag": "IMT",
         "username": "Nish_OUT",
         "displayName": "Nish_OUT",
@@ -263,7 +276,7 @@
         "tier": "A"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -276,7 +289,7 @@
         "tier": "A"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -289,7 +302,20 @@
         "tier": "A"
       },
       {
-        "rank": 23,
+        "rank": 24,
+        "tag": "THB0S",
+        "username": "GRANDMAISTHEB0SS",
+        "displayName": "GRANDMAISTHEB0SS",
+        "nickname": "Boo!",
+        "squad": "Active!😁😁😁😁😁",
+        "races": 77,
+        "wpm": 49.9,
+        "accuracy": 90.09,
+        "points": 8666,
+        "tier": "C"
+      },
+      {
+        "rank": 25,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -302,20 +328,7 @@
         "tier": "B"
       },
       {
-        "rank": 24,
-        "tag": "THB0S",
-        "username": "GRANDMAISTHEB0SS",
-        "displayName": "GRANDMAISTHEB0SS",
-        "nickname": "Boo!",
-        "squad": "Active!😁😁😁😁😁",
-        "races": 75,
-        "wpm": 49.8,
-        "accuracy": 90.03,
-        "points": 8433,
-        "tier": "C"
-      },
-      {
-        "rank": 25,
+        "rank": 26,
         "tag": "THB0S",
         "username": "Mythical Dragon",
         "displayName": "Mythical Dragon",
@@ -328,7 +341,7 @@
         "tier": "C"
       },
       {
-        "rank": 26,
+        "rank": 27,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -341,7 +354,7 @@
         "tier": "C"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -354,7 +367,7 @@
         "tier": "B"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -367,7 +380,7 @@
         "tier": "C"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "THB0S",
         "username": "God First",
         "displayName": "God First",
@@ -380,7 +393,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "WsCaster",
         "displayName": "WsCaster",
@@ -391,19 +404,6 @@
         "accuracy": 96.27,
         "points": 7249,
         "tier": "B"
-      },
-      {
-        "rank": 31,
-        "tag": "THB0S",
-        "username": "Sara10",
-        "displayName": "Sara10",
-        "nickname": "I Love Dogs",
-        "squad": "THEB0S captain🥳🥳🥳🥳🤩🤩🤩🤩🤩",
-        "races": 47,
-        "wpm": 93.8,
-        "accuracy": 94.46,
-        "points": 6521,
-        "tier": "A"
       },
       {
         "rank": 32,
@@ -1160,7 +1160,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794018435440
+    "_syncedAt": 1794021242413
   },
   "1463": {
     "eventId": "1463",
@@ -1660,7 +1660,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794018439551
+    "_syncedAt": 1794021247276
   },
   "1550": {
     "eventId": "1550",
@@ -2160,6 +2160,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794018443489
+    "_syncedAt": 1794021251839
   }
 }
