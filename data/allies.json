@@ -606,15 +606,15 @@
         "members": 42
       },
       "daily": {
-        "races": 175,
-        "avgWPM": 59,
-        "avgAcc": 92.55,
+        "races": 151,
+        "avgWPM": 60,
+        "avgAcc": 92.39,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794093308008
+    "_syncedAt": 1794095067129
   },
   "THB0S": {
     "tag": "THB0S",
@@ -623,7 +623,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5117,
+    "profileViews": 5119,
     "leagueTier": 10,
     "racers": [
       {
@@ -631,14 +631,14 @@
         "displayName": "ella   ",
         "role": "member",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102153,
-        "wpm": 87,
+        "allTimeRaces": 102156,
+        "wpm": 86,
         "highestWPM": 156,
-        "teamRaces": 1102,
-        "acc": 96.1,
+        "teamRaces": 1105,
+        "acc": 96.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1794089385
+        "lastLogin": 1794093672
       },
       {
         "username": "joepellicc_gold",
@@ -690,7 +690,7 @@
         "allTimeRaces": 12398,
         "wpm": 95,
         "highestWPM": 120,
-        "teamRaces": 5436,
+        "teamRaces": 5437,
         "acc": 92.39,
         "season": null,
         "status": "active",
@@ -886,7 +886,7 @@
         "allTimeRaces": 8812,
         "wpm": 49,
         "highestWPM": 84,
-        "teamRaces": 877,
+        "teamRaces": 880,
         "acc": 93.87,
         "season": null,
         "status": "active",
@@ -1065,10 +1065,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 19990,
-        "wpm": 88,
+        "allTimeRaces": 20000,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 19521,
+        "teamRaces": 19540,
         "acc": 94,
         "season": null,
         "status": "active",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135882,
+        "races": 135908,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1324,
+        "races": 1336,
         "avgWPM": 80,
-        "avgAcc": 94.54,
+        "avgAcc": 94.47,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794093361520
+    "_syncedAt": 1794095085875
   }
 }

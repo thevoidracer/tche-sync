@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-06 23:00:00",
-      "racer": "Nish_OUT",
-      "races": 18
-    },
-    {
       "hour": "2026-11-07 00:00:00",
       "racer": "Void Racer",
       "races": 1
@@ -89,8 +84,13 @@
       "hour": "2026-11-07 21:00:00",
       "racer": "Nathan",
       "races": 23
+    },
+    {
+      "hour": "2026-11-07 23:00:00",
+      "racer": "asteroids",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794093254719
+  "_syncedAt": 1794095018915
 }
