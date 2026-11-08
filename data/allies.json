@@ -476,14 +476,14 @@
         "displayName": "I N V I S I B L E",
         "role": "member",
         "joinStamp": 1794074920,
-        "allTimeRaces": 1677,
-        "wpm": 31,
+        "allTimeRaces": 1685,
+        "wpm": 32,
         "highestWPM": 103,
-        "teamRaces": 36,
-        "acc": 95.7,
+        "teamRaces": 39,
+        "acc": 95.69,
         "season": null,
         "status": "active",
-        "lastLogin": 1794147699
+        "lastLogin": 1794156311
       },
       {
         "username": "b41c8d94a2d0a7fe7c5c8e2914a6ccef",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83742,
+        "races": 83745,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 166,
+        "races": 160,
         "avgWPM": 68,
-        "avgAcc": 94.63,
+        "avgAcc": 94.91,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794155342864
+    "_syncedAt": 1794157409810
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5133,
+    "profileViews": 5139,
     "leagueTier": 10,
     "racers": [
       {
@@ -652,7 +652,7 @@
         "acc": 96.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1794152558
+        "lastLogin": 1794155965
       },
       {
         "username": "joepellicc_gold",
@@ -673,10 +673,10 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11296,
-        "wpm": 108,
+        "allTimeRaces": 11328,
+        "wpm": 114,
         "highestWPM": 142,
-        "teamRaces": 1858,
+        "teamRaces": 1889,
         "acc": 98.04,
         "season": null,
         "status": "active",
@@ -897,11 +897,11 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8845,
-        "wpm": 53,
+        "allTimeRaces": 8875,
+        "wpm": 58,
         "highestWPM": 84,
-        "teamRaces": 913,
-        "acc": 93.88,
+        "teamRaces": 924,
+        "acc": 93.87,
         "season": null,
         "status": "active",
         "lastLogin": 1794155130
@@ -911,14 +911,14 @@
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 3035,
-        "wpm": 46,
+        "allTimeRaces": 3050,
+        "wpm": 50,
         "highestWPM": 85,
         "teamRaces": 1618,
         "acc": 90.03,
         "season": null,
         "status": "active",
-        "lastLogin": 1794027239
+        "lastLogin": 1794156709
       },
       {
         "username": "srivanthvadlamudi",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136370,
+        "races": 136412,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1095,
-        "avgWPM": 77,
-        "avgAcc": 94.1,
+        "races": 1068,
+        "avgWPM": 76,
+        "avgAcc": 94.01,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794155361940
+    "_syncedAt": 1794157428553
   }
 }

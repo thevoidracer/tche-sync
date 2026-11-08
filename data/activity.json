@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-07 16:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-07 16:00:00",
-      "racer": "LeoRuna",
-      "races": 1
-    },
-    {
       "hour": "2026-11-07 18:00:00",
       "racer": "Void Racer",
       "races": 23
@@ -118,14 +108,14 @@
     {
       "hour": "2026-11-08 16:00:00",
       "racer": "KirbyDelta",
-      "races": 23
+      "races": 51
     },
     {
       "hour": "2026-11-08 16:00:00",
       "racer": "Void Racer",
-      "races": 2
+      "races": 9
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794155293685
+  "_syncedAt": 1794157361248
 }
