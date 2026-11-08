@@ -497,7 +497,7 @@
         "acc": 93.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1794163717
+        "lastLogin": 1794177396
       },
       {
         "username": "happygoluckygirl07",
@@ -600,16 +600,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794176884642
+    "_syncedAt": 1794178822551
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 46,
+    "members": 47,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5159,
+    "profileViews": 5161,
     "leagueTier": 10,
     "racers": [
       {
@@ -631,10 +631,10 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1370,
-        "wpm": 98,
+        "allTimeRaces": 1390,
+        "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 1160,
+        "teamRaces": 1189,
         "acc": 96.33,
         "season": null,
         "status": "active",
@@ -645,11 +645,11 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11361,
-        "wpm": 104,
+        "allTimeRaces": 11378,
+        "wpm": 109,
         "highestWPM": 142,
-        "teamRaces": 1924,
-        "acc": 98.02,
+        "teamRaces": 1950,
+        "acc": 98.01,
         "season": null,
         "status": "active",
         "lastLogin": 1794174998
@@ -869,10 +869,10 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8891,
-        "wpm": 52,
+        "allTimeRaces": 8893,
+        "wpm": 54,
         "highestWPM": 84,
-        "teamRaces": 957,
+        "teamRaces": 959,
         "acc": 93.83,
         "season": null,
         "status": "active",
@@ -919,6 +919,20 @@
         "season": null,
         "status": "active",
         "lastLogin": 1793974039
+      },
+      {
+        "username": "868a312b64fc2119a7266961ceffdfaa",
+        "displayName": "Tbone11",
+        "role": "member",
+        "joinStamp": 1794177352,
+        "allTimeRaces": 2659,
+        "wpm": 46,
+        "highestWPM": 78,
+        "teamRaces": 88,
+        "acc": 87.96,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1794177308
       },
       {
         "username": "a5c0884d10e5f917a2da2e03349c66e4",
@@ -1128,7 +1142,7 @@
         "acc": 95.23,
         "season": null,
         "status": "active",
-        "lastLogin": 1794061628
+        "lastLogin": 1794178805
       },
       {
         "username": "5dbc49739ddf49918ec909ecdcefaeea",
@@ -1259,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136755,
+        "races": 136812,
         "avgWPM": 68,
         "avgAcc": 94.05,
-        "members": 46
+        "members": 47
       },
       "daily": {
-        "races": 1038,
-        "avgWPM": 76,
-        "avgAcc": 94.24,
-        "members": 46
+        "races": 955,
+        "avgWPM": 74,
+        "avgAcc": 94.27,
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794176903844
+    "_syncedAt": 1794178841861
   }
 }
