@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "THB0S",
+        "username": "Mythical Dragon",
+        "displayName": "Mythical Dragon",
+        "nickname": "(Has a good gaming chair)",
+        "squad": "Newbies!😁😁😁😁",
+        "races": 162,
+        "wpm": 53.2,
+        "accuracy": 93.21,
+        "points": 19114,
+        "tier": "C"
+      },
+      {
+        "rank": 10,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
@@ -118,19 +131,6 @@
         "accuracy": 94.88,
         "points": 18033,
         "tier": "B"
-      },
-      {
-        "rank": 10,
-        "tag": "THB0S",
-        "username": "Mythical Dragon",
-        "displayName": "Mythical Dragon",
-        "nickname": "(Has a good gaming chair)",
-        "squad": "Newbies!😁😁😁😁",
-        "races": 149,
-        "wpm": 53.2,
-        "accuracy": 92.94,
-        "points": 17532,
-        "tier": "C"
       },
       {
         "rank": 11,
@@ -628,6 +628,19 @@
       },
       {
         "rank": 49,
+        "tag": "KEYCAT",
+        "username": "I N V I S I B L E",
+        "displayName": "I N V I S I B L E",
+        "nickname": ":D",
+        "squad": null,
+        "races": 36,
+        "wpm": 31.3,
+        "accuracy": 95.51,
+        "points": 3976,
+        "tier": "C"
+      },
+      {
+        "rank": 50,
         "tag": "THB0S",
         "username": "ella",
         "displayName": "ella",
@@ -638,19 +651,6 @@
         "accuracy": 94.26,
         "points": 3643,
         "tier": "A"
-      },
-      {
-        "rank": 50,
-        "tag": "KEYCAT",
-        "username": "I N V I S I B L E",
-        "displayName": "I N V I S I B L E",
-        "nickname": ":D",
-        "squad": null,
-        "races": 31,
-        "wpm": 31.4,
-        "accuracy": 95.88,
-        "points": 3439,
-        "tier": "C"
       },
       {
         "rank": 51,
@@ -1264,7 +1264,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794149175599
+    "_syncedAt": 1794151103953
   },
   "1550": {
     "eventId": "1550",
@@ -1777,6 +1777,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794149179389
+    "_syncedAt": 1794151107907
   }
 }

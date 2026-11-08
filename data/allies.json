@@ -479,8 +479,8 @@
         "allTimeRaces": 1677,
         "wpm": 31,
         "highestWPM": 103,
-        "teamRaces": 35,
-        "acc": 95.91,
+        "teamRaces": 36,
+        "acc": 95.7,
         "season": null,
         "status": "active",
         "lastLogin": 1794147699
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83741,
+        "races": 83742,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 165,
+        "races": 166,
         "avgWPM": 68,
-        "avgAcc": 94.65,
+        "avgAcc": 94.63,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794149179522
+    "_syncedAt": 1794151108056
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5132,
+    "profileViews": 5133,
     "leagueTier": 10,
     "racers": [
       {
@@ -666,7 +666,7 @@
         "acc": 96.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1794088131
+        "lastLogin": 1794149758
       },
       {
         "username": "jckrayzie",
@@ -680,7 +680,7 @@
         "acc": 98.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1794148096
+        "lastLogin": 1794150337
       },
       {
         "username": "mcculpar",
@@ -757,14 +757,14 @@
         "displayName": "Festive Typer",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 2006,
+        "allTimeRaces": 2007,
         "wpm": 61,
         "highestWPM": 87,
         "teamRaces": 1700,
         "acc": 93.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1794112951
+        "lastLogin": 1794150862
       },
       {
         "username": "pigglepigglepiggle",
@@ -897,11 +897,11 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8842,
+        "allTimeRaces": 8845,
         "wpm": 53,
         "highestWPM": 84,
-        "teamRaces": 900,
-        "acc": 93.85,
+        "teamRaces": 913,
+        "acc": 93.88,
         "season": null,
         "status": "active",
         "lastLogin": 1794147710
@@ -932,7 +932,7 @@
         "acc": 94.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794003615
+        "lastLogin": 1794150699
       },
       {
         "username": "bouwbouwbouw",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136334,
+        "races": 136347,
         "avgWPM": 68,
-        "avgAcc": 94.04,
+        "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1154,
-        "avgWPM": 77,
-        "avgAcc": 94.04,
+        "races": 1132,
+        "avgWPM": 78,
+        "avgAcc": 94.22,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794149199071
+    "_syncedAt": 1794151126845
   }
 }
