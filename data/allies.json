@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 163,
+        "races": 158,
         "avgWPM": 67,
-        "avgAcc": 94.96,
+        "avgAcc": 94.98,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794159727814
+    "_syncedAt": 1794161571510
   },
   "THB0S": {
     "tag": "THB0S",
@@ -911,10 +911,10 @@
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 3091,
-        "wpm": 46,
+        "allTimeRaces": 3114,
+        "wpm": 48,
         "highestWPM": 85,
-        "teamRaces": 1673,
+        "teamRaces": 1697,
         "acc": 90.11,
         "season": null,
         "status": "active",
@@ -1058,7 +1058,7 @@
         "acc": 96.22,
         "season": null,
         "status": "active",
-        "lastLogin": 1794110030
+        "lastLogin": 1794160563
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1086,7 +1086,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1794112996
+        "lastLogin": 1794159937
       },
       {
         "username": "taco13001",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136497,
+        "races": 136521,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1098,
-        "avgWPM": 76,
-        "avgAcc": 94.02,
+        "races": 1121,
+        "avgWPM": 75,
+        "avgAcc": 93.97,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794159752783
+    "_syncedAt": 1794161590362
   }
 }

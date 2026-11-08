@@ -152,10 +152,10 @@
         "displayName": "B-D-R-",
         "nickname": "Not So Koi",
         "squad": "Officer😲😱😱😱",
-        "races": 121,
-        "wpm": 96.1,
-        "accuracy": 95.83,
-        "points": 17167,
+        "races": 123,
+        "wpm": 96.2,
+        "accuracy": 95.84,
+        "points": 17461,
         "tier": "A"
       },
       {
@@ -173,6 +173,19 @@
       },
       {
         "rank": 14,
+        "tag": "THB0S",
+        "username": "GRANDMAISTHEB0SS",
+        "displayName": "GRANDMAISTHEB0SS",
+        "nickname": "Boo!",
+        "squad": "Active!😁😁😁😁😁",
+        "races": 150,
+        "wpm": 48.1,
+        "accuracy": 90.45,
+        "points": 16827,
+        "tier": "C"
+      },
+      {
+        "rank": 15,
         "tag": "IMT",
         "username": "GregThe2ndFastTyper",
         "displayName": "GregThe2ndFastTyper",
@@ -185,7 +198,7 @@
         "tier": "A"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -198,7 +211,7 @@
         "tier": "A"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "tag": "IMT",
         "username": "Nathan",
         "displayName": "Nathan",
@@ -211,7 +224,7 @@
         "tier": "A"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -222,19 +235,6 @@
         "accuracy": 97.67,
         "points": 14165,
         "tier": "B"
-      },
-      {
-        "rank": 18,
-        "tag": "THB0S",
-        "username": "GRANDMAISTHEB0SS",
-        "displayName": "GRANDMAISTHEB0SS",
-        "nickname": "Boo!",
-        "squad": "Active!😁😁😁😁😁",
-        "races": 124,
-        "wpm": 48.6,
-        "accuracy": 90.5,
-        "points": 13951,
-        "tier": "C"
       },
       {
         "rank": 19,
@@ -1277,7 +1277,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794159723328
+    "_syncedAt": 1794161567289
   },
   "1522": {
     "eventId": "1522",
@@ -1335,7 +1335,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794159718139
+    "_syncedAt": 1794161562617
   },
   "1550": {
     "eventId": "1550",
@@ -1848,6 +1848,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794159727645
+    "_syncedAt": 1794161571360
   }
 }
