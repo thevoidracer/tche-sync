@@ -1,19 +1,14 @@
 {
   "hours": [
     {
-      "hour": "2026-11-07 20:00:00",
-      "racer": "KirbyDelta",
-      "races": 16
-    },
-    {
       "hour": "2026-11-07 21:00:00",
       "racer": "KirbyDelta",
-      "races": 34
+      "races": 25
     },
     {
       "hour": "2026-11-07 21:00:00",
       "racer": "Nathan",
-      "races": 23
+      "races": 16
     },
     {
       "hour": "2026-11-07 23:00:00",
@@ -127,5 +122,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794170591117
+  "_syncedAt": 1794172607300
 }

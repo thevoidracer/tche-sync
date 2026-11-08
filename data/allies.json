@@ -189,7 +189,7 @@
         "acc": 94.77,
         "season": null,
         "status": "active",
-        "lastLogin": 1793897730
+        "lastLogin": 1794171383
       },
       {
         "username": "64c45ad8e0e9d6b8c8eae75b19f3e317",
@@ -329,7 +329,7 @@
         "acc": 93.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794162458
+        "lastLogin": 1794172567
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -357,7 +357,7 @@
         "acc": 94.01,
         "season": null,
         "status": "active",
-        "lastLogin": 1793284470
+        "lastLogin": 1794171431
       },
       {
         "username": "soap2x",
@@ -600,16 +600,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794170638897
+    "_syncedAt": 1794172658742
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 45,
+    "members": 46,
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5150,
+    "profileViews": 5153,
     "leagueTier": 10,
     "racers": [
       {
@@ -631,10 +631,10 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1292,
-        "wpm": 96,
+        "allTimeRaces": 1308,
+        "wpm": 94,
         "highestWPM": 123,
-        "teamRaces": 1087,
+        "teamRaces": 1100,
         "acc": 96.32,
         "season": null,
         "status": "active",
@@ -876,7 +876,7 @@
         "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1794170302
+        "lastLogin": 1794172663
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -991,6 +991,20 @@
         "lastLogin": 1793976263
       },
       {
+        "username": "8674aff33a910121ce7597836624a6ee",
+        "displayName": "The crowned King",
+        "role": "member",
+        "joinStamp": 1794171489,
+        "allTimeRaces": 1322,
+        "wpm": 58,
+        "highestWPM": 78,
+        "teamRaces": 6,
+        "acc": 91.53,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1794170158
+      },
+      {
         "username": "felixhurtado85",
         "displayName": "GetGooder",
         "role": "member",
@@ -1023,10 +1037,10 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 4130,
-        "wpm": 41,
+        "allTimeRaces": 4141,
+        "wpm": 46,
         "highestWPM": 61,
-        "teamRaces": 2590,
+        "teamRaces": 2601,
         "acc": 91.95,
         "season": null,
         "status": "active",
@@ -1044,7 +1058,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1794168158
+        "lastLogin": 1794172020
       },
       {
         "username": "taco13001",
@@ -1245,20 +1259,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136586,
+        "races": 136616,
         "avgWPM": 68,
         "avgAcc": 94.05,
-        "members": 45
+        "members": 46
       },
       "daily": {
-        "races": 1033,
+        "races": 1054,
         "avgWPM": 75,
-        "avgAcc": 93.98,
-        "members": 45
+        "avgAcc": 93.99,
+        "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794170657752
+    "_syncedAt": 1794172677659
   }
 }

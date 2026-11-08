@@ -87,10 +87,10 @@
         "displayName": "Hot Chocolate",
         "nickname": "Solid Gold",
         "squad": "Loyal😎😎😎😎😎😎😎",
-        "races": 186,
+        "races": 200,
         "wpm": 91.7,
-        "accuracy": 96.37,
-        "points": 26145,
+        "accuracy": 96.36,
+        "points": 28113,
         "tier": "A"
       },
       {
@@ -100,10 +100,10 @@
         "displayName": "Mythical Dragon",
         "nickname": "(Has a good gaming chair)",
         "squad": "Newbies!😁😁😁😁",
-        "races": 199,
-        "wpm": 53.7,
-        "accuracy": 93.06,
-        "points": 23496,
+        "races": 200,
+        "wpm": 53.8,
+        "accuracy": 93.07,
+        "points": 23619,
         "tier": "C"
       },
       {
@@ -282,10 +282,10 @@
         "displayName": "Sakupen",
         "nickname": "Original Gangster",
         "squad": "Officer😲😱😱😱",
-        "races": 101,
-        "wpm": 43,
-        "accuracy": 89.95,
-        "points": 11039,
+        "races": 112,
+        "wpm": 43.1,
+        "accuracy": 90.08,
+        "points": 12262,
         "tier": "C"
       },
       {
@@ -1057,6 +1057,19 @@
       },
       {
         "rank": 82,
+        "tag": "THB0S",
+        "username": "The crowned King",
+        "displayName": "The crowned King",
+        "nickname": "Shadow in the Snow",
+        "squad": null,
+        "races": 5,
+        "wpm": 56,
+        "accuracy": 90.79,
+        "points": 581,
+        "tier": "C"
+      },
+      {
+        "rank": 83,
         "tag": "KEYCAT",
         "username": "I am it",
         "displayName": "I am it",
@@ -1069,7 +1082,7 @@
         "tier": "B"
       },
       {
-        "rank": 83,
+        "rank": 84,
         "tag": "IMT",
         "username": "LeoRuna",
         "displayName": "LeoRuna",
@@ -1082,7 +1095,7 @@
         "tier": "C"
       },
       {
-        "rank": 84,
+        "rank": 85,
         "tag": "SVC",
         "username": "homerowhero",
         "displayName": "homerowhero",
@@ -1095,7 +1108,7 @@
         "tier": "A"
       },
       {
-        "rank": 85,
+        "rank": 86,
         "tag": "THB0S",
         "username": "Srivanth",
         "displayName": "Srivanth",
@@ -1108,7 +1121,7 @@
         "tier": "A"
       },
       {
-        "rank": 86,
+        "rank": 87,
         "tag": "THB0S",
         "username": "lucy",
         "displayName": "lucy",
@@ -1121,7 +1134,7 @@
         "tier": "B"
       },
       {
-        "rank": 87,
+        "rank": 88,
         "tag": "IMT",
         "username": "nataliefinger",
         "displayName": "nataliefinger",
@@ -1134,7 +1147,7 @@
         "tier": "A"
       },
       {
-        "rank": 88,
+        "rank": 89,
         "tag": "KEYCAT",
         "username": "akiraaa",
         "displayName": "akiraaa",
@@ -1147,7 +1160,7 @@
         "tier": "A"
       },
       {
-        "rank": 89,
+        "rank": 90,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -1160,7 +1173,7 @@
         "tier": "A"
       },
       {
-        "rank": 90,
+        "rank": 91,
         "tag": "THB0S",
         "username": "nev444ehh",
         "displayName": "nev444ehh",
@@ -1173,7 +1186,7 @@
         "tier": "B"
       },
       {
-        "rank": 91,
+        "rank": 92,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -1186,7 +1199,7 @@
         "tier": "C"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "tag": "THB0S",
         "username": "SUPER_PIGGLE",
         "displayName": "SUPER_PIGGLE",
@@ -1199,7 +1212,7 @@
         "tier": "C"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "tag": "THB0S",
         "username": "zynx_tb",
         "displayName": "zynx_tb",
@@ -1212,7 +1225,7 @@
         "tier": "B"
       },
       {
-        "rank": 94,
+        "rank": 95,
         "tag": "THB0S",
         "username": "-BOSS PLZ PROMOTE-",
         "displayName": "-BOSS PLZ PROMOTE-",
@@ -1225,7 +1238,7 @@
         "tier": "C"
       },
       {
-        "rank": 95,
+        "rank": 96,
         "tag": "KEYCAT",
         "username": "Circus_cat_26",
         "displayName": "Circus_cat_26",
@@ -1238,7 +1251,7 @@
         "tier": "C"
       },
       {
-        "rank": 96,
+        "rank": 97,
         "tag": "THB0S",
         "username": "ketchup boy",
         "displayName": "ketchup boy",
@@ -1251,7 +1264,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794170634661
+    "_syncedAt": 1794172653824
   },
   "1522": {
     "eventId": "1522",
@@ -1309,7 +1322,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794170630434
+    "_syncedAt": 1794172648664
   },
   "1550": {
     "eventId": "1550",
@@ -1822,6 +1835,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794170638724
+    "_syncedAt": 1794172658562
   }
 }
