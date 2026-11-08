@@ -195,10 +195,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 11227,
-      "wpm": 90,
+      "allTimeRaces": 11258,
+      "wpm": 92,
       "highestWPM": 118,
-      "teamRaces": 10409,
+      "teamRaces": 10448,
       "acc": 97.04,
       "season": null,
       "status": "active",
@@ -496,7 +496,7 @@
       "acc": 91.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1794151747
+      "lastLogin": 1794180481
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -636,7 +636,7 @@
       "acc": 95.07,
       "season": null,
       "status": "active",
-      "lastLogin": 1794163907
+      "lastLogin": 1794181123
     },
     {
       "username": "newkeyboard512",
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 71091,
+      "races": 71130,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 46
     },
     "daily": {
-      "races": 415,
+      "races": 431,
       "avgWPM": 84,
-      "avgAcc": 95.12,
+      "avgAcc": 95.31,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794180386135
+  "_syncedAt": 1794182233912
 }

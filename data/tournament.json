@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1794180466786
+        "_syncedAt": 1794182330632
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1888,7 +1888,7 @@
               "players": [
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "plx need nitro gold",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "plx need nitro gold",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2634,7 +2634,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "NL NitroDeveloper",
+                  "racer": "plx need nitro gold",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2868,7 +2868,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 110238
+                  "score": 115721
                 },
                 {
                   "seed": "2",
@@ -2876,7 +2876,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 43554
+                  "score": 46376
                 }
               ],
               "winner": 0
@@ -3771,10 +3771,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1794180482662
+        "_syncedAt": 1794182347318
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794180482667
+  "_syncedAt": 1794182347321
 }
