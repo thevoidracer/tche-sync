@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1794106733852
+        "_syncedAt": 1794109335942
       }
     },
     {
@@ -1964,7 +1964,7 @@
                   "seed": "55",
                   "racer": "Gt650,",
                   "teamTag": "THB0S",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 364
                 }
@@ -2876,7 +2876,7 @@
                   "teamTag": "THB0S",
                   "gold": true,
                   "placeholder": false,
-                  "score": 36290
+                  "score": 40670
                 }
               ],
               "winner": 0
@@ -3771,10 +3771,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1794106751257
+        "_syncedAt": 1794109351972
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794106751262
+  "_syncedAt": 1794109351974
 }

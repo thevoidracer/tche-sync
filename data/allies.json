@@ -56,11 +56,11 @@
         "displayName": "eeeeehehhhhhhwut",
         "role": "member",
         "joinStamp": 1794105746,
-        "allTimeRaces": 9315,
-        "wpm": 95,
+        "allTimeRaces": 9351,
+        "wpm": 86,
         "highestWPM": 130,
-        "teamRaces": 6,
-        "acc": 94.5,
+        "teamRaces": 73,
+        "acc": 95.04,
         "season": null,
         "status": "active",
         "lastLogin": 1794104646
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83650,
+        "races": 83717,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 80,
-        "avgWPM": 53,
-        "avgAcc": 93.59,
+        "races": 147,
+        "avgWPM": 69,
+        "avgAcc": 94.47,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794106764596
+    "_syncedAt": 1794109364175
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 93,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5123,
+    "profileViews": 5124,
     "leagueTier": 10,
     "racers": [
       {
@@ -645,14 +645,14 @@
         "displayName": "ella   ",
         "role": "member",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102166,
+        "allTimeRaces": 102168,
         "wpm": 88,
         "highestWPM": 156,
-        "teamRaces": 1115,
+        "teamRaces": 1117,
         "acc": 96.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1794101342
+        "lastLogin": 1794107610
       },
       {
         "username": "joepellicc_gold",
@@ -757,14 +757,14 @@
         "displayName": "Festive Typer",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 1971,
+        "allTimeRaces": 1986,
         "wpm": 65,
         "highestWPM": 87,
-        "teamRaces": 1665,
-        "acc": 93.86,
+        "teamRaces": 1676,
+        "acc": 93.87,
         "season": null,
         "status": "active",
-        "lastLogin": 1794026016
+        "lastLogin": 1794107569
       },
       {
         "username": "pigglepigglepiggle",
@@ -1079,10 +1079,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 20009,
+        "allTimeRaces": 20056,
         "wpm": 93,
         "highestWPM": 123,
-        "teamRaces": 19549,
+        "teamRaces": 19592,
         "acc": 94,
         "season": null,
         "status": "active",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136041,
+        "races": 136097,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1199,
+        "races": 1211,
         "avgWPM": 76,
-        "avgAcc": 93.88,
+        "avgAcc": 93.84,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794106819000
+    "_syncedAt": 1794109413050
   }
 }
