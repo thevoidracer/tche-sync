@@ -606,15 +606,15 @@
         "members": 42
       },
       "daily": {
-        "races": 89,
-        "avgWPM": 52,
-        "avgAcc": 93.33,
+        "races": 74,
+        "avgWPM": 50,
+        "avgAcc": 93.47,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794100585478
+    "_syncedAt": 1794104098573
   },
   "THB0S": {
     "tag": "THB0S",
@@ -631,14 +631,14 @@
         "displayName": "ella   ",
         "role": "member",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102161,
-        "wpm": 87,
+        "allTimeRaces": 102166,
+        "wpm": 88,
         "highestWPM": 156,
-        "teamRaces": 1110,
-        "acc": 96.1,
+        "teamRaces": 1115,
+        "acc": 96.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1794096006
+        "lastLogin": 1794101342
       },
       {
         "username": "joepellicc_gold",
@@ -659,14 +659,14 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11228,
-        "wpm": 119,
+        "allTimeRaces": 11278,
+        "wpm": 112,
         "highestWPM": 142,
-        "teamRaces": 1800,
-        "acc": 98.06,
+        "teamRaces": 1850,
+        "acc": 98.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1794089739
+        "lastLogin": 1794100791
       },
       {
         "username": "mcculpar",
@@ -967,14 +967,14 @@
         "displayName": "trsgray",
         "role": "member",
         "joinStamp": 1793420868,
-        "allTimeRaces": 3930,
+        "allTimeRaces": 3966,
         "wpm": 75,
         "highestWPM": 97,
-        "teamRaces": 1220,
+        "teamRaces": 1256,
         "acc": 93.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1794090151
+        "lastLogin": 1794101558
       },
       {
         "username": "joey2011allgyer",
@@ -1072,7 +1072,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1794099257
+        "lastLogin": 1794101164
       },
       {
         "username": "taco13001",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135914,
+        "races": 136005,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1229,
+        "races": 1247,
         "avgWPM": 78,
-        "avgAcc": 94.24,
+        "avgAcc": 94.14,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794100640708
+    "_syncedAt": 1794104147439
   }
 }
