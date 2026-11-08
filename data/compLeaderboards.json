@@ -394,6 +394,19 @@
       },
       {
         "rank": 31,
+        "tag": "THB0S",
+        "username": "Festive Typer",
+        "displayName": "Festive Typer",
+        "nickname": "Ghost Lap",
+        "squad": "Officer😲😱😱😱",
+        "races": 67,
+        "wpm": 61.7,
+        "accuracy": 94.49,
+        "points": 8284,
+        "tier": "B"
+      },
+      {
+        "rank": 32,
         "tag": "IMT",
         "username": "StefanO",
         "displayName": "StefanO",
@@ -404,19 +417,6 @@
         "accuracy": 93.21,
         "points": 7992,
         "tier": "C"
-      },
-      {
-        "rank": 32,
-        "tag": "THB0S",
-        "username": "Festive Typer",
-        "displayName": "Festive Typer",
-        "nickname": "Ghost Lap",
-        "squad": "Officer😲😱😱😱",
-        "races": 60,
-        "wpm": 61.5,
-        "accuracy": 94.52,
-        "points": 7414,
-        "tier": "B"
       },
       {
         "rank": 33,
@@ -1251,7 +1251,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794115822001
+    "_syncedAt": 1794118542577
   },
   "1463": {
     "eventId": "1463",
@@ -1751,7 +1751,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794115826034
+    "_syncedAt": 1794118546601
   },
   "1550": {
     "eventId": "1550",
@@ -2251,6 +2251,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794115830447
+    "_syncedAt": 1794118550679
   }
 }
