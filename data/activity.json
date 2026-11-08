@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-07 03:00:00",
-      "racer": "Eclipse",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-07 04:00:00",
-      "racer": "Eclipse",
-      "races": 2
-    },
-    {
       "hour": "2026-11-07 05:00:00",
       "racer": "LeoRuna",
       "races": 3
@@ -107,5 +97,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794109316325
+  "_syncedAt": 1794112359559
 }
