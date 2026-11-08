@@ -1,7 +1,7 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 45,
+  "members": 46,
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨60.9M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker✨GOLD comp soon!!",
@@ -597,6 +597,20 @@
       "lastLogin": 1793889993
     },
     {
+      "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
+      "displayName": "viewmyvioletgarage",
+      "role": "member",
+      "joinStamp": 1794130377,
+      "allTimeRaces": 4836,
+      "wpm": 89,
+      "highestWPM": 111,
+      "teamRaces": 1200,
+      "acc": 91.76,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1794130370
+    },
+    {
       "username": "nataliefinger",
       "displayName": "nataliefinger",
       "role": "member",
@@ -641,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70860,
+      "races": 70892,
       "avgWPM": 78,
       "avgAcc": 94.95,
-      "members": 45
+      "members": 46
     },
     "daily": {
-      "races": 483,
-      "avgWPM": 85,
-      "avgAcc": 95.19,
-      "members": 45
+      "races": 515,
+      "avgWPM": 86,
+      "avgAcc": 95.02,
+      "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794130330549
+  "_syncedAt": 1794133403168
 }

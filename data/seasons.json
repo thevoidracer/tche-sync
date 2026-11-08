@@ -413,7 +413,7 @@
           "ppr": 144
         },
         {
-          "rank": 753,
+          "rank": 754,
           "username": "spierjockey67",
           "displayName": "O G",
           "races": 371,
@@ -483,7 +483,7 @@
           "ppr": 142
         },
         {
-          "rank": 1077,
+          "rank": 1078,
           "username": "mrimtoslow",
           "displayName": "-Elite-",
           "races": 229,
@@ -493,7 +493,7 @@
           "ppr": 127
         },
         {
-          "rank": 1178,
+          "rank": 1181,
           "username": "5b7204df5a2e2c2bd6d6088673206b01",
           "displayName": "I KC Zadkiel I",
           "races": 196,
@@ -503,7 +503,7 @@
           "ppr": 128
         },
         {
-          "rank": 1196,
+          "rank": 1199,
           "username": "3a0b3a8cc922fae587432ade7a6160f7",
           "displayName": "BlazingFlowerz",
           "races": 213,
@@ -513,7 +513,7 @@
           "ppr": 115
         },
         {
-          "rank": 1272,
+          "rank": 1273,
           "username": "10712a0152fd25105448b6ef1298504b",
           "displayName": "RationalGoldApe",
           "races": 156,
@@ -593,7 +593,17 @@
           "ppr": 129
         },
         {
-          "rank": 1755,
+          "rank": 1752,
+          "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
+          "displayName": "viewmyvioletgarage",
+          "races": 77,
+          "accuracy": 92.02,
+          "wpm": 87.7,
+          "points": 10192,
+          "ppr": 132
+        },
+        {
+          "rank": 1756,
           "username": "linmauelmiranda",
           "displayName": "LedByHim",
           "races": 71,
@@ -603,7 +613,7 @@
           "ppr": 143
         },
         {
-          "rank": 1758,
+          "rank": 1759,
           "username": "61d10b8f23f7f8535f91a789fc7c0895",
           "displayName": "The Queen",
           "races": 74,
@@ -613,7 +623,7 @@
           "ppr": 136
         },
         {
-          "rank": 1783,
+          "rank": 1784,
           "username": "1f3436c751b4f5f64b1093338f118942",
           "displayName": "The Big Yahu",
           "races": 73,
@@ -621,20 +631,10 @@
           "wpm": 82.1,
           "points": 9704,
           "ppr": 133
-        },
-        {
-          "rank": 2000,
-          "username": "b6456e4c4be6acdfede3e806a662ed4c",
-          "displayName": "Safire",
-          "races": 66,
-          "accuracy": 84.56,
-          "wpm": 46,
-          "points": 6865,
-          "ppr": 104
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1794130362518
+      "_syncedAt": 1794133446989
     }
   },
   "order": [
@@ -642,5 +642,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1794130362518
+  "_syncedAt": 1794133446990
 }

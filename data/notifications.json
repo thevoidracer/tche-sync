@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:fe21cb49ffd12a2f5d3de7b8373bf7a6",
+      "type": "new-member",
+      "text": "viewmyvioletgarage joined the team.",
+      "meta": {
+        "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6"
+      },
+      "createdAt": 1794133504326
+    },
+    {
       "key": "milestone:5b7204df5a2e2c2bd6d6088673206b01:2500",
       "type": "milestone",
       "text": "I KC Zadkiel I crossed 2,500 lifetime races!",
@@ -824,5 +833,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1794130419690
+  "_syncedAt": 1794133504326
 }
