@@ -83,6 +83,19 @@
       {
         "rank": 7,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 127,
+        "wpm": 88.1,
+        "accuracy": 95.62,
+        "points": 17492,
+        "tier": "B"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -94,7 +107,7 @@
         "tier": "B"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "GregThe2ndFastTyper",
         "displayName": "GregThe2ndFastTyper",
@@ -105,19 +118,6 @@
         "accuracy": 95.06,
         "points": 15993,
         "tier": "A"
-      },
-      {
-        "rank": 9,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 111,
-        "wpm": 87.9,
-        "accuracy": 95.76,
-        "points": 15303,
-        "tier": "B"
       },
       {
         "rank": 10,
@@ -1238,7 +1238,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794096979633
+    "_syncedAt": 1794100577349
   },
   "1463": {
     "eventId": "1463",
@@ -1328,10 +1328,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Side Hustler 100",
-        "races": 202,
+        "races": 218,
         "wpm": 88.9,
-        "accuracy": 95.54,
-        "points": 27878,
+        "accuracy": 95.47,
+        "points": 30067,
         "tier": "$500,000"
       },
       {
@@ -1738,7 +1738,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794096983685
+    "_syncedAt": 1794100581401
   },
   "1550": {
     "eventId": "1550",
@@ -1815,10 +1815,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Side Hustler 100",
-        "races": 245,
+        "races": 261,
         "wpm": 89,
-        "accuracy": 95.51,
-        "points": 33815,
+        "accuracy": 95.46,
+        "points": 36004,
         "tier": "B"
       },
       {
@@ -2238,6 +2238,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794096987623
+    "_syncedAt": 1794100585320
   }
 }
