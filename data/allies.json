@@ -322,10 +322,10 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 14260,
-        "wpm": 81,
+        "allTimeRaces": 14276,
+        "wpm": 80,
         "highestWPM": 111,
-        "teamRaces": 12046,
+        "teamRaces": 12068,
         "acc": 93.11,
         "season": null,
         "status": "active",
@@ -586,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83765,
+        "races": 83787,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 41
       },
       "daily": {
-        "races": 121,
+        "races": 143,
         "avgWPM": 78,
-        "avgAcc": 94.45,
+        "avgAcc": 94.13,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794175194605
+    "_syncedAt": 1794176884642
   },
   "THB0S": {
     "tag": "THB0S",
@@ -609,7 +609,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5157,
+    "profileViews": 5159,
     "leagueTier": 10,
     "racers": [
       {
@@ -631,11 +631,11 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1344,
-        "wpm": 92,
+        "allTimeRaces": 1370,
+        "wpm": 98,
         "highestWPM": 123,
-        "teamRaces": 1143,
-        "acc": 96.32,
+        "teamRaces": 1160,
+        "acc": 96.33,
         "season": null,
         "status": "active",
         "lastLogin": 1794173556
@@ -645,11 +645,11 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11329,
-        "wpm": 111,
+        "allTimeRaces": 11361,
+        "wpm": 104,
         "highestWPM": 142,
-        "teamRaces": 1900,
-        "acc": 98.03,
+        "teamRaces": 1924,
+        "acc": 98.02,
         "season": null,
         "status": "active",
         "lastLogin": 1794174998
@@ -869,11 +869,11 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8889,
-        "wpm": 51,
+        "allTimeRaces": 8891,
+        "wpm": 52,
         "highestWPM": 84,
-        "teamRaces": 955,
-        "acc": 93.84,
+        "teamRaces": 957,
+        "acc": 93.83,
         "season": null,
         "status": "active",
         "lastLogin": 1794172663
@@ -967,11 +967,11 @@
         "displayName": "JoeyAtyper",
         "role": "member",
         "joinStamp": 1792011838,
-        "allTimeRaces": 6463,
-        "wpm": 66,
+        "allTimeRaces": 6471,
+        "wpm": 70,
         "highestWPM": 98,
-        "teamRaces": 316,
-        "acc": 84.91,
+        "teamRaces": 325,
+        "acc": 84.81,
         "season": null,
         "status": "active",
         "lastLogin": 1794174583
@@ -1023,10 +1023,10 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1759,
-        "wpm": 91,
+        "allTimeRaces": 1761,
+        "wpm": 93,
         "highestWPM": 122,
-        "teamRaces": 1307,
+        "teamRaces": 1310,
         "acc": 96.23,
         "season": null,
         "status": "active",
@@ -1058,7 +1058,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1794172020
+        "lastLogin": 1794176438
       },
       {
         "username": "taco13001",
@@ -1259,20 +1259,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136700,
+        "races": 136755,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1021,
-        "avgWPM": 75,
-        "avgAcc": 94.2,
+        "races": 1038,
+        "avgWPM": 76,
+        "avgAcc": 94.24,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794175221458
+    "_syncedAt": 1794176903844
   }
 }
