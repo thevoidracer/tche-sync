@@ -35,10 +35,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Officer😲😱😱😱",
-        "races": 450,
-        "wpm": 112.7,
-        "accuracy": 97.74,
-        "points": 68780,
+        "races": 458,
+        "wpm": 112.5,
+        "accuracy": 97.73,
+        "points": 69949,
         "tier": "A"
       },
       {
@@ -61,11 +61,11 @@
         "displayName": "KirbyDelta",
         "nickname": "Night Patrol",
         "squad": "Investor 1k",
-        "races": 296,
-        "wpm": 79.2,
-        "accuracy": 91.7,
-        "points": 37887,
-        "tier": "C"
+        "races": 329,
+        "wpm": 79.6,
+        "accuracy": 91.97,
+        "points": 42303,
+        "tier": "B"
       },
       {
         "rank": 6,
@@ -147,6 +147,19 @@
       },
       {
         "rank": 12,
+        "tag": "THB0S",
+        "username": "B-D-R-",
+        "displayName": "B-D-R-",
+        "nickname": "Not So Koi",
+        "squad": "Officer😲😱😱😱",
+        "races": 121,
+        "wpm": 96.1,
+        "accuracy": 95.83,
+        "points": 17167,
+        "tier": "A"
+      },
+      {
+        "rank": 13,
         "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
@@ -159,7 +172,7 @@
         "tier": "B"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "tag": "IMT",
         "username": "GregThe2ndFastTyper",
         "displayName": "GregThe2ndFastTyper",
@@ -169,19 +182,6 @@
         "wpm": 100.4,
         "accuracy": 95.06,
         "points": 15993,
-        "tier": "A"
-      },
-      {
-        "rank": 14,
-        "tag": "THB0S",
-        "username": "B-D-R-",
-        "displayName": "B-D-R-",
-        "nickname": "Not So Koi",
-        "squad": "Officer😲😱😱😱",
-        "races": 108,
-        "wpm": 95.5,
-        "accuracy": 95.71,
-        "points": 15275,
         "tier": "A"
       },
       {
@@ -295,11 +295,11 @@
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 71,
-        "wpm": 93.6,
-        "accuracy": 93.34,
-        "points": 9729,
-        "tier": "B"
+        "races": 73,
+        "wpm": 93.7,
+        "accuracy": 93.33,
+        "points": 10005,
+        "tier": "A"
       },
       {
         "rank": 24,
@@ -1277,13 +1277,26 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794153595243
+    "_syncedAt": 1794155338565
   },
   "1522": {
     "eventId": "1522",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "KirbyDelta",
+        "displayName": "KirbyDelta",
+        "nickname": "Night Patrol",
+        "squad": "Investor 1k",
+        "races": 33,
+        "wpm": 83.7,
+        "accuracy": 94.26,
+        "points": 4413,
+        "tier": null
+      },
+      {
+        "rank": 2,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
@@ -1296,20 +1309,20 @@
         "tier": null
       },
       {
-        "rank": 2,
+        "rank": 3,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 4,
-        "wpm": 89.3,
-        "accuracy": 93.41,
-        "points": 541,
+        "races": 6,
+        "wpm": 91.5,
+        "accuracy": 93.32,
+        "points": 816,
         "tier": null
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -1322,7 +1335,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794153590226
+    "_syncedAt": 1794155334279
   },
   "1550": {
     "eventId": "1550",
@@ -1347,11 +1360,11 @@
         "displayName": "KirbyDelta",
         "nickname": "Night Patrol",
         "squad": "Investor 1k",
-        "races": 700,
-        "wpm": 78.2,
-        "accuracy": 92.19,
-        "points": 89782,
-        "tier": "C"
+        "races": 733,
+        "wpm": 78.5,
+        "accuracy": 92.29,
+        "points": 94198,
+        "tier": "B"
       },
       {
         "rank": 3,
@@ -1412,11 +1425,11 @@
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 243,
+        "races": 245,
         "wpm": 94.7,
-        "accuracy": 93.41,
-        "points": 33445,
-        "tier": "B"
+        "accuracy": 93.4,
+        "points": 33721,
+        "tier": "A"
       },
       {
         "rank": 8,
@@ -1835,6 +1848,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794153599321
+    "_syncedAt": 1794155342680
   }
 }

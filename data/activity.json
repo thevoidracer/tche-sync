@@ -102,6 +102,11 @@
     },
     {
       "hour": "2026-11-08 15:00:00",
+      "racer": "KirbyDelta",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-08 15:00:00",
       "racer": "Void Racer",
       "races": 4
     },
@@ -109,8 +114,18 @@
       "hour": "2026-11-08 15:00:00",
       "racer": "SKZ FIRAH",
       "races": 1
+    },
+    {
+      "hour": "2026-11-08 16:00:00",
+      "racer": "KirbyDelta",
+      "races": 23
+    },
+    {
+      "hour": "2026-11-08 16:00:00",
+      "racer": "Void Racer",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794153548701
+  "_syncedAt": 1794155293685
 }

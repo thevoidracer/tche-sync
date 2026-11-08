@@ -399,7 +399,7 @@
         "acc": 95.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1794065972
+        "lastLogin": 1794155106
       },
       {
         "username": "dac15c1994a90cbf2a9bd6dab29b550a",
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794153599837
+    "_syncedAt": 1794155342864
   },
   "THB0S": {
     "tag": "THB0S",
@@ -673,11 +673,11 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11278,
-        "wpm": 112,
+        "allTimeRaces": 11296,
+        "wpm": 108,
         "highestWPM": 142,
-        "teamRaces": 1850,
-        "acc": 98.05,
+        "teamRaces": 1858,
+        "acc": 98.04,
         "season": null,
         "status": "active",
         "lastLogin": 1794150337
@@ -904,7 +904,7 @@
         "acc": 93.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1794147710
+        "lastLogin": 1794155130
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1205,14 +1205,14 @@
         "displayName": "B-D-R-",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2598,
-        "wpm": 95,
+        "allTimeRaces": 2611,
+        "wpm": 100,
         "highestWPM": 119,
-        "teamRaces": 2584,
-        "acc": 95.63,
+        "teamRaces": 2597,
+        "acc": 95.64,
         "season": null,
         "status": "active",
-        "lastLogin": 1794148896
+        "lastLogin": 1794153855
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136349,
+        "races": 136370,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1099,
+        "races": 1095,
         "avgWPM": 77,
-        "avgAcc": 94.15,
+        "avgAcc": 94.1,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794153621920
+    "_syncedAt": 1794155361940
   }
 }

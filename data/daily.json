@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 120,
+      "rank": 90,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
-      "races": 100,
-      "accuracy": 90.75,
-      "wpm": 79.3,
-      "points": 12672,
-      "ppr": 127
+      "races": 133,
+      "accuracy": 91.64,
+      "wpm": 80.4,
+      "points": 17087,
+      "ppr": 128
     },
     {
-      "rank": 130,
+      "rank": 132,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 87,
@@ -21,7 +21,7 @@
       "ppr": 137
     },
     {
-      "rank": 258,
+      "rank": 260,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
       "races": 40,
@@ -31,7 +31,7 @@
       "ppr": 135
     },
     {
-      "rank": 295,
+      "rank": 298,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "RemarkableJadeCheetah",
       "races": 32,
@@ -41,17 +41,17 @@
       "ppr": 134
     },
     {
-      "rank": 319,
+      "rank": 313,
       "username": "taylorja32",
       "displayName": "Void Racer",
-      "races": 27,
-      "accuracy": 92.77,
+      "races": 29,
+      "accuracy": 92.8,
       "wpm": 96.5,
-      "points": 3714,
+      "points": 3990,
       "ppr": 138
     },
     {
-      "rank": 340,
+      "rank": 342,
       "username": "nathanmduncan",
       "displayName": "Nathan",
       "races": 23,
@@ -61,7 +61,7 @@
       "ppr": 144
     },
     {
-      "rank": 540,
+      "rank": 537,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 5,
@@ -81,7 +81,7 @@
       "ppr": 129
     },
     {
-      "rank": 627,
+      "rank": 628,
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
       "displayName": "LeoRuna",
       "races": 1,
@@ -91,5 +91,5 @@
       "ppr": 114
     }
   ],
-  "_syncedAt": 1794153545219
+  "_syncedAt": 1794155290243
 }
