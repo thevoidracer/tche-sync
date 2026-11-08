@@ -606,15 +606,15 @@
         "members": 42
       },
       "daily": {
-        "races": 151,
-        "avgWPM": 60,
-        "avgAcc": 92.39,
+        "races": 137,
+        "avgWPM": 61,
+        "avgAcc": 92.28,
         "members": 42
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794095067129
+    "_syncedAt": 1794096987769
   },
   "THB0S": {
     "tag": "THB0S",
@@ -631,14 +631,14 @@
         "displayName": "ella   ",
         "role": "member",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102156,
-        "wpm": 86,
+        "allTimeRaces": 102161,
+        "wpm": 87,
         "highestWPM": 156,
-        "teamRaces": 1105,
-        "acc": 96.09,
+        "teamRaces": 1110,
+        "acc": 96.1,
         "season": null,
         "status": "active",
-        "lastLogin": 1794093672
+        "lastLogin": 1794096006
       },
       {
         "username": "joepellicc_gold",
@@ -1072,7 +1072,7 @@
         "acc": 94,
         "season": null,
         "status": "active",
-        "lastLogin": 1794090977
+        "lastLogin": 1794096932
       },
       {
         "username": "taco13001",
@@ -1163,14 +1163,14 @@
         "displayName": "nev444ehh",
         "role": "member",
         "joinStamp": 1779496787,
-        "allTimeRaces": 2814,
-        "wpm": 70,
+        "allTimeRaces": 2815,
+        "wpm": 71,
         "highestWPM": 110,
-        "teamRaces": 2514,
+        "teamRaces": 2515,
         "acc": 91.9,
         "season": null,
         "status": "active",
-        "lastLogin": 1793413639
+        "lastLogin": 1794095953
       },
       {
         "username": "sampath87",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 135908,
+        "races": 135914,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1336,
-        "avgWPM": 80,
-        "avgAcc": 94.47,
+        "races": 1283,
+        "avgWPM": 79,
+        "avgAcc": 94.37,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794095085875
+    "_syncedAt": 1794097040353
   }
 }

@@ -88,9 +88,14 @@
     {
       "hour": "2026-11-07 23:00:00",
       "racer": "asteroids",
-      "races": 6
+      "races": 35
+    },
+    {
+      "hour": "2026-11-07 23:00:00",
+      "racer": "Eclipse",
+      "races": 5
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794095018915
+  "_syncedAt": 1794096936815
 }
