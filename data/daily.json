@@ -1,17 +1,7 @@
 {
   "racers": [
     {
-      "rank": 94,
-      "username": "75ece50e19f0ca3d92787e4a86138578",
-      "displayName": "rorok09",
-      "races": 118,
-      "accuracy": 96.66,
-      "wpm": 89,
-      "points": 16484,
-      "ppr": 140
-    },
-    {
-      "rank": 122,
+      "rank": 119,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -21,7 +11,17 @@
       "ppr": 127
     },
     {
-      "rank": 132,
+      "rank": 122,
+      "username": "75ece50e19f0ca3d92787e4a86138578",
+      "displayName": "rorok09",
+      "races": 89,
+      "accuracy": 96.79,
+      "wpm": 90.1,
+      "points": 12497,
+      "ppr": 140
+    },
+    {
+      "rank": 133,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 87,
@@ -31,14 +31,14 @@
       "ppr": 137
     },
     {
-      "rank": 291,
+      "rank": 264,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
-      "races": 34,
-      "accuracy": 95.15,
-      "wpm": 82.2,
-      "points": 4565,
-      "ppr": 134
+      "races": 40,
+      "accuracy": 95.08,
+      "wpm": 82.9,
+      "points": 5381,
+      "ppr": 135
     },
     {
       "rank": 299,
@@ -51,7 +51,7 @@
       "ppr": 134
     },
     {
-      "rank": 343,
+      "rank": 340,
       "username": "nathanmduncan",
       "displayName": "Nathan",
       "races": 23,
@@ -61,7 +61,7 @@
       "ppr": 144
     },
     {
-      "rank": 350,
+      "rank": 348,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 23,
@@ -71,7 +71,7 @@
       "ppr": 138
     },
     {
-      "rank": 545,
+      "rank": 541,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 5,
@@ -81,7 +81,7 @@
       "ppr": 141
     },
     {
-      "rank": 635,
+      "rank": 627,
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
       "displayName": "LeoRuna",
       "races": 1,
@@ -91,5 +91,5 @@
       "ppr": 114
     }
   ],
-  "_syncedAt": 1794146900054
+  "_syncedAt": 1794149132343
 }

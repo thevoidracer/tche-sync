@@ -3,7 +3,7 @@
     {
       "hour": "2026-11-07 14:00:00",
       "racer": "rorok09",
-      "races": 57
+      "races": 28
     },
     {
       "hour": "2026-11-07 15:00:00",
@@ -104,8 +104,13 @@
       "hour": "2026-11-08 13:00:00",
       "racer": "- Void Grinder -",
       "races": 9
+    },
+    {
+      "hour": "2026-11-08 14:00:00",
+      "racer": "- Void Grinder -",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794146903546
+  "_syncedAt": 1794149135350
 }

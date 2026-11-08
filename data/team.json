@@ -632,11 +632,11 @@
       "allTimeRaces": 1988,
       "wpm": 84,
       "highestWPM": 140,
-      "teamRaces": 310,
+      "teamRaces": 316,
       "acc": 95.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1794144295
+      "lastLogin": 1794149030
     },
     {
       "username": "newkeyboard512",
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70901,
+      "races": 70907,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 46
     },
     "daily": {
-      "races": 495,
+      "races": 472,
       "avgWPM": 86,
-      "avgAcc": 94.92,
+      "avgAcc": 94.84,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794146848587
+  "_syncedAt": 1794149066309
 }

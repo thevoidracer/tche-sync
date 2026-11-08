@@ -476,14 +476,14 @@
         "displayName": "I N V I S I B L E",
         "role": "member",
         "joinStamp": 1794074920,
-        "allTimeRaces": 1667,
+        "allTimeRaces": 1677,
         "wpm": 31,
         "highestWPM": 103,
-        "teamRaces": 26,
-        "acc": 95.86,
+        "teamRaces": 35,
+        "acc": 95.91,
         "season": null,
         "status": "active",
-        "lastLogin": 1794074720
+        "lastLogin": 1794147699
       },
       {
         "username": "b41c8d94a2d0a7fe7c5c8e2914a6ccef",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83732,
+        "races": 83741,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 162,
-        "avgWPM": 70,
-        "avgAcc": 94.58,
+        "races": 165,
+        "avgWPM": 68,
+        "avgAcc": 94.65,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794146950288
+    "_syncedAt": 1794149179522
   },
   "THB0S": {
     "tag": "THB0S",
@@ -680,7 +680,7 @@
         "acc": 98.05,
         "season": null,
         "status": "active",
-        "lastLogin": 1794100791
+        "lastLogin": 1794148096
       },
       {
         "username": "mcculpar",
@@ -897,14 +897,14 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8812,
-        "wpm": 49,
+        "allTimeRaces": 8842,
+        "wpm": 53,
         "highestWPM": 84,
-        "teamRaces": 880,
-        "acc": 93.87,
+        "teamRaces": 900,
+        "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1794098271
+        "lastLogin": 1794147710
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1212,7 +1212,7 @@
         "acc": 95.63,
         "season": null,
         "status": "active",
-        "lastLogin": 1794144825
+        "lastLogin": 1794148896
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136314,
+        "races": 136334,
         "avgWPM": 68,
-        "avgAcc": 94.05,
+        "avgAcc": 94.04,
         "members": 46
       },
       "daily": {
-        "races": 1191,
-        "avgWPM": 76,
-        "avgAcc": 93.96,
+        "races": 1154,
+        "avgWPM": 77,
+        "avgAcc": 94.04,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794146999520
+    "_syncedAt": 1794149199071
   }
 }
