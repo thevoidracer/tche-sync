@@ -1,7 +1,7 @@
 {
   "timeframes": {
     "24h": {
-      "rank": 26,
+      "rank": 27,
       "races": 443,
       "accuracy": 94.41,
       "wpm": 87.3,
@@ -25,7 +25,7 @@
       "ppr": 134
     },
     "weekly": {
-      "rank": 23,
+      "rank": 24,
       "races": 60,
       "accuracy": 93.97,
       "wpm": 89.6,
@@ -33,11 +33,11 @@
       "ppr": 136
     },
     "alltime": {
-      "rank": 84,
-      "races": 37636,
-      "accuracy": 94.03,
+      "rank": 83,
+      "races": 38079,
+      "accuracy": 94.04,
       "wpm": 81,
-      "points": 4971483,
+      "points": 5031594,
       "ppr": 132
     }
   },
@@ -48,5 +48,5 @@
   "points": 1950767,
   "ppr": 133,
   "source": "ntstartrack.org",
-  "_syncedAt": 1794135982550
+  "_syncedAt": 1794138265135
 }
