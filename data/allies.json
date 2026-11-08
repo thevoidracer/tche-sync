@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794118550874
+    "_syncedAt": 1794121807674
   },
   "THB0S": {
     "tag": "THB0S",
@@ -701,14 +701,14 @@
         "displayName": "Joereynolds",
         "role": "officer",
         "joinStamp": 1783518667,
-        "allTimeRaces": 12398,
-        "wpm": 95,
+        "allTimeRaces": 12405,
+        "wpm": 100,
         "highestWPM": 120,
-        "teamRaces": 5437,
-        "acc": 92.39,
+        "teamRaces": 5444,
+        "acc": 92.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1794091941
+        "lastLogin": 1794119587
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -736,7 +736,7 @@
         "acc": 91.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1794017215
+        "lastLogin": 1794118985
       },
       {
         "username": "strive_rip",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136163,
+        "races": 136170,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1177,
+        "races": 1184,
         "avgWPM": 76,
-        "avgAcc": 93.81,
+        "avgAcc": 93.78,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794118600424
+    "_syncedAt": 1794121856987
   }
 }

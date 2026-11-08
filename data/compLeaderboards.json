@@ -239,6 +239,19 @@
       {
         "rank": 19,
         "tag": "THB0S",
+        "username": "Joereynolds",
+        "displayName": "Joereynolds",
+        "nickname": "Boo!",
+        "squad": "Officer😲😱😱😱",
+        "races": 101,
+        "wpm": 85.2,
+        "accuracy": 92.29,
+        "points": 13292,
+        "tier": "A"
+      },
+      {
+        "rank": 20,
+        "tag": "THB0S",
         "username": "Zeus 19",
         "displayName": "Zeus 19",
         "nickname": "Master Motorist",
@@ -248,19 +261,6 @@
         "accuracy": 85.71,
         "points": 12574,
         "tier": "C"
-      },
-      {
-        "rank": 20,
-        "tag": "THB0S",
-        "username": "Joereynolds",
-        "displayName": "Joereynolds",
-        "nickname": "Boo!",
-        "squad": "Officer😲😱😱😱",
-        "races": 94,
-        "wpm": 84.2,
-        "accuracy": 92.54,
-        "points": 12361,
-        "tier": "A"
       },
       {
         "rank": 21,
@@ -1251,7 +1251,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794118542577
+    "_syncedAt": 1794121798894
   },
   "1463": {
     "eventId": "1463",
@@ -1751,7 +1751,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794118546601
+    "_syncedAt": 1794121803454
   },
   "1550": {
     "eventId": "1550",
@@ -2251,6 +2251,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794118550679
+    "_syncedAt": 1794121807511
   }
 }
