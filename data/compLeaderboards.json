@@ -139,10 +139,10 @@
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 149,
-        "wpm": 83.4,
-        "accuracy": 94.9,
-        "points": 20039,
+        "races": 158,
+        "wpm": 83.6,
+        "accuracy": 94.93,
+        "points": 21267,
         "tier": "B"
       },
       {
@@ -329,6 +329,19 @@
       },
       {
         "rank": 26,
+        "tag": "THB0S",
+        "username": "Festive Typer",
+        "displayName": "Festive Typer",
+        "nickname": "Not So Koi",
+        "squad": "Officer😲😱😱😱",
+        "races": 76,
+        "wpm": 61.5,
+        "accuracy": 94.67,
+        "points": 9408,
+        "tier": "B"
+      },
+      {
+        "rank": 27,
         "tag": "KEYCAT",
         "username": "IM A FOODIE",
         "displayName": "IM A FOODIE",
@@ -341,7 +354,7 @@
         "tier": "B"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "Nish_OUT",
         "displayName": "Nish_OUT",
@@ -354,7 +367,7 @@
         "tier": "A"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "IMT",
         "username": "Joe and Uh",
         "displayName": "Joe and Uh",
@@ -367,7 +380,7 @@
         "tier": "A"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "KEYCAT",
         "username": "haleyyrose",
         "displayName": "haleyyrose",
@@ -380,7 +393,7 @@
         "tier": "A"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "THB0S",
         "username": "GetGooder",
         "displayName": "GetGooder",
@@ -390,19 +403,6 @@
         "wpm": 76.5,
         "accuracy": 95.05,
         "points": 8541,
-        "tier": "B"
-      },
-      {
-        "rank": 31,
-        "tag": "THB0S",
-        "username": "Festive Typer",
-        "displayName": "Festive Typer",
-        "nickname": "Not So Koi",
-        "squad": "Officer😲😱😱😱",
-        "races": 69,
-        "wpm": 61.7,
-        "accuracy": 94.55,
-        "points": 8535,
         "tier": "B"
       },
       {
@@ -1249,22 +1249,9 @@
         "accuracy": 0,
         "points": 0,
         "tier": "B"
-      },
-      {
-        "rank": 97,
-        "tag": "THB0S",
-        "username": "TDS1234",
-        "displayName": "TDS1234",
-        "nickname": "Original Gangster",
-        "squad": "Newbies!😁😁😁😁",
-        "races": 0,
-        "wpm": 0,
-        "accuracy": 0,
-        "points": 0,
-        "tier": "B"
       }
     ],
-    "_syncedAt": 1794166251425
+    "_syncedAt": 1794168471153
   },
   "1522": {
     "eventId": "1522",
@@ -1289,10 +1276,10 @@
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 21,
-        "wpm": 83.1,
-        "accuracy": 94.94,
-        "points": 2823,
+        "races": 30,
+        "wpm": 84,
+        "accuracy": 95.1,
+        "points": 4051,
         "tier": null
       },
       {
@@ -1322,7 +1309,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794166247141
+    "_syncedAt": 1794168466712
   },
   "1550": {
     "eventId": "1550",
@@ -1360,10 +1347,10 @@
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 331,
-        "wpm": 83.3,
-        "accuracy": 94.77,
-        "points": 44436,
+        "races": 340,
+        "wpm": 83.4,
+        "accuracy": 94.79,
+        "points": 45664,
         "tier": "B"
       },
       {
@@ -1835,6 +1822,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794166255338
+    "_syncedAt": 1794168475095
   }
 }
