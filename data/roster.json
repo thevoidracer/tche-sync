@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 93,
+    "tierA": 92,
     "tierB": 81,
     "weeklyReq": 100
   },
@@ -92,7 +92,7 @@
       "nickname": "Master Motorist",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 92,
       "topWPM": 119,
       "lifetimeRaces": 2046,
@@ -287,7 +287,7 @@
       "nickname": "Olde School",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 92,
       "topWPM": 132,
       "lifetimeRaces": 7011,
@@ -313,11 +313,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Investor 1k",
-      "tier": "B",
-      "avgWPM": 81,
+      "tier": "C",
+      "avgWPM": 76,
       "topWPM": 102,
-      "lifetimeRaces": 7868,
-      "teamRaces": 1836,
+      "lifetimeRaces": 7900,
+      "teamRaces": 1875,
       "joined": "10/15/26"
     },
     {
@@ -608,5 +608,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794157361247
+  "_syncedAt": 1794159673809
 }

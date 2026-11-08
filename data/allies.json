@@ -479,11 +479,11 @@
         "allTimeRaces": 1685,
         "wpm": 32,
         "highestWPM": 103,
-        "teamRaces": 39,
-        "acc": 95.69,
+        "teamRaces": 44,
+        "acc": 95.62,
         "season": null,
         "status": "active",
-        "lastLogin": 1794156311
+        "lastLogin": 1794159516
       },
       {
         "username": "b41c8d94a2d0a7fe7c5c8e2914a6ccef",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83745,
+        "races": 83750,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 160,
-        "avgWPM": 68,
-        "avgAcc": 94.91,
+        "races": 163,
+        "avgWPM": 67,
+        "avgAcc": 94.96,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794157409810
+    "_syncedAt": 1794159727814
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5139,
+    "profileViews": 5146,
     "leagueTier": 10,
     "racers": [
       {
@@ -676,8 +676,8 @@
         "allTimeRaces": 11328,
         "wpm": 114,
         "highestWPM": 142,
-        "teamRaces": 1889,
-        "acc": 98.04,
+        "teamRaces": 1900,
+        "acc": 98.03,
         "season": null,
         "status": "active",
         "lastLogin": 1794150337
@@ -900,8 +900,8 @@
         "allTimeRaces": 8875,
         "wpm": 58,
         "highestWPM": 84,
-        "teamRaces": 924,
-        "acc": 93.87,
+        "teamRaces": 941,
+        "acc": 93.86,
         "season": null,
         "status": "active",
         "lastLogin": 1794155130
@@ -911,11 +911,11 @@
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 3050,
-        "wpm": 50,
+        "allTimeRaces": 3091,
+        "wpm": 46,
         "highestWPM": 85,
-        "teamRaces": 1618,
-        "acc": 90.03,
+        "teamRaces": 1673,
+        "acc": 90.11,
         "season": null,
         "status": "active",
         "lastLogin": 1794156709
@@ -1205,14 +1205,14 @@
         "displayName": "B-D-R-",
         "role": "officer",
         "joinStamp": 1784755993,
-        "allTimeRaces": 2611,
-        "wpm": 100,
+        "allTimeRaces": 2613,
+        "wpm": 103,
         "highestWPM": 119,
-        "teamRaces": 2597,
+        "teamRaces": 2599,
         "acc": 95.64,
         "season": null,
         "status": "active",
-        "lastLogin": 1794153855
+        "lastLogin": 1794158785
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136412,
+        "races": 136497,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1068,
+        "races": 1098,
         "avgWPM": 76,
-        "avgAcc": 94.01,
+        "avgAcc": 94.02,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794157428553
+    "_syncedAt": 1794159752783
   }
 }
