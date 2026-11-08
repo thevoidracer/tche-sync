@@ -2,7 +2,7 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 43,
+    "members": 41,
     "activePercent": 83,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
@@ -26,7 +26,7 @@
       {
         "username": "jaysongilman28",
         "displayName": "JaysonG",
-        "role": "member",
+        "role": "officer",
         "joinStamp": 1791230620,
         "allTimeRaces": 2889,
         "wpm": 66,
@@ -50,20 +50,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1794099656
-      },
-      {
-        "username": "eeeeehehhhhhhwut",
-        "displayName": "eeeeehehhhhhhwut",
-        "role": "member",
-        "joinStamp": 1794105746,
-        "allTimeRaces": 9359,
-        "wpm": 86,
-        "highestWPM": 130,
-        "teamRaces": 88,
-        "acc": 95.11,
-        "season": null,
-        "status": "banned",
-        "lastLogin": 1794104646
       },
       {
         "username": "66e96614eb894403e575fc229ce9b81f",
@@ -276,20 +262,6 @@
         "lastLogin": 1792524383
       },
       {
-        "username": "fc918be552f0625129fccb7dff1f305a",
-        "displayName": "i n v s i b l e hehe",
-        "role": "member",
-        "joinStamp": 1794009434,
-        "allTimeRaces": 764,
-        "wpm": 45,
-        "highestWPM": 67,
-        "teamRaces": 2,
-        "acc": 91.18,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1794008701
-      },
-      {
         "username": "87fcfdfb0800cb09690e8a373dc58063",
         "displayName": "weak kingsley",
         "role": "member",
@@ -350,14 +322,14 @@
         "displayName": "Cats_4_Eva",
         "role": "officer",
         "joinStamp": 1763078802,
-        "allTimeRaces": 14239,
-        "wpm": 76,
+        "allTimeRaces": 14252,
+        "wpm": 83,
         "highestWPM": 111,
-        "teamRaces": 12031,
+        "teamRaces": 12042,
         "acc": 93.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794144066
+        "lastLogin": 1794162458
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -525,7 +497,7 @@
         "acc": 93.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1794151775
+        "lastLogin": 1794163717
       },
       {
         "username": "happygoluckygirl07",
@@ -614,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83750,
+        "races": 83761,
         "avgWPM": 56,
         "avgAcc": 93.52,
-        "members": 43
+        "members": 41
       },
       "daily": {
-        "races": 158,
-        "avgWPM": 67,
-        "avgAcc": 94.98,
-        "members": 43
+        "races": 140,
+        "avgWPM": 72,
+        "avgAcc": 94.6,
+        "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794161571510
+    "_syncedAt": 1794163774450
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +609,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5146,
+    "profileViews": 5147,
     "leagueTier": 10,
     "racers": [
       {
@@ -799,14 +771,14 @@
         "displayName": "hakari is the best",
         "role": "member",
         "joinStamp": 1790862720,
-        "allTimeRaces": 1553,
-        "wpm": 60,
+        "allTimeRaces": 1555,
+        "wpm": 55,
         "highestWPM": 84,
-        "teamRaces": 778,
-        "acc": 91.68,
+        "teamRaces": 780,
+        "acc": 91.67,
         "season": null,
         "status": "active",
-        "lastLogin": 1793981999
+        "lastLogin": 1794162400
       },
       {
         "username": "baglepet000",
@@ -897,25 +869,25 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8875,
-        "wpm": 58,
+        "allTimeRaces": 8884,
+        "wpm": 48,
         "highestWPM": 84,
-        "teamRaces": 941,
-        "acc": 93.86,
+        "teamRaces": 950,
+        "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1794155130
+        "lastLogin": 1794162502
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 3114,
-        "wpm": 48,
+        "allTimeRaces": 3137,
+        "wpm": 52,
         "highestWPM": 85,
-        "teamRaces": 1697,
-        "acc": 90.11,
+        "teamRaces": 1709,
+        "acc": 90.12,
         "season": null,
         "status": "active",
         "lastLogin": 1794156709
@@ -1287,20 +1259,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136521,
+        "races": 136544,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1121,
+        "races": 1105,
         "avgWPM": 75,
-        "avgAcc": 93.97,
+        "avgAcc": 93.93,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794161590362
+    "_syncedAt": 1794163793378
   }
 }
