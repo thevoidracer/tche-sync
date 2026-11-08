@@ -87,10 +87,10 @@
         "displayName": "Hot Chocolate",
         "nickname": "Solid Gold",
         "squad": "Loyal😎😎😎😎😎😎😎",
-        "races": 175,
+        "races": 186,
         "wpm": 91.7,
         "accuracy": 96.37,
-        "points": 24599,
+        "points": 26145,
         "tier": "A"
       },
       {
@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Hallowampus Fanclub",
+        "squad": "Side Hustler 100",
+        "races": 162,
+        "wpm": 83.4,
+        "accuracy": 94.96,
+        "points": 21802,
+        "tier": "B"
+      },
+      {
+        "rank": 10,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -120,7 +133,7 @@
         "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -130,19 +143,6 @@
         "wpm": 88.2,
         "accuracy": 95.7,
         "points": 21372,
-        "tier": "B"
-      },
-      {
-        "rank": 11,
-        "tag": "IMT",
-        "username": "- Void Grinder -",
-        "displayName": "- Void Grinder -",
-        "nickname": "Hallowampus Fanclub",
-        "squad": "Side Hustler 100",
-        "races": 158,
-        "wpm": 83.6,
-        "accuracy": 94.93,
-        "points": 21267,
         "tier": "B"
       },
       {
@@ -1251,7 +1251,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794168471153
+    "_syncedAt": 1794170634661
   },
   "1522": {
     "eventId": "1522",
@@ -1276,10 +1276,10 @@
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 30,
-        "wpm": 84,
-        "accuracy": 95.1,
-        "points": 4051,
+        "races": 34,
+        "wpm": 83.2,
+        "accuracy": 95.24,
+        "points": 4585,
         "tier": null
       },
       {
@@ -1309,7 +1309,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794168466712
+    "_syncedAt": 1794170630434
   },
   "1550": {
     "eventId": "1550",
@@ -1347,10 +1347,10 @@
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 340,
-        "wpm": 83.4,
-        "accuracy": 94.79,
-        "points": 45664,
+        "races": 344,
+        "wpm": 83.3,
+        "accuracy": 94.81,
+        "points": 46198,
         "tier": "B"
       },
       {
@@ -1822,6 +1822,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794168475095
+    "_syncedAt": 1794170638724
   }
 }

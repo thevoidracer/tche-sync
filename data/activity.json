@@ -3,7 +3,7 @@
     {
       "hour": "2026-11-07 20:00:00",
       "racer": "KirbyDelta",
-      "races": 31
+      "races": 16
     },
     {
       "hour": "2026-11-07 21:00:00",
@@ -119,8 +119,13 @@
       "hour": "2026-11-08 19:00:00",
       "racer": "- Void Grinder -",
       "races": 23
+    },
+    {
+      "hour": "2026-11-08 20:00:00",
+      "racer": "- Void Grinder -",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794168426760
+  "_syncedAt": 1794170591117
 }

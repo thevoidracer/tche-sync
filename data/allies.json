@@ -600,7 +600,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794168475247
+    "_syncedAt": 1794170638897
   },
   "THB0S": {
     "tag": "THB0S",
@@ -609,7 +609,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5149,
+    "profileViews": 5150,
     "leagueTier": 10,
     "racers": [
       {
@@ -624,21 +624,21 @@
         "acc": 96.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1794167884
+        "lastLogin": 1794170448
       },
       {
         "username": "joepellicc_gold",
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1275,
-        "wpm": 91,
+        "allTimeRaces": 1292,
+        "wpm": 96,
         "highestWPM": 123,
-        "teamRaces": 1075,
+        "teamRaces": 1087,
         "acc": 96.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1794149758
+        "lastLogin": 1794168597
       },
       {
         "username": "jckrayzie",
@@ -750,7 +750,7 @@
         "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1794072524
+        "lastLogin": 1794169056
       },
       {
         "username": "85a4f1d66bf6281e0f7e22f6baedb07a",
@@ -869,14 +869,14 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8884,
-        "wpm": 48,
+        "allTimeRaces": 8885,
+        "wpm": 49,
         "highestWPM": 84,
-        "teamRaces": 950,
+        "teamRaces": 951,
         "acc": 93.85,
         "season": null,
         "status": "active",
-        "lastLogin": 1794162502
+        "lastLogin": 1794170302
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1023,14 +1023,14 @@
         "displayName": "Sakupen",
         "role": "officer",
         "joinStamp": 1792586115,
-        "allTimeRaces": 4128,
+        "allTimeRaces": 4130,
         "wpm": 41,
         "highestWPM": 61,
         "teamRaces": 2590,
         "acc": 91.95,
         "season": null,
         "status": "active",
-        "lastLogin": 1794088517
+        "lastLogin": 1794170431
       },
       {
         "username": "sara0010",
@@ -1100,7 +1100,7 @@
         "acc": 92.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1793917179
+        "lastLogin": 1794168933
       },
       {
         "username": "the1stpsycho",
@@ -1245,20 +1245,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136573,
+        "races": 136586,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 45
       },
       "daily": {
-        "races": 1060,
+        "races": 1033,
         "avgWPM": 75,
-        "avgAcc": 93.93,
+        "avgAcc": 93.98,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794168494185
+    "_syncedAt": 1794170657752
   }
 }
