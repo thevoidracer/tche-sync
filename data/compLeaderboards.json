@@ -182,7 +182,7 @@
         "wpm": 95.7,
         "accuracy": 93,
         "points": 14713,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 15,
@@ -407,6 +407,19 @@
       },
       {
         "rank": 32,
+        "tag": "THB0S",
+        "username": "Festive Typer",
+        "displayName": "Festive Typer",
+        "nickname": "Ghost Lap",
+        "squad": "Officer😲😱😱😱",
+        "races": 60,
+        "wpm": 61.5,
+        "accuracy": 94.52,
+        "points": 7414,
+        "tier": "B"
+      },
+      {
+        "rank": 33,
         "tag": "SVC",
         "username": "TheGoat67",
         "displayName": "TheGoat67",
@@ -419,7 +432,7 @@
         "tier": "B"
       },
       {
-        "rank": 33,
+        "rank": 34,
         "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
@@ -432,7 +445,7 @@
         "tier": "C"
       },
       {
-        "rank": 34,
+        "rank": 35,
         "tag": "THB0S",
         "username": "God First",
         "displayName": "God First",
@@ -445,7 +458,7 @@
         "tier": "B"
       },
       {
-        "rank": 35,
+        "rank": 36,
         "tag": "KEYCAT",
         "username": "vertur",
         "displayName": "vertur",
@@ -458,7 +471,7 @@
         "tier": "C"
       },
       {
-        "rank": 36,
+        "rank": 37,
         "tag": "SVC",
         "username": "Javier Mendez",
         "displayName": "Javier Mendez",
@@ -471,7 +484,7 @@
         "tier": "B"
       },
       {
-        "rank": 37,
+        "rank": 38,
         "tag": "KEYCAT",
         "username": "Pandora",
         "displayName": "Pandora",
@@ -484,7 +497,7 @@
         "tier": "B"
       },
       {
-        "rank": 38,
+        "rank": 39,
         "tag": "SVC",
         "username": "BabyDudeSued",
         "displayName": "BabyDudeSued",
@@ -497,7 +510,7 @@
         "tier": "B"
       },
       {
-        "rank": 39,
+        "rank": 40,
         "tag": "THB0S",
         "username": "NL NitroDeveloper",
         "displayName": "NL NitroDeveloper",
@@ -508,19 +521,6 @@
         "accuracy": 94.91,
         "points": 5881,
         "tier": "C"
-      },
-      {
-        "rank": 40,
-        "tag": "THB0S",
-        "username": "Festive Typer",
-        "displayName": "Festive Typer",
-        "nickname": "Ghost Lap",
-        "squad": "Officer😲😱😱😱",
-        "races": 47,
-        "wpm": 61.5,
-        "accuracy": 95,
-        "points": 5839,
-        "tier": "B"
       },
       {
         "rank": 41,
@@ -1251,7 +1251,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794112401218
+    "_syncedAt": 1794115822001
   },
   "1463": {
     "eventId": "1463",
@@ -1751,7 +1751,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794112405444
+    "_syncedAt": 1794115826034
   },
   "1550": {
     "eventId": "1550",
@@ -1819,7 +1819,7 @@
         "wpm": 95.7,
         "accuracy": 93,
         "points": 37817,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 6,
@@ -2251,6 +2251,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794112409603
+    "_syncedAt": 1794115830447
   }
 }
