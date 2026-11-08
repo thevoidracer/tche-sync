@@ -265,11 +265,11 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3683,
-      "wpm": 93,
+      "allTimeRaces": 3704,
+      "wpm": 83,
       "highestWPM": 112,
-      "teamRaces": 466,
-      "acc": 95.71,
+      "teamRaces": 494,
+      "acc": 95.73,
       "season": null,
       "status": "active",
       "lastLogin": 1794127825
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70832,
+      "races": 70860,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 455,
+      "races": 483,
       "avgWPM": 85,
-      "avgAcc": 95.12,
+      "avgAcc": 95.19,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794128171800
+  "_syncedAt": 1794130330549
 }

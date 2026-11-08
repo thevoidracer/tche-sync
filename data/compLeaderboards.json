@@ -82,6 +82,19 @@
       },
       {
         "rank": 7,
+        "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 155,
+        "wpm": 88.2,
+        "accuracy": 95.7,
+        "points": 21372,
+        "tier": "B"
+      },
+      {
+        "rank": 8,
         "tag": "THB0S",
         "username": "WsCaster",
         "displayName": "WsCaster",
@@ -91,19 +104,6 @@
         "wpm": 72.7,
         "accuracy": 95.95,
         "points": 17531,
-        "tier": "A"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 127,
-        "wpm": 88.1,
-        "accuracy": 95.62,
-        "points": 17492,
         "tier": "A"
       },
       {
@@ -1251,7 +1251,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794128324069
+    "_syncedAt": 1794130423889
   },
   "1463": {
     "eventId": "1463",
@@ -1324,6 +1324,19 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 246,
+        "wpm": 88.9,
+        "accuracy": 95.54,
+        "points": 33946,
+        "tier": "$1,000,000"
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
@@ -1332,19 +1345,6 @@
         "wpm": 94.8,
         "accuracy": 93.41,
         "points": 32905,
-        "tier": "$1,000,000"
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 218,
-        "wpm": 88.9,
-        "accuracy": 95.47,
-        "points": 30067,
         "tier": "$500,000"
       },
       {
@@ -1751,7 +1751,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794128328092
+    "_syncedAt": 1794130427723
   },
   "1550": {
     "eventId": "1550",
@@ -1811,6 +1811,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 289,
+        "wpm": 89,
+        "accuracy": 95.51,
+        "points": 39884,
+        "tier": "B"
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
         "nickname": "Master Motorist",
@@ -1820,19 +1833,6 @@
         "accuracy": 93,
         "points": 37817,
         "tier": "B"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 261,
-        "wpm": 89,
-        "accuracy": 95.46,
-        "points": 36004,
-        "tier": "A"
       },
       {
         "rank": 7,
@@ -2251,6 +2251,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794128332153
+    "_syncedAt": 1794130431768
   }
 }
