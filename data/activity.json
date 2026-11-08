@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-07 13:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-07 13:00:00",
-      "racer": "- Void Grinder -",
-      "races": 13
-    },
-    {
       "hour": "2026-11-07 14:00:00",
       "racer": "rorok09",
       "races": 57
@@ -102,15 +92,20 @@
     },
     {
       "hour": "2026-11-08 09:00:00",
-      "racer": "viewmyvioletgarage",
+      "racer": "RemarkableJadeCheetah",
       "races": 32
     },
     {
       "hour": "2026-11-08 09:00:00",
       "racer": "asteroids",
       "races": 17
+    },
+    {
+      "hour": "2026-11-08 13:00:00",
+      "racer": "- Void Grinder -",
+      "races": 9
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794143996187
+  "_syncedAt": 1794146903546
 }

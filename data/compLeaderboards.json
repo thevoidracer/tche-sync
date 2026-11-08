@@ -70,6 +70,19 @@
       {
         "rank": 6,
         "tag": "THB0S",
+        "username": "Gt650,",
+        "displayName": "Gt650,",
+        "nickname": "Solid Gold",
+        "squad": "Loyal😎😎😎😎😎😎😎",
+        "races": 281,
+        "wpm": 40.7,
+        "accuracy": 84.77,
+        "points": 28670,
+        "tier": "C"
+      },
+      {
+        "rank": 7,
+        "tag": "THB0S",
         "username": "Hot Chocolate",
         "displayName": "Hot Chocolate",
         "nickname": "Solid Gold",
@@ -79,19 +92,6 @@
         "accuracy": 96.37,
         "points": 24599,
         "tier": "A"
-      },
-      {
-        "rank": 7,
-        "tag": "THB0S",
-        "username": "Gt650,",
-        "displayName": "Gt650,",
-        "nickname": "Solid Gold",
-        "squad": "Loyal😎😎😎😎😎😎😎",
-        "races": 226,
-        "wpm": 40.9,
-        "accuracy": 83.97,
-        "points": 22855,
-        "tier": "C"
       },
       {
         "rank": 8,
@@ -122,6 +122,19 @@
       {
         "rank": 10,
         "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Hallowampus Fanclub",
+        "squad": "Side Hustler 100",
+        "races": 128,
+        "wpm": 83.5,
+        "accuracy": 94.89,
+        "points": 17217,
+        "tier": "B"
+      },
+      {
+        "rank": 11,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -130,19 +143,6 @@
         "wpm": 90.2,
         "accuracy": 94.03,
         "points": 17053,
-        "tier": "B"
-      },
-      {
-        "rank": 11,
-        "tag": "IMT",
-        "username": "- Void Grinder -",
-        "displayName": "- Void Grinder -",
-        "nickname": "Hallowampus Fanclub",
-        "squad": "Side Hustler 100",
-        "races": 119,
-        "wpm": 83.7,
-        "accuracy": 94.8,
-        "points": 16006,
         "tier": "B"
       },
       {
@@ -577,8 +577,8 @@
       {
         "rank": 45,
         "tag": "IMT",
-        "username": "viewmyvioletgarage",
-        "displayName": "viewmyvioletgarage",
+        "username": "RemarkableJadeCheetah",
+        "displayName": "RemarkableJadeCheetah",
         "nickname": "Titan",
         "squad": "Investor 1k",
         "races": 32,
@@ -1264,7 +1264,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794144036440
+    "_syncedAt": 1794146945907
   },
   "1550": {
     "eventId": "1550",
@@ -1315,10 +1315,10 @@
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 301,
-        "wpm": 83.4,
-        "accuracy": 94.73,
-        "points": 40402,
+        "races": 310,
+        "wpm": 83.3,
+        "accuracy": 94.76,
+        "points": 41613,
         "tier": "B"
       },
       {
@@ -1571,8 +1571,8 @@
       {
         "rank": 24,
         "tag": "IMT",
-        "username": "viewmyvioletgarage",
-        "displayName": "viewmyvioletgarage",
+        "username": "RemarkableJadeCheetah",
+        "displayName": "RemarkableJadeCheetah",
         "nickname": "Titan",
         "squad": "Investor 1k",
         "races": 32,
@@ -1777,6 +1777,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794144041297
+    "_syncedAt": 1794146950082
   }
 }

@@ -598,7 +598,7 @@
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
-      "displayName": "viewmyvioletgarage",
+      "displayName": "RemarkableJadeCheetah",
       "role": "member",
       "joinStamp": 1794130377,
       "allTimeRaces": 4836,
@@ -629,14 +629,14 @@
       "displayName": "- Void Grinder -",
       "role": "member",
       "joinStamp": 1793550873,
-      "allTimeRaces": 1973,
-      "wpm": 82,
+      "allTimeRaces": 1988,
+      "wpm": 84,
       "highestWPM": 140,
-      "teamRaces": 301,
-      "acc": 94.99,
+      "teamRaces": 310,
+      "acc": 95.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1794106712
+      "lastLogin": 1794144295
     },
     {
       "username": "newkeyboard512",
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70892,
+      "races": 70901,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 46
     },
     "daily": {
-      "races": 514,
+      "races": 495,
       "avgWPM": 86,
-      "avgAcc": 95.02,
+      "avgAcc": 94.92,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794143938239
+  "_syncedAt": 1794146848587
 }

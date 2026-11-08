@@ -1,9 +1,9 @@
 {
   "racers": [
     {
-      "rank": 51,
+      "rank": 59,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
-      "displayName": "viewmyvioletgarage",
+      "displayName": "RemarkableJadeCheetah",
       "races": 32,
       "accuracy": 92,
       "wpm": 90.6,
@@ -11,7 +11,7 @@
       "ppr": 134
     },
     {
-      "rank": 61,
+      "rank": 69,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 28,
@@ -19,7 +19,17 @@
       "wpm": 88.5,
       "points": 3879,
       "ppr": 139
+    },
+    {
+      "rank": 146,
+      "username": "xaliishere",
+      "displayName": "- Void Grinder -",
+      "races": 9,
+      "accuracy": 96.06,
+      "wpm": 80.3,
+      "points": 1212,
+      "ppr": 135
     }
   ],
-  "_syncedAt": 1794143984368
+  "_syncedAt": 1794146891041
 }
