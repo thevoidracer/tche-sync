@@ -70,6 +70,19 @@
       {
         "rank": 6,
         "tag": "THB0S",
+        "username": "Hot Chocolate",
+        "displayName": "Hot Chocolate",
+        "nickname": "Solid Gold",
+        "squad": "Loyal😎😎😎😎😎😎😎",
+        "races": 229,
+        "wpm": 92.1,
+        "accuracy": 96.35,
+        "points": 32219,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
+        "tag": "THB0S",
         "username": "Gt650,",
         "displayName": "Gt650,",
         "nickname": "Solid Gold",
@@ -81,29 +94,16 @@
         "tier": "C"
       },
       {
-        "rank": 7,
-        "tag": "THB0S",
-        "username": "Hot Chocolate",
-        "displayName": "Hot Chocolate",
-        "nickname": "Solid Gold",
-        "squad": "Loyal😎😎😎😎😎😎😎",
-        "races": 200,
-        "wpm": 91.7,
-        "accuracy": 96.36,
-        "points": 28113,
-        "tier": "A"
-      },
-      {
         "rank": 8,
         "tag": "THB0S",
         "username": "Mythical Dragon",
         "displayName": "Mythical Dragon",
         "nickname": "(Has a good gaming chair)",
         "squad": "Newbies!😁😁😁😁",
-        "races": 200,
-        "wpm": 53.8,
-        "accuracy": 93.07,
-        "points": 23619,
+        "races": 204,
+        "wpm": 53.7,
+        "accuracy": 93.01,
+        "points": 24074,
         "tier": "C"
       },
       {
@@ -139,10 +139,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Side Hustler 100",
-        "races": 155,
-        "wpm": 88.2,
-        "accuracy": 95.7,
-        "points": 21372,
+        "races": 156,
+        "wpm": 88.1,
+        "accuracy": 95.68,
+        "points": 21501,
         "tier": "B"
       },
       {
@@ -282,10 +282,10 @@
         "displayName": "Sakupen",
         "nickname": "Original Gangster",
         "squad": "Officer😲😱😱😱",
-        "races": 112,
-        "wpm": 43.1,
+        "races": 114,
+        "wpm": 43.2,
         "accuracy": 90.08,
-        "points": 12262,
+        "points": 12487,
         "tier": "C"
       },
       {
@@ -321,10 +321,10 @@
         "displayName": "Cats_4_Eva",
         "nickname": "I Love Cats",
         "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 84,
+        "races": 86,
         "wpm": 81.7,
-        "accuracy": 90.34,
-        "points": 10686,
+        "accuracy": 90.32,
+        "points": 10940,
         "tier": "A"
       },
       {
@@ -334,10 +334,10 @@
         "displayName": "Festive Typer",
         "nickname": "Not So Koi",
         "squad": "Officer😲😱😱😱",
-        "races": 76,
-        "wpm": 61.5,
-        "accuracy": 94.67,
-        "points": 9408,
+        "races": 88,
+        "wpm": 61.7,
+        "accuracy": 94.62,
+        "points": 10894,
         "tier": "B"
       },
       {
@@ -992,6 +992,19 @@
       },
       {
         "rank": 77,
+        "tag": "THB0S",
+        "username": "The crowned King",
+        "displayName": "The crowned King",
+        "nickname": "Shadow in the Snow",
+        "squad": null,
+        "races": 7,
+        "wpm": 56.7,
+        "accuracy": 91.22,
+        "points": 819,
+        "tier": "C"
+      },
+      {
+        "rank": 78,
         "tag": "IMT",
         "username": "The Big Yahu",
         "displayName": "The Big Yahu",
@@ -1004,7 +1017,7 @@
         "tier": "B"
       },
       {
-        "rank": 78,
+        "rank": 79,
         "tag": "SVC",
         "username": "la balright",
         "displayName": "la balright",
@@ -1017,7 +1030,7 @@
         "tier": "C"
       },
       {
-        "rank": 79,
+        "rank": 80,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -1030,7 +1043,7 @@
         "tier": "B"
       },
       {
-        "rank": 80,
+        "rank": 81,
         "tag": "THB0S",
         "username": "SnakeOfSerenity",
         "displayName": "SnakeOfSerenity",
@@ -1043,7 +1056,7 @@
         "tier": "C"
       },
       {
-        "rank": 81,
+        "rank": 82,
         "tag": "KEYCAT",
         "username": "Rudra V",
         "displayName": "Rudra V",
@@ -1054,19 +1067,6 @@
         "accuracy": 94.39,
         "points": 605,
         "tier": "B"
-      },
-      {
-        "rank": 82,
-        "tag": "THB0S",
-        "username": "The crowned King",
-        "displayName": "The crowned King",
-        "nickname": "Shadow in the Snow",
-        "squad": null,
-        "races": 5,
-        "wpm": 56,
-        "accuracy": 90.79,
-        "points": 581,
-        "tier": "C"
       },
       {
         "rank": 83,
@@ -1264,7 +1264,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794172653824
+    "_syncedAt": 1794175190352
   },
   "1522": {
     "eventId": "1522",
@@ -1311,6 +1311,19 @@
       {
         "rank": 4,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 1,
+        "wpm": 76.8,
+        "accuracy": 93.75,
+        "points": 130,
+        "tier": null
+      },
+      {
+        "rank": 5,
+        "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
         "nickname": "Sp00ked",
@@ -1322,7 +1335,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794172648664
+    "_syncedAt": 1794175185447
   },
   "1550": {
     "eventId": "1550",
@@ -1386,10 +1399,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Side Hustler 100",
-        "races": 289,
-        "wpm": 89,
+        "races": 290,
+        "wpm": 88.9,
         "accuracy": 95.51,
-        "points": 39884,
+        "points": 40013,
         "tier": "B"
       },
       {
@@ -1835,6 +1848,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794172658562
+    "_syncedAt": 1794175194413
   }
 }

@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-07 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-07 21:00:00",
-      "racer": "Nathan",
-      "races": 16
-    },
-    {
       "hour": "2026-11-07 23:00:00",
       "racer": "asteroids",
       "races": 35
@@ -119,8 +109,13 @@
       "hour": "2026-11-08 20:00:00",
       "racer": "- Void Grinder -",
       "races": 4
+    },
+    {
+      "hour": "2026-11-08 21:00:00",
+      "racer": "asteroids",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794172607300
+  "_syncedAt": 1794175144322
 }
