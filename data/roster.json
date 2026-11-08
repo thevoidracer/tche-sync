@@ -14,11 +14,11 @@
       "nickname": "Nitro Rich",
       "role": "captain",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 94,
+      "tier": "B",
+      "avgWPM": 91,
       "topWPM": 128,
-      "lifetimeRaces": 5677,
-      "teamRaces": 3252,
+      "lifetimeRaces": 5681,
+      "teamRaces": 3256,
       "joined": "06/10/26"
     },
     {
@@ -314,9 +314,9 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 72,
+      "avgWPM": 78,
       "topWPM": 102,
-      "lifetimeRaces": 7800,
+      "lifetimeRaces": 7805,
       "teamRaces": 1775,
       "joined": "10/15/26"
     },
@@ -444,10 +444,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 70,
+      "avgWPM": 73,
       "topWPM": 98,
-      "lifetimeRaces": 790,
-      "teamRaces": 138,
+      "lifetimeRaces": 791,
+      "teamRaces": 139,
       "joined": "10/25/26"
     },
     {
@@ -608,5 +608,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794151062690
+  "_syncedAt": 1794153548700
 }

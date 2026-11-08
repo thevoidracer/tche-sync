@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 75,
+      "rank": 87,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "RemarkableJadeCheetah",
       "races": 32,
@@ -11,7 +11,7 @@
       "ppr": 134
     },
     {
-      "rank": 88,
+      "rank": 102,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 28,
@@ -21,7 +21,7 @@
       "ppr": 139
     },
     {
-      "rank": 135,
+      "rank": 154,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
       "races": 15,
@@ -29,7 +29,27 @@
       "wpm": 82.9,
       "points": 2027,
       "ppr": 135
+    },
+    {
+      "rank": 215,
+      "username": "taylorja32",
+      "displayName": "Void Racer",
+      "races": 4,
+      "accuracy": 93.41,
+      "wpm": 89.3,
+      "points": 541,
+      "ppr": 135
+    },
+    {
+      "rank": 239,
+      "username": "2a4c23d957bacad1e38074dc8f3ddc39",
+      "displayName": "SKZ FIRAH",
+      "races": 1,
+      "accuracy": 91.46,
+      "wpm": 82,
+      "points": 129,
+      "ppr": 129
     }
   ],
-  "_syncedAt": 1794151050549
+  "_syncedAt": 1794153536253
 }

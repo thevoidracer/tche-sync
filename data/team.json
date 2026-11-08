@@ -146,7 +146,7 @@
       "acc": 97.55,
       "season": null,
       "status": "active",
-      "lastLogin": 1794069419
+      "lastLogin": 1794152025
     },
     {
       "username": "1ea0b919208e21b376a29ac0befb794c",
@@ -209,14 +209,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7800,
-      "wpm": 72,
+      "allTimeRaces": 7808,
+      "wpm": 83,
       "highestWPM": 102,
       "teamRaces": 1775,
       "acc": 93.27,
       "season": null,
       "status": "active",
-      "lastLogin": 1794078563
+      "lastLogin": 1794153094
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -433,14 +433,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5677,
-      "wpm": 94,
+      "allTimeRaces": 5681,
+      "wpm": 91,
       "highestWPM": 128,
-      "teamRaces": 3252,
+      "teamRaces": 3256,
       "acc": 92.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1794150125
+      "lastLogin": 1794151799
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -489,14 +489,14 @@
       "displayName": "SKZ FIRAH",
       "role": "member",
       "joinStamp": 1792951536,
-      "allTimeRaces": 790,
-      "wpm": 70,
+      "allTimeRaces": 791,
+      "wpm": 73,
       "highestWPM": 98,
-      "teamRaces": 138,
+      "teamRaces": 139,
       "acc": 91.39,
       "season": null,
       "status": "active",
-      "lastLogin": 1794006409
+      "lastLogin": 1794151747
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 70907,
+      "races": 70912,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 46
     },
     "daily": {
-      "races": 430,
+      "races": 388,
       "avgWPM": 85,
-      "avgAcc": 94.61,
+      "avgAcc": 94.34,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794151009145
+  "_syncedAt": 1794153492462
 }

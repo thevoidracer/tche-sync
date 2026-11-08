@@ -97,12 +97,20 @@
       "end": "11/11/2026, 05:00 AM"
     },
     {
-      "id": "1522",
+      "id": "1573",
       "status": "Pending",
-      "title": "Weekly Cash Comp - Nov 10Recurring comp",
-      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC.",
+      "title": "Gold Comp 💛",
+      "desc": "Join our special Nitro Gold competition event for a chance to win exclusive rewards! Gather with the community to showcase your speed, compete against top racers, and claim major prizes, featuring Nitro Type Gold (NTG) for first place, 1,000,000 NT Cash for second place, and 500,000 NT Cash for third place. Sharpen your typing skills, claim your spot on the podium, and take home an incredible prize!",
       "start": "11/09/2026, 01:00 PM",
       "end": "11/16/2026, 01:00 PM"
+    },
+    {
+      "id": "1522",
+      "status": "Active",
+      "title": "Weekly Cash Comp - Nov 8Recurring comp",
+      "desc": "Get ready to rev your engines and claim your share of the glory in our upcoming racing event, featuring a massive prize pool of more than $15M NTC. For anyone who gets more than 100 races, but does not get 1st-8th place, you will get an extra 100k NTC.",
+      "start": "11/08/2026, 02:00 PM",
+      "end": "11/15/2026, 01:00 PM"
     },
     {
       "id": "1347",
@@ -226,5 +234,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794151032412
+  "_syncedAt": 1794153517652
 }

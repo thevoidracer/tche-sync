@@ -295,11 +295,11 @@
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 67,
-        "wpm": 93.9,
+        "races": 71,
+        "wpm": 93.6,
         "accuracy": 93.34,
-        "points": 9189,
-        "tier": "A"
+        "points": 9729,
+        "tier": "B"
       },
       {
         "rank": 24,
@@ -397,12 +397,12 @@
         "tag": "THB0S",
         "username": "Festive Typer",
         "displayName": "Festive Typer",
-        "nickname": "Ghost Lap",
+        "nickname": "Not So Koi",
         "squad": "Officer😲😱😱😱",
-        "races": 67,
+        "races": 69,
         "wpm": 61.7,
-        "accuracy": 94.49,
-        "points": 8284,
+        "accuracy": 94.55,
+        "points": 8535,
         "tier": "B"
       },
       {
@@ -1174,6 +1174,19 @@
       },
       {
         "rank": 91,
+        "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 1,
+        "wpm": 82,
+        "accuracy": 91.46,
+        "points": 129,
+        "tier": "C"
+      },
+      {
+        "rank": 92,
         "tag": "THB0S",
         "username": "SUPER_PIGGLE",
         "displayName": "SUPER_PIGGLE",
@@ -1186,7 +1199,7 @@
         "tier": "C"
       },
       {
-        "rank": 92,
+        "rank": 93,
         "tag": "THB0S",
         "username": "zynx_tb",
         "displayName": "zynx_tb",
@@ -1199,7 +1212,7 @@
         "tier": "B"
       },
       {
-        "rank": 93,
+        "rank": 94,
         "tag": "THB0S",
         "username": "-BOSS PLZ PROMOTE-",
         "displayName": "-BOSS PLZ PROMOTE-",
@@ -1212,7 +1225,7 @@
         "tier": "C"
       },
       {
-        "rank": 94,
+        "rank": 95,
         "tag": "KEYCAT",
         "username": "Circus_cat_26",
         "displayName": "Circus_cat_26",
@@ -1225,7 +1238,7 @@
         "tier": "C"
       },
       {
-        "rank": 95,
+        "rank": 96,
         "tag": "KEYCAT",
         "username": "i n v s i b l e hehe",
         "displayName": "i n v s i b l e hehe",
@@ -1238,7 +1251,7 @@
         "tier": "C"
       },
       {
-        "rank": 96,
+        "rank": 97,
         "tag": "THB0S",
         "username": "ketchup boy",
         "displayName": "ketchup boy",
@@ -1251,7 +1264,7 @@
         "tier": "B"
       },
       {
-        "rank": 97,
+        "rank": 98,
         "tag": "THB0S",
         "username": "TDS1234",
         "displayName": "TDS1234",
@@ -1264,7 +1277,52 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794151103953
+    "_syncedAt": 1794153595243
+  },
+  "1522": {
+    "eventId": "1522",
+    "racers": [
+      {
+        "rank": 1,
+        "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Hallowampus Fanclub",
+        "squad": "Side Hustler 100",
+        "races": 6,
+        "wpm": 87.3,
+        "accuracy": 94.73,
+        "points": 816,
+        "tier": null
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
+        "username": "Void Racer",
+        "displayName": "Void Racer",
+        "nickname": "Nitro Rich",
+        "squad": "Dominator 2.5k",
+        "races": 4,
+        "wpm": 89.3,
+        "accuracy": 93.41,
+        "points": 541,
+        "tier": null
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 1,
+        "wpm": 82,
+        "accuracy": 91.46,
+        "points": 129,
+        "tier": null
+      }
+    ],
+    "_syncedAt": 1794153590226
   },
   "1550": {
     "eventId": "1550",
@@ -1354,11 +1412,11 @@
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
         "squad": "Dominator 2.5k",
-        "races": 239,
-        "wpm": 94.8,
+        "races": 243,
+        "wpm": 94.7,
         "accuracy": 93.41,
-        "points": 32905,
-        "tier": "A"
+        "points": 33445,
+        "tier": "B"
       },
       {
         "rank": 8,
@@ -1610,6 +1668,19 @@
       {
         "rank": 27,
         "tag": "IMT",
+        "username": "SKZ FIRAH",
+        "displayName": "SKZ FIRAH",
+        "nickname": "Sp00ked",
+        "squad": "Side Hustler 100",
+        "races": 20,
+        "wpm": 73.1,
+        "accuracy": 89.14,
+        "points": 2434,
+        "tier": "C"
+      },
+      {
+        "rank": 28,
+        "tag": "IMT",
         "username": "VOID_REIGN",
         "displayName": "VOID_REIGN",
         "nickname": "Quicker Than the Fox",
@@ -1618,19 +1689,6 @@
         "wpm": 58.2,
         "accuracy": 88.8,
         "points": 2292,
-        "tier": "C"
-      },
-      {
-        "rank": 28,
-        "tag": "IMT",
-        "username": "SKZ FIRAH",
-        "displayName": "SKZ FIRAH",
-        "nickname": "Sp00ked",
-        "squad": "Side Hustler 100",
-        "races": 19,
-        "wpm": 72.6,
-        "accuracy": 89.02,
-        "points": 2306,
         "tier": "C"
       },
       {
@@ -1777,6 +1835,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794151107907
+    "_syncedAt": 1794153599321
   }
 }

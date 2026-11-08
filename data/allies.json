@@ -525,7 +525,7 @@
         "acc": 93.29,
         "season": null,
         "status": "active",
-        "lastLogin": 1794104893
+        "lastLogin": 1794151775
       },
       {
         "username": "happygoluckygirl07",
@@ -628,7 +628,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794151108056
+    "_syncedAt": 1794153599837
   },
   "THB0S": {
     "tag": "THB0S",
@@ -652,7 +652,7 @@
         "acc": 96.08,
         "season": null,
         "status": "active",
-        "lastLogin": 1794112249
+        "lastLogin": 1794152558
       },
       {
         "username": "joepellicc_gold",
@@ -757,10 +757,10 @@
         "displayName": "Festive Typer",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 2007,
-        "wpm": 61,
+        "allTimeRaces": 2008,
+        "wpm": 62,
         "highestWPM": 87,
-        "teamRaces": 1700,
+        "teamRaces": 1702,
         "acc": 93.87,
         "season": null,
         "status": "active",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136347,
+        "races": 136349,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1132,
-        "avgWPM": 78,
-        "avgAcc": 94.22,
+        "races": 1099,
+        "avgWPM": 77,
+        "avgAcc": 94.15,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794151126845
+    "_syncedAt": 1794153621920
   }
 }
