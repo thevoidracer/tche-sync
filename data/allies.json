@@ -6,7 +6,7 @@
     "activePercent": 83,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3202,
+    "profileViews": 3203,
     "leagueTier": 10,
     "racers": [
       {
@@ -325,7 +325,7 @@
         "allTimeRaces": 14252,
         "wpm": 83,
         "highestWPM": 111,
-        "teamRaces": 12042,
+        "teamRaces": 12044,
         "acc": 93.11,
         "season": null,
         "status": "active",
@@ -586,21 +586,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 83761,
+        "races": 83763,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 41
       },
       "daily": {
-        "races": 140,
-        "avgWPM": 72,
-        "avgAcc": 94.6,
+        "races": 131,
+        "avgWPM": 76,
+        "avgAcc": 94.42,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794163774450
+    "_syncedAt": 1794166255510
   },
   "THB0S": {
     "tag": "THB0S",
@@ -609,7 +609,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 20+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5147,
+    "profileViews": 5148,
     "leagueTier": 10,
     "racers": [
       {
@@ -729,14 +729,14 @@
         "displayName": "Festive Typer",
         "role": "officer",
         "joinStamp": 1784745206,
-        "allTimeRaces": 2008,
-        "wpm": 62,
+        "allTimeRaces": 2014,
+        "wpm": 63,
         "highestWPM": 87,
-        "teamRaces": 1702,
-        "acc": 93.87,
+        "teamRaces": 1708,
+        "acc": 93.88,
         "season": null,
         "status": "active",
-        "lastLogin": 1794150862
+        "lastLogin": 1794165533
       },
       {
         "username": "pigglepigglepiggle",
@@ -883,11 +883,11 @@
         "displayName": "GRANDMAISTHEB0SS",
         "role": "member",
         "joinStamp": 1790603209,
-        "allTimeRaces": 3137,
-        "wpm": 52,
+        "allTimeRaces": 3148,
+        "wpm": 46,
         "highestWPM": 85,
-        "teamRaces": 1709,
-        "acc": 90.12,
+        "teamRaces": 1731,
+        "acc": 90.15,
         "season": null,
         "status": "active",
         "lastLogin": 1794156709
@@ -1184,7 +1184,7 @@
         "acc": 95.64,
         "season": null,
         "status": "active",
-        "lastLogin": 1794158785
+        "lastLogin": 1794165398
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1259,20 +1259,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136544,
+        "races": 136572,
         "avgWPM": 68,
         "avgAcc": 94.05,
         "members": 46
       },
       "daily": {
-        "races": 1105,
+        "races": 1074,
         "avgWPM": 75,
-        "avgAcc": 93.93,
+        "avgAcc": 93.92,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794163793378
+    "_syncedAt": 1794166274533
   }
 }

@@ -1,14 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-07 18:00:00",
-      "racer": "Void Racer",
-      "races": 5
-    },
-    {
       "hour": "2026-11-07 19:00:00",
       "racer": "KirbyDelta",
-      "races": 35
+      "races": 11
     },
     {
       "hour": "2026-11-07 20:00:00",
@@ -119,8 +114,18 @@
       "hour": "2026-11-08 17:00:00",
       "racer": "KirbyDelta",
       "races": 39
+    },
+    {
+      "hour": "2026-11-08 18:00:00",
+      "racer": "- Void Grinder -",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-08 19:00:00",
+      "racer": "- Void Grinder -",
+      "races": 14
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794163725902
+  "_syncedAt": 1794166205448
 }

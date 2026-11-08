@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "THB0S",
+        "username": "GRANDMAISTHEB0SS",
+        "displayName": "GRANDMAISTHEB0SS",
+        "nickname": "Boo!",
+        "squad": "Active!😁😁😁😁😁",
+        "races": 192,
+        "wpm": 47.9,
+        "accuracy": 90.54,
+        "points": 21546,
+        "tier": "C"
+      },
+      {
+        "rank": 10,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -120,29 +133,16 @@
         "tier": "B"
       },
       {
-        "rank": 10,
-        "tag": "THB0S",
-        "username": "GRANDMAISTHEB0SS",
-        "displayName": "GRANDMAISTHEB0SS",
-        "nickname": "Boo!",
-        "squad": "Active!😁😁😁😁😁",
-        "races": 170,
-        "wpm": 47.9,
-        "accuracy": 90.41,
-        "points": 19048,
-        "tier": "C"
-      },
-      {
         "rank": 11,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
         "squad": "Side Hustler 100",
-        "races": 134,
-        "wpm": 83.7,
-        "accuracy": 94.88,
-        "points": 18033,
+        "races": 149,
+        "wpm": 83.4,
+        "accuracy": 94.9,
+        "points": 20039,
         "tier": "B"
       },
       {
@@ -321,10 +321,10 @@
         "displayName": "Cats_4_Eva",
         "nickname": "I Love Cats",
         "squad": "KEYCAT Captain ⚞^. .^⚟",
-        "races": 82,
-        "wpm": 81.6,
-        "accuracy": 90.48,
-        "points": 10448,
+        "races": 84,
+        "wpm": 81.7,
+        "accuracy": 90.34,
+        "points": 10686,
         "tier": "A"
       },
       {
@@ -1264,7 +1264,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794163770117
+    "_syncedAt": 1794166251425
   },
   "1522": {
     "eventId": "1522",
@@ -1285,6 +1285,19 @@
       {
         "rank": 2,
         "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Hallowampus Fanclub",
+        "squad": "Side Hustler 100",
+        "races": 21,
+        "wpm": 83.1,
+        "accuracy": 94.94,
+        "points": 2823,
+        "tier": null
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
@@ -1293,19 +1306,6 @@
         "wpm": 94.2,
         "accuracy": 93.34,
         "points": 1785,
-        "tier": null
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "- Void Grinder -",
-        "displayName": "- Void Grinder -",
-        "nickname": "Hallowampus Fanclub",
-        "squad": "Side Hustler 100",
-        "races": 6,
-        "wpm": 87.3,
-        "accuracy": 94.73,
-        "points": 816,
         "tier": null
       },
       {
@@ -1322,7 +1322,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794163765765
+    "_syncedAt": 1794166247141
   },
   "1550": {
     "eventId": "1550",
@@ -1356,6 +1356,19 @@
       {
         "rank": 3,
         "tag": "IMT",
+        "username": "- Void Grinder -",
+        "displayName": "- Void Grinder -",
+        "nickname": "Hallowampus Fanclub",
+        "squad": "Side Hustler 100",
+        "races": 331,
+        "wpm": 83.3,
+        "accuracy": 94.77,
+        "points": 44436,
+        "tier": "B"
+      },
+      {
+        "rank": 4,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -1364,19 +1377,6 @@
         "wpm": 90.6,
         "accuracy": 94.2,
         "points": 43395,
-        "tier": "B"
-      },
-      {
-        "rank": 4,
-        "tag": "IMT",
-        "username": "- Void Grinder -",
-        "displayName": "- Void Grinder -",
-        "nickname": "Hallowampus Fanclub",
-        "squad": "Side Hustler 100",
-        "races": 316,
-        "wpm": 83.4,
-        "accuracy": 94.76,
-        "points": 42429,
         "tier": "B"
       },
       {
@@ -1835,6 +1835,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794163774269
+    "_syncedAt": 1794166255338
   }
 }
