@@ -217,7 +217,7 @@
         "acc": 90.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794092678
+        "lastLogin": 1794184478
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -329,7 +329,7 @@
         "acc": 93.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794174423
+        "lastLogin": 1794183431
       },
       {
         "username": "123d920ba28e9959c2eb402ab64f351b",
@@ -600,7 +600,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794182360126
+    "_syncedAt": 1794184638996
   },
   "THB0S": {
     "tag": "THB0S",
@@ -609,7 +609,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5167,
+    "profileViews": 5169,
     "leagueTier": 10,
     "racers": [
       {
@@ -631,11 +631,11 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1447,
-        "wpm": 96,
+        "allTimeRaces": 1481,
+        "wpm": 94,
         "highestWPM": 123,
-        "teamRaces": 1245,
-        "acc": 96.33,
+        "teamRaces": 1272,
+        "acc": 96.32,
         "season": null,
         "status": "active",
         "lastLogin": 1794173556
@@ -645,10 +645,10 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11435,
-        "wpm": 111,
+        "allTimeRaces": 11476,
+        "wpm": 112,
         "highestWPM": 142,
-        "teamRaces": 2000,
+        "teamRaces": 2038,
         "acc": 98.02,
         "season": null,
         "status": "active",
@@ -876,7 +876,7 @@
         "acc": 93.83,
         "season": null,
         "status": "active",
-        "lastLogin": 1794172663
+        "lastLogin": 1794182900
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -995,11 +995,11 @@
         "displayName": "The crowned King",
         "role": "member",
         "joinStamp": 1794171489,
-        "allTimeRaces": 1333,
-        "wpm": 60,
+        "allTimeRaces": 1351,
+        "wpm": 62,
         "highestWPM": 78,
-        "teamRaces": 8,
-        "acc": 91.85,
+        "teamRaces": 27,
+        "acc": 92.82,
         "season": null,
         "status": "active",
         "lastLogin": 1794182006
@@ -1051,10 +1051,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 20087,
-        "wpm": 95,
+        "allTimeRaces": 20090,
+        "wpm": 97,
         "highestWPM": 123,
-        "teamRaces": 19622,
+        "teamRaces": 19630,
         "acc": 94.01,
         "season": null,
         "status": "active",
@@ -1219,11 +1219,11 @@
         "displayName": "plx need nitro gold",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3295,
-        "wpm": 51,
+        "allTimeRaces": 3308,
+        "wpm": 50,
         "highestWPM": 74,
-        "teamRaces": 1097,
-        "acc": 94.09,
+        "teamRaces": 1110,
+        "acc": 94.13,
         "season": null,
         "status": "active",
         "lastLogin": 1794180727
@@ -1259,20 +1259,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 136962,
+        "races": 137067,
         "avgWPM": 68,
-        "avgAcc": 94.05,
+        "avgAcc": 94.06,
         "members": 46
       },
       "daily": {
-        "races": 1054,
-        "avgWPM": 77,
-        "avgAcc": 94.84,
+        "races": 1153,
+        "avgWPM": 78,
+        "avgAcc": 95.02,
         "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794182378800
+    "_syncedAt": 1794184657788
   }
 }
