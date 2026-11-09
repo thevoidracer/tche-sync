@@ -6,7 +6,7 @@
     "activePercent": 80,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3214,
+    "profileViews": 3216,
     "leagueTier": 10,
     "racers": [
       {
@@ -182,11 +182,11 @@
         "displayName": "PANDAPLAYZ",
         "role": "member",
         "joinStamp": 1794261175,
-        "allTimeRaces": 2305,
-        "wpm": 40,
+        "allTimeRaces": 2343,
+        "wpm": 47,
         "highestWPM": 62,
-        "teamRaces": 0,
-        "acc": 0,
+        "teamRaces": 39,
+        "acc": 90.43,
         "season": null,
         "status": "active",
         "lastLogin": 1794260877
@@ -245,7 +245,7 @@
         "acc": 94.12,
         "season": null,
         "status": "active",
-        "lastLogin": 1794259314
+        "lastLogin": 1794262235
       },
       {
         "username": "3180cd3b9a2f242bdf7dd2e7f5f2ce45",
@@ -614,21 +614,21 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 84052,
+        "races": 84091,
         "avgWPM": 56,
         "avgAcc": 93.52,
         "members": 43
       },
       "daily": {
-        "races": 287,
-        "avgWPM": 71,
-        "avgAcc": 93.37,
+        "races": 304,
+        "avgWPM": 67,
+        "avgAcc": 93.2,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794261259774
+    "_syncedAt": 1794263630361
   },
   "THB0S": {
     "tag": "THB0S",
@@ -673,10 +673,10 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11518,
-        "wpm": 105,
+        "allTimeRaces": 11547,
+        "wpm": 110,
         "highestWPM": 142,
-        "teamRaces": 2089,
+        "teamRaces": 2118,
         "acc": 98.01,
         "season": null,
         "status": "active",
@@ -897,14 +897,14 @@
         "displayName": "Mythical Dragon",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 8947,
-        "wpm": 52,
+        "allTimeRaces": 8948,
+        "wpm": 51,
         "highestWPM": 84,
-        "teamRaces": 1013,
+        "teamRaces": 1014,
         "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1794260815
+        "lastLogin": 1794263282
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1275,14 +1275,14 @@
         "displayName": "MajesticRedChipmunk",
         "role": "member",
         "joinStamp": 1794188512,
-        "allTimeRaces": 474,
+        "allTimeRaces": 496,
         "wpm": 62,
         "highestWPM": 84,
-        "teamRaces": 41,
-        "acc": 94.45,
+        "teamRaces": 61,
+        "acc": 94.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1794255113
+        "lastLogin": 1794262502
       },
       {
         "username": "malott12",
@@ -1301,20 +1301,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 138183,
+        "races": 138233,
         "avgWPM": 68,
         "avgAcc": 94.06,
         "members": 47
       },
       "daily": {
-        "races": 1517,
+        "races": 1455,
         "avgWPM": 82,
-        "avgAcc": 94.93,
+        "avgAcc": 95,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794261278654
+    "_syncedAt": 1794263653176
   }
 }

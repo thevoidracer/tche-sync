@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 22:00:00",
-      "racer": "rorok09",
-      "races": 16
-    },
-    {
       "hour": "2026-11-08 23:00:00",
       "racer": "rorok09",
       "races": 64
@@ -132,12 +127,12 @@
     },
     {
       "hour": "2026-11-09 16:00:00",
-      "racer": "sterling757",
+      "racer": "Safire",
       "races": 5
     },
     {
       "hour": "2026-11-09 16:00:00",
-      "racer": "Safire",
+      "racer": "sterling757",
       "races": 5
     },
     {
@@ -157,12 +152,12 @@
     },
     {
       "hour": "2026-11-09 17:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 7
     },
     {
       "hour": "2026-11-09 17:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 7
     },
     {
@@ -254,8 +249,23 @@
       "hour": "2026-11-09 20:00:00",
       "racer": "Nish_OUT",
       "races": 1
+    },
+    {
+      "hour": "2026-11-09 21:00:00",
+      "racer": "Nish_OUT",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-09 21:00:00",
+      "racer": "Void Racer",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-09 22:00:00",
+      "racer": "Nish_OUT",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794261204288
+  "_syncedAt": 1794263573013
 }
