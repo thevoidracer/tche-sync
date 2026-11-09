@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 21:00:00",
-      "racer": "asteroids",
-      "races": 1
-    },
-    {
       "hour": "2026-11-08 22:00:00",
       "racer": "rorok09",
       "races": 16
@@ -102,12 +97,12 @@
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 1
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 1
     },
     {
@@ -262,5 +257,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794258148827
+  "_syncedAt": 1794261204288
 }

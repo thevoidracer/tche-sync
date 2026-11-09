@@ -62,7 +62,7 @@
       "acc": 95.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1794254281
+      "lastLogin": 1794258292
     },
     {
       "username": "tre1typer",
@@ -83,14 +83,14 @@
       "displayName": "Nish_OUT",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1513,
-      "wpm": 92,
+      "allTimeRaces": 1518,
+      "wpm": 91,
       "highestWPM": 109,
-      "teamRaces": 285,
+      "teamRaces": 286,
       "acc": 97.01,
       "season": null,
       "status": "active",
-      "lastLogin": 1794257273
+      "lastLogin": 1794260925
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -244,7 +244,7 @@
       "acc": 96.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1794253788
+      "lastLogin": 1794261124
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -419,14 +419,14 @@
       "displayName": "Void Racer",
       "role": "officer",
       "joinStamp": 1781128952,
-      "allTimeRaces": 5702,
+      "allTimeRaces": 5703,
       "wpm": 94,
       "highestWPM": 128,
       "teamRaces": 3277,
       "acc": 92.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1794248661
+      "lastLogin": 1794260987
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -641,7 +641,7 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 71893,
+      "races": 71894,
       "avgWPM": 78,
       "avgAcc": 94.94,
       "members": 45
@@ -655,5 +655,5 @@
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794258091988
+  "_syncedAt": 1794261147078
 }
