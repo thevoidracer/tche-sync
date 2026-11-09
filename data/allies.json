@@ -592,15 +592,15 @@
         "members": 41
       },
       "daily": {
-        "races": 143,
-        "avgWPM": 78,
-        "avgAcc": 94.13,
+        "races": 86,
+        "avgWPM": 72,
+        "avgAcc": 93.3,
         "members": 41
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794192175926
+    "_syncedAt": 1794195141110
   },
   "THB0S": {
     "tag": "THB0S",
@@ -609,7 +609,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5175,
+    "profileViews": 5179,
     "leagueTier": 10,
     "racers": [
       {
@@ -631,11 +631,11 @@
         "displayName": "Hot Chocolate",
         "role": "member",
         "joinStamp": 1791676311,
-        "allTimeRaces": 1605,
-        "wpm": 98,
+        "allTimeRaces": 1665,
+        "wpm": 88,
         "highestWPM": 123,
-        "teamRaces": 1404,
-        "acc": 96.27,
+        "teamRaces": 1460,
+        "acc": 96.22,
         "season": null,
         "status": "active",
         "lastLogin": 1794187601
@@ -855,14 +855,14 @@
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8696,
-        "wpm": 59,
+        "allTimeRaces": 8698,
+        "wpm": 58,
         "highestWPM": 95,
-        "teamRaces": 1149,
-        "acc": 97.31,
+        "teamRaces": 1151,
+        "acc": 97.32,
         "season": null,
         "status": "active",
-        "lastLogin": 1794188937
+        "lastLogin": 1794194272
       },
       {
         "username": "mwhit4",
@@ -1051,10 +1051,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 20154,
+        "allTimeRaces": 20170,
         "wpm": 94,
         "highestWPM": 123,
-        "teamRaces": 19690,
+        "teamRaces": 19710,
         "acc": 94.01,
         "season": null,
         "status": "active",
@@ -1184,7 +1184,7 @@
         "acc": 95.64,
         "season": null,
         "status": "active",
-        "lastLogin": 1794168292
+        "lastLogin": 1794192747
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
@@ -1212,7 +1212,7 @@
         "acc": 91.57,
         "season": null,
         "status": "active",
-        "lastLogin": 1794141212
+        "lastLogin": 1794192588
       },
       {
         "username": "500big",
@@ -1273,20 +1273,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 137333,
+        "races": 137411,
         "avgWPM": 68,
         "avgAcc": 94.06,
         "members": 47
       },
       "daily": {
-        "races": 1298,
+        "races": 1334,
         "avgWPM": 79,
-        "avgAcc": 95.05,
+        "avgAcc": 95.07,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794192194881
+    "_syncedAt": 1794195160015
   }
 }

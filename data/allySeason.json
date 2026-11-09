@@ -19,14 +19,14 @@
       },
       "week": {
         "rank": 41,
-        "races": 2520,
+        "races": 2513,
         "accuracy": 92.86,
         "wpm": 67.6,
-        "points": 313134,
+        "points": 312266,
         "ppr": 124
       },
       "weekly": {
-        "rank": 49,
+        "rank": 50,
         "races": 55,
         "accuracy": 91.34,
         "wpm": 64.7,
@@ -49,42 +49,35 @@
     "points": 836965,
     "ppr": 123,
     "source": "ntstartrack.org",
-    "_syncedAt": 1794192194644
+    "_syncedAt": 1794195159838
   },
   "THB0S": {
     "timeframes": {
       "24h": {
-        "rank": 13,
-        "races": 1267,
-        "accuracy": 94.78,
-        "wpm": 78.7,
-        "points": 167331,
-        "ppr": 132
+        "rank": 12,
+        "races": 1321,
+        "accuracy": 94.82,
+        "wpm": 79.5,
+        "points": 175069,
+        "ppr": 133
       },
       "season": {
         "rank": 20,
-        "races": 19974,
-        "accuracy": 94.06,
-        "wpm": 76.4,
-        "points": 2596547,
+        "races": 20070,
+        "accuracy": 94.07,
+        "wpm": 76.5,
+        "points": 2609925,
         "ppr": 130
       },
       "week": {
         "rank": 18,
-        "races": 6806,
-        "accuracy": 93.89,
-        "wpm": 76.6,
-        "points": 883768,
+        "races": 6820,
+        "accuracy": 93.93,
+        "wpm": 76.7,
+        "points": 886214,
         "ppr": 130
       },
-      "weekly": {
-        "rank": 11,
-        "races": 1139,
-        "accuracy": 94.8,
-        "wpm": 78.5,
-        "points": 150377,
-        "ppr": 132
-      },
+      "weekly": null,
       "alltime": {
         "rank": 35,
         "races": 111048,
@@ -95,12 +88,12 @@
       }
     },
     "rank": 20,
-    "races": 19974,
-    "accuracy": 94.06,
-    "wpm": 76.4,
-    "points": 2596547,
+    "races": 20070,
+    "accuracy": 94.07,
+    "wpm": 76.5,
+    "points": 2609925,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1794192213559
+    "_syncedAt": 1794195208999
   }
 }
