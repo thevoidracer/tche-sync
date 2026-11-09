@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20635,
-      "wpm": 90,
+      "allTimeRaces": 20655,
+      "wpm": 91,
       "highestWPM": 110,
-      "teamRaces": 2996,
+      "teamRaces": 3016,
       "acc": 97.56,
       "season": null,
       "status": "active",
-      "lastLogin": 1794192268
+      "lastLogin": 1794233388
     },
     {
       "username": "jonathan711111",
@@ -55,11 +55,11 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5585,
-      "wpm": 91,
+      "allTimeRaces": 5613,
+      "wpm": 95,
       "highestWPM": 138,
-      "teamRaces": 569,
-      "acc": 95.27,
+      "teamRaces": 601,
+      "acc": 95.26,
       "season": null,
       "status": "active",
       "lastLogin": 1794231478
@@ -167,11 +167,11 @@
       "displayName": "Joe and Uh",
       "role": "member",
       "joinStamp": 1792613122,
-      "allTimeRaces": 1476,
-      "wpm": 96,
+      "allTimeRaces": 1478,
+      "wpm": 95,
       "highestWPM": 120,
-      "teamRaces": 290,
-      "acc": 95.21,
+      "teamRaces": 293,
+      "acc": 95.2,
       "season": null,
       "status": "active",
       "lastLogin": 1794231743
@@ -195,28 +195,28 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 11258,
-      "wpm": 92,
+      "allTimeRaces": 11268,
+      "wpm": 85,
       "highestWPM": 118,
-      "teamRaces": 10448,
+      "teamRaces": 10452,
       "acc": 97.04,
       "season": null,
       "status": "active",
-      "lastLogin": 1794178883
+      "lastLogin": 1794234976
     },
     {
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7900,
-      "wpm": 76,
+      "allTimeRaces": 7910,
+      "wpm": 81,
       "highestWPM": 102,
-      "teamRaces": 1875,
+      "teamRaces": 1885,
       "acc": 93.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1794153094
+      "lastLogin": 1794234783
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -335,14 +335,14 @@
       "displayName": "I KC Zadkiel I",
       "role": "member",
       "joinStamp": 1791213274,
-      "allTimeRaces": 2517,
-      "wpm": 78,
+      "allTimeRaces": 2518,
+      "wpm": 77,
       "highestWPM": 94,
-      "teamRaces": 622,
+      "teamRaces": 623,
       "acc": 93.62,
       "season": null,
       "status": "active",
-      "lastLogin": 1794231676
+      "lastLogin": 1794234097
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -545,14 +545,14 @@
       "displayName": "Safire",
       "role": "member",
       "joinStamp": 1793735818,
-      "allTimeRaces": 1272,
-      "wpm": 47,
+      "allTimeRaces": 1273,
+      "wpm": 48,
       "highestWPM": 108,
-      "teamRaces": 66,
-      "acc": 86.62,
+      "teamRaces": 67,
+      "acc": 86.68,
       "season": null,
       "status": "active",
-      "lastLogin": 1793993570
+      "lastLogin": 1794232443
     },
     {
       "username": "328473829095dbxdfhd",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 71374,
+      "races": 71445,
       "avgWPM": 78,
       "avgAcc": 94.96,
       "members": 45
     },
     "daily": {
-      "races": 477,
-      "avgWPM": 86,
-      "avgAcc": 95.52,
+      "races": 538,
+      "avgWPM": 87,
+      "avgAcc": 95.55,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794232367083
+  "_syncedAt": 1794235426419
 }
