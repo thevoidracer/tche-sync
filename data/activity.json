@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 16:00:00",
-      "racer": "KirbyDelta",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-08 17:00:00",
-      "racer": "KirbyDelta",
-      "races": 39
-    },
-    {
       "hour": "2026-11-08 18:00:00",
       "racer": "- Void Grinder -",
       "races": 1
@@ -127,12 +117,12 @@
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 1
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 1
     },
     {
@@ -157,7 +147,17 @@
     },
     {
       "hour": "2026-11-09 16:00:00",
+      "racer": "The Big Yahu",
+      "races": 20
+    },
+    {
+      "hour": "2026-11-09 16:00:00",
       "racer": "sterling757",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-09 16:00:00",
+      "racer": "Safire",
       "races": 5
     },
     {
@@ -167,15 +167,25 @@
     },
     {
       "hour": "2026-11-09 16:00:00",
-      "racer": "Safire",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-09 16:00:00",
       "racer": "RemarkableJadeCheetah",
       "races": 3
+    },
+    {
+      "hour": "2026-11-09 17:00:00",
+      "racer": "me_likey_typey",
+      "races": 21
+    },
+    {
+      "hour": "2026-11-09 17:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-09 17:00:00",
+      "racer": "sterling757",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794242645943
+  "_syncedAt": 1794245866604
 }
