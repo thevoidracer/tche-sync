@@ -614,7 +614,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794206561796
+    "_syncedAt": 1794211349821
   },
   "THB0S": {
     "tag": "THB0S",
@@ -623,7 +623,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comps | Gold Comps | 120 race a day = 1M | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5184,
+    "profileViews": 5185,
     "leagueTier": 10,
     "racers": [
       {
@@ -1093,14 +1093,14 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 14834,
-        "wpm": 75,
+        "allTimeRaces": 14900,
+        "wpm": 68,
         "highestWPM": 96,
-        "teamRaces": 616,
-        "acc": 96.14,
+        "teamRaces": 682,
+        "acc": 96.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1794110356
+        "lastLogin": 1794207386
       },
       {
         "username": "clpz200",
@@ -1177,14 +1177,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9797,
-        "wpm": 43,
+        "allTimeRaces": 9798,
+        "wpm": 44,
         "highestWPM": 75,
-        "teamRaces": 2367,
-        "acc": 86.47,
+        "teamRaces": 2368,
+        "acc": 86.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1794201422
+        "lastLogin": 1794208606
       },
       {
         "username": "legendsince2026",
@@ -1287,20 +1287,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 137450,
+        "races": 137517,
         "avgWPM": 68,
         "avgAcc": 94.06,
         "members": 47
       },
       "daily": {
-        "races": 1280,
+        "races": 1347,
         "avgWPM": 79,
-        "avgAcc": 95.11,
+        "avgAcc": 95.12,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794206583034
+    "_syncedAt": 1794211368720
   }
 }

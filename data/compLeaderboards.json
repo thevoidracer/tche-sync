@@ -87,14 +87,27 @@
         "displayName": "Gt650,",
         "nickname": "Solid Gold",
         "squad": "Active!😁😁😁😁😁",
-        "races": 281,
-        "wpm": 40.7,
-        "accuracy": 84.77,
-        "points": 28670,
+        "races": 282,
+        "wpm": 40.8,
+        "accuracy": 84.78,
+        "points": 28779,
         "tier": "C"
       },
       {
         "rank": 8,
+        "tag": "THB0S",
+        "username": "WsCaster",
+        "displayName": "WsCaster",
+        "nickname": "Ghost Lap",
+        "squad": "Loyal😎😎😎😎😎😎😎",
+        "races": 200,
+        "wpm": 71.9,
+        "accuracy": 95.67,
+        "points": 26013,
+        "tier": "B"
+      },
+      {
+        "rank": 9,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -107,7 +120,7 @@
         "tier": "A"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "THB0S",
         "username": "Mythical Dragon",
         "displayName": "Mythical Dragon",
@@ -120,7 +133,7 @@
         "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -133,7 +146,7 @@
         "tier": "C"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
@@ -146,7 +159,7 @@
         "tier": "B"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -156,19 +169,6 @@
         "wpm": 89.9,
         "accuracy": 97.67,
         "points": 18402,
-        "tier": "B"
-      },
-      {
-        "rank": 13,
-        "tag": "THB0S",
-        "username": "WsCaster",
-        "displayName": "WsCaster",
-        "nickname": "Ghost Lap",
-        "squad": "Loyal😎😎😎😎😎😎😎",
-        "races": 134,
-        "wpm": 72.7,
-        "accuracy": 95.95,
-        "points": 17531,
         "tier": "B"
       },
       {
@@ -1329,7 +1329,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794206556684
+    "_syncedAt": 1794211344800
   },
   "1522": {
     "eventId": "1522",
@@ -1452,7 +1452,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794206551374
+    "_syncedAt": 1794211340356
   },
   "1550": {
     "eventId": "1550",
@@ -1965,6 +1965,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794206561587
+    "_syncedAt": 1794211349648
   }
 }
