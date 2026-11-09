@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 00:00:00",
-      "racer": "Eclipse",
-      "races": 21
-    },
-    {
       "hour": "2026-11-08 01:00:00",
       "racer": "- Void Grinder -",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-08 01:00:00",
-      "racer": "Eclipse",
-      "races": 9
+      "races": 3
     },
     {
       "hour": "2026-11-08 02:00:00",
@@ -112,15 +102,20 @@
     },
     {
       "hour": "2026-11-09 00:00:00",
-      "racer": "-HyperTyper-",
-      "races": 9
+      "racer": "PootsyWafflebiscuits",
+      "races": 21
     },
     {
       "hour": "2026-11-09 00:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 2
+      "racer": "-HyperTyper-",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-09 01:00:00",
+      "racer": "Nitrex",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794184584358
+  "_syncedAt": 1794189093183
 }

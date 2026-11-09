@@ -5,7 +5,7 @@
   "activePercent": 95,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨73.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker✨GOLD comp soon!!",
-  "profileViews": 2578,
+  "profileViews": 2579,
   "leagueTier": 10,
   "racers": [
     {
@@ -13,10 +13,10 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 20613,
-      "wpm": 90,
+      "allTimeRaces": 20626,
+      "wpm": 87,
       "highestWPM": 110,
-      "teamRaces": 2968,
+      "teamRaces": 2987,
       "acc": 97.56,
       "season": null,
       "status": "active",
@@ -132,7 +132,7 @@
       "acc": 97.29,
       "season": null,
       "status": "active",
-      "lastLogin": 1794111832
+      "lastLogin": 1794188307
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -230,7 +230,7 @@
       "acc": 0,
       "season": null,
       "status": "active",
-      "lastLogin": 1793980434
+      "lastLogin": 1794186244
     },
     {
       "username": "cash4087",
@@ -321,14 +321,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5253,
-      "wpm": 96,
+      "allTimeRaces": 5257,
+      "wpm": 91,
       "highestWPM": 117,
-      "teamRaces": 93,
-      "acc": 91.26,
+      "teamRaces": 97,
+      "acc": 91.25,
       "season": null,
       "status": "active",
-      "lastLogin": 1793582285
+      "lastLogin": 1794187884
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -440,7 +440,7 @@
       "acc": 92.78,
       "season": null,
       "status": "active",
-      "lastLogin": 1794180193
+      "lastLogin": 1794184973
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -646,8 +646,8 @@
       "allTimeRaces": 602,
       "wpm": 95,
       "highestWPM": 120,
-      "teamRaces": 355,
-      "acc": 91.56,
+      "teamRaces": 359,
+      "acc": 91.53,
       "season": null,
       "status": "active",
       "lastLogin": 1794183293
@@ -655,19 +655,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 71141,
+      "races": 71168,
       "avgWPM": 78,
       "avgAcc": 94.95,
       "members": 46
     },
     "daily": {
-      "races": 377,
+      "races": 352,
       "avgWPM": 85,
-      "avgAcc": 95.1,
+      "avgAcc": 94.96,
       "members": 46
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794184515857
+  "_syncedAt": 1794189039392
 }

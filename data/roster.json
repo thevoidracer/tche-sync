@@ -28,10 +28,10 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "B",
-      "avgWPM": 91,
+      "avgWPM": 87,
       "topWPM": 110,
-      "lifetimeRaces": 20614,
-      "teamRaces": 2968,
+      "lifetimeRaces": 20626,
+      "teamRaces": 2987,
       "joined": "06/24/26"
     },
     {
@@ -66,11 +66,11 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 96,
+      "tier": "B",
+      "avgWPM": 91,
       "topWPM": 117,
-      "lifetimeRaces": 5253,
-      "teamRaces": 93,
+      "lifetimeRaces": 5257,
+      "teamRaces": 97,
       "joined": "08/02/26"
     },
     {
@@ -408,7 +408,7 @@
       "avgWPM": 95,
       "topWPM": 120,
       "lifetimeRaces": 602,
-      "teamRaces": 355,
+      "teamRaces": 359,
       "joined": "10/23/26"
     },
     {
@@ -608,5 +608,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794184584357
+  "_syncedAt": 1794189093182
 }
