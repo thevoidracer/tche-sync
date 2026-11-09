@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 01:00:00",
-      "racer": "- Void Grinder -",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-08 02:00:00",
-      "racer": "Eclipse",
-      "races": 3
-    },
-    {
       "hour": "2026-11-08 04:00:00",
       "racer": "Eclipse",
       "races": 10
@@ -117,5 +107,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794189093183
+  "_syncedAt": 1794192126392
 }
