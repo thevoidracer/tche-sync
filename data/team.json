@@ -195,10 +195,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 11268,
-      "wpm": 85,
+      "allTimeRaces": 11335,
+      "wpm": 89,
       "highestWPM": 118,
-      "teamRaces": 10452,
+      "teamRaces": 10515,
       "acc": 97.04,
       "season": null,
       "status": "active",
@@ -209,10 +209,10 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 7910,
-      "wpm": 81,
+      "allTimeRaces": 7925,
+      "wpm": 74,
       "highestWPM": 102,
-      "teamRaces": 1885,
+      "teamRaces": 1900,
       "acc": 93.28,
       "season": null,
       "status": "active",
@@ -244,7 +244,7 @@
       "acc": 96.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1794194663
+      "lastLogin": 1794236515
     },
     {
       "username": "47f3f60e491637ed70f8ada27ed45f03",
@@ -573,42 +573,42 @@
       "displayName": "me_likey_typey",
       "role": "member",
       "joinStamp": 1788972945,
-      "allTimeRaces": 9465,
-      "wpm": 56,
+      "allTimeRaces": 9467,
+      "wpm": 54,
       "highestWPM": 82,
-      "teamRaces": 1419,
+      "teamRaces": 1421,
       "acc": 79.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1793889993
+      "lastLogin": 1794236967
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "RemarkableJadeCheetah",
       "role": "member",
       "joinStamp": 1794130377,
-      "allTimeRaces": 4836,
-      "wpm": 89,
+      "allTimeRaces": 4896,
+      "wpm": 88,
       "highestWPM": 111,
-      "teamRaces": 1200,
+      "teamRaces": 1250,
       "acc": 91.76,
       "season": null,
       "status": "active",
-      "lastLogin": 1794130370
+      "lastLogin": 1794235754
     },
     {
       "username": "nataliefinger",
       "displayName": "nataliefinger",
       "role": "member",
       "joinStamp": 1793977497,
-      "allTimeRaces": 274,
-      "wpm": 96,
+      "allTimeRaces": 282,
+      "wpm": 100,
       "highestWPM": 125,
-      "teamRaces": 2,
-      "acc": 94.38,
+      "teamRaces": 10,
+      "acc": 95.87,
       "season": null,
       "status": "active",
-      "lastLogin": 1793977209
+      "lastLogin": 1794236388
     },
     {
       "username": "xaliishere",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 71445,
+      "races": 71583,
       "avgWPM": 78,
-      "avgAcc": 94.96,
+      "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 538,
+      "races": 676,
       "avgWPM": 87,
-      "avgAcc": 95.55,
+      "avgAcc": 95.29,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794235426419
+  "_syncedAt": 1794238706594
 }

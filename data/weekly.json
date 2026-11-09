@@ -1,37 +1,47 @@
 {
   "racers": [
     {
-      "rank": 144,
-      "username": "kirbydelta",
-      "displayName": "KirbyDelta",
-      "races": 100,
-      "accuracy": 93.02,
-      "wpm": 80.5,
-      "points": 13045,
-      "ppr": 130
-    },
-    {
-      "rank": 161,
+      "rank": 100,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 80,
-      "accuracy": 96.85,
-      "wpm": 90.4,
-      "points": 11249,
-      "ppr": 141
-    },
-    {
-      "rank": 171,
-      "username": "nathanmduncan",
-      "displayName": "Nathan",
-      "races": 71,
-      "accuracy": 94.55,
-      "wpm": 97.2,
-      "points": 9975,
+      "races": 147,
+      "accuracy": 96.77,
+      "wpm": 89.8,
+      "points": 20610,
       "ppr": 140
     },
     {
-      "rank": 224,
+      "rank": 118,
+      "username": "kirbydelta",
+      "displayName": "KirbyDelta",
+      "races": 125,
+      "accuracy": 92.87,
+      "wpm": 79,
+      "points": 16194,
+      "ppr": 130
+    },
+    {
+      "rank": 170,
+      "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
+      "displayName": "RemarkableJadeCheetah",
+      "races": 82,
+      "accuracy": 91.43,
+      "wpm": 89.6,
+      "points": 10856,
+      "ppr": 132
+    },
+    {
+      "rank": 175,
+      "username": "nathanmduncan",
+      "displayName": "Nathan",
+      "races": 75,
+      "accuracy": 94.64,
+      "wpm": 97.4,
+      "points": 10555,
+      "ppr": 141
+    },
+    {
+      "rank": 236,
       "username": "ace1inee",
       "displayName": "asteroids",
       "races": 53,
@@ -41,17 +51,17 @@
       "ppr": 140
     },
     {
-      "rank": 247,
+      "rank": 244,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
-      "races": 46,
-      "accuracy": 97.79,
-      "wpm": 90,
-      "points": 6524,
+      "races": 50,
+      "accuracy": 97.86,
+      "wpm": 90.3,
+      "points": 7102,
       "ppr": 142
     },
     {
-      "rank": 271,
+      "rank": 287,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
       "races": 43,
@@ -61,17 +71,7 @@
       "ppr": 135
     },
     {
-      "rank": 337,
-      "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
-      "displayName": "RemarkableJadeCheetah",
-      "races": 32,
-      "accuracy": 92,
-      "wpm": 90.6,
-      "points": 4278,
-      "ppr": 134
-    },
-    {
-      "rank": 391,
+      "rank": 403,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 25,
@@ -81,7 +81,7 @@
       "ppr": 137
     },
     {
-      "rank": 528,
+      "rank": 565,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 13,
@@ -91,7 +91,17 @@
       "ppr": 132
     },
     {
-      "rank": 638,
+      "rank": 641,
+      "username": "nataliefinger",
+      "displayName": "nataliefinger",
+      "races": 8,
+      "accuracy": 96.09,
+      "wpm": 100.8,
+      "points": 1156,
+      "ppr": 145
+    },
+    {
+      "rank": 693,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
       "races": 6,
@@ -101,7 +111,7 @@
       "ppr": 142
     },
     {
-      "rank": 689,
+      "rank": 753,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 4,
@@ -111,7 +121,17 @@
       "ppr": 129
     },
     {
-      "rank": 780,
+      "rank": 828,
+      "username": "me_likey_typey",
+      "displayName": "me_likey_typey",
+      "races": 2,
+      "accuracy": 75.31,
+      "wpm": 45.5,
+      "points": 185,
+      "ppr": 92
+    },
+    {
+      "rank": 862,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "races": 1,
@@ -121,7 +141,7 @@
       "ppr": 129
     },
     {
-      "rank": 796,
+      "rank": 878,
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "I KC Zadkiel I",
       "races": 1,
@@ -131,7 +151,7 @@
       "ppr": 124
     },
     {
-      "rank": 809,
+      "rank": 895,
       "username": "b6456e4c4be6acdfede3e806a662ed4c",
       "displayName": "Safire",
       "races": 1,
@@ -141,5 +161,5 @@
       "ppr": 112
     }
   ],
-  "_syncedAt": 1794235468792
+  "_syncedAt": 1794238751106
 }
