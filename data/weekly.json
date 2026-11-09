@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 115,
+      "rank": 127,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -11,7 +11,7 @@
       "ppr": 130
     },
     {
-      "rank": 130,
+      "rank": 140,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 80,
@@ -21,7 +21,17 @@
       "ppr": 141
     },
     {
-      "rank": 212,
+      "rank": 186,
+      "username": "ace1inee",
+      "displayName": "asteroids",
+      "races": 53,
+      "accuracy": 95.92,
+      "wpm": 91.1,
+      "points": 7399,
+      "ppr": 140
+    },
+    {
+      "rank": 221,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
       "races": 43,
@@ -31,7 +41,7 @@
       "ppr": 135
     },
     {
-      "rank": 259,
+      "rank": 275,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "RemarkableJadeCheetah",
       "races": 32,
@@ -41,7 +51,7 @@
       "ppr": 134
     },
     {
-      "rank": 260,
+      "rank": 277,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 30,
@@ -51,17 +61,7 @@
       "ppr": 141
     },
     {
-      "rank": 271,
-      "username": "ace1inee",
-      "displayName": "asteroids",
-      "races": 29,
-      "accuracy": 95.97,
-      "wpm": 88,
-      "points": 4008,
-      "ppr": 138
-    },
-    {
-      "rank": 428,
+      "rank": 445,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 13,
@@ -71,7 +71,7 @@
       "ppr": 137
     },
     {
-      "rank": 441,
+      "rank": 458,
       "username": "newkeyboard512",
       "displayName": "-HyperTyper-",
       "races": 13,
@@ -81,7 +81,7 @@
       "ppr": 132
     },
     {
-      "rank": 542,
+      "rank": 563,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 4,
@@ -91,7 +91,7 @@
       "ppr": 129
     },
     {
-      "rank": 594,
+      "rank": 626,
       "username": "2a4c23d957bacad1e38074dc8f3ddc39",
       "displayName": "SKZ FIRAH",
       "races": 1,
@@ -101,5 +101,5 @@
       "ppr": 129
     }
   ],
-  "_syncedAt": 1794202836274
+  "_syncedAt": 1794206495371
 }

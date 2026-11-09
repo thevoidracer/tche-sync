@@ -95,6 +95,19 @@
       },
       {
         "rank": 8,
+        "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 180,
+        "wpm": 89,
+        "accuracy": 95.71,
+        "points": 24892,
+        "tier": "A"
+      },
+      {
+        "rank": 9,
         "tag": "THB0S",
         "username": "Mythical Dragon",
         "displayName": "Mythical Dragon",
@@ -107,7 +120,7 @@
         "tier": "C"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "THB0S",
         "username": "GRANDMAISTHEB0SS",
         "displayName": "GRANDMAISTHEB0SS",
@@ -120,7 +133,7 @@
         "tier": "C"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
@@ -131,19 +144,6 @@
         "accuracy": 94.96,
         "points": 21802,
         "tier": "B"
-      },
-      {
-        "rank": 11,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 156,
-        "wpm": 88.1,
-        "accuracy": 95.68,
-        "points": 21501,
-        "tier": "A"
       },
       {
         "rank": 12,
@@ -1292,6 +1292,19 @@
       {
         "rank": 100,
         "tag": "KEYCAT",
+        "username": "_-VO1D-_",
+        "displayName": "_-VO1D-_",
+        "nickname": "Aura Farmer",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "A"
+      },
+      {
+        "rank": 101,
+        "tag": "KEYCAT",
         "username": "Circus_cat_26",
         "displayName": "Circus_cat_26",
         "nickname": "Gobblin' Mode",
@@ -1303,7 +1316,7 @@
         "tier": "C"
       },
       {
-        "rank": 101,
+        "rank": 102,
         "tag": "THB0S",
         "username": "ketchup boy",
         "displayName": "ketchup boy",
@@ -1316,7 +1329,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794202892858
+    "_syncedAt": 1794206556684
   },
   "1522": {
     "eventId": "1522",
@@ -1376,6 +1389,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Side Hustler 100",
+        "races": 25,
+        "wpm": 94.2,
+        "accuracy": 95.78,
+        "points": 3523,
+        "tier": null
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
         "nickname": "Nitro Rich",
@@ -1387,7 +1413,7 @@
         "tier": null
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -1400,7 +1426,7 @@
         "tier": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "Nitrex",
         "displayName": "Nitrex",
@@ -1410,19 +1436,6 @@
         "wpm": 86.1,
         "accuracy": 90.08,
         "points": 515,
-        "tier": null
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Side Hustler 100",
-        "races": 1,
-        "wpm": 76.8,
-        "accuracy": 93.75,
-        "points": 130,
         "tier": null
       },
       {
@@ -1439,7 +1452,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794202888265
+    "_syncedAt": 1794206551374
   },
   "1550": {
     "eventId": "1550",
@@ -1503,10 +1516,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Side Hustler 100",
-        "races": 290,
-        "wpm": 88.9,
-        "accuracy": 95.51,
-        "points": 40013,
+        "races": 314,
+        "wpm": 89.4,
+        "accuracy": 95.54,
+        "points": 43404,
         "tier": "A"
       },
       {
@@ -1952,6 +1965,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794202896773
+    "_syncedAt": 1794206561587
   }
 }

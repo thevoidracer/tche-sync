@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 8392,
-      "wpm": 80,
+      "allTimeRaces": 8462,
+      "wpm": 79,
       "highestWPM": 110,
-      "teamRaces": 1246,
-      "acc": 97.29,
+      "teamRaces": 1355,
+      "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1794201650
+      "lastLogin": 1794205115
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -265,11 +265,11 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3725,
-      "wpm": 94,
+      "allTimeRaces": 3729,
+      "wpm": 95,
       "highestWPM": 116,
-      "teamRaces": 495,
-      "acc": 95.73,
+      "teamRaces": 519,
+      "acc": 95.74,
       "season": null,
       "status": "active",
       "lastLogin": 1794201708
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 71177,
+      "races": 71310,
       "avgWPM": 78,
-      "avgAcc": 94.95,
+      "avgAcc": 94.96,
       "members": 45
     },
     "daily": {
-      "races": 345,
-      "avgWPM": 86,
-      "avgAcc": 94.95,
+      "races": 478,
+      "avgWPM": 85,
+      "avgAcc": 95.47,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794202784836
+  "_syncedAt": 1794206452825
 }
