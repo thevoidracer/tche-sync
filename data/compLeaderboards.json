@@ -1292,19 +1292,6 @@
       {
         "rank": 100,
         "tag": "KEYCAT",
-        "username": "_-VO1D-_",
-        "displayName": "_-VO1D-_",
-        "nickname": "Aura Farmer",
-        "squad": null,
-        "races": 0,
-        "wpm": 0,
-        "accuracy": 0,
-        "points": 0,
-        "tier": "A"
-      },
-      {
-        "rank": 101,
-        "tag": "KEYCAT",
         "username": "Circus_cat_26",
         "displayName": "Circus_cat_26",
         "nickname": "Gobblin' Mode",
@@ -1316,7 +1303,7 @@
         "tier": "C"
       },
       {
-        "rank": 102,
+        "rank": 101,
         "tag": "THB0S",
         "username": "ketchup boy",
         "displayName": "ketchup boy",
@@ -1329,7 +1316,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794211344800
+    "_syncedAt": 1794214821616
   },
   "1522": {
     "eventId": "1522",
@@ -1452,7 +1439,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794211340356
+    "_syncedAt": 1794214817015
   },
   "1550": {
     "eventId": "1550",
@@ -1965,6 +1952,6 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794211349648
+    "_syncedAt": 1794214825792
   }
 }

@@ -2,7 +2,7 @@
   "KEYCAT": {
     "timeframes": {
       "24h": {
-        "rank": 56,
+        "rank": 55,
         "races": 55,
         "accuracy": 91.34,
         "wpm": 64.7,
@@ -19,14 +19,14 @@
       },
       "week": {
         "rank": 40,
-        "races": 2482,
+        "races": 2475,
         "accuracy": 92.82,
-        "wpm": 67.7,
-        "points": 308415,
+        "wpm": 67.6,
+        "points": 307405,
         "ppr": 124
       },
       "weekly": {
-        "rank": 58,
+        "rank": 59,
         "races": 55,
         "accuracy": 91.34,
         "wpm": 64.7,
@@ -49,7 +49,7 @@
     "points": 836965,
     "ppr": 123,
     "source": "ntstartrack.org",
-    "_syncedAt": 1794211368552
+    "_syncedAt": 1794214847100
   },
   "THB0S": {
     "timeframes": {
@@ -78,7 +78,7 @@
         "ppr": 130
       },
       "weekly": {
-        "rank": 12,
+        "rank": 14,
         "races": 1353,
         "accuracy": 94.84,
         "wpm": 79.3,
@@ -101,6 +101,6 @@
     "points": 2625394,
     "ppr": 130,
     "source": "ntstartrack.org",
-    "_syncedAt": 1794211387268
+    "_syncedAt": 1794214866131
   }
 }
