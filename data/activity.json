@@ -1,19 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 08:00:00",
-      "racer": "asteroids",
-      "races": 11
-    },
-    {
       "hour": "2026-11-08 09:00:00",
       "racer": "RemarkableJadeCheetah",
-      "races": 32
-    },
-    {
-      "hour": "2026-11-08 09:00:00",
-      "racer": "asteroids",
-      "races": 17
+      "races": 12
     },
     {
       "hour": "2026-11-08 13:00:00",
@@ -127,5 +117,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794214775175
+  "_syncedAt": 1794217869415
 }
