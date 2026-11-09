@@ -171,10 +171,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 92,
       "topWPM": 109,
-      "lifetimeRaces": 1512,
-      "teamRaces": 284,
+      "lifetimeRaces": 1513,
+      "teamRaces": 285,
       "joined": "09/29/26"
     },
     {
@@ -349,14 +349,14 @@
     {
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "Joe and Uh",
-      "nickname": "Keeper of the Keys",
+      "nickname": "Raking in Wins",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 95,
+      "tier": "B",
+      "avgWPM": 84,
       "topWPM": 120,
-      "lifetimeRaces": 1478,
-      "teamRaces": 293,
+      "lifetimeRaces": 1492,
+      "teamRaces": 307,
       "joined": "10/21/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794255380893
+  "_syncedAt": 1794258148827
 }

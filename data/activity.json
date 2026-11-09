@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-08 20:00:00",
-      "racer": "- Void Grinder -",
-      "races": 2
-    },
-    {
       "hour": "2026-11-08 21:00:00",
       "racer": "asteroids",
       "races": 1
@@ -167,12 +162,12 @@
     },
     {
       "hour": "2026-11-09 17:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 7
     },
     {
       "hour": "2026-11-09 17:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 7
     },
     {
@@ -207,12 +202,12 @@
     },
     {
       "hour": "2026-11-09 18:00:00",
-      "racer": "Nish_OUT",
+      "racer": "One for One",
       "races": 9
     },
     {
       "hour": "2026-11-09 18:00:00",
-      "racer": "One for One",
+      "racer": "Nish_OUT",
       "races": 9
     },
     {
@@ -252,10 +247,20 @@
     },
     {
       "hour": "2026-11-09 20:00:00",
+      "racer": "Joe and Uh",
+      "races": 14
+    },
+    {
+      "hour": "2026-11-09 20:00:00",
       "racer": "WindMaker",
       "races": 2
+    },
+    {
+      "hour": "2026-11-09 20:00:00",
+      "racer": "Nish_OUT",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794255380894
+  "_syncedAt": 1794258148827
 }
