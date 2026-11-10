@@ -3,12 +3,12 @@
     {
       "hour": "2026-11-09 00:00:00",
       "racer": "PootsyWafflebiscuits",
-      "races": 21
+      "races": 19
     },
     {
       "hour": "2026-11-09 00:00:00",
       "racer": "-HyperTyper-",
-      "races": 13
+      "races": 4
     },
     {
       "hour": "2026-11-09 01:00:00",
@@ -279,8 +279,13 @@
       "hour": "2026-11-09 22:00:00",
       "racer": "Void Racer",
       "races": 2
+    },
+    {
+      "hour": "2026-11-10 00:00:00",
+      "racer": "-HyperTyper-",
+      "races": 6
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794268754220
+  "_syncedAt": 1794271073704
 }
