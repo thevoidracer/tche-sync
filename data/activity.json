@@ -1,54 +1,19 @@
 {
   "hours": [
     {
-      "hour": "2026-11-09 13:00:00",
-      "racer": "Nathan",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-09 13:00:00",
-      "racer": "Joe and Uh",
-      "races": 1
-    },
-    {
       "hour": "2026-11-09 14:00:00",
       "racer": "rorok09",
-      "races": 27
+      "races": 23
     },
     {
       "hour": "2026-11-09 14:00:00",
       "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-09 14:00:00",
-      "racer": "Nathan",
-      "races": 24
-    },
-    {
-      "hour": "2026-11-09 14:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 20
+      "races": 15
     },
     {
       "hour": "2026-11-09 14:00:00",
       "racer": "RemarkableJadeCheetah",
       "races": 15
-    },
-    {
-      "hour": "2026-11-09 14:00:00",
-      "racer": "Joe and Uh",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-09 14:00:00",
-      "racer": "Safire",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-09 14:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 1
     },
     {
       "hour": "2026-11-09 15:00:00",
@@ -142,12 +107,12 @@
     },
     {
       "hour": "2026-11-09 18:00:00",
-      "racer": "One for One",
+      "racer": "Nish_OUT",
       "races": 9
     },
     {
       "hour": "2026-11-09 18:00:00",
-      "racer": "Nish_OUT",
+      "racer": "One for One",
       "races": 9
     },
     {
@@ -177,12 +142,12 @@
     },
     {
       "hour": "2026-11-09 19:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "Nathan",
       "races": 1
     },
     {
       "hour": "2026-11-09 19:00:00",
-      "racer": "Nathan",
+      "racer": "PootsyWafflebiscuits",
       "races": 1
     },
     {
@@ -283,19 +248,34 @@
     {
       "hour": "2026-11-10 13:00:00",
       "racer": "rorok09",
-      "races": 13
+      "races": 41
     },
     {
       "hour": "2026-11-10 13:00:00",
       "racer": "RemarkableJadeCheetah",
-      "races": 11
+      "races": 17
     },
     {
       "hour": "2026-11-10 13:00:00",
       "racer": "I KC Zadkiel I",
-      "races": 3
+      "races": 16
+    },
+    {
+      "hour": "2026-11-10 14:00:00",
+      "racer": "rorok09",
+      "races": 34
+    },
+    {
+      "hour": "2026-11-10 14:00:00",
+      "racer": "KirbyDelta",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-10 14:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794318740764
+  "_syncedAt": 1794321630020
 }

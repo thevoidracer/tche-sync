@@ -1441,13 +1441,13 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1794318761486
+        "_syncedAt": 1794321651912
       }
     },
     {
       "id": "57",
       "name": "IMT Ally Celebration Tournament",
-      "status": "Active",
+      "status": "Completed",
       "description": "Join for a chance to win up to 10M NTC!!! Captains pay their own team members if they want to.",
       "start": "October 16, 2026 at 2:00 PM",
       "end": "November 10, 2026 at 2:30 PM",
@@ -2856,7 +2856,7 @@
           ]
         },
         {
-          "label": "Championship ($4,000,000) *",
+          "label": "Championship ($4,000,000) ✓",
           "prize": null,
           "matches": [
             {
@@ -2868,7 +2868,7 @@
                   "teamTag": "IMT",
                   "gold": false,
                   "placeholder": false,
-                  "score": 141980
+                  "score": 150591
                 },
                 {
                   "seed": "2",
@@ -3771,10 +3771,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1794318779037
+        "_syncedAt": 1794321669229
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794318779041
+  "_syncedAt": 1794321669234
 }
