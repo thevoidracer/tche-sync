@@ -6,7 +6,7 @@
     "activePercent": 80,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ \"A cat will do what it wants, when it wants, and there is nothing you can do about it\" | Tournaments won: 8| Allies: MTEXAS, AUG3, IMT, IMTR",
-    "profileViews": 3217,
+    "profileViews": 3221,
     "leagueTier": 10,
     "racers": [
       {
@@ -642,16 +642,16 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794281301047
+    "_syncedAt": 1794284406990
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 48,
+    "members": 47,
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comp | Gold Comp | 120 race a day = 500k | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5231,
+    "profileViews": 5232,
     "leagueTier": 10,
     "racers": [
       {
@@ -659,14 +659,14 @@
         "displayName": "ella   ",
         "role": "member",
         "joinStamp": 1793139374,
-        "allTimeRaces": 102203,
-        "wpm": 94,
+        "allTimeRaces": 102204,
+        "wpm": 96,
         "highestWPM": 156,
-        "teamRaces": 1152,
+        "teamRaces": 1153,
         "acc": 96.06,
         "season": null,
         "status": "active",
-        "lastLogin": 1794277448
+        "lastLogin": 1794282561
       },
       {
         "username": "joepellicc_gold",
@@ -687,11 +687,11 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11784,
-        "wpm": 103,
+        "allTimeRaces": 11834,
+        "wpm": 106,
         "highestWPM": 142,
-        "teamRaces": 2351,
-        "acc": 97.99,
+        "teamRaces": 2405,
+        "acc": 97.98,
         "season": null,
         "status": "active",
         "lastLogin": 1794256257
@@ -893,6 +893,20 @@
         "lastLogin": 1794241393
       },
       {
+        "username": "davidhopey12",
+        "displayName": "DavidhopeyYT",
+        "role": "member",
+        "joinStamp": 1794281893,
+        "allTimeRaces": 996,
+        "wpm": 109,
+        "highestWPM": 124,
+        "teamRaces": 9,
+        "acc": 96.24,
+        "season": null,
+        "status": "active",
+        "lastLogin": 1794279942
+      },
+      {
         "username": "tacthecat",
         "displayName": "TacTheCat",
         "role": "member",
@@ -961,20 +975,6 @@
         "season": null,
         "status": "active",
         "lastLogin": 1794248599
-      },
-      {
-        "username": "bouwbouwbouw",
-        "displayName": "ketchup boy",
-        "role": "member",
-        "joinStamp": 1793977274,
-        "allTimeRaces": 2757,
-        "wpm": 63,
-        "highestWPM": 81,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793974039
       },
       {
         "username": "868a312b64fc2119a7266961ceffdfaa",
@@ -1107,28 +1107,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 20170,
-        "wpm": 94,
+        "allTimeRaces": 20180,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 19710,
+        "teamRaces": 19720,
         "acc": 94.01,
         "season": null,
         "status": "active",
         "lastLogin": 1794280464
-      },
-      {
-        "username": "taco13001",
-        "displayName": "taco13001",
-        "role": "member",
-        "joinStamp": 1793203898,
-        "allTimeRaces": 620,
-        "wpm": 62,
-        "highestWPM": 82,
-        "teamRaces": 77,
-        "acc": 93.26,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1793724261
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1329,20 +1315,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 138657,
+        "races": 138731,
         "avgWPM": 68,
         "avgAcc": 94.07,
-        "members": 48
+        "members": 47
       },
       "daily": {
-        "races": 1258,
-        "avgWPM": 82,
-        "avgAcc": 95.1,
-        "members": 48
+        "races": 1292,
+        "avgWPM": 83,
+        "avgAcc": 95.23,
+        "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794281320100
+    "_syncedAt": 1794284426999
   }
 }

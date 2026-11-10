@@ -279,8 +279,13 @@
       "hour": "2026-11-10 02:00:00",
       "racer": "- Void Grinder -",
       "races": 7
+    },
+    {
+      "hour": "2026-11-10 03:00:00",
+      "racer": "asteroids",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794281240393
+  "_syncedAt": 1794284350849
 }
