@@ -623,7 +623,7 @@
         "acc": 96.18,
         "season": null,
         "status": "active",
-        "lastLogin": 1794228294
+        "lastLogin": 1794295387
       }
     ],
     "aggregates": {
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794291545501
+    "_syncedAt": 1794296502564
   },
   "THB0S": {
     "tag": "THB0S",
@@ -883,14 +883,14 @@
         "displayName": "DavidhopeyYT",
         "role": "member",
         "joinStamp": 1794281893,
-        "allTimeRaces": 1009,
-        "wpm": 102,
+        "allTimeRaces": 1015,
+        "wpm": 100,
         "highestWPM": 124,
-        "teamRaces": 22,
-        "acc": 96.46,
+        "teamRaces": 28,
+        "acc": 96.66,
         "season": null,
         "status": "active",
-        "lastLogin": 1794289573
+        "lastLogin": 1794293400
       },
       {
         "username": "tacthecat",
@@ -1315,20 +1315,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 138855,
+        "races": 138861,
         "avgWPM": 68,
         "avgAcc": 94.08,
         "members": 47
       },
       "daily": {
-        "races": 1405,
-        "avgWPM": 84,
-        "avgAcc": 95.41,
+        "races": 1357,
+        "avgWPM": 85,
+        "avgAcc": 95.42,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794291567094
+    "_syncedAt": 1794296521521
   }
 }

@@ -1,11 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-09 06:00:00",
-      "racer": "Eclipse",
-      "races": 54
-    },
-    {
       "hour": "2026-11-09 13:00:00",
       "racer": "Nathan",
       "races": 51
@@ -52,12 +47,12 @@
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 1
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 1
     },
     {
@@ -272,5 +267,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794291487552
+  "_syncedAt": 1794296445095
 }

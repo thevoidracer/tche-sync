@@ -771,6 +771,19 @@
       },
       {
         "rank": 60,
+        "tag": "THB0S",
+        "username": "DavidhopeyYT",
+        "displayName": "DavidhopeyYT",
+        "nickname": "Pro Pacer",
+        "squad": null,
+        "races": 28,
+        "wpm": 103.6,
+        "accuracy": 96.54,
+        "points": 4104,
+        "tier": "A"
+      },
+      {
+        "rank": 61,
         "tag": "KEYCAT",
         "username": "FluffCat",
         "displayName": "FluffCat",
@@ -783,7 +796,7 @@
         "tier": "A"
       },
       {
-        "rank": 61,
+        "rank": 62,
         "tag": "THB0S",
         "username": "hakari is the best",
         "displayName": "hakari is the best",
@@ -796,7 +809,7 @@
         "tier": "C"
       },
       {
-        "rank": 62,
+        "rank": 63,
         "tag": "THB0S",
         "username": "dark type",
         "displayName": "dark type",
@@ -809,7 +822,7 @@
         "tier": "C"
       },
       {
-        "rank": 63,
+        "rank": 64,
         "tag": "THB0S",
         "username": "join my team please",
         "displayName": "join my team please",
@@ -822,7 +835,7 @@
         "tier": "C"
       },
       {
-        "rank": 64,
+        "rank": 65,
         "tag": "IMT",
         "username": "-HyperTyper-",
         "displayName": "-HyperTyper-",
@@ -835,7 +848,7 @@
         "tier": "A"
       },
       {
-        "rank": 65,
+        "rank": 66,
         "tag": "KEYCAT",
         "username": "Jamusisthebeaver",
         "displayName": "Jamusisthebeaver",
@@ -846,19 +859,6 @@
         "accuracy": 92.79,
         "points": 3240,
         "tier": "B"
-      },
-      {
-        "rank": 66,
-        "tag": "THB0S",
-        "username": "DavidhopeyYT",
-        "displayName": "DavidhopeyYT",
-        "nickname": "Pro Pacer",
-        "squad": null,
-        "races": 22,
-        "wpm": 104.7,
-        "accuracy": 96.33,
-        "points": 3229,
-        "tier": "A"
       },
       {
         "rank": 67,
@@ -1433,7 +1433,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794291541259
+    "_syncedAt": 1794296498403
   },
   "1522": {
     "eventId": "1522",
@@ -1738,12 +1738,12 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794291536980
+    "_syncedAt": 1794296493938
   },
   "1544": {
     "eventId": "1544",
     "racers": [],
-    "_syncedAt": 1794291529103
+    "_syncedAt": 1794296486064
   },
   "1550": {
     "eventId": "1550",
@@ -2256,7 +2256,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794291545338
+    "_syncedAt": 1794296502404
   },
   "1573": {
     "eventId": "1573",
@@ -2535,6 +2535,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794291533041
+    "_syncedAt": 1794296489978
   }
 }
