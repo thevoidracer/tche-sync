@@ -273,14 +273,19 @@
     {
       "hour": "2026-11-10 11:00:00",
       "racer": "rorok09",
-      "races": 32
+      "races": 40
     },
     {
       "hour": "2026-11-10 11:00:00",
       "racer": "Nathan",
       "races": 30
+    },
+    {
+      "hour": "2026-11-10 12:00:00",
+      "racer": "rorok09",
+      "races": 32
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794311820793
+  "_syncedAt": 1794314717520
 }
