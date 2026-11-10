@@ -3,17 +3,12 @@
     {
       "hour": "2026-11-09 13:00:00",
       "racer": "Nathan",
-      "races": 51
-    },
-    {
-      "hour": "2026-11-09 13:00:00",
-      "racer": "Void Racer",
-      "races": 12
+      "races": 8
     },
     {
       "hour": "2026-11-09 13:00:00",
       "racer": "Joe and Uh",
-      "races": 4
+      "races": 1
     },
     {
       "hour": "2026-11-09 14:00:00",
@@ -283,9 +278,24 @@
     {
       "hour": "2026-11-10 12:00:00",
       "racer": "rorok09",
-      "races": 32
+      "races": 59
+    },
+    {
+      "hour": "2026-11-10 13:00:00",
+      "racer": "rorok09",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-10 13:00:00",
+      "racer": "RemarkableJadeCheetah",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-10 13:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794314717520
+  "_syncedAt": 1794318740764
 }
