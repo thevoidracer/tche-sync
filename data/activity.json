@@ -72,12 +72,12 @@
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 1
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 1
     },
     {
@@ -132,12 +132,12 @@
     },
     {
       "hour": "2026-11-09 17:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 7
     },
     {
       "hour": "2026-11-09 17:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 7
     },
     {
@@ -273,9 +273,19 @@
     {
       "hour": "2026-11-10 01:00:00",
       "racer": "- Void Grinder -",
-      "races": 14
+      "races": 44
+    },
+    {
+      "hour": "2026-11-10 01:00:00",
+      "racer": "-HyperTyper-",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-10 02:00:00",
+      "racer": "- Void Grinder -",
+      "races": 7
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794275180350
+  "_syncedAt": 1794278012818
 }
