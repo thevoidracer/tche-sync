@@ -293,13 +293,13 @@
       "label": "Spirit Racers (10/18/2026 – 11/29/2026)",
       "racers": [
         {
-          "rank": 66,
+          "rank": 65,
           "username": "75ece50e19f0ca3d92787e4a86138578",
           "displayName": "rorok09",
-          "races": 2725,
-          "accuracy": 96.8,
+          "races": 2757,
+          "accuracy": 96.79,
           "wpm": 88.8,
-          "points": 380877,
+          "points": 385308,
           "ppr": 140
         },
         {
@@ -333,7 +333,7 @@
           "ppr": 137
         },
         {
-          "rank": 332,
+          "rank": 333,
           "username": "tre1typer",
           "displayName": "insta _trewatkins",
           "races": 839,
@@ -353,17 +353,17 @@
           "ppr": 115
         },
         {
-          "rank": 476,
+          "rank": 444,
           "username": "nathanmduncan",
           "displayName": "Nathan",
-          "races": 617,
-          "accuracy": 95.05,
+          "races": 647,
+          "accuracy": 95.07,
           "wpm": 99.4,
-          "points": 87780,
+          "points": 92079,
           "ppr": 142
         },
         {
-          "rank": 554,
+          "rank": 555,
           "username": "sidoh",
           "displayName": "PootsyWafflebiscuits",
           "races": 555,
@@ -373,7 +373,7 @@
           "ppr": 141
         },
         {
-          "rank": 598,
+          "rank": 599,
           "username": "ace1inee",
           "displayName": "asteroids",
           "races": 534,
@@ -473,7 +473,7 @@
           "ppr": 137
         },
         {
-          "rank": 959,
+          "rank": 960,
           "username": "470256",
           "displayName": "Nish_OUT",
           "races": 268,
@@ -493,7 +493,7 @@
           "ppr": 127
         },
         {
-          "rank": 1188,
+          "rank": 1189,
           "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
           "displayName": "RemarkableJadeCheetah",
           "races": 204,
@@ -503,7 +503,7 @@
           "ppr": 132
         },
         {
-          "rank": 1207,
+          "rank": 1208,
           "username": "5b7204df5a2e2c2bd6d6088673206b01",
           "displayName": "I KC Zadkiel I",
           "races": 204,
@@ -523,7 +523,7 @@
           "ppr": 115
         },
         {
-          "rank": 1321,
+          "rank": 1322,
           "username": "10712a0152fd25105448b6ef1298504b",
           "displayName": "RationalGoldApe",
           "races": 156,
@@ -644,7 +644,7 @@
         }
       ],
       "isCurrent": true,
-      "_syncedAt": 1794309206320
+      "_syncedAt": 1794311799291
     }
   },
   "order": [
@@ -652,5 +652,5 @@
     "NitroCity"
   ],
   "currentValue": "SpiritRacers",
-  "_syncedAt": 1794309206320
+  "_syncedAt": 1794311799291
 }

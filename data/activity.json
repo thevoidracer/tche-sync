@@ -269,8 +269,18 @@
       "hour": "2026-11-10 10:00:00",
       "racer": "asteroids",
       "races": 14
+    },
+    {
+      "hour": "2026-11-10 11:00:00",
+      "racer": "rorok09",
+      "races": 32
+    },
+    {
+      "hour": "2026-11-10 11:00:00",
+      "racer": "Nathan",
+      "races": 30
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794309227839
+  "_syncedAt": 1794311820793
 }

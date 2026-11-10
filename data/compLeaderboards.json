@@ -22,10 +22,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Phantom 10k",
-        "races": 906,
+        "races": 938,
         "wpm": 89.1,
-        "accuracy": 96.57,
-        "points": 126476,
+        "accuracy": 96.56,
+        "points": 130906,
         "tier": "B"
       },
       {
@@ -87,10 +87,10 @@
         "displayName": "Gt650,",
         "nickname": "Solid Gold",
         "squad": "Active!😁😁😁😁😁",
-        "races": 449,
-        "wpm": 41.7,
-        "accuracy": 84.07,
-        "points": 45613,
+        "races": 490,
+        "wpm": 41.8,
+        "accuracy": 84.14,
+        "points": 49838,
         "tier": "C"
       },
       {
@@ -108,6 +108,19 @@
       },
       {
         "rank": 9,
+        "tag": "IMT",
+        "username": "Nathan",
+        "displayName": "Nathan",
+        "nickname": "No Nitros Needed",
+        "squad": "Entrepreneur 500",
+        "races": 220,
+        "wpm": 101.6,
+        "accuracy": 94.92,
+        "points": 31492,
+        "tier": "A"
+      },
+      {
+        "rank": 10,
         "tag": "THB0S",
         "username": "Mythical Dragon",
         "displayName": "Mythical Dragon",
@@ -118,19 +131,6 @@
         "accuracy": 92.83,
         "points": 31281,
         "tier": "C"
-      },
-      {
-        "rank": 10,
-        "tag": "IMT",
-        "username": "Nathan",
-        "displayName": "Nathan",
-        "nickname": "No Nitros Needed",
-        "squad": "Entrepreneur 500",
-        "races": 190,
-        "wpm": 101.8,
-        "accuracy": 94.84,
-        "points": 27195,
-        "tier": "A"
       },
       {
         "rank": 11,
@@ -330,6 +330,19 @@
       {
         "rank": 26,
         "tag": "THB0S",
+        "username": "Sakupen",
+        "displayName": "Sakupen",
+        "nickname": "Original Gangster",
+        "squad": "Officer😲😱😱😱",
+        "races": 139,
+        "wpm": 43.5,
+        "accuracy": 90.12,
+        "points": 15252,
+        "tier": "C"
+      },
+      {
+        "rank": 27,
+        "tag": "THB0S",
         "username": "Joereynolds",
         "displayName": "Joereynolds",
         "nickname": "Boo!",
@@ -341,7 +354,7 @@
         "tier": "A"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "Namedisplayed",
         "displayName": "Namedisplayed",
@@ -354,7 +367,7 @@
         "tier": "A"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "IMT",
         "username": "Nish_OUT",
         "displayName": "Nish_OUT",
@@ -365,19 +378,6 @@
         "accuracy": 96.83,
         "points": 14260,
         "tier": "A"
-      },
-      {
-        "rank": 29,
-        "tag": "THB0S",
-        "username": "Sakupen",
-        "displayName": "Sakupen",
-        "nickname": "Original Gangster",
-        "squad": "Officer😲😱😱😱",
-        "races": 128,
-        "wpm": 43.4,
-        "accuracy": 90.13,
-        "points": 14043,
-        "tier": "C"
       },
       {
         "rank": 30,
@@ -1433,7 +1433,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794309280804
+    "_syncedAt": 1794311875391
   },
   "1522": {
     "eventId": "1522",
@@ -1458,10 +1458,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Phantom 10k",
-        "races": 157,
-        "wpm": 89.7,
-        "accuracy": 96.75,
-        "points": 22005,
+        "races": 189,
+        "wpm": 89.4,
+        "accuracy": 96.68,
+        "points": 26436,
         "tier": "$3,000,000"
       },
       {
@@ -1480,6 +1480,19 @@
       {
         "rank": 4,
         "tag": "IMT",
+        "username": "Nathan",
+        "displayName": "Nathan",
+        "nickname": "No Nitros Needed",
+        "squad": "Entrepreneur 500",
+        "races": 121,
+        "wpm": 99.6,
+        "accuracy": 95.02,
+        "points": 17224,
+        "tier": "$2,000,000"
+      },
+      {
+        "rank": 5,
+        "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
         "nickname": "Hallowampus Fanclub",
@@ -1488,20 +1501,7 @@
         "wpm": 84.9,
         "accuracy": 95.56,
         "points": 14838,
-        "tier": "$2,000,000"
-      },
-      {
-        "rank": 5,
-        "tag": "IMT",
-        "username": "Nathan",
-        "displayName": "Nathan",
-        "nickname": "No Nitros Needed",
-        "squad": "Entrepreneur 500",
-        "races": 91,
-        "wpm": 99.4,
-        "accuracy": 94.89,
-        "points": 12926,
-        "tier": null
+        "tier": "$1,500,000"
       },
       {
         "rank": 6,
@@ -1738,13 +1738,39 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794309276368
+    "_syncedAt": 1794311870650
   },
   "1544": {
     "eventId": "1544",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Phantom 10k",
+        "races": 32,
+        "wpm": 87.6,
+        "accuracy": 96.27,
+        "points": 4430,
+        "tier": "B"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
+        "username": "Nathan",
+        "displayName": "Nathan",
+        "nickname": "No Nitros Needed",
+        "squad": "Entrepreneur 500",
+        "races": 30,
+        "wpm": 100.3,
+        "accuracy": 95.4,
+        "points": 4297,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
         "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
@@ -1757,7 +1783,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794309268562
+    "_syncedAt": 1794311862662
   },
   "1550": {
     "eventId": "1550",
@@ -1769,10 +1795,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Phantom 10k",
-        "races": 1167,
+        "races": 1199,
         "wpm": 88.8,
-        "accuracy": 96.64,
-        "points": 162873,
+        "accuracy": 96.63,
+        "points": 167304,
         "tier": "B"
       },
       {
@@ -1873,10 +1899,10 @@
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
         "squad": "Entrepreneur 500",
-        "races": 198,
-        "wpm": 101.8,
-        "accuracy": 94.81,
-        "points": 28330,
+        "races": 228,
+        "wpm": 101.6,
+        "accuracy": 94.89,
+        "points": 32627,
         "tier": "A"
       },
       {
@@ -2270,7 +2296,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794309284760
+    "_syncedAt": 1794311879449
   },
   "1573": {
     "eventId": "1573",
@@ -2291,6 +2317,32 @@
       {
         "rank": 2,
         "tag": "IMT",
+        "username": "Nathan",
+        "displayName": "Nathan",
+        "nickname": "No Nitros Needed",
+        "squad": "Entrepreneur 500",
+        "races": 121,
+        "wpm": 99.6,
+        "accuracy": 95.02,
+        "points": 17224,
+        "tier": null
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
+        "username": "rorok09",
+        "displayName": "rorok09",
+        "nickname": "Original Gangster",
+        "squad": "Phantom 10k",
+        "races": 109,
+        "wpm": 88.6,
+        "accuracy": 96.55,
+        "points": 15186,
+        "tier": null
+      },
+      {
+        "rank": 4,
+        "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
         "nickname": "Night Patrol",
@@ -2299,32 +2351,6 @@
         "wpm": 78.1,
         "accuracy": 89.83,
         "points": 12492,
-        "tier": null
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "Nathan",
-        "displayName": "Nathan",
-        "nickname": "No Nitros Needed",
-        "squad": "Entrepreneur 500",
-        "races": 91,
-        "wpm": 99.4,
-        "accuracy": 94.89,
-        "points": 12926,
-        "tier": null
-      },
-      {
-        "rank": 4,
-        "tag": "IMT",
-        "username": "rorok09",
-        "displayName": "rorok09",
-        "nickname": "Original Gangster",
-        "squad": "Phantom 10k",
-        "races": 77,
-        "wpm": 89,
-        "accuracy": 96.66,
-        "points": 10755,
         "tier": null
       },
       {
@@ -2549,6 +2575,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794309272474
+    "_syncedAt": 1794311866650
   }
 }

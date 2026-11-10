@@ -245,7 +245,7 @@
         "acc": 90.11,
         "season": null,
         "status": "active",
-        "lastLogin": 1794250845
+        "lastLogin": 1794310416
       },
       {
         "username": "c52fd2ca61cebcfa9c50be45911b7138",
@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794309285098
+    "_syncedAt": 1794311879688
   },
   "THB0S": {
     "tag": "THB0S",
@@ -1082,7 +1082,7 @@
         "allTimeRaces": 4166,
         "wpm": 45,
         "highestWPM": 61,
-        "teamRaces": 2627,
+        "teamRaces": 2628,
         "acc": 91.94,
         "season": null,
         "status": "active",
@@ -1205,14 +1205,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 9968,
-        "wpm": 44,
+        "allTimeRaces": 10015,
+        "wpm": 41,
         "highestWPM": 75,
-        "teamRaces": 2536,
-        "acc": 86.4,
+        "teamRaces": 2576,
+        "acc": 86.41,
         "season": null,
         "status": "active",
-        "lastLogin": 1794309198
+        "lastLogin": 1794310427
       },
       {
         "username": "legendsince2026",
@@ -1315,20 +1315,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 138910,
+        "races": 138951,
         "avgWPM": 68,
-        "avgAcc": 94.08,
+        "avgAcc": 94.07,
         "members": 47
       },
       "daily": {
-        "races": 1387,
-        "avgWPM": 84,
-        "avgAcc": 95.28,
+        "races": 1421,
+        "avgWPM": 83,
+        "avgAcc": 95.17,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794309304034
+    "_syncedAt": 1794311898699
   }
 }
