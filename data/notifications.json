@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "comp-live:1544",
+      "type": "comp-live",
+      "text": "Cash comp \"Turbo Tuesday - Nov 10Recurring comp\" is now live!",
+      "meta": {
+        "eventId": "1544"
+      },
+      "createdAt": 1794288029426
+    },
+    {
       "key": "comp-live:1573",
       "type": "comp-live",
       "text": "Cash comp \"Gold Comp 💛\" is now live!",
@@ -851,5 +860,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1794284389847
+  "_syncedAt": 1794288029426
 }

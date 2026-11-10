@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 92,
+    "tierA": 91,
     "tierB": 81,
     "weeklyReq": 100
   },
@@ -66,7 +66,7 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 117,
       "lifetimeRaces": 5257,
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794284350847
+  "_syncedAt": 1794287990153
 }

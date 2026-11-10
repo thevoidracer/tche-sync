@@ -89,6 +89,14 @@
       "end": "11/27/2026, 08:00 PM"
     },
     {
+      "id": "1589",
+      "status": "Pending",
+      "title": "Turbo Tuesday - Nov 16Recurring comp",
+      "desc": "Get ready to turn your laps into instant cash with our weekly Turbo Tuesday event! For every 10 races you complete after the first 40, you will automatically earn 100,000 NTC with a limit of a staggering 5 million NTC. Just log your races, hit your milestones, and claim your rewards at the end of the day—so fire up your engines, hit the track, and go get that money!",
+      "start": "11/17/2026, 05:00 AM",
+      "end": "11/18/2026, 05:00 AM"
+    },
+    {
       "id": "1581",
       "status": "Pending",
       "title": "Weekly Cash Comp - Nov 16Recurring comp",
@@ -98,7 +106,7 @@
     },
     {
       "id": "1544",
-      "status": "Pending",
+      "status": "Active",
       "title": "Turbo Tuesday - Nov 10Recurring comp",
       "desc": "Get ready to turn your laps into instant cash with our weekly Turbo Tuesday event! For every 10 races you complete after the first 40, you will automatically earn 100,000 NTC with a limit of a staggering 5 million NTC. Just log your races, hit your milestones, and claim your rewards at the end of the day—so fire up your engines, hit the track, and go get that money!",
       "start": "11/10/2026, 05:00 AM",
@@ -242,5 +250,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794284318763
+  "_syncedAt": 1794287958774
 }
