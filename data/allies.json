@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794288050936
+    "_syncedAt": 1794291545501
   },
   "THB0S": {
     "tag": "THB0S",
@@ -651,7 +651,7 @@
     "activePercent": 100,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comp | Gold Comp | 120 race a day = 500k | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5236,
+    "profileViews": 5237,
     "leagueTier": 10,
     "racers": [
       {
@@ -662,7 +662,7 @@
         "allTimeRaces": 102221,
         "wpm": 86,
         "highestWPM": 156,
-        "teamRaces": 1163,
+        "teamRaces": 1170,
         "acc": 96.05,
         "season": null,
         "status": "active",
@@ -687,10 +687,10 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11880,
-        "wpm": 106,
+        "allTimeRaces": 11903,
+        "wpm": 103,
         "highestWPM": 142,
-        "teamRaces": 2435,
+        "teamRaces": 2475,
         "acc": 97.98,
         "season": null,
         "status": "active",
@@ -883,14 +883,14 @@
         "displayName": "DavidhopeyYT",
         "role": "member",
         "joinStamp": 1794281893,
-        "allTimeRaces": 996,
-        "wpm": 109,
+        "allTimeRaces": 1009,
+        "wpm": 102,
         "highestWPM": 124,
-        "teamRaces": 9,
-        "acc": 96.24,
+        "teamRaces": 22,
+        "acc": 96.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1794279942
+        "lastLogin": 1794289573
       },
       {
         "username": "tacthecat",
@@ -1315,20 +1315,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 138795,
+        "races": 138855,
         "avgWPM": 68,
-        "avgAcc": 94.07,
+        "avgAcc": 94.08,
         "members": 47
       },
       "daily": {
-        "races": 1345,
+        "races": 1405,
         "avgWPM": 84,
-        "avgAcc": 95.3,
+        "avgAcc": 95.41,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794288070724
+    "_syncedAt": 1794291567094
   }
 }

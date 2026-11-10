@@ -1,24 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-09 05:00:00",
-      "racer": "Eclipse",
-      "races": 61
-    },
-    {
-      "hour": "2026-11-09 05:00:00",
-      "racer": "asteroids",
-      "races": 20
-    },
-    {
       "hour": "2026-11-09 06:00:00",
       "racer": "Eclipse",
       "races": 54
-    },
-    {
-      "hour": "2026-11-09 06:00:00",
-      "racer": "asteroids",
-      "races": 4
     },
     {
       "hour": "2026-11-09 13:00:00",
@@ -167,12 +152,12 @@
     },
     {
       "hour": "2026-11-09 18:00:00",
-      "racer": "One for One",
+      "racer": "Nish_OUT",
       "races": 9
     },
     {
       "hour": "2026-11-09 18:00:00",
-      "racer": "Nish_OUT",
+      "racer": "One for One",
       "races": 9
     },
     {
@@ -287,5 +272,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794287990154
+  "_syncedAt": 1794291487552
 }
