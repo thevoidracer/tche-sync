@@ -642,7 +642,7 @@
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794266526908
+    "_syncedAt": 1794268810554
   },
   "THB0S": {
     "tag": "THB0S",
@@ -651,7 +651,7 @@
     "activePercent": 97,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comp | Gold Comp | 120 race a day = 500k | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5210,
+    "profileViews": 5214,
     "leagueTier": 10,
     "racers": [
       {
@@ -687,10 +687,10 @@
         "displayName": "JCKrayzie",
         "role": "officer",
         "joinStamp": 1792708215,
-        "allTimeRaces": 11587,
-        "wpm": 108,
+        "allTimeRaces": 11626,
+        "wpm": 107,
         "highestWPM": 142,
-        "teamRaces": 2155,
+        "teamRaces": 2197,
         "acc": 98,
         "season": null,
         "status": "active",
@@ -722,7 +722,7 @@
         "acc": 92.38,
         "season": null,
         "status": "active",
-        "lastLogin": 1794236376
+        "lastLogin": 1794268722
       },
       {
         "username": "05bba3e263999dc4c927dfa066d8f4ee",
@@ -792,7 +792,7 @@
         "acc": 96.47,
         "season": null,
         "status": "active",
-        "lastLogin": 1794169056
+        "lastLogin": 1794267634
       },
       {
         "username": "85a4f1d66bf6281e0f7e22f6baedb07a",
@@ -918,7 +918,7 @@
         "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1794263282
+        "lastLogin": 1794268198
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -967,14 +967,14 @@
         "displayName": "Tbone11",
         "role": "member",
         "joinStamp": 1794177352,
-        "allTimeRaces": 2665,
-        "wpm": 47,
+        "allTimeRaces": 2670,
+        "wpm": 78,
         "highestWPM": 78,
-        "teamRaces": 94,
-        "acc": 88.01,
+        "teamRaces": 99,
+        "acc": 88.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1794258893
+        "lastLogin": 1794267933
       },
       {
         "username": "9242add0bf51822ef0264111ae931fc5",
@@ -1315,20 +1315,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 138273,
+        "races": 138320,
         "avgWPM": 68,
         "avgAcc": 94.06,
         "members": 47
       },
       "daily": {
-        "races": 1396,
-        "avgWPM": 82,
-        "avgAcc": 94.93,
+        "races": 1334,
+        "avgWPM": 81,
+        "avgAcc": 94.87,
         "members": 47
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794266545872
+    "_syncedAt": 1794268835535
   }
 }

@@ -22,10 +22,10 @@
         "displayName": "JCKrayzie",
         "nickname": "Autumn Ace",
         "squad": "Officer😲😱😱😱",
-        "races": 746,
+        "races": 785,
         "wpm": 111.6,
-        "accuracy": 97.7,
-        "points": 113547,
+        "accuracy": 97.72,
+        "points": 119499,
         "tier": "A"
       },
       {
@@ -1018,6 +1018,19 @@
       },
       {
         "rank": 79,
+        "tag": "THB0S",
+        "username": "Tbone11",
+        "displayName": "Tbone11",
+        "nickname": "Filthy Rich",
+        "squad": "Newbies!😁😁😁😁",
+        "races": 13,
+        "wpm": 53.3,
+        "accuracy": 87.83,
+        "points": 1446,
+        "tier": "B"
+      },
+      {
+        "rank": 80,
         "tag": "IMT",
         "username": "nataliefinger",
         "displayName": "nataliefinger",
@@ -1030,7 +1043,7 @@
         "tier": "A"
       },
       {
-        "rank": 80,
+        "rank": 81,
         "tag": "THB0S",
         "username": "I AM ABIGAILLLLLLLLL",
         "displayName": "I AM ABIGAILLLLLLLLL",
@@ -1043,7 +1056,7 @@
         "tier": "B"
       },
       {
-        "rank": 81,
+        "rank": 82,
         "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
@@ -1056,7 +1069,7 @@
         "tier": "B"
       },
       {
-        "rank": 82,
+        "rank": 83,
         "tag": "KEYCAT",
         "username": "slushy is back",
         "displayName": "slushy is back",
@@ -1069,7 +1082,7 @@
         "tier": "B"
       },
       {
-        "rank": 83,
+        "rank": 84,
         "tag": "THB0S",
         "username": "RAYAN 7",
         "displayName": "RAYAN 7",
@@ -1082,7 +1095,7 @@
         "tier": "C"
       },
       {
-        "rank": 84,
+        "rank": 85,
         "tag": "KEYCAT",
         "username": "juuzoukitty",
         "displayName": "juuzoukitty",
@@ -1095,7 +1108,7 @@
         "tier": "A"
       },
       {
-        "rank": 85,
+        "rank": 86,
         "tag": "KEYCAT",
         "username": "I am it",
         "displayName": "I am it",
@@ -1108,7 +1121,7 @@
         "tier": "B"
       },
       {
-        "rank": 86,
+        "rank": 87,
         "tag": "SVC",
         "username": "viperr",
         "displayName": "viperr",
@@ -1121,7 +1134,7 @@
         "tier": "B"
       },
       {
-        "rank": 87,
+        "rank": 88,
         "tag": "THB0S",
         "username": "SnakeOfSerenity",
         "displayName": "SnakeOfSerenity",
@@ -1134,7 +1147,7 @@
         "tier": "C"
       },
       {
-        "rank": 88,
+        "rank": 89,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -1147,7 +1160,7 @@
         "tier": "B"
       },
       {
-        "rank": 89,
+        "rank": 90,
         "tag": "SVC",
         "username": "alexaaa",
         "displayName": "alexaaa",
@@ -1160,7 +1173,7 @@
         "tier": "C"
       },
       {
-        "rank": 90,
+        "rank": 91,
         "tag": "KEYCAT",
         "username": "mintzzz",
         "displayName": "mintzzz",
@@ -1171,19 +1184,6 @@
         "accuracy": 95.41,
         "points": 869,
         "tier": "B"
-      },
-      {
-        "rank": 91,
-        "tag": "THB0S",
-        "username": "Tbone11",
-        "displayName": "Tbone11",
-        "nickname": "Filthy Rich",
-        "squad": "Newbies!😁😁😁😁",
-        "races": 8,
-        "wpm": 47.5,
-        "accuracy": 87.5,
-        "points": 866,
-        "tier": "C"
       },
       {
         "rank": 92,
@@ -1420,7 +1420,7 @@
         "tier": "B"
       }
     ],
-    "_syncedAt": 1794266522759
+    "_syncedAt": 1794268804908
   },
   "1522": {
     "eventId": "1522",
@@ -1725,7 +1725,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794266518575
+    "_syncedAt": 1794268799405
   },
   "1550": {
     "eventId": "1550",
@@ -2238,7 +2238,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794266526745
+    "_syncedAt": 1794268810299
   },
   "1573": {
     "eventId": "1573",
@@ -2491,6 +2491,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794266514722
+    "_syncedAt": 1794268795037
   }
 }
