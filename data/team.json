@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5629,
-      "wpm": 112,
+      "allTimeRaces": 5644,
+      "wpm": 102,
       "highestWPM": 138,
-      "teamRaces": 617,
-      "acc": 95.28,
+      "teamRaces": 628,
+      "acc": 95.3,
       "season": null,
       "status": "active",
-      "lastLogin": 1794264791
+      "lastLogin": 1794308502
     },
     {
       "username": "tre1typer",
@@ -265,14 +265,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3730,
-      "wpm": 93,
+      "allTimeRaces": 3744,
+      "wpm": 89,
       "highestWPM": 116,
-      "teamRaces": 520,
-      "acc": 95.74,
+      "teamRaces": 534,
+      "acc": 95.75,
       "season": null,
       "status": "active",
-      "lastLogin": 1794283118
+      "lastLogin": 1794306535
     },
     {
       "username": "gregthefasttyper",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 72046,
+      "races": 72071,
       "avgWPM": 78,
       "avgAcc": 94.94,
       "members": 45
     },
     "daily": {
-      "races": 730,
+      "races": 755,
       "avgWPM": 86,
-      "avgAcc": 93.9,
+      "avgAcc": 93.97,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794306280096
+  "_syncedAt": 1794309171121
 }
