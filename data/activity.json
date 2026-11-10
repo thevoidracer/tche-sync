@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-09 00:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 19
-    },
-    {
-      "hour": "2026-11-09 00:00:00",
-      "racer": "-HyperTyper-",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-09 01:00:00",
-      "racer": "Nitrex",
-      "races": 4
-    },
-    {
       "hour": "2026-11-09 02:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 9
@@ -87,12 +72,12 @@
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Safire",
       "races": 1
     },
     {
       "hour": "2026-11-09 14:00:00",
-      "racer": "Safire",
+      "racer": "I KC Zadkiel I",
       "races": 1
     },
     {
@@ -222,12 +207,12 @@
     },
     {
       "hour": "2026-11-09 19:00:00",
-      "racer": "Nathan",
+      "racer": "PootsyWafflebiscuits",
       "races": 1
     },
     {
       "hour": "2026-11-09 19:00:00",
-      "racer": "PootsyWafflebiscuits",
+      "racer": "Nathan",
       "races": 1
     },
     {
@@ -284,8 +269,13 @@
       "hour": "2026-11-10 00:00:00",
       "racer": "-HyperTyper-",
       "races": 6
+    },
+    {
+      "hour": "2026-11-10 01:00:00",
+      "racer": "- Void Grinder -",
+      "races": 14
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794271073704
+  "_syncedAt": 1794275180350
 }
