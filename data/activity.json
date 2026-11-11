@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-10 01:00:00",
-      "racer": "- Void Grinder -",
-      "races": 44
-    },
-    {
-      "hour": "2026-11-10 01:00:00",
-      "racer": "-HyperTyper-",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-10 02:00:00",
-      "racer": "- Void Grinder -",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-10 03:00:00",
-      "racer": "asteroids",
-      "races": 1
-    },
-    {
       "hour": "2026-11-10 10:00:00",
       "racer": "asteroids",
       "races": 14
@@ -244,8 +224,18 @@
       "hour": "2026-11-11 00:00:00",
       "racer": "fqominsed",
       "races": 4
+    },
+    {
+      "hour": "2026-11-11 02:00:00",
+      "racer": "asteroids",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-11 05:00:00",
+      "racer": "asteroids",
+      "races": 23
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794359048303
+  "_syncedAt": 1794383063934
 }

@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 92,
+    "tierA": 90,
     "tierB": 81,
     "weeklyReq": 100
   },
@@ -66,25 +66,12 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 117,
       "lifetimeRaces": 5257,
       "teamRaces": 97,
       "joined": "08/02/26"
-    },
-    {
-      "username": "booomtype",
-      "displayName": "YellowBronzeCoral",
-      "nickname": "I Have Fans!",
-      "role": "member",
-      "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 81,
-      "topWPM": 125,
-      "lifetimeRaces": 4444,
-      "teamRaces": 240,
-      "joined": "08/16/26"
     },
     {
       "username": "b12d93562133c1f47d58fd7c2118abd6",
@@ -378,7 +365,7 @@
       "nickname": "Olde School",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 117,
       "lifetimeRaces": 13986,
@@ -417,11 +404,11 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 116,
-      "lifetimeRaces": 3744,
-      "teamRaces": 534,
+      "lifetimeRaces": 3772,
+      "teamRaces": 562,
       "joined": "10/25/26"
     },
     {
@@ -560,7 +547,7 @@
       "nickname": "Raking in Wins",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 114,
       "lifetimeRaces": 2555,
@@ -595,5 +582,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794359048301
+  "_syncedAt": 1794383063933
 }

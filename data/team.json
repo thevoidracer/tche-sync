@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Weekly Cash Comp",
-  "members": 45,
-  "activePercent": 95,
+  "members": 44,
+  "activePercent": 93,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨77.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker✨GOLD comp NOW!!",
-  "profileViews": 2615,
+  "profileViews": 2618,
   "leagueTier": 10,
   "racers": [
     {
@@ -90,7 +90,7 @@
       "acc": 96.94,
       "season": null,
       "status": "active",
-      "lastLogin": 1794349228
+      "lastLogin": 1794359924
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -265,14 +265,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3744,
-      "wpm": 89,
+      "allTimeRaces": 3772,
+      "wpm": 90,
       "highestWPM": 116,
-      "teamRaces": 534,
-      "acc": 95.75,
+      "teamRaces": 562,
+      "acc": 95.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1794306535
+      "lastLogin": 1794375119
     },
     {
       "username": "gregthefasttyper",
@@ -385,20 +385,6 @@
       "season": null,
       "status": "active",
       "lastLogin": 1794064852
-    },
-    {
-      "username": "booomtype",
-      "displayName": "YellowBronzeCoral",
-      "role": "member",
-      "joinStamp": 1786907870,
-      "allTimeRaces": 4444,
-      "wpm": 81,
-      "highestWPM": 125,
-      "teamRaces": 240,
-      "acc": 92.89,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1793116566
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -641,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 72833,
+      "races": 72861,
       "avgWPM": 78,
       "avgAcc": 94.94,
-      "members": 45
+      "members": 44
     },
     "daily": {
-      "races": 843,
+      "races": 815,
       "avgWPM": 87,
-      "avgAcc": 94.34,
-      "members": 45
+      "avgAcc": 94.3,
+      "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794358972415
+  "_syncedAt": 1794383010505
 }
