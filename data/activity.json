@@ -1,46 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-09 21:00:00",
-      "racer": "Nish_OUT",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-09 21:00:00",
-      "racer": "Void Racer",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-09 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-09 22:00:00",
-      "racer": "- Void Grinder -",
-      "races": 23
-    },
-    {
-      "hour": "2026-11-09 22:00:00",
-      "racer": "Nish_OUT",
-      "races": 16
-    },
-    {
-      "hour": "2026-11-09 22:00:00",
-      "racer": "Nathan",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-09 22:00:00",
-      "racer": "Void Racer",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-10 00:00:00",
-      "racer": "-HyperTyper-",
-      "races": 6
-    },
-    {
       "hour": "2026-11-10 01:00:00",
       "racer": "- Void Grinder -",
       "races": 44
@@ -137,12 +97,12 @@
     },
     {
       "hour": "2026-11-10 15:00:00",
-      "racer": "Void Racer",
+      "racer": "nataliefinger",
       "races": 3
     },
     {
       "hour": "2026-11-10 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Void Racer",
       "races": 3
     },
     {
@@ -237,13 +197,13 @@
     },
     {
       "hour": "2026-11-10 20:00:00",
-      "racer": "RationalGoldApe",
-      "races": 10
+      "racer": "Namedisplayed",
+      "races": 11
     },
     {
       "hour": "2026-11-10 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 8
+      "racer": "RationalGoldApe",
+      "races": 10
     },
     {
       "hour": "2026-11-10 20:00:00",
@@ -254,8 +214,38 @@
       "hour": "2026-11-10 20:00:00",
       "racer": "I KC Zadkiel I",
       "races": 4
+    },
+    {
+      "hour": "2026-11-10 20:00:00",
+      "racer": "Safire",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-10 21:00:00",
+      "racer": "Namedisplayed",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-10 22:00:00",
+      "racer": "Nish_OUT",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-10 22:00:00",
+      "racer": "SKZ FIRAH",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-10 23:00:00",
+      "racer": "Nish_OUT",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-11 00:00:00",
+      "racer": "fqominsed",
+      "races": 4
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794344448247
+  "_syncedAt": 1794359048303
 }
