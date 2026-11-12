@@ -2,10 +2,10 @@
   "tag": "IMT",
   "name": "Weekly Cash Comp",
   "members": 44,
-  "activePercent": 93,
+  "activePercent": 90,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨77.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker✨GOLD comp NOW!!",
-  "profileViews": 2631,
+  "profileViews": 2634,
   "leagueTier": 11,
   "racers": [
     {
@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 8467,
-      "wpm": 79,
+      "allTimeRaces": 8630,
+      "wpm": 67,
       "highestWPM": 110,
-      "teamRaces": 1361,
+      "teamRaces": 1524,
       "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1794358126
+      "lastLogin": 1794468089
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -265,14 +265,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3772,
-      "wpm": 90,
+      "allTimeRaces": 3793,
+      "wpm": 92,
       "highestWPM": 116,
-      "teamRaces": 562,
-      "acc": 95.73,
+      "teamRaces": 583,
+      "acc": 95.72,
       "season": null,
       "status": "active",
-      "lastLogin": 1794375119
+      "lastLogin": 1794463761
     },
     {
       "username": "gregthefasttyper",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 73217,
+      "races": 73401,
       "avgWPM": 78,
-      "avgAcc": 94.93,
+      "avgAcc": 94.94,
       "members": 44
     },
     "daily": {
-      "races": 379,
-      "avgWPM": 87,
-      "avgAcc": 94.4,
+      "races": 496,
+      "avgWPM": 82,
+      "avgAcc": 95.39,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794452380183
+  "_syncedAt": 1794480090160
 }
