@@ -1,31 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-10 22:00:00",
-      "racer": "Nish_OUT",
-      "races": 18
-    },
-    {
-      "hour": "2026-11-10 22:00:00",
-      "racer": "SKZ FIRAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-10 23:00:00",
-      "racer": "Nish_OUT",
-      "races": 17
-    },
-    {
-      "hour": "2026-11-11 00:00:00",
-      "racer": "fqominsed",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-11 02:00:00",
-      "racer": "asteroids",
-      "races": 5
-    },
-    {
       "hour": "2026-11-11 05:00:00",
       "racer": "asteroids",
       "races": 23
@@ -184,8 +159,18 @@
       "hour": "2026-11-11 21:00:00",
       "racer": "fqominsed",
       "races": 4
+    },
+    {
+      "hour": "2026-11-12 01:00:00",
+      "racer": "- Void Grinder -",
+      "races": 26
+    },
+    {
+      "hour": "2026-11-12 02:00:00",
+      "racer": "StefanO",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794435402397
+  "_syncedAt": 1794452452729
 }
