@@ -48,10 +48,10 @@
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
         "squad": "Entrepreneur 500",
-        "races": 203,
-        "wpm": 100.9,
-        "accuracy": 94.87,
-        "points": 28975,
+        "races": 239,
+        "wpm": 100.2,
+        "accuracy": 94.65,
+        "points": 33959,
         "tier": "$2,000,000"
       },
       {
@@ -380,7 +380,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794542028184
+    "_syncedAt": 1794570196965
   },
   "1550": {
     "eventId": "1550",
@@ -466,6 +466,19 @@
       {
         "rank": 7,
         "tag": "IMT",
+        "username": "Nathan",
+        "displayName": "Nathan",
+        "nickname": "No Nitros Needed",
+        "squad": "Entrepreneur 500",
+        "races": 346,
+        "wpm": 101.4,
+        "accuracy": 94.68,
+        "points": 49363,
+        "tier": "A"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -475,19 +488,6 @@
         "accuracy": 94.2,
         "points": 43395,
         "tier": "B"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "Nathan",
-        "displayName": "Nathan",
-        "nickname": "No Nitros Needed",
-        "squad": "Entrepreneur 500",
-        "races": 310,
-        "wpm": 101.9,
-        "accuracy": 94.83,
-        "points": 44378,
-        "tier": "A"
       },
       {
         "rank": 9,
@@ -539,7 +539,7 @@
         "wpm": 86.6,
         "accuracy": 93.84,
         "points": 29450,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 13,
@@ -747,7 +747,7 @@
         "wpm": 82.9,
         "accuracy": 95.91,
         "points": 2984,
-        "tier": "B"
+        "tier": "C"
       },
       {
         "rank": 29,
@@ -812,7 +812,7 @@
         "wpm": 80.5,
         "accuracy": 93.83,
         "points": 1579,
-        "tier": "B"
+        "tier": "C"
       },
       {
         "rank": 34,
@@ -825,7 +825,7 @@
         "wpm": 90.9,
         "accuracy": 91.08,
         "points": 927,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 35,
@@ -893,7 +893,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794542032523
+    "_syncedAt": 1794570200936
   },
   "1573": {
     "eventId": "1573",
@@ -944,10 +944,10 @@
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
         "squad": "Entrepreneur 500",
-        "races": 203,
-        "wpm": 100.9,
-        "accuracy": 94.87,
-        "points": 28975,
+        "races": 239,
+        "wpm": 100.2,
+        "accuracy": 94.65,
+        "points": 33959,
         "tier": null
       },
       {
@@ -1263,6 +1263,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794542024133
+    "_syncedAt": 1794570193004
   }
 }

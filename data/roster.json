@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 91,
-    "tierB": 81,
+    "tierA": 92,
+    "tierB": 83,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -66,7 +66,7 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 91,
       "topWPM": 117,
       "lifetimeRaces": 5257,
@@ -222,7 +222,7 @@
       "nickname": "Nitro-Opulent",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 165,
       "lifetimeRaces": 6675,
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 92,
+      "avgWPM": 100,
       "topWPM": 138,
-      "lifetimeRaces": 5749,
-      "teamRaces": 729,
+      "lifetimeRaces": 5777,
+      "teamRaces": 765,
       "joined": "10/21/26"
     },
     {
@@ -326,7 +326,7 @@
       "nickname": "Shadow in the Snow",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 91,
       "topWPM": 120,
       "lifetimeRaces": 1575,
@@ -469,7 +469,7 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 104,
       "lifetimeRaces": 1501,
@@ -569,5 +569,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794541982341
+  "_syncedAt": 1794570151924
 }

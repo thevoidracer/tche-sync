@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 5758,
-      "wpm": 98,
+      "allTimeRaces": 5777,
+      "wpm": 100,
       "highestWPM": 138,
-      "teamRaces": 743,
-      "acc": 95.22,
+      "teamRaces": 765,
+      "acc": 95.19,
       "season": null,
       "status": "active",
-      "lastLogin": 1794538376
+      "lastLogin": 1794545911
     },
     {
       "username": "tre1typer",
@@ -613,19 +613,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 74198,
+      "races": 74220,
       "avgWPM": 78,
       "avgAcc": 94.93,
       "members": 43
     },
     "daily": {
-      "races": 981,
-      "avgWPM": 87,
-      "avgAcc": 95.05,
+      "races": 819,
+      "avgWPM": 90,
+      "avgAcc": 94.67,
       "members": 43
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794541906766
+  "_syncedAt": 1794570065668
 }
