@@ -1,16 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-12 01:00:00",
-      "racer": "- Void Grinder -",
-      "races": 26
-    },
-    {
-      "hour": "2026-11-12 02:00:00",
-      "racer": "StefanO",
-      "races": 1
-    },
-    {
       "hour": "2026-11-12 04:00:00",
       "racer": "Eclipse",
       "races": 4
@@ -172,12 +162,12 @@
     },
     {
       "hour": "2026-11-12 17:00:00",
-      "racer": "Namedisplayed",
+      "racer": "Safire",
       "races": 2
     },
     {
       "hour": "2026-11-12 17:00:00",
-      "racer": "Safire",
+      "racer": "Namedisplayed",
       "races": 2
     },
     {
@@ -283,9 +273,44 @@
     {
       "hour": "2026-11-12 23:00:00",
       "racer": "rorok09",
-      "races": 50
+      "races": 78
+    },
+    {
+      "hour": "2026-11-12 23:00:00",
+      "racer": "UJAADDAH",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-13 00:00:00",
+      "racer": "rorok09",
+      "races": 82
+    },
+    {
+      "hour": "2026-11-13 01:00:00",
+      "racer": "rorok09",
+      "races": 27
+    },
+    {
+      "hour": "2026-11-13 02:00:00",
+      "racer": "Nish_OUT",
+      "races": 22
+    },
+    {
+      "hour": "2026-11-13 02:00:00",
+      "racer": "Nathan",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-13 02:00:00",
+      "racer": "UJAADDAH",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-13 03:00:00",
+      "racer": "Nathan",
+      "races": 53
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794527645777
+  "_syncedAt": 1794541982343
 }
