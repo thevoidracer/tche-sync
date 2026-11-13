@@ -40,11 +40,11 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Phantom 10k",
-      "tier": "B",
-      "avgWPM": 87,
+      "tier": "A",
+      "avgWPM": 94,
       "topWPM": 118,
-      "lifetimeRaces": 11843,
-      "teamRaces": 11033,
+      "lifetimeRaces": 11972,
+      "teamRaces": 11159,
       "joined": "07/04/26"
     },
     {
@@ -69,8 +69,8 @@
       "tier": "B",
       "avgWPM": 91,
       "topWPM": 117,
-      "lifetimeRaces": 5257,
-      "teamRaces": 97,
+      "lifetimeRaces": 5262,
+      "teamRaces": 102,
       "joined": "08/02/26"
     },
     {
@@ -79,11 +79,11 @@
       "nickname": "Epic Engager",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 91,
       "topWPM": 119,
-      "lifetimeRaces": 2213,
-      "teamRaces": 1866,
+      "lifetimeRaces": 2252,
+      "teamRaces": 1905,
       "joined": "08/31/26"
     },
     {
@@ -145,10 +145,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 93,
-      "topWPM": 110,
-      "lifetimeRaces": 1597,
-      "teamRaces": 369,
+      "avgWPM": 99,
+      "topWPM": 111,
+      "lifetimeRaces": 1607,
+      "teamRaces": 379,
       "joined": "09/29/26"
     },
     {
@@ -210,10 +210,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 87,
+      "avgWPM": 84,
       "topWPM": 127,
-      "lifetimeRaces": 20656,
-      "teamRaces": 303,
+      "lifetimeRaces": 20660,
+      "teamRaces": 307,
       "joined": "10/07/26"
     },
     {
@@ -261,11 +261,11 @@
       "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 82,
+      "tier": "B",
+      "avgWPM": 83,
       "topWPM": 111,
-      "lifetimeRaces": 5671,
-      "teamRaces": 637,
+      "lifetimeRaces": 5680,
+      "teamRaces": 651,
       "joined": "10/15/26"
     },
     {
@@ -275,10 +275,10 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 79,
+      "avgWPM": 76,
       "topWPM": 102,
-      "lifetimeRaces": 8275,
-      "teamRaces": 2250,
+      "lifetimeRaces": 8300,
+      "teamRaces": 2275,
       "joined": "10/15/26"
     },
     {
@@ -291,7 +291,7 @@
       "avgWPM": 102,
       "topWPM": 120,
       "lifetimeRaces": 4120,
-      "teamRaces": 467,
+      "teamRaces": 471,
       "joined": "10/16/26"
     },
     {
@@ -303,8 +303,8 @@
       "tier": "B",
       "avgWPM": 91,
       "topWPM": 100,
-      "lifetimeRaces": 1540,
-      "teamRaces": 191,
+      "lifetimeRaces": 1542,
+      "teamRaces": 193,
       "joined": "10/19/26"
     },
     {
@@ -379,10 +379,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 99,
       "topWPM": 127,
-      "lifetimeRaces": 1893,
-      "teamRaces": 360,
+      "lifetimeRaces": 1897,
+      "teamRaces": 364,
       "joined": "10/24/26"
     },
     {
@@ -569,5 +569,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794595594140
+  "_syncedAt": 1794614056882
 }

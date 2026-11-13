@@ -1,79 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-12 18:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-12 18:00:00",
-      "racer": "t_unknown",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-12 19:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-12 19:00:00",
-      "racer": "Namedisplayed",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-12 19:00:00",
-      "racer": "WindMaker",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-12 19:00:00",
-      "racer": "UJAADDAH",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-12 20:00:00",
-      "racer": "Namedisplayed",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-12 20:00:00",
-      "racer": "WindMaker",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-12 21:00:00",
-      "racer": "Namedisplayed",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-12 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-12 21:00:00",
-      "racer": "UJAADDAH",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-12 21:00:00",
-      "racer": "RationalGoldApe",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-12 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 22
-    },
-    {
-      "hour": "2026-11-12 22:00:00",
-      "racer": "UJAADDAH",
-      "races": 4
-    },
-    {
       "hour": "2026-11-12 23:00:00",
       "racer": "rorok09",
-      "races": 78
+      "races": 13
     },
     {
       "hour": "2026-11-12 23:00:00",
@@ -217,6 +147,11 @@
     },
     {
       "hour": "2026-11-13 18:00:00",
+      "racer": "t_unknown",
+      "races": 32
+    },
+    {
+      "hour": "2026-11-13 18:00:00",
       "racer": "KirbyDelta",
       "races": 29
     },
@@ -227,15 +162,80 @@
     },
     {
       "hour": "2026-11-13 18:00:00",
-      "racer": "t_unknown",
-      "races": 18
+      "racer": "WindMaker",
+      "races": 11
     },
     {
-      "hour": "2026-11-13 18:00:00",
-      "racer": "WindMaker",
-      "races": 7
+      "hour": "2026-11-13 19:00:00",
+      "racer": "Namedisplayed",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-13 19:00:00",
+      "racer": "RationalGoldApe",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-13 20:00:00",
+      "racer": "rorok09",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-13 20:00:00",
+      "racer": "UJAADDAH",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-13 20:00:00",
+      "racer": "Namedisplayed",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-13 21:00:00",
+      "racer": "rorok09",
+      "races": 59
+    },
+    {
+      "hour": "2026-11-13 21:00:00",
+      "racer": "Namedisplayed",
+      "races": 25
+    },
+    {
+      "hour": "2026-11-13 21:00:00",
+      "racer": "Nitrex",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-13 21:00:00",
+      "racer": "The Big Yahu",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-13 22:00:00",
+      "racer": "KirbyDelta",
+      "races": 23
+    },
+    {
+      "hour": "2026-11-13 22:00:00",
+      "racer": "rorok09",
+      "races": 14
+    },
+    {
+      "hour": "2026-11-13 22:00:00",
+      "racer": "Nish_OUT",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-13 23:00:00",
+      "racer": "rorok09",
+      "races": 36
+    },
+    {
+      "hour": "2026-11-13 23:00:00",
+      "racer": "KirbyDelta",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794595594142
+  "_syncedAt": 1794614056883
 }
