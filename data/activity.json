@@ -1,44 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-12 23:00:00",
-      "racer": "rorok09",
-      "races": 13
-    },
-    {
-      "hour": "2026-11-12 23:00:00",
-      "racer": "UJAADDAH",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-13 00:00:00",
-      "racer": "rorok09",
-      "races": 82
-    },
-    {
-      "hour": "2026-11-13 01:00:00",
-      "racer": "rorok09",
-      "races": 27
-    },
-    {
-      "hour": "2026-11-13 02:00:00",
-      "racer": "Nish_OUT",
-      "races": 22
-    },
-    {
-      "hour": "2026-11-13 02:00:00",
-      "racer": "Nathan",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-13 02:00:00",
-      "racer": "UJAADDAH",
-      "races": 8
-    },
-    {
       "hour": "2026-11-13 03:00:00",
       "racer": "Nathan",
-      "races": 75
+      "races": 8
     },
     {
       "hour": "2026-11-13 04:00:00",
@@ -228,14 +193,54 @@
     {
       "hour": "2026-11-13 23:00:00",
       "racer": "rorok09",
-      "races": 36
+      "races": 56
     },
     {
       "hour": "2026-11-13 23:00:00",
       "racer": "KirbyDelta",
       "races": 2
+    },
+    {
+      "hour": "2026-11-14 00:00:00",
+      "racer": "asteroids",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-14 01:00:00",
+      "racer": "asteroids",
+      "races": 40
+    },
+    {
+      "hour": "2026-11-14 01:00:00",
+      "racer": "rorok09",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-14 02:00:00",
+      "racer": "rorok09",
+      "races": 74
+    },
+    {
+      "hour": "2026-11-14 02:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 14
+    },
+    {
+      "hour": "2026-11-14 02:00:00",
+      "racer": "Eclipse",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-14 03:00:00",
+      "racer": "Eclipse",
+      "races": 41
+    },
+    {
+      "hour": "2026-11-14 03:00:00",
+      "racer": "rorok09",
+      "races": 27
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794614056883
+  "_syncedAt": 1794628279150
 }

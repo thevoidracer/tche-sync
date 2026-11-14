@@ -28,10 +28,10 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "B",
-      "avgWPM": 91,
+      "avgWPM": 89,
       "topWPM": 110,
-      "lifetimeRaces": 20744,
-      "teamRaces": 3105,
+      "lifetimeRaces": 20758,
+      "teamRaces": 3119,
       "joined": "06/24/26"
     },
     {
@@ -41,10 +41,10 @@
       "role": "officer",
       "squad": "Phantom 10k",
       "tier": "A",
-      "avgWPM": 94,
+      "avgWPM": 95,
       "topWPM": 118,
-      "lifetimeRaces": 11972,
-      "teamRaces": 11159,
+      "lifetimeRaces": 12102,
+      "teamRaces": 11292,
       "joined": "07/04/26"
     },
     {
@@ -391,11 +391,11 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "A",
-      "avgWPM": 92,
-      "topWPM": 116,
-      "lifetimeRaces": 3793,
-      "teamRaces": 583,
+      "tier": "B",
+      "avgWPM": 88,
+      "topWPM": 120,
+      "lifetimeRaces": 3841,
+      "teamRaces": 631,
       "joined": "10/25/26"
     },
     {
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 67,
+      "avgWPM": 79,
       "topWPM": 110,
-      "lifetimeRaces": 8630,
-      "teamRaces": 1524,
+      "lifetimeRaces": 8677,
+      "teamRaces": 1571,
       "joined": "10/28/26"
     },
     {
@@ -569,5 +569,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794614056882
+  "_syncedAt": 1794628279149
 }
