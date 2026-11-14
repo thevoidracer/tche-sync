@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-13 03:00:00",
-      "racer": "Nathan",
-      "races": 8
-    },
-    {
-      "hour": "2026-11-13 04:00:00",
-      "racer": "Nathan",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-13 05:00:00",
-      "racer": "Nathan",
-      "races": 13
-    },
-    {
       "hour": "2026-11-13 12:00:00",
       "racer": "UJAADDAH",
       "races": 2
@@ -32,12 +17,12 @@
     },
     {
       "hour": "2026-11-13 13:00:00",
-      "racer": "I KC Zadkiel I",
+      "racer": "Void Racer",
       "races": 2
     },
     {
       "hour": "2026-11-13 13:00:00",
-      "racer": "Void Racer",
+      "racer": "I KC Zadkiel I",
       "races": 2
     },
     {
@@ -242,5 +227,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794628279150
+  "_syncedAt": 1794654192949
 }

@@ -393,7 +393,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794628325186
+    "_syncedAt": 1794654238553
   },
   "1550": {
     "eventId": "1550",
@@ -435,7 +435,7 @@
         "wpm": 95.4,
         "accuracy": 92.79,
         "points": 65932,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 4,
@@ -578,7 +578,7 @@
         "wpm": 86.6,
         "accuracy": 93.84,
         "points": 29450,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 15,
@@ -734,7 +734,7 @@
         "wpm": 88.3,
         "accuracy": 97.03,
         "points": 5175,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 27,
@@ -838,7 +838,7 @@
         "wpm": 92,
         "accuracy": 91.14,
         "points": 1596,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 35,
@@ -906,7 +906,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794628330005
+    "_syncedAt": 1794654243152
   },
   "1573": {
     "eventId": "1573",
@@ -1302,6 +1302,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794628320743
+    "_syncedAt": 1794654234123
   }
 }

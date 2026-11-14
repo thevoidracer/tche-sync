@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 92,
+    "tierA": 91,
     "tierB": 83,
     "weeklyReq": 100
   },
@@ -66,7 +66,7 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 117,
       "lifetimeRaces": 5262,
@@ -79,7 +79,7 @@
       "nickname": "Epic Engager",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 119,
       "lifetimeRaces": 2252,
@@ -300,7 +300,7 @@
       "nickname": "Original Gangster",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 100,
       "lifetimeRaces": 1542,
@@ -326,7 +326,7 @@
       "nickname": "Shadow in the Snow",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 120,
       "lifetimeRaces": 1575,
@@ -569,5 +569,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794628279149
+  "_syncedAt": 1794654192948
 }
