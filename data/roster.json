@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 91,
       "topWPM": 110,
-      "lifetimeRaces": 20758,
-      "teamRaces": 3119,
+      "lifetimeRaces": 20772,
+      "teamRaces": 3133,
       "joined": "06/24/26"
     },
     {
@@ -41,10 +41,10 @@
       "role": "officer",
       "squad": "Phantom 10k",
       "tier": "A",
-      "avgWPM": 95,
+      "avgWPM": 91,
       "topWPM": 118,
-      "lifetimeRaces": 12102,
-      "teamRaces": 11292,
+      "lifetimeRaces": 12154,
+      "teamRaces": 11344,
       "joined": "07/04/26"
     },
     {
@@ -66,11 +66,11 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 91,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 117,
-      "lifetimeRaces": 5262,
-      "teamRaces": 102,
+      "lifetimeRaces": 5263,
+      "teamRaces": 103,
       "joined": "08/02/26"
     },
     {
@@ -275,10 +275,10 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 76,
+      "avgWPM": 77,
       "topWPM": 102,
-      "lifetimeRaces": 8300,
-      "teamRaces": 2275,
+      "lifetimeRaces": 8400,
+      "teamRaces": 2375,
       "joined": "10/15/26"
     },
     {
@@ -569,5 +569,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794675769767
+  "_syncedAt": 1794691603558
 }
