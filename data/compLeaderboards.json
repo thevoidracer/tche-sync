@@ -74,10 +74,10 @@
         "displayName": "PootsyWafflebiscuits",
         "nickname": "Nitro Libre",
         "squad": "Dominator 2.5k",
-        "races": 357,
+        "races": 370,
         "wpm": 90.2,
-        "accuracy": 97.6,
-        "points": 50551,
+        "accuracy": 97.63,
+        "points": 52409,
         "tier": "A"
       },
       {
@@ -510,7 +510,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794755142776
+    "_syncedAt": 1794774256219
   },
   "1573": {
     "eventId": "1573",
@@ -583,6 +583,19 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "PootsyWafflebiscuits",
+        "displayName": "PootsyWafflebiscuits",
+        "nickname": "Nitro Libre",
+        "squad": "Dominator 2.5k",
+        "races": 150,
+        "wpm": 91,
+        "accuracy": 97.79,
+        "points": 21339,
+        "tier": null
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "asteroids",
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
@@ -591,19 +604,6 @@
         "wpm": 87.3,
         "accuracy": 95.27,
         "points": 19162,
-        "tier": null
-      },
-      {
-        "rank": 7,
-        "tag": "IMT",
-        "username": "PootsyWafflebiscuits",
-        "displayName": "PootsyWafflebiscuits",
-        "nickname": "Nitro Libre",
-        "squad": "Dominator 2.5k",
-        "races": 137,
-        "wpm": 91,
-        "accuracy": 97.74,
-        "points": 19481,
         "tier": null
       },
       {
@@ -906,6 +906,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794755136225
+    "_syncedAt": 1794774252069
   }
 }

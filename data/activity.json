@@ -1,31 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-14 17:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 14
-    },
-    {
-      "hour": "2026-11-14 17:00:00",
-      "racer": "Nitrex",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-14 18:00:00",
-      "racer": "KirbyDelta",
-      "races": 50
-    },
-    {
-      "hour": "2026-11-14 19:00:00",
-      "racer": "rorok09",
-      "races": 52
-    },
-    {
-      "hour": "2026-11-14 19:00:00",
-      "racer": "KirbyDelta",
-      "races": 50
-    },
-    {
       "hour": "2026-11-15 00:00:00",
       "racer": "asteroids",
       "races": 28
@@ -34,8 +9,13 @@
       "hour": "2026-11-15 06:00:00",
       "racer": "rorok09",
       "races": 76
+    },
+    {
+      "hour": "2026-11-15 18:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 13
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794755093027
+  "_syncedAt": 1794774209390
 }

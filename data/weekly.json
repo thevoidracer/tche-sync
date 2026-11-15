@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 40,
+      "rank": 74,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "races": 76,
@@ -9,7 +9,17 @@
       "wpm": 89.2,
       "points": 10656,
       "ppr": 140
+    },
+    {
+      "rank": 259,
+      "username": "sidoh",
+      "displayName": "PootsyWafflebiscuits",
+      "races": 13,
+      "accuracy": 98.31,
+      "wpm": 90.7,
+      "points": 1857,
+      "ppr": 143
     }
   ],
-  "_syncedAt": 1794755080148
+  "_syncedAt": 1794774196947
 }
