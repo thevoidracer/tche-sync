@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 65,
+      "rank": 85,
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
-      "races": 165,
-      "accuracy": 96.91,
-      "wpm": 91.1,
-      "points": 23271,
-      "ppr": 141
+      "races": 128,
+      "accuracy": 96.81,
+      "wpm": 89.7,
+      "points": 17950,
+      "ppr": 140
     },
     {
-      "rank": 123,
+      "rank": 117,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -21,27 +21,27 @@
       "ppr": 131
     },
     {
-      "rank": 192,
+      "rank": 306,
       "username": "ace1inee",
       "displayName": "asteroids",
-      "races": 57,
-      "accuracy": 95.33,
-      "wpm": 85,
-      "points": 7744,
-      "ppr": 136
+      "races": 28,
+      "accuracy": 95.32,
+      "wpm": 82.1,
+      "points": 3764,
+      "ppr": 134
     },
     {
-      "rank": 298,
+      "rank": 409,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
-      "races": 28,
-      "accuracy": 97.5,
-      "wpm": 90.9,
-      "points": 3971,
-      "ppr": 142
+      "races": 14,
+      "accuracy": 97.83,
+      "wpm": 91.3,
+      "points": 1995,
+      "ppr": 143
     },
     {
-      "rank": 598,
+      "rank": 591,
       "username": "e15c66b54114e594bdd4281610664507",
       "displayName": "Nitrex",
       "races": 1,
@@ -51,5 +51,5 @@
       "ppr": 124
     }
   ],
-  "_syncedAt": 1794705061591
+  "_syncedAt": 1794728942108
 }
