@@ -371,7 +371,7 @@
         "acc": 93.09,
         "season": null,
         "status": "active",
-        "lastLogin": 1794693484
+        "lastLogin": 1794747283
       },
       {
         "username": "quickbrownpony",
@@ -620,15 +620,15 @@
         "members": 43
       },
       "daily": {
-        "races": 211,
+        "races": 192,
         "avgWPM": 52,
-        "avgAcc": 93.57,
+        "avgAcc": 93.54,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794728993792
+    "_syncedAt": 1794755142953
   },
   "THB0S": {
     "tag": "THB0S",
@@ -637,7 +637,7 @@
     "activePercent": 95,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 350M+ Cash & 21+ Gold Given | Weekly Cash Comp | Gold Comp | 120 race a day = 500k | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5432,
+    "profileViews": 5434,
     "leagueTier": 11,
     "racers": [
       {
@@ -799,14 +799,14 @@
         "displayName": "DavidhopeyYT",
         "role": "member",
         "joinStamp": 1794281893,
-        "allTimeRaces": 1101,
-        "wpm": 100,
+        "allTimeRaces": 1108,
+        "wpm": 104,
         "highestWPM": 131,
-        "teamRaces": 114,
-        "acc": 96.42,
+        "teamRaces": 121,
+        "acc": 96.46,
         "season": null,
         "status": "active",
-        "lastLogin": 1794533781
+        "lastLogin": 1794744736
       },
       {
         "username": "tacthecat",
@@ -841,14 +841,14 @@
         "displayName": "ShadowX",
         "role": "member",
         "joinStamp": 1793322078,
-        "allTimeRaces": 9467,
-        "wpm": 56,
+        "allTimeRaces": 9489,
+        "wpm": 55,
         "highestWPM": 84,
-        "teamRaces": 1533,
+        "teamRaces": 1555,
         "acc": 93.58,
         "season": null,
         "status": "active",
-        "lastLogin": 1794704565
+        "lastLogin": 1794753075
       },
       {
         "username": "980ce54988cb397b73defb0ed747ae70",
@@ -1058,7 +1058,7 @@
         "acc": 94.02,
         "season": null,
         "status": "active",
-        "lastLogin": 1794714536
+        "lastLogin": 1794749045
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1149,14 +1149,14 @@
         "displayName": "Gt650,",
         "role": "member",
         "joinStamp": 1791712871,
-        "allTimeRaces": 10914,
-        "wpm": 45,
+        "allTimeRaces": 11103,
+        "wpm": 44,
         "highestWPM": 75,
-        "teamRaces": 3484,
-        "acc": 85.79,
+        "teamRaces": 3673,
+        "acc": 85.73,
         "season": null,
         "status": "active",
-        "lastLogin": 1794726341
+        "lastLogin": 1794745184
       },
       {
         "username": "legendsince2026",
@@ -1170,21 +1170,21 @@
         "acc": 95.65,
         "season": null,
         "status": "active",
-        "lastLogin": 1794714288
+        "lastLogin": 1794752101
       },
       {
         "username": "0318707fd204ad574af9ce2082a4df86",
         "displayName": "dark type",
         "role": "member",
         "joinStamp": 1785487372,
-        "allTimeRaces": 3224,
-        "wpm": 33,
+        "allTimeRaces": 3240,
+        "wpm": 32,
         "highestWPM": 48,
-        "teamRaces": 2839,
-        "acc": 82.88,
+        "teamRaces": 2855,
+        "acc": 82.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1794645898
+        "lastLogin": 1794730046
       },
       {
         "username": "500big",
@@ -1245,20 +1245,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 143966,
+        "races": 144200,
         "avgWPM": 68,
-        "avgAcc": 94.03,
+        "avgAcc": 94.02,
         "members": 43
       },
       "daily": {
-        "races": 552,
-        "avgWPM": 62,
-        "avgAcc": 91.52,
+        "races": 578,
+        "avgWPM": 61,
+        "avgAcc": 91.57,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1794729042530
+    "_syncedAt": 1794755192054
   }
 }
