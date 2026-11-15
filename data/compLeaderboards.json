@@ -83,6 +83,19 @@
       {
         "rank": 7,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Entrepreneur 500",
+        "races": 165,
+        "wpm": 88.3,
+        "accuracy": 95.35,
+        "points": 22682,
+        "tier": "$500,000"
+      },
+      {
+        "rank": 8,
+        "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
         "nickname": "Shadow in the Snow",
@@ -91,19 +104,6 @@
         "wpm": 85.6,
         "accuracy": 95.2,
         "points": 22162,
-        "tier": "$500,000"
-      },
-      {
-        "rank": 8,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Entrepreneur 500",
-        "races": 137,
-        "wpm": 89.7,
-        "accuracy": 95.35,
-        "points": 18921,
         "tier": null
       },
       {
@@ -393,7 +393,7 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794691649851
+    "_syncedAt": 1794705110955
   },
   "1550": {
     "eventId": "1550",
@@ -457,11 +457,11 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Entrepreneur 500",
-        "races": 426,
-        "wpm": 89.2,
-        "accuracy": 95.46,
-        "points": 58805,
-        "tier": "B"
+        "races": 454,
+        "wpm": 88.7,
+        "accuracy": 95.45,
+        "points": 62566,
+        "tier": "C"
       },
       {
         "rank": 6,
@@ -906,7 +906,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794691656206
+    "_syncedAt": 1794705115342
   },
   "1573": {
     "eventId": "1573",
@@ -979,6 +979,19 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Entrepreneur 500",
+        "races": 140,
+        "wpm": 87.3,
+        "accuracy": 95.27,
+        "points": 19162,
+        "tier": null
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
         "nickname": "Nitro Libre",
@@ -990,7 +1003,7 @@
         "tier": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "- Void Grinder -",
         "displayName": "- Void Grinder -",
@@ -1003,7 +1016,7 @@
         "tier": null
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "GregThe2ndFastTyper",
         "displayName": "GregThe2ndFastTyper",
@@ -1013,19 +1026,6 @@
         "wpm": 99.2,
         "accuracy": 94.33,
         "points": 17500,
-        "tier": null
-      },
-      {
-        "rank": 9,
-        "tag": "IMT",
-        "username": "asteroids",
-        "displayName": "asteroids",
-        "nickname": "A E S T H E T I C",
-        "squad": "Entrepreneur 500",
-        "races": 112,
-        "wpm": 88.7,
-        "accuracy": 95.26,
-        "points": 15401,
         "tier": null
       },
       {
@@ -1302,6 +1302,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1794691645345
+    "_syncedAt": 1794705106593
   }
 }
