@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 8677,
-      "wpm": 79,
+      "allTimeRaces": 8794,
+      "wpm": 65,
       "highestWPM": 110,
-      "teamRaces": 1571,
+      "teamRaces": 1688,
       "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1794624949
+      "lastLogin": 1794807423
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -251,14 +251,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3869,
-      "wpm": 80,
+      "allTimeRaces": 3904,
+      "wpm": 85,
       "highestWPM": 120,
-      "teamRaces": 659,
-      "acc": 95.69,
+      "teamRaces": 694,
+      "acc": 95.72,
       "season": null,
       "status": "active",
-      "lastLogin": 1794737962
+      "lastLogin": 1794792190
     },
     {
       "username": "gregthefasttyper",
@@ -307,14 +307,14 @@
       "displayName": "Nitrex",
       "role": "member",
       "joinStamp": 1785689036,
-      "allTimeRaces": 5263,
-      "wpm": 89,
+      "allTimeRaces": 5264,
+      "wpm": 90,
       "highestWPM": 117,
-      "teamRaces": 103,
-      "acc": 91.26,
+      "teamRaces": 104,
+      "acc": 91.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1794676848
+      "lastLogin": 1794795601
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
@@ -594,7 +594,7 @@
       "acc": 95.16,
       "season": null,
       "status": "active",
-      "lastLogin": 1794604763
+      "lastLogin": 1794796979
     },
     {
       "username": "newkeyboard512",
@@ -613,19 +613,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 75305,
+      "races": 75458,
       "avgWPM": 78,
       "avgAcc": 94.94,
       "members": 43
     },
     "daily": {
-      "races": 117,
-      "avgWPM": 86,
-      "avgAcc": 96.84,
+      "races": 217,
+      "avgWPM": 81,
+      "avgAcc": 97.06,
       "members": 43
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794787467356
+  "_syncedAt": 1794809918506
 }

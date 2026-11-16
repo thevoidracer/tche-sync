@@ -3,7 +3,7 @@
     "minRaces": 500,
     "minWPM": 50,
     "tierA": 91,
-    "tierB": 81,
+    "tierB": 83,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -67,10 +67,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "B",
-      "avgWPM": 89,
+      "avgWPM": 90,
       "topWPM": 117,
-      "lifetimeRaces": 5263,
-      "teamRaces": 103,
+      "lifetimeRaces": 5264,
+      "teamRaces": 104,
       "joined": "08/02/26"
     },
     {
@@ -222,7 +222,7 @@
       "nickname": "Nitro-Opulent",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 165,
       "lifetimeRaces": 6675,
@@ -391,11 +391,11 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "C",
-      "avgWPM": 80,
+      "tier": "B",
+      "avgWPM": 85,
       "topWPM": 120,
-      "lifetimeRaces": 3869,
-      "teamRaces": 659,
+      "lifetimeRaces": 3904,
+      "teamRaces": 694,
       "joined": "10/25/26"
     },
     {
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 79,
+      "avgWPM": 65,
       "topWPM": 110,
-      "lifetimeRaces": 8677,
-      "teamRaces": 1571,
+      "lifetimeRaces": 8794,
+      "teamRaces": 1688,
       "joined": "10/28/26"
     },
     {
@@ -469,7 +469,7 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 104,
       "lifetimeRaces": 1501,
@@ -569,5 +569,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794787527260
+  "_syncedAt": 1794809981788
 }
