@@ -1086,7 +1086,7 @@
         },
         {
           "label": "Sweet 16",
-          "prize": 100000,
+          "prize": null,
           "matches": [
             {
               "id": "Match 2506",
@@ -1268,7 +1268,7 @@
         },
         {
           "label": "Elite 8",
-          "prize": 500000,
+          "prize": 300000,
           "matches": [
             {
               "id": "Match 2514",
@@ -1412,7 +1412,7 @@
         },
         {
           "label": "Championship",
-          "prize": 5000000,
+          "prize": 3000000,
           "matches": [
             {
               "id": "Match 2520",
@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1794901970718
+        "_syncedAt": 1794935471477
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": true,
+                  "gold": false,
                   "placeholder": false,
                   "score": 137
                 }
@@ -3771,10 +3771,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1794901987044
+        "_syncedAt": 1794935487393
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794901987049
+  "_syncedAt": 1794935487401
 }
