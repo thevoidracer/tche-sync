@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
-    "tierB": 83,
+    "tierA": 92,
+    "tierB": 82,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -41,10 +41,10 @@
       "role": "officer",
       "squad": "Phantom 10k",
       "tier": "A",
-      "avgWPM": 91,
+      "avgWPM": 94,
       "topWPM": 118,
-      "lifetimeRaces": 12230,
-      "teamRaces": 11420,
+      "lifetimeRaces": 12344,
+      "teamRaces": 11534,
       "joined": "07/04/26"
     },
     {
@@ -66,7 +66,7 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 117,
       "lifetimeRaces": 5264,
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 106,
+      "avgWPM": 92,
       "topWPM": 138,
-      "lifetimeRaces": 5850,
-      "teamRaces": 838,
+      "lifetimeRaces": 5979,
+      "teamRaces": 967,
       "joined": "10/21/26"
     },
     {
@@ -392,10 +392,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "B",
-      "avgWPM": 85,
+      "avgWPM": 88,
       "topWPM": 120,
-      "lifetimeRaces": 3904,
-      "teamRaces": 694,
+      "lifetimeRaces": 3922,
+      "teamRaces": 712,
       "joined": "10/25/26"
     },
     {
@@ -469,7 +469,7 @@
       "nickname": "Endurance Racer",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 82,
       "topWPM": 104,
       "lifetimeRaces": 1505,
@@ -509,10 +509,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 101,
       "topWPM": 124,
-      "lifetimeRaces": 1490,
-      "teamRaces": 290,
+      "lifetimeRaces": 1491,
+      "teamRaces": 291,
       "joined": "11/04/26"
     },
     {
@@ -560,7 +560,7 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 112,
       "lifetimeRaces": 5161,
@@ -574,13 +574,13 @@
       "role": "member",
       "squad": null,
       "tier": "A",
-      "avgWPM": 142,
+      "avgWPM": 139,
       "topWPM": 208,
-      "lifetimeRaces": 1362,
-      "teamRaces": 10,
+      "lifetimeRaces": 1429,
+      "teamRaces": 83,
       "joined": "11/16/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794874425633
+  "_syncedAt": 1794901951123
 }
