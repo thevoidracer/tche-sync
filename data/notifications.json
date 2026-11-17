@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:marccicali",
+      "type": "new-member",
+      "text": "eggggg joined the team.",
+      "meta": {
+        "username": "marccicali"
+      },
+      "createdAt": 1794874460505
+    },
+    {
       "key": "comp-live:1581",
       "type": "comp-live",
       "text": "Cash comp \"Weekly Cash Comp - Nov 16Recurring comp\" is now live!",
@@ -879,5 +888,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1794845541467
+  "_syncedAt": 1794874460505
 }
