@@ -1441,7 +1441,7 @@
       ],
       "seeding": {
         "racers": [],
-        "_syncedAt": 1794935471477
+        "_syncedAt": 1794959536973
       }
     },
     {
@@ -1582,7 +1582,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 1250
                 },
@@ -1786,7 +1786,7 @@
                 },
                 {
                   "seed": "53",
-                  "racer": "TUSK ACT 4",
+                  "racer": "weak kingsley",
                   "teamTag": "KEYCAT",
                   "gold": false,
                   "placeholder": false,
@@ -1888,7 +1888,7 @@
               "players": [
                 {
                   "seed": "18",
-                  "racer": "plx need nitro gold",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2234,7 +2234,7 @@
                   "seed": "25",
                   "racer": "- 9te -",
                   "teamTag": "IMT",
-                  "gold": false,
+                  "gold": true,
                   "placeholder": false,
                   "score": 137
                 }
@@ -2386,7 +2386,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "plx need nitro gold",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -2634,7 +2634,7 @@
                 },
                 {
                   "seed": "18",
-                  "racer": "plx need nitro gold",
+                  "racer": "NL NitroDeveloper",
                   "teamTag": "THB0S",
                   "gold": false,
                   "placeholder": false,
@@ -3771,10 +3771,10 @@
             "tier": "B"
           }
         ],
-        "_syncedAt": 1794935487393
+        "_syncedAt": 1794959553097
       }
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794935487401
+  "_syncedAt": 1794959553099
 }
