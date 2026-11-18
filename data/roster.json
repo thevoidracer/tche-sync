@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 93,
-    "tierB": 81,
+    "tierA": 92,
+    "tierB": 82,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -222,7 +222,7 @@
       "nickname": "Nitro-Opulent",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 165,
       "lifetimeRaces": 6675,
@@ -248,7 +248,7 @@
       "nickname": "Olde School",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 92,
       "topWPM": 132,
       "lifetimeRaces": 7011,
@@ -274,7 +274,7 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 102,
       "lifetimeRaces": 8600,
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 101,
       "topWPM": 138,
-      "lifetimeRaces": 6005,
-      "teamRaces": 993,
+      "lifetimeRaces": 6010,
+      "teamRaces": 998,
       "joined": "10/21/26"
     },
     {
@@ -326,7 +326,7 @@
       "nickname": "Un-be-leaf-able!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 92,
       "topWPM": 120,
       "lifetimeRaces": 1616,
@@ -392,10 +392,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "B",
-      "avgWPM": 88,
+      "avgWPM": 87,
       "topWPM": 120,
-      "lifetimeRaces": 3922,
-      "teamRaces": 712,
+      "lifetimeRaces": 3923,
+      "teamRaces": 713,
       "joined": "10/25/26"
     },
     {
@@ -582,5 +582,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794977785332
+  "_syncedAt": 1795008898229
 }

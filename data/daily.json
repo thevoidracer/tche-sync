@@ -1,17 +1,7 @@
 {
   "racers": [
     {
-      "rank": 70,
-      "username": "75ece50e19f0ca3d92787e4a86138578",
-      "displayName": "rorok09",
-      "races": 136,
-      "accuracy": 97.1,
-      "wpm": 90.8,
-      "points": 19202,
-      "ppr": 141
-    },
-    {
-      "rank": 139,
+      "rank": 132,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 100,
@@ -21,7 +11,7 @@
       "ppr": 129
     },
     {
-      "rank": 240,
+      "rank": 226,
       "username": "teraceeben21",
       "displayName": "t_unknown",
       "races": 58,
@@ -31,7 +21,17 @@
       "ppr": 135
     },
     {
-      "rank": 335,
+      "rank": 236,
+      "username": "75ece50e19f0ca3d92787e4a86138578",
+      "displayName": "rorok09",
+      "races": 54,
+      "accuracy": 97.18,
+      "wpm": 90.3,
+      "points": 7616,
+      "ppr": 141
+    },
+    {
+      "rank": 339,
       "username": "470256",
       "displayName": "Nish_OUT",
       "races": 38,
@@ -41,17 +41,7 @@
       "ppr": 144
     },
     {
-      "rank": 359,
-      "username": "nathanmduncan",
-      "displayName": "Nathan",
-      "races": 36,
-      "accuracy": 95.54,
-      "wpm": 97.7,
-      "points": 5120,
-      "ppr": 142
-    },
-    {
-      "rank": 473,
+      "rank": 477,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "races": 29,
@@ -61,7 +51,7 @@
       "ppr": 133
     },
     {
-      "rank": 522,
+      "rank": 528,
       "username": "7e2ebd57815c8b20f963c1e4b569628c",
       "displayName": "fqominsed",
       "races": 24,
@@ -71,7 +61,7 @@
       "ppr": 140
     },
     {
-      "rank": 536,
+      "rank": 543,
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "races": 23,
@@ -81,7 +71,7 @@
       "ppr": 142
     },
     {
-      "rank": 554,
+      "rank": 560,
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "I KC Zadkiel I",
       "races": 25,
@@ -91,7 +81,7 @@
       "ppr": 126
     },
     {
-      "rank": 585,
+      "rank": 591,
       "username": "marccicali",
       "displayName": "eggggg",
       "races": 21,
@@ -101,7 +91,7 @@
       "ppr": 139
     },
     {
-      "rank": 677,
+      "rank": 672,
       "username": "b6456e4c4be6acdfede3e806a662ed4c",
       "displayName": "Safire",
       "races": 23,
@@ -111,17 +101,7 @@
       "ppr": 106
     },
     {
-      "rank": 686,
-      "username": "ace1inee",
-      "displayName": "asteroids",
-      "races": 17,
-      "accuracy": 96.42,
-      "wpm": 89,
-      "points": 2369,
-      "ppr": 139
-    },
-    {
-      "rank": 709,
+      "rank": 702,
       "username": "10712a0152fd25105448b6ef1298504b",
       "displayName": "RationalGoldApe",
       "races": 16,
@@ -131,7 +111,7 @@
       "ppr": 139
     },
     {
-      "rank": 805,
+      "rank": 801,
       "username": "xaliishere",
       "displayName": "- Void Grinder -",
       "races": 13,
@@ -141,7 +121,7 @@
       "ppr": 134
     },
     {
-      "rank": 812,
+      "rank": 810,
       "username": "b12d93562133c1f47d58fd7c2118abd6",
       "displayName": "Namedisplayed",
       "races": 12,
@@ -151,7 +131,17 @@
       "ppr": 144
     },
     {
-      "rank": 1044,
+      "rank": 812,
+      "username": "nathanmduncan",
+      "displayName": "Nathan",
+      "races": 12,
+      "accuracy": 95.46,
+      "wpm": 99.8,
+      "points": 1717,
+      "ppr": 143
+    },
+    {
+      "rank": 1049,
       "username": "nataliefinger",
       "displayName": "nataliefinger",
       "races": 5,
@@ -161,7 +151,7 @@
       "ppr": 141
     },
     {
-      "rank": 1092,
+      "rank": 1090,
       "username": "taylorja32",
       "displayName": "Void Racer",
       "races": 4,
@@ -181,7 +171,7 @@
       "ppr": 138
     },
     {
-      "rank": 1185,
+      "rank": 1186,
       "username": "cash4087",
       "displayName": "WindMaker",
       "races": 2,
@@ -199,7 +189,17 @@
       "wpm": 87.2,
       "points": 265,
       "ppr": 133
+    },
+    {
+      "rank": 1279,
+      "username": "ace1inee",
+      "displayName": "asteroids",
+      "races": 1,
+      "accuracy": 91.49,
+      "wpm": 80.6,
+      "points": 128,
+      "ppr": 128
     }
   ],
-  "_syncedAt": 1794977782054
+  "_syncedAt": 1795008895347
 }
