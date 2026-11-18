@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:ef3e032435ac7942a58058435965eceb",
+      "type": "new-member",
+      "text": "Larp Larp joined the team.",
+      "meta": {
+        "username": "ef3e032435ac7942a58058435965eceb"
+      },
+      "createdAt": 1795037806765
+    },
+    {
       "key": "comp-live:1589",
       "type": "comp-live",
       "text": "Cash comp \"Turbo Tuesday - Nov 16Recurring comp\" is now live!",
@@ -897,5 +906,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1795008933927
+  "_syncedAt": 1795037806765
 }
