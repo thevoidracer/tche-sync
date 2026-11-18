@@ -165,10 +165,10 @@
         "displayName": "Nish_OUT",
         "nickname": "Used Car Salesman",
         "squad": "Side Hustler 100",
-        "races": 267,
+        "races": 269,
         "wpm": 94.5,
-        "accuracy": 96.7,
-        "points": 38017,
+        "accuracy": 96.71,
+        "points": 38310,
         "tier": "A"
       },
       {
@@ -347,10 +347,10 @@
         "displayName": "certified",
         "nickname": "Olde School",
         "squad": "Starter Fund",
-        "races": 52,
-        "wpm": 83,
-        "accuracy": 91.46,
-        "points": 6729,
+        "races": 54,
+        "wpm": 83.1,
+        "accuracy": 91.5,
+        "points": 6994,
         "tier": "B"
       },
       {
@@ -523,7 +523,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1794959565019
+    "_syncedAt": 1794977834280
   },
   "1581": {
     "eventId": "1581",
@@ -639,10 +639,10 @@
         "displayName": "Nish_OUT",
         "nickname": "Used Car Salesman",
         "squad": "Side Hustler 100",
-        "races": 47,
-        "wpm": 96.3,
-        "accuracy": 96.25,
-        "points": 6703,
+        "races": 49,
+        "wpm": 96.4,
+        "accuracy": 96.34,
+        "points": 6996,
         "tier": null
       },
       {
@@ -852,9 +852,22 @@
         "accuracy": 92.81,
         "points": 413,
         "tier": null
+      },
+      {
+        "rank": 26,
+        "tag": "IMT",
+        "username": "certified",
+        "displayName": "certified",
+        "nickname": "Olde School",
+        "squad": "Starter Fund",
+        "races": 2,
+        "wpm": 87.2,
+        "accuracy": 92.33,
+        "points": 265,
+        "tier": null
       }
     ],
-    "_syncedAt": 1794959560975
+    "_syncedAt": 1794977829970
   },
   "1589": {
     "eventId": "1589",
@@ -905,10 +918,10 @@
         "displayName": "Nish_OUT",
         "nickname": "Used Car Salesman",
         "squad": "Side Hustler 100",
-        "races": 36,
+        "races": 38,
         "wpm": 97.7,
-        "accuracy": 96.28,
-        "points": 5160,
+        "accuracy": 96.4,
+        "points": 5453,
         "tier": "$100,000"
       },
       {
@@ -1105,8 +1118,21 @@
         "accuracy": 95.57,
         "points": 276,
         "tier": null
+      },
+      {
+        "rank": 20,
+        "tag": "IMT",
+        "username": "certified",
+        "displayName": "certified",
+        "nickname": "Olde School",
+        "squad": "Starter Fund",
+        "races": 2,
+        "wpm": 87.2,
+        "accuracy": 92.33,
+        "points": 265,
+        "tier": null
       }
     ],
-    "_syncedAt": 1794959557022
+    "_syncedAt": 1794977826004
   }
 }

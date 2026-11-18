@@ -1,64 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-17 00:00:00",
-      "racer": "eggggg",
+      "hour": "2026-11-17 04:00:00",
+      "racer": "Nathan",
       "races": 10
-    },
-    {
-      "hour": "2026-11-17 00:00:00",
-      "racer": "GregThe2ndFastTyper",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-17 01:00:00",
-      "racer": "eggggg",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-17 02:00:00",
-      "racer": "Nathan",
-      "races": 40
-    },
-    {
-      "hour": "2026-11-17 02:00:00",
-      "racer": "rorok09",
-      "races": 27
-    },
-    {
-      "hour": "2026-11-17 02:00:00",
-      "racer": "eggggg",
-      "races": 21
-    },
-    {
-      "hour": "2026-11-17 03:00:00",
-      "racer": "Nathan",
-      "races": 27
-    },
-    {
-      "hour": "2026-11-17 03:00:00",
-      "racer": "eggggg",
-      "races": 20
-    },
-    {
-      "hour": "2026-11-17 03:00:00",
-      "racer": "rorok09",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-17 03:00:00",
-      "racer": "asteroids",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-17 04:00:00",
-      "racer": "Nathan",
-      "races": 62
-    },
-    {
-      "hour": "2026-11-17 04:00:00",
-      "racer": "eggggg",
-      "races": 13
     },
     {
       "hour": "2026-11-17 05:00:00",
@@ -152,12 +97,12 @@
     },
     {
       "hour": "2026-11-17 15:00:00",
-      "racer": "Void Racer",
+      "racer": "nataliefinger",
       "races": 4
     },
     {
       "hour": "2026-11-17 15:00:00",
-      "racer": "nataliefinger",
+      "racer": "Void Racer",
       "races": 4
     },
     {
@@ -309,8 +254,18 @@
       "hour": "2026-11-17 23:00:00",
       "racer": "Nish_OUT",
       "races": 24
+    },
+    {
+      "hour": "2026-11-18 02:00:00",
+      "racer": "Nish_OUT",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-18 03:00:00",
+      "racer": "certified",
+      "races": 2
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1794959515931
+  "_syncedAt": 1794977785333
 }

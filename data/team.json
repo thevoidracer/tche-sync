@@ -5,7 +5,7 @@
   "activePercent": 88,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2716,
+  "profileViews": 2718,
   "leagueTier": 11,
   "racers": [
     {
@@ -41,14 +41,14 @@
       "displayName": "certified",
       "role": "member",
       "joinStamp": 1792679740,
-      "allTimeRaces": 13992,
-      "wpm": 84,
+      "allTimeRaces": 13994,
+      "wpm": 83,
       "highestWPM": 117,
-      "teamRaces": 95,
-      "acc": 92.04,
+      "teamRaces": 97,
+      "acc": 92.06,
       "season": null,
       "status": "active",
-      "lastLogin": 1794500184
+      "lastLogin": 1794971163
     },
     {
       "username": "nathanmduncan",
@@ -83,14 +83,14 @@
       "displayName": "Nish_OUT",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1654,
-      "wpm": 96,
+      "allTimeRaces": 1656,
+      "wpm": 95,
       "highestWPM": 112,
-      "teamRaces": 426,
-      "acc": 96.91,
+      "teamRaces": 428,
+      "acc": 96.92,
       "season": null,
       "status": "active",
-      "lastLogin": 1794954226
+      "lastLogin": 1794969809
     },
     {
       "username": "marccicali",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 76895,
+      "races": 76899,
       "avgWPM": 79,
       "avgAcc": 94.95,
       "members": 44
     },
     "daily": {
-      "races": 854,
-      "avgWPM": 94,
-      "avgAcc": 95.78,
+      "races": 632,
+      "avgWPM": 87,
+      "avgAcc": 95.17,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1794959459457
+  "_syncedAt": 1794977730137
 }
