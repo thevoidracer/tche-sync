@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
-    "tierB": 81,
+    "tierA": 92,
+    "tierB": 82,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -15,10 +15,10 @@
       "role": "captain",
       "squad": "Dominator 2.5k",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 96,
       "topWPM": 128,
-      "lifetimeRaces": 5750,
-      "teamRaces": 3325,
+      "lifetimeRaces": 5752,
+      "teamRaces": 3327,
       "joined": "06/10/26"
     },
     {
@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 85,
+      "tier": "A",
+      "avgWPM": 94,
       "topWPM": 110,
-      "lifetimeRaces": 20897,
-      "teamRaces": 3258,
+      "lifetimeRaces": 20935,
+      "teamRaces": 3296,
       "joined": "06/24/26"
     },
     {
@@ -40,7 +40,7 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Phantom 10k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 118,
       "lifetimeRaces": 12633,
@@ -66,7 +66,7 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 117,
       "lifetimeRaces": 5264,
@@ -102,14 +102,14 @@
     {
       "username": "me_likey_typey",
       "displayName": "me_likey_typey",
-      "nickname": "AQUATIC // FLOW",
+      "nickname": "Millionaire",
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 55,
+      "avgWPM": 59,
       "topWPM": 82,
-      "lifetimeRaces": 9546,
-      "teamRaces": 1500,
+      "lifetimeRaces": 9548,
+      "teamRaces": 1502,
       "joined": "09/09/26"
     },
     {
@@ -145,23 +145,23 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 97,
       "topWPM": 112,
-      "lifetimeRaces": 1692,
-      "teamRaces": 464,
+      "lifetimeRaces": 1696,
+      "teamRaces": 468,
       "joined": "09/29/26"
     },
     {
       "username": "5b7204df5a2e2c2bd6d6088673206b01",
       "displayName": "I KC Zadkiel I",
-      "nickname": "TOUGE「峠」VIPER",
+      "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 76,
+      "avgWPM": 74,
       "topWPM": 94,
-      "lifetimeRaces": 2636,
-      "teamRaces": 741,
+      "lifetimeRaces": 2651,
+      "teamRaces": 756,
       "joined": "10/05/26"
     },
     {
@@ -212,8 +212,8 @@
       "tier": "B",
       "avgWPM": 82,
       "topWPM": 127,
-      "lifetimeRaces": 20693,
-      "teamRaces": 340,
+      "lifetimeRaces": 20694,
+      "teamRaces": 341,
       "joined": "10/07/26"
     },
     {
@@ -222,7 +222,7 @@
       "nickname": "Nitro-Opulent",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "B",
+      "tier": "C",
       "avgWPM": 81,
       "topWPM": 165,
       "lifetimeRaces": 6675,
@@ -261,11 +261,11 @@
       "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
-      "avgWPM": 85,
+      "tier": "A",
+      "avgWPM": 98,
       "topWPM": 119,
-      "lifetimeRaces": 5868,
-      "teamRaces": 839,
+      "lifetimeRaces": 5905,
+      "teamRaces": 876,
       "joined": "10/15/26"
     },
     {
@@ -301,10 +301,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 89,
+      "avgWPM": 87,
       "topWPM": 100,
-      "lifetimeRaces": 1633,
-      "teamRaces": 284,
+      "lifetimeRaces": 1653,
+      "teamRaces": 303,
       "joined": "10/19/26"
     },
     {
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 96,
       "topWPM": 138,
-      "lifetimeRaces": 6027,
-      "teamRaces": 1015,
+      "lifetimeRaces": 6069,
+      "teamRaces": 1057,
       "joined": "10/21/26"
     },
     {
@@ -326,11 +326,11 @@
       "nickname": "Un-be-leaf-able!",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "C",
-      "avgWPM": 79,
+      "tier": "B",
+      "avgWPM": 82,
       "topWPM": 120,
-      "lifetimeRaces": 1634,
-      "teamRaces": 449,
+      "lifetimeRaces": 1637,
+      "teamRaces": 452,
       "joined": "10/21/26"
     },
     {
@@ -340,10 +340,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 98,
       "topWPM": 215,
-      "lifetimeRaces": 1241,
-      "teamRaces": 461,
+      "lifetimeRaces": 1292,
+      "teamRaces": 512,
       "joined": "10/22/26"
     },
     {
@@ -483,10 +483,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 58,
+      "avgWPM": 55,
       "topWPM": 123,
-      "lifetimeRaces": 804,
-      "teamRaces": 0,
+      "lifetimeRaces": 805,
+      "teamRaces": 1,
       "joined": "11/03/26"
     },
     {
@@ -496,10 +496,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 47,
+      "avgWPM": 50,
       "topWPM": 108,
-      "lifetimeRaces": 1493,
-      "teamRaces": 287,
+      "lifetimeRaces": 1516,
+      "teamRaces": 310,
       "joined": "11/03/26"
     },
     {
@@ -548,10 +548,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 101,
+      "avgWPM": 102,
       "topWPM": 125,
-      "lifetimeRaces": 318,
-      "teamRaces": 46,
+      "lifetimeRaces": 325,
+      "teamRaces": 53,
       "joined": "11/06/26"
     },
     {
@@ -560,7 +560,7 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 112,
       "lifetimeRaces": 5161,
@@ -573,11 +573,11 @@
       "nickname": "Scallywag",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "A",
-      "avgWPM": 140,
+      "tier": "B",
+      "avgWPM": 84,
       "topWPM": 208,
-      "lifetimeRaces": 1538,
-      "teamRaces": 192,
+      "lifetimeRaces": 1585,
+      "teamRaces": 238,
       "joined": "11/16/26"
     },
     {
@@ -587,13 +587,13 @@
       "role": "member",
       "squad": null,
       "tier": "C",
-      "avgWPM": 52,
+      "avgWPM": 50,
       "topWPM": 110,
-      "lifetimeRaces": 4657,
-      "teamRaces": 2,
+      "lifetimeRaces": 4660,
+      "teamRaces": 5,
       "joined": "11/18/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795085508001
+  "_syncedAt": 1795115683794
 }
