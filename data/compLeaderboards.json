@@ -13,7 +13,7 @@
         "wpm": 89.2,
         "accuracy": 96.69,
         "points": 344623,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 2,
@@ -117,7 +117,7 @@
         "wpm": 88.3,
         "accuracy": 91.23,
         "points": 46951,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 10,
@@ -204,14 +204,27 @@
         "displayName": "UJAADDAH",
         "nickname": "Ghost Lap",
         "squad": "Side Hustler 100",
-        "races": 209,
+        "races": 210,
         "wpm": 96,
-        "accuracy": 88.97,
-        "points": 27518,
+        "accuracy": 88.99,
+        "points": 27655,
         "tier": "A"
       },
       {
         "rank": 17,
+        "tag": "IMT",
+        "username": "eggggg",
+        "displayName": "eggggg",
+        "nickname": "Scallywag",
+        "squad": "Starter Fund",
+        "races": 192,
+        "wpm": 126.2,
+        "accuracy": 98.47,
+        "points": 30833,
+        "tier": "A"
+      },
+      {
+        "rank": 18,
         "tag": "IMT",
         "username": "I KC Zadkiel I",
         "displayName": "I KC Zadkiel I",
@@ -224,7 +237,7 @@
         "tier": "C"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "tag": "IMT",
         "username": "me_likey_typey",
         "displayName": "me_likey_typey",
@@ -235,19 +248,6 @@
         "accuracy": 77.02,
         "points": 18016,
         "tier": "C"
-      },
-      {
-        "rank": 19,
-        "tag": "IMT",
-        "username": "eggggg",
-        "displayName": "eggggg",
-        "nickname": "Scallywag",
-        "squad": "Starter Fund",
-        "races": 161,
-        "wpm": 123.5,
-        "accuracy": 98.31,
-        "points": 25600,
-        "tier": "A"
       },
       {
         "rank": 20,
@@ -442,7 +442,7 @@
         "wpm": 91.3,
         "accuracy": 91,
         "points": 1856,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 35,
@@ -468,7 +468,7 @@
         "wpm": 80.5,
         "accuracy": 93.83,
         "points": 1579,
-        "tier": "C"
+        "tier": "B"
       },
       {
         "rank": 37,
@@ -536,7 +536,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795056597649
+    "_syncedAt": 1795085550710
   },
   "1581": {
     "eventId": "1581",
@@ -583,6 +583,19 @@
       {
         "rank": 4,
         "tag": "IMT",
+        "username": "eggggg",
+        "displayName": "eggggg",
+        "nickname": "Scallywag",
+        "squad": "Starter Fund",
+        "races": 192,
+        "wpm": 126.2,
+        "accuracy": 98.47,
+        "points": 30833,
+        "tier": "$1,500,000"
+      },
+      {
+        "rank": 5,
+        "tag": "IMT",
         "username": "t_unknown",
         "displayName": "t_unknown",
         "nickname": "Ghost Lap",
@@ -591,10 +604,10 @@
         "wpm": 86.6,
         "accuracy": 94.65,
         "points": 25496,
-        "tier": "$1,500,000"
+        "tier": "$1,000,000"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
         "username": "Safire",
         "displayName": "Safire",
@@ -604,19 +617,6 @@
         "wpm": 45,
         "accuracy": 83.77,
         "points": 17854,
-        "tier": "$1,000,000"
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "eggggg",
-        "displayName": "eggggg",
-        "nickname": "Scallywag",
-        "squad": "Starter Fund",
-        "races": 161,
-        "wpm": 123.5,
-        "accuracy": 98.31,
-        "points": 25600,
         "tier": "$500,000"
       },
       {
@@ -843,6 +843,19 @@
       {
         "rank": 24,
         "tag": "IMT",
+        "username": "UJAADDAH",
+        "displayName": "UJAADDAH",
+        "nickname": "Ghost Lap",
+        "squad": "Side Hustler 100",
+        "races": 4,
+        "wpm": 96.2,
+        "accuracy": 92.89,
+        "points": 550,
+        "tier": null
+      },
+      {
+        "rank": 25,
+        "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
         "nickname": "Endurance Racer",
@@ -854,7 +867,7 @@
         "tier": null
       },
       {
-        "rank": 25,
+        "rank": 26,
         "tag": "IMT",
         "username": "Sile314",
         "displayName": "Sile314",
@@ -864,19 +877,6 @@
         "wpm": 109.8,
         "accuracy": 95.45,
         "points": 444,
-        "tier": null
-      },
-      {
-        "rank": 26,
-        "tag": "IMT",
-        "username": "UJAADDAH",
-        "displayName": "UJAADDAH",
-        "nickname": "Ghost Lap",
-        "squad": "Side Hustler 100",
-        "races": 3,
-        "wpm": 97,
-        "accuracy": 92.81,
-        "points": 413,
         "tier": null
       },
       {
@@ -919,6 +919,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1795056593402
+    "_syncedAt": 1795085546760
   }
 }

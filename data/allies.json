@@ -3,10 +3,10 @@
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
     "members": 45,
-    "activePercent": 80,
+    "activePercent": 75,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ ✨ 30r/join/day 200r/week ✨Celebrating 1 year of KEYCAT! ✨ Cat names plz ✨ Tournaments won: 5 ✨ Allies: MTEXAS, AUG3, IMT, IMTR ✨",
-    "profileViews": 3349,
+    "profileViews": 3350,
     "leagueTier": 12,
     "racers": [
       {
@@ -231,7 +231,7 @@
         "acc": 91.48,
         "season": null,
         "status": "active",
-        "lastLogin": 1795022283
+        "lastLogin": 1795068178
       },
       {
         "username": "9581c8b0e0a04dc53ad69163bd434ab3",
@@ -648,24 +648,24 @@
         "members": 45
       },
       "daily": {
-        "races": 363,
-        "avgWPM": 65,
-        "avgAcc": 93.63,
+        "races": 336,
+        "avgWPM": 63,
+        "avgAcc": 93.35,
         "members": 45
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1795056597857
+    "_syncedAt": 1795085550937
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
-    "members": 47,
-    "activePercent": 95,
+    "members": 46,
+    "activePercent": 89,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 600M+ Cash & 21+ Gold Given | Weekly Cash Comp | Gold Comp | 120 race a day = 500k | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5528,
+    "profileViews": 5535,
     "leagueTier": 12,
     "racers": [
       {
@@ -771,14 +771,14 @@
         "displayName": "Festive Typer",
         "role": "member",
         "joinStamp": 1784745206,
-        "allTimeRaces": 2034,
-        "wpm": 56,
+        "allTimeRaces": 2049,
+        "wpm": 59,
         "highestWPM": 87,
-        "teamRaces": 1728,
-        "acc": 93.89,
+        "teamRaces": 1743,
+        "acc": 93.9,
         "season": null,
         "status": "active",
-        "lastLogin": 1795054899
+        "lastLogin": 1795060268
       },
       {
         "username": "pigglepigglepiggle",
@@ -841,28 +841,14 @@
         "displayName": "DavidhopeyYT",
         "role": "member",
         "joinStamp": 1794281893,
-        "allTimeRaces": 1174,
-        "wpm": 103,
+        "allTimeRaces": 1218,
+        "wpm": 108,
         "highestWPM": 131,
-        "teamRaces": 187,
-        "acc": 96.51,
+        "teamRaces": 231,
+        "acc": 96.61,
         "season": null,
         "status": "active",
-        "lastLogin": 1795050520
-      },
-      {
-        "username": "uncleporsche",
-        "displayName": "JAKTIN",
-        "role": "member",
-        "joinStamp": 1794970465,
-        "allTimeRaces": 2483,
-        "wpm": 73,
-        "highestWPM": 90,
-        "teamRaces": 51,
-        "acc": 93.92,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1795053493
+        "lastLogin": 1795079579
       },
       {
         "username": "tacthecat",
@@ -890,21 +876,21 @@
         "acc": 0,
         "season": null,
         "status": "active",
-        "lastLogin": 1795049540
+        "lastLogin": 1795074812
       },
       {
         "username": "1st_speedster",
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8759,
-        "wpm": 66,
+        "allTimeRaces": 8777,
+        "wpm": 64,
         "highestWPM": 95,
-        "teamRaces": 1212,
-        "acc": 97.32,
+        "teamRaces": 1230,
+        "acc": 97.33,
         "season": null,
         "status": "active",
-        "lastLogin": 1795005058
+        "lastLogin": 1795063204
       },
       {
         "username": "mwhit4",
@@ -1121,10 +1107,10 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 20570,
-        "wpm": 93,
+        "allTimeRaces": 20575,
+        "wpm": 94,
         "highestWPM": 123,
-        "teamRaces": 20110,
+        "teamRaces": 20115,
         "acc": 94.03,
         "season": null,
         "status": "active",
@@ -1135,14 +1121,14 @@
         "displayName": "WsCaster",
         "role": "member",
         "joinStamp": 1791177170,
-        "allTimeRaces": 15260,
-        "wpm": 73,
+        "allTimeRaces": 15316,
+        "wpm": 78,
         "highestWPM": 96,
-        "teamRaces": 1042,
-        "acc": 95.9,
+        "teamRaces": 1098,
+        "acc": 95.93,
         "season": null,
         "status": "active",
-        "lastLogin": 1795052262
+        "lastLogin": 1795060344
       },
       {
         "username": "clpz200",
@@ -1261,11 +1247,11 @@
         "displayName": "pls Ineedgold tonigt",
         "role": "member",
         "joinStamp": 1793232311,
-        "allTimeRaces": 3507,
-        "wpm": 56,
+        "allTimeRaces": 3514,
+        "wpm": 53,
         "highestWPM": 74,
-        "teamRaces": 1309,
-        "acc": 94.17,
+        "teamRaces": 1316,
+        "acc": 94.16,
         "season": null,
         "status": "active",
         "lastLogin": 1795056014
@@ -1329,20 +1315,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 146567,
+        "races": 146767,
         "avgWPM": 68,
         "avgAcc": 93.97,
-        "members": 47
+        "members": 46
       },
       "daily": {
-        "races": 663,
-        "avgWPM": 69,
-        "avgAcc": 88.7,
-        "members": 47
+        "races": 774,
+        "avgWPM": 71,
+        "avgAcc": 90.16,
+        "members": 46
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1795056617085
+    "_syncedAt": 1795085569858
   }
 }

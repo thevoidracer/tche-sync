@@ -2,10 +2,10 @@
   "tag": "IMT",
   "name": "Immortal Legends",
   "members": 45,
-  "activePercent": 88,
+  "activePercent": 86,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2731,
+  "profileViews": 2732,
   "leagueTier": 12,
   "racers": [
     {
@@ -97,14 +97,14 @@
       "displayName": "eggggg",
       "role": "member",
       "joinStamp": 1794872581,
-      "allTimeRaces": 1507,
+      "allTimeRaces": 1538,
       "wpm": 140,
       "highestWPM": 208,
-      "teamRaces": 161,
-      "acc": 98.34,
+      "teamRaces": 192,
+      "acc": 98.49,
       "season": null,
       "status": "active",
-      "lastLogin": 1795044592
+      "lastLogin": 1795062204
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
@@ -377,14 +377,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1900,
-      "wpm": 98,
+      "allTimeRaces": 1901,
+      "wpm": 97,
       "highestWPM": 127,
-      "teamRaces": 367,
-      "acc": 90.48,
+      "teamRaces": 368,
+      "acc": 90.49,
       "season": null,
       "status": "active",
-      "lastLogin": 1794948858
+      "lastLogin": 1795059215
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 77815,
+      "races": 77847,
       "avgWPM": 79,
-      "avgAcc": 94.94,
+      "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 920,
-      "avgWPM": 82,
-      "avgAcc": 94.53,
+      "races": 947,
+      "avgWPM": 84,
+      "avgAcc": 94.77,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795056497095
+  "_syncedAt": 1795085442472
 }

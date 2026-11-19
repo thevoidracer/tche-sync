@@ -2,8 +2,8 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 92,
-    "tierB": 82,
+    "tierA": 90,
+    "tierB": 81,
     "weeklyReq": 100
   },
   "captainUsername": "taylorja32",
@@ -40,7 +40,7 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Phantom 10k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 118,
       "lifetimeRaces": 12633,
@@ -66,7 +66,7 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 117,
       "lifetimeRaces": 5264,
@@ -222,7 +222,7 @@
       "nickname": "Nitro-Opulent",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
+      "tier": "B",
       "avgWPM": 81,
       "topWPM": 165,
       "lifetimeRaces": 6675,
@@ -379,10 +379,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 97,
       "topWPM": 127,
-      "lifetimeRaces": 1900,
-      "teamRaces": 367,
+      "lifetimeRaces": 1901,
+      "teamRaces": 368,
       "joined": "10/24/26"
     },
     {
@@ -560,7 +560,7 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 112,
       "lifetimeRaces": 5161,
@@ -576,8 +576,8 @@
       "tier": "A",
       "avgWPM": 140,
       "topWPM": 208,
-      "lifetimeRaces": 1507,
-      "teamRaces": 161,
+      "lifetimeRaces": 1538,
+      "teamRaces": 192,
       "joined": "11/16/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795056552780
+  "_syncedAt": 1795085508001
 }
