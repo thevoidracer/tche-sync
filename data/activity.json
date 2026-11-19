@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-17 22:00:00",
-      "racer": "The Big Yahu",
-      "races": 29
-    },
-    {
-      "hour": "2026-11-17 22:00:00",
-      "racer": "Nish_OUT",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-17 22:00:00",
-      "racer": "RationalGoldApe",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-17 23:00:00",
-      "racer": "Nish_OUT",
-      "races": 24
-    },
-    {
       "hour": "2026-11-18 02:00:00",
       "racer": "Nish_OUT",
       "races": 2
@@ -217,12 +197,12 @@
     },
     {
       "hour": "2026-11-18 18:00:00",
-      "racer": "Larp Larp",
+      "racer": "me_likey_typey",
       "races": 1
     },
     {
       "hour": "2026-11-18 18:00:00",
-      "racer": "me_likey_typey",
+      "racer": "Larp Larp",
       "races": 1
     },
     {
@@ -267,15 +247,60 @@
     },
     {
       "hour": "2026-11-18 21:00:00",
+      "racer": "rorok09",
+      "races": 36
+    },
+    {
+      "hour": "2026-11-18 21:00:00",
+      "racer": "BlazingFlowerz",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-18 21:00:00",
       "racer": "fqominsed",
       "races": 7
     },
     {
-      "hour": "2026-11-18 21:00:00",
-      "racer": "rorok09",
+      "hour": "2026-11-18 22:00:00",
+      "racer": "Nish_OUT",
+      "races": 12
+    },
+    {
+      "hour": "2026-11-18 23:00:00",
+      "racer": "eggggg",
+      "races": 20
+    },
+    {
+      "hour": "2026-11-18 23:00:00",
+      "racer": "Nish_OUT",
       "races": 7
+    },
+    {
+      "hour": "2026-11-18 23:00:00",
+      "racer": "Safire",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-19 00:00:00",
+      "racer": "Safire",
+      "races": 53
+    },
+    {
+      "hour": "2026-11-19 00:00:00",
+      "racer": "The Big Yahu",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-19 01:00:00",
+      "racer": "Safire",
+      "races": 41
+    },
+    {
+      "hour": "2026-11-19 02:00:00",
+      "racer": "Safire",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795037771982
+  "_syncedAt": 1795056552781
 }

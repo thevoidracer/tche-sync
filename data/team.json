@@ -5,8 +5,8 @@
   "activePercent": 88,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2729,
-  "leagueTier": 11,
+  "profileViews": 2731,
+  "leagueTier": 12,
   "racers": [
     {
       "username": "sidoh",
@@ -83,42 +83,42 @@
       "displayName": "Nish_OUT",
       "role": "member",
       "joinStamp": 1790717942,
-      "allTimeRaces": 1673,
-      "wpm": 95,
+      "allTimeRaces": 1692,
+      "wpm": 96,
       "highestWPM": 112,
-      "teamRaces": 445,
-      "acc": 96.88,
+      "teamRaces": 464,
+      "acc": 96.86,
       "season": null,
       "status": "active",
-      "lastLogin": 1795031753
+      "lastLogin": 1795042093
     },
     {
       "username": "marccicali",
       "displayName": "eggggg",
       "role": "member",
       "joinStamp": 1794872581,
-      "allTimeRaces": 1487,
-      "wpm": 100,
+      "allTimeRaces": 1507,
+      "wpm": 140,
       "highestWPM": 208,
-      "teamRaces": 141,
-      "acc": 98.18,
+      "teamRaces": 161,
+      "acc": 98.34,
       "season": null,
       "status": "active",
-      "lastLogin": 1795031882
+      "lastLogin": 1795044592
     },
     {
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "role": "member",
       "joinStamp": 1791407585,
-      "allTimeRaces": 20690,
-      "wpm": 83,
+      "allTimeRaces": 20693,
+      "wpm": 82,
       "highestWPM": 127,
-      "teamRaces": 337,
+      "teamRaces": 340,
       "acc": 94.09,
       "season": null,
       "status": "active",
-      "lastLogin": 1794953125
+      "lastLogin": 1795047520
     },
     {
       "username": "crxy99",
@@ -195,10 +195,10 @@
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 12612,
-      "wpm": 89,
+      "allTimeRaces": 12633,
+      "wpm": 90,
       "highestWPM": 118,
-      "teamRaces": 11794,
+      "teamRaces": 11823,
       "acc": 97.02,
       "season": null,
       "status": "active",
@@ -412,7 +412,7 @@
       "acc": 92.79,
       "season": null,
       "status": "active",
-      "lastLogin": 1795035134
+      "lastLogin": 1795040066
     },
     {
       "username": "bfa8839baa0642556b69448adee42dca",
@@ -461,11 +461,11 @@
       "displayName": "BlazingFlowerz",
       "role": "member",
       "joinStamp": 1793186868,
-      "allTimeRaces": 1328,
-      "wpm": 50,
+      "allTimeRaces": 1333,
+      "wpm": 55,
       "highestWPM": 80,
-      "teamRaces": 222,
-      "acc": 92.11,
+      "teamRaces": 231,
+      "acc": 92.06,
       "season": null,
       "status": "active",
       "lastLogin": 1795037230
@@ -545,14 +545,14 @@
       "displayName": "Safire",
       "role": "member",
       "joinStamp": 1793735818,
-      "allTimeRaces": 1391,
-      "wpm": 45,
+      "allTimeRaces": 1493,
+      "wpm": 47,
       "highestWPM": 108,
-      "teamRaces": 185,
-      "acc": 87.13,
+      "teamRaces": 287,
+      "acc": 86.43,
       "season": null,
       "status": "active",
-      "lastLogin": 1795024845
+      "lastLogin": 1795045996
     },
     {
       "username": "328473829095dbxdfhd",
@@ -580,7 +580,7 @@
       "acc": 80.12,
       "season": null,
       "status": "active",
-      "lastLogin": 1795026988
+      "lastLogin": 1795046269
     },
     {
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
@@ -622,7 +622,7 @@
       "acc": 95.16,
       "season": null,
       "status": "active",
-      "lastLogin": 1795005197
+      "lastLogin": 1795049463
     },
     {
       "username": "newkeyboard512",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 77633,
+      "races": 77815,
       "avgWPM": 79,
-      "avgAcc": 94.95,
+      "avgAcc": 94.94,
       "members": 45
     },
     "daily": {
-      "races": 809,
-      "avgWPM": 86,
-      "avgAcc": 95.03,
+      "races": 920,
+      "avgWPM": 82,
+      "avgAcc": 94.53,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795037709135
+  "_syncedAt": 1795056497095
 }
