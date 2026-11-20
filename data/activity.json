@@ -1,116 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-19 13:00:00",
-      "racer": "loganim12btw",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-19 13:00:00",
-      "racer": "fqominsed",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-19 13:00:00",
-      "racer": "Void Racer",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-19 14:00:00",
-      "racer": "Nathan",
-      "races": 36
-    },
-    {
-      "hour": "2026-11-19 14:00:00",
-      "racer": "loganim12btw",
-      "races": 22
-    },
-    {
-      "hour": "2026-11-19 14:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 21
-    },
-    {
-      "hour": "2026-11-19 14:00:00",
-      "racer": "nataliefinger",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-19 14:00:00",
-      "racer": "Larp Larp",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-19 14:00:00",
-      "racer": "eggggg",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "I KC Zadkiel I",
-      "races": 15
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "Safire",
-      "races": 13
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 11
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "nataliefinger",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "loganim12btw",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "The Big Yahu",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "eggggg",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-19 15:00:00",
-      "racer": "Larp Larp",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-19 16:00:00",
-      "racer": "Nathan",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-19 16:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 6
-    },
-    {
-      "hour": "2026-11-19 16:00:00",
-      "racer": "RationalGoldApe",
-      "races": 5
-    },
-    {
-      "hour": "2026-11-19 16:00:00",
-      "racer": "eggggg",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-19 16:00:00",
-      "racer": "me_likey_typey",
-      "races": 2
-    },
-    {
       "hour": "2026-11-19 17:00:00",
       "racer": "loganim12btw",
       "races": 16
@@ -129,11 +19,6 @@
       "hour": "2026-11-19 17:00:00",
       "racer": "Safire",
       "races": 3
-    },
-    {
-      "hour": "2026-11-19 17:00:00",
-      "racer": "eggggg",
-      "races": 1
     },
     {
       "hour": "2026-11-19 17:00:00",
@@ -289,8 +174,103 @@
       "hour": "2026-11-20 08:00:00",
       "racer": "Eclipse",
       "races": 3
+    },
+    {
+      "hour": "2026-11-20 13:00:00",
+      "racer": "Nathan",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-20 14:00:00",
+      "racer": "KirbyDelta",
+      "races": 25
+    },
+    {
+      "hour": "2026-11-20 14:00:00",
+      "racer": "t_unknown",
+      "races": 21
+    },
+    {
+      "hour": "2026-11-20 14:00:00",
+      "racer": "loganim12btw",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-20 14:00:00",
+      "racer": "sterling757",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-20 14:00:00",
+      "racer": "RationalGoldApe",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-20 15:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-20 15:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 17
+    },
+    {
+      "hour": "2026-11-20 15:00:00",
+      "racer": "t_unknown",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-20 15:00:00",
+      "racer": "The Big Yahu",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-20 15:00:00",
+      "racer": "RationalGoldApe",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-20 16:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 35
+    },
+    {
+      "hour": "2026-11-20 16:00:00",
+      "racer": "Nathan",
+      "races": 20
+    },
+    {
+      "hour": "2026-11-20 16:00:00",
+      "racer": "I KC Zadkiel I",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-20 16:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-20 17:00:00",
+      "racer": "GregThe2ndFastTyper",
+      "races": 8
+    },
+    {
+      "hour": "2026-11-20 17:00:00",
+      "racer": "loganim12btw",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-20 17:00:00",
+      "racer": "Safire",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-20 17:00:00",
+      "racer": "Nathan",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795164258196
+  "_syncedAt": 1795195110463
 }
