@@ -40,11 +40,11 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Phantom 10k",
-      "tier": "B",
-      "avgWPM": 90,
+      "tier": "A",
+      "avgWPM": 95,
       "topWPM": 118,
-      "lifetimeRaces": 12726,
-      "teamRaces": 11916,
+      "lifetimeRaces": 12751,
+      "teamRaces": 11941,
       "joined": "07/04/26"
     },
     {
@@ -144,11 +144,11 @@
       "nickname": "Used Car Salesman",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 97,
+      "tier": "B",
+      "avgWPM": 85,
       "topWPM": 112,
-      "lifetimeRaces": 1696,
-      "teamRaces": 468,
+      "lifetimeRaces": 1708,
+      "teamRaces": 480,
       "joined": "09/29/26"
     },
     {
@@ -392,10 +392,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "B",
-      "avgWPM": 87,
+      "avgWPM": 89,
       "topWPM": 120,
-      "lifetimeRaces": 3923,
-      "teamRaces": 713,
+      "lifetimeRaces": 3924,
+      "teamRaces": 714,
       "joined": "10/25/26"
     },
     {
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 65,
+      "avgWPM": 80,
       "topWPM": 110,
-      "lifetimeRaces": 8794,
-      "teamRaces": 1688,
+      "lifetimeRaces": 8894,
+      "teamRaces": 1788,
       "joined": "10/28/26"
     },
     {
@@ -498,8 +498,8 @@
       "tier": "C",
       "avgWPM": 50,
       "topWPM": 108,
-      "lifetimeRaces": 1516,
-      "teamRaces": 310,
+      "lifetimeRaces": 1517,
+      "teamRaces": 311,
       "joined": "11/03/26"
     },
     {
@@ -574,10 +574,10 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 141,
       "topWPM": 208,
-      "lifetimeRaces": 1598,
-      "teamRaces": 251,
+      "lifetimeRaces": 1604,
+      "teamRaces": 257,
       "joined": "11/16/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795137399121
+  "_syncedAt": 1795164258195
 }

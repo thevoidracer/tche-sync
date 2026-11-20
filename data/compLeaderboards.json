@@ -9,11 +9,11 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Phantom 10k",
-        "races": 2558,
+        "races": 2583,
         "wpm": 89.2,
-        "accuracy": 96.71,
-        "points": 357768,
-        "tier": "B"
+        "accuracy": 96.72,
+        "points": 361297,
+        "tier": "A"
       },
       {
         "rank": 2,
@@ -74,10 +74,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Entrepreneur 500",
-        "races": 508,
+        "races": 509,
         "wpm": 88.5,
-        "accuracy": 95.52,
-        "points": 69995,
+        "accuracy": 95.53,
+        "points": 70138,
         "tier": "B"
       },
       {
@@ -122,6 +122,19 @@
       {
         "rank": 10,
         "tag": "IMT",
+        "username": "Nish_OUT",
+        "displayName": "Nish_OUT",
+        "nickname": "Used Car Salesman",
+        "squad": "Side Hustler 100",
+        "races": 321,
+        "wpm": 94.4,
+        "accuracy": 96.65,
+        "points": 45670,
+        "tier": "B"
+      },
+      {
+        "rank": 11,
+        "tag": "IMT",
         "username": "insta _trewatkins",
         "displayName": "insta _trewatkins",
         "nickname": "B.U.S. Driver",
@@ -133,7 +146,7 @@
         "tier": "B"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "Void Racer",
         "displayName": "Void Racer",
@@ -146,30 +159,17 @@
         "tier": "A"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "tag": "IMT",
         "username": "Safire",
         "displayName": "Safire",
         "nickname": "Epic Nitro User",
         "squad": "Side Hustler 100",
-        "races": 310,
+        "races": 311,
         "wpm": 45.9,
-        "accuracy": 84.32,
-        "points": 32143,
+        "accuracy": 84.31,
+        "points": 32240,
         "tier": "C"
-      },
-      {
-        "rank": 13,
-        "tag": "IMT",
-        "username": "Nish_OUT",
-        "displayName": "Nish_OUT",
-        "nickname": "Used Car Salesman",
-        "squad": "Side Hustler 100",
-        "races": 309,
-        "wpm": 94.7,
-        "accuracy": 96.63,
-        "points": 43994,
-        "tier": "A"
       },
       {
         "rank": 14,
@@ -204,10 +204,10 @@
         "displayName": "eggggg",
         "nickname": "Scallywag",
         "squad": "Starter Fund",
-        "races": 251,
-        "wpm": 117.9,
-        "accuracy": 97.89,
-        "points": 39061,
+        "races": 257,
+        "wpm": 118.5,
+        "accuracy": 97.94,
+        "points": 40079,
         "tier": "A"
       },
       {
@@ -536,7 +536,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795137444378
+    "_syncedAt": 1795164285428
   },
   "1581": {
     "eventId": "1581",
@@ -548,10 +548,10 @@
         "displayName": "rorok09",
         "nickname": "Original Gangster",
         "squad": "Phantom 10k",
-        "races": 496,
+        "races": 521,
         "wpm": 90.2,
-        "accuracy": 97.03,
-        "points": 69836,
+        "accuracy": 97.04,
+        "points": 73366,
         "tier": "$3,000,000"
       },
       {
@@ -587,10 +587,10 @@
         "displayName": "eggggg",
         "nickname": "Scallywag",
         "squad": "Starter Fund",
-        "races": 251,
-        "wpm": 117.9,
-        "accuracy": 97.89,
-        "points": 39061,
+        "races": 257,
+        "wpm": 118.5,
+        "accuracy": 97.94,
+        "points": 40079,
         "tier": "$1,500,000"
       },
       {
@@ -617,7 +617,7 @@
         "wpm": 88.4,
         "accuracy": 97.51,
         "points": 27845,
-        "tier": "$500,000"
+        "tier": "$250,000"
       },
       {
         "rank": 7,
@@ -626,11 +626,11 @@
         "displayName": "Safire",
         "nickname": "Epic Nitro User",
         "squad": "Side Hustler 100",
-        "races": 197,
+        "races": 198,
         "wpm": 45.5,
-        "accuracy": 83.88,
-        "points": 20286,
-        "tier": null
+        "accuracy": 83.86,
+        "points": 20382,
+        "tier": "$250,000"
       },
       {
         "rank": 8,
@@ -652,10 +652,10 @@
         "displayName": "Nish_OUT",
         "nickname": "Used Car Salesman",
         "squad": "Side Hustler 100",
-        "races": 89,
-        "wpm": 96.1,
-        "accuracy": 96.23,
-        "points": 12680,
+        "races": 101,
+        "wpm": 95.1,
+        "accuracy": 96.34,
+        "points": 14356,
         "tier": null
       },
       {
@@ -795,10 +795,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Entrepreneur 500",
-        "races": 19,
-        "wpm": 87.9,
-        "accuracy": 96.08,
-        "points": 2628,
+        "races": 20,
+        "wpm": 88.2,
+        "accuracy": 96.14,
+        "points": 2771,
         "tier": null
       },
       {
@@ -932,6 +932,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1795137440246
+    "_syncedAt": 1795164281399
   }
 }
