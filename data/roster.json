@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 86,
       "topWPM": 110,
-      "lifetimeRaces": 21001,
-      "teamRaces": 3362,
+      "lifetimeRaces": 21056,
+      "teamRaces": 3417,
       "joined": "06/24/26"
     },
     {
@@ -66,11 +66,11 @@
       "nickname": "404 Not Found",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 90,
+      "tier": "B",
+      "avgWPM": 89,
       "topWPM": 117,
-      "lifetimeRaces": 5264,
-      "teamRaces": 104,
+      "lifetimeRaces": 5265,
+      "teamRaces": 105,
       "joined": "08/02/26"
     },
     {
@@ -95,8 +95,8 @@
       "tier": "B",
       "avgWPM": 83,
       "topWPM": 102,
-      "lifetimeRaces": 2741,
-      "teamRaces": 122,
+      "lifetimeRaces": 2750,
+      "teamRaces": 131,
       "joined": "09/08/26"
     },
     {
@@ -144,11 +144,11 @@
       "nickname": "Used Car Salesman",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 85,
+      "tier": "A",
+      "avgWPM": 95,
       "topWPM": 112,
-      "lifetimeRaces": 1708,
-      "teamRaces": 480,
+      "lifetimeRaces": 1718,
+      "teamRaces": 490,
       "joined": "09/29/26"
     },
     {
@@ -262,10 +262,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "C",
-      "avgWPM": 65,
+      "avgWPM": 75,
       "topWPM": 119,
-      "lifetimeRaces": 5939,
-      "teamRaces": 910,
+      "lifetimeRaces": 5979,
+      "teamRaces": 950,
       "joined": "10/15/26"
     },
     {
@@ -274,11 +274,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 80,
+      "tier": "C",
+      "avgWPM": 72,
       "topWPM": 102,
-      "lifetimeRaces": 8725,
-      "teamRaces": 2700,
+      "lifetimeRaces": 8879,
+      "teamRaces": 2850,
       "joined": "10/15/26"
     },
     {
@@ -301,10 +301,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 88,
+      "avgWPM": 89,
       "topWPM": 100,
-      "lifetimeRaces": 1672,
-      "teamRaces": 322,
+      "lifetimeRaces": 1681,
+      "teamRaces": 331,
       "joined": "10/19/26"
     },
     {
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 99,
       "topWPM": 138,
-      "lifetimeRaces": 6120,
-      "teamRaces": 1108,
+      "lifetimeRaces": 6147,
+      "teamRaces": 1135,
       "joined": "10/21/26"
     },
     {
@@ -340,10 +340,10 @@
       "role": "member",
       "squad": "Entrepreneur 500",
       "tier": "A",
-      "avgWPM": 93,
+      "avgWPM": 95,
       "topWPM": 215,
-      "lifetimeRaces": 1299,
-      "teamRaces": 519,
+      "lifetimeRaces": 1307,
+      "teamRaces": 527,
       "joined": "10/22/26"
     },
     {
@@ -379,10 +379,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 97,
       "topWPM": 127,
-      "lifetimeRaces": 1902,
-      "teamRaces": 369,
+      "lifetimeRaces": 1907,
+      "teamRaces": 374,
       "joined": "10/24/26"
     },
     {
@@ -420,8 +420,8 @@
       "tier": "B",
       "avgWPM": 80,
       "topWPM": 110,
-      "lifetimeRaces": 8894,
-      "teamRaces": 1788,
+      "lifetimeRaces": 8943,
+      "teamRaces": 1837,
       "joined": "10/28/26"
     },
     {
@@ -535,10 +535,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "B",
-      "avgWPM": 87,
+      "avgWPM": 80,
       "topWPM": 115,
-      "lifetimeRaces": 2635,
-      "teamRaces": 124,
+      "lifetimeRaces": 2640,
+      "teamRaces": 129,
       "joined": "11/05/26"
     },
     {
@@ -582,5 +582,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795195110461
+  "_syncedAt": 1795216448736
 }
