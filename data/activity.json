@@ -1,89 +1,9 @@
 {
   "hours": [
     {
-      "hour": "2026-11-18 19:00:00",
-      "racer": "rorok09",
-      "races": 62
-    },
-    {
-      "hour": "2026-11-18 19:00:00",
-      "racer": "PootsyWafflebiscuits",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-18 19:00:00",
-      "racer": "Nish_OUT",
-      "races": 2
-    },
-    {
-      "hour": "2026-11-18 20:00:00",
-      "racer": "rorok09",
-      "races": 55
-    },
-    {
-      "hour": "2026-11-18 20:00:00",
-      "racer": "eggggg",
-      "races": 21
-    },
-    {
-      "hour": "2026-11-18 20:00:00",
-      "racer": "fqominsed",
-      "races": 10
-    },
-    {
-      "hour": "2026-11-18 20:00:00",
-      "racer": "Nathan",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-18 21:00:00",
-      "racer": "rorok09",
-      "races": 36
-    },
-    {
-      "hour": "2026-11-18 21:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-18 21:00:00",
-      "racer": "fqominsed",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-18 22:00:00",
-      "racer": "Nish_OUT",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-18 23:00:00",
-      "racer": "eggggg",
-      "races": 20
-    },
-    {
-      "hour": "2026-11-18 23:00:00",
-      "racer": "Safire",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-18 23:00:00",
-      "racer": "Nish_OUT",
-      "races": 7
-    },
-    {
-      "hour": "2026-11-19 00:00:00",
-      "racer": "Safire",
-      "races": 53
-    },
-    {
-      "hour": "2026-11-19 00:00:00",
-      "racer": "The Big Yahu",
-      "races": 3
-    },
-    {
       "hour": "2026-11-19 01:00:00",
       "racer": "Safire",
-      "races": 41
+      "races": 31
     },
     {
       "hour": "2026-11-19 02:00:00",
@@ -142,12 +62,12 @@
     },
     {
       "hour": "2026-11-19 14:00:00",
-      "racer": "eggggg",
+      "racer": "Larp Larp",
       "races": 2
     },
     {
       "hour": "2026-11-19 14:00:00",
-      "racer": "Larp Larp",
+      "racer": "eggggg",
       "races": 2
     },
     {
@@ -177,12 +97,12 @@
     },
     {
       "hour": "2026-11-19 15:00:00",
-      "racer": "Larp Larp",
+      "racer": "eggggg",
       "races": 1
     },
     {
       "hour": "2026-11-19 15:00:00",
-      "racer": "eggggg",
+      "racer": "Larp Larp",
       "races": 1
     },
     {
@@ -274,8 +194,83 @@
       "hour": "2026-11-19 18:00:00",
       "racer": "Nish_OUT",
       "races": 4
+    },
+    {
+      "hour": "2026-11-19 19:00:00",
+      "racer": "RationalGoldApe",
+      "races": 14
+    },
+    {
+      "hour": "2026-11-19 19:00:00",
+      "racer": "fqominsed",
+      "races": 7
+    },
+    {
+      "hour": "2026-11-19 19:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 4
+    },
+    {
+      "hour": "2026-11-19 19:00:00",
+      "racer": "eggggg",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-19 20:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 33
+    },
+    {
+      "hour": "2026-11-19 20:00:00",
+      "racer": "eggggg",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-19 20:00:00",
+      "racer": "fqominsed",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-19 21:00:00",
+      "racer": "me_likey_typey",
+      "races": 13
+    },
+    {
+      "hour": "2026-11-19 21:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-19 22:00:00",
+      "racer": "Nathan",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-19 22:00:00",
+      "racer": "The Big Yahu",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-19 22:00:00",
+      "racer": "me_likey_typey",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-19 23:00:00",
+      "racer": "rorok09",
+      "races": 36
+    },
+    {
+      "hour": "2026-11-20 00:00:00",
+      "racer": "rorok09",
+      "races": 57
+    },
+    {
+      "hour": "2026-11-20 00:00:00",
+      "racer": "The Big Yahu",
+      "races": 16
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795115683795
+  "_syncedAt": 1795137399123
 }
