@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 44,
+  "members": 45,
   "activePercent": 88,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2763,
+  "profileViews": 2766,
   "leagueTier": 12,
   "racers": [
     {
@@ -177,6 +177,20 @@
       "lastLogin": 1795196713
     },
     {
+      "username": "6454bed393d752195af763e28b24d2d7",
+      "displayName": "Da_B3St - 3k",
+      "role": "member",
+      "joinStamp": 1795293003,
+      "allTimeRaces": 2140,
+      "wpm": 76,
+      "highestWPM": 100,
+      "teamRaces": 0,
+      "acc": 0,
+      "season": null,
+      "status": "active",
+      "lastLogin": 1795292344
+    },
+    {
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "role": "officer",
@@ -195,14 +209,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 9000,
-      "wpm": 76,
+      "allTimeRaces": 9050,
+      "wpm": 75,
       "highestWPM": 102,
-      "teamRaces": 2975,
-      "acc": 92.94,
+      "teamRaces": 3025,
+      "acc": 92.97,
       "season": null,
       "status": "active",
-      "lastLogin": 1795215677
+      "lastLogin": 1795292478
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -627,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 79466,
+      "races": 79516,
       "avgWPM": 79,
       "avgAcc": 94.95,
-      "members": 44
+      "members": 45
     },
     "daily": {
-      "races": 581,
-      "avgWPM": 82,
-      "avgAcc": 94.96,
-      "members": 44
+      "races": 378,
+      "avgWPM": 81,
+      "avgAcc": 94.72,
+      "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795286678815
+  "_syncedAt": 1795304183950
 }

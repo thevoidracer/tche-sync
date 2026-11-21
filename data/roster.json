@@ -275,10 +275,10 @@
       "role": "officer",
       "squad": "Dominator 2.5k",
       "tier": "C",
-      "avgWPM": 76,
+      "avgWPM": 75,
       "topWPM": 102,
-      "lifetimeRaces": 9000,
-      "teamRaces": 2975,
+      "lifetimeRaces": 9050,
+      "teamRaces": 3025,
       "joined": "10/15/26"
     },
     {
@@ -579,8 +579,21 @@
       "lifetimeRaces": 4660,
       "teamRaces": 5,
       "joined": "11/18/26"
+    },
+    {
+      "username": "6454bed393d752195af763e28b24d2d7",
+      "displayName": "Da_B3St - 3k",
+      "nickname": "Ghost Lap",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 76,
+      "topWPM": 100,
+      "lifetimeRaces": 2140,
+      "teamRaces": 0,
+      "joined": "11/21/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795286732559
+  "_syncedAt": 1795304238776
 }

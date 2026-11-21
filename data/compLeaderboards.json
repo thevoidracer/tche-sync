@@ -22,10 +22,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 1900,
-        "wpm": 78.2,
-        "accuracy": 91.98,
-        "points": 243043,
+        "races": 1950,
+        "wpm": 78.1,
+        "accuracy": 92.03,
+        "points": 249561,
         "tier": "C"
       },
       {
@@ -525,6 +525,19 @@
       {
         "rank": 41,
         "tag": "IMT",
+        "username": "Da_B3St - 3k",
+        "displayName": "Da_B3St - 3k",
+        "nickname": "Ghost Lap",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": "C"
+      },
+      {
+        "rank": 42,
+        "tag": "IMT",
         "username": "JaydaYounGan-Y2K-120",
         "displayName": "JaydaYounGan-Y2K-120",
         "nickname": "RIP",
@@ -536,7 +549,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795286759890
+    "_syncedAt": 1795304265874
   },
   "1581": {
     "eventId": "1581",
@@ -548,10 +561,10 @@
         "displayName": "KirbyDelta",
         "nickname": "Night Patrol",
         "squad": "Dominator 2.5k",
-        "races": 600,
-        "wpm": 78,
-        "accuracy": 91.81,
-        "points": 76566,
+        "races": 650,
+        "wpm": 77.9,
+        "accuracy": 91.99,
+        "points": 83082,
         "tier": "$3,000,000"
       },
       {
@@ -956,8 +969,21 @@
         "accuracy": 89.6,
         "points": 107,
         "tier": null
+      },
+      {
+        "rank": 33,
+        "tag": "IMT",
+        "username": "Da_B3St - 3k",
+        "displayName": "Da_B3St - 3k",
+        "nickname": "Ghost Lap",
+        "squad": null,
+        "races": 0,
+        "wpm": 0,
+        "accuracy": 0,
+        "points": 0,
+        "tier": null
       }
     ],
-    "_syncedAt": 1795286756009
+    "_syncedAt": 1795304261951
   }
 }

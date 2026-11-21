@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:6454bed393d752195af763e28b24d2d7",
+      "type": "new-member",
+      "text": "Da_B3St - 3k joined the team.",
+      "meta": {
+        "username": "6454bed393d752195af763e28b24d2d7"
+      },
+      "createdAt": 1795304258066
+    },
+    {
       "key": "new-member:ef3e032435ac7942a58058435965eceb",
       "type": "new-member",
       "text": "Larp Larp joined the team.",
@@ -906,5 +915,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1795286752168
+  "_syncedAt": 1795304258066
 }
