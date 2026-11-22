@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-21 04:00:00",
-      "racer": "Eclipse",
-      "races": 68
-    },
-    {
-      "hour": "2026-11-21 04:00:00",
-      "racer": "Nathan",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-21 06:00:00",
-      "racer": "Eclipse",
-      "races": 73
-    },
-    {
       "hour": "2026-11-21 14:00:00",
       "racer": "Nathan",
       "races": 14
@@ -57,5 +42,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795318221452
+  "_syncedAt": 1795348200525
 }

@@ -1,17 +1,17 @@
 {
   "racers": [
     {
-      "rank": 140,
+      "rank": 142,
       "username": "nathanmduncan",
       "displayName": "Nathan",
-      "races": 74,
-      "accuracy": 94.73,
-      "wpm": 99.1,
-      "points": 10483,
+      "races": 70,
+      "accuracy": 94.79,
+      "wpm": 100,
+      "points": 9953,
       "ppr": 142
     },
     {
-      "rank": 202,
+      "rank": 198,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 50,
@@ -21,7 +21,7 @@
       "ppr": 130
     },
     {
-      "rank": 393,
+      "rank": 385,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "races": 16,
@@ -31,5 +31,5 @@
       "ppr": 136
     }
   ],
-  "_syncedAt": 1795318218157
+  "_syncedAt": 1795348196948
 }

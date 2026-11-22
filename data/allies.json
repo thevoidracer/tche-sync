@@ -2,11 +2,11 @@
   "KEYCAT": {
     "tag": "KEYCAT",
     "name": "The Keyboard Cats",
-    "members": 41,
-    "activePercent": 76,
+    "members": 40,
+    "activePercent": 72,
     "createdStamp": 1763078802,
     "otherInfo": "⚞^. .^⚟ ✨ 30r/join/day 150r/week ✨Celebrating 1 year of KEYCAT! ✨ Cat names plz ✨ Tournaments won: 5 ✨ Allies: MTEXAS, AUG3, IMT, IMTR ✨",
-    "profileViews": 3391,
+    "profileViews": 3392,
     "leagueTier": 12,
     "racers": [
       {
@@ -168,14 +168,14 @@
         "displayName": "PANDAPLAYZ",
         "role": "member",
         "joinStamp": 1794261175,
-        "allTimeRaces": 2604,
-        "wpm": 40,
+        "allTimeRaces": 2652,
+        "wpm": 44,
         "highestWPM": 64,
-        "teamRaces": 300,
-        "acc": 91.41,
+        "teamRaces": 348,
+        "acc": 91.16,
         "season": null,
         "status": "active",
-        "lastLogin": 1795302579
+        "lastLogin": 1795332808
       },
       {
         "username": "gogracie",
@@ -568,48 +568,34 @@
         "season": null,
         "status": "active",
         "lastLogin": 1795173987
-      },
-      {
-        "username": "jcluwinners",
-        "displayName": "Ketsui",
-        "role": "member",
-        "joinStamp": 1795295856,
-        "allTimeRaces": 2331,
-        "wpm": 54,
-        "highestWPM": 104,
-        "teamRaces": 0,
-        "acc": 0,
-        "season": null,
-        "status": "active",
-        "lastLogin": 1795295527
       }
     ],
     "aggregates": {
       "alltime": {
-        "races": 88457,
+        "races": 88505,
         "avgWPM": 56,
         "avgAcc": 93.49,
-        "members": 41
+        "members": 40
       },
       "daily": {
-        "races": 59,
-        "avgWPM": 71,
-        "avgAcc": 96.32,
-        "members": 41
+        "races": 103,
+        "avgWPM": 60,
+        "avgAcc": 94.07,
+        "members": 40
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1795318249368
+    "_syncedAt": 1795348230035
   },
   "THB0S": {
     "tag": "THB0S",
     "name": "THEB0SS",
     "members": 43,
-    "activePercent": 89,
+    "activePercent": 86,
     "createdStamp": 1763145613,
     "otherInfo": "600R=1M | 600M+ Cash & 21+ Gold Given | Weekly Cash Comp | Gold Comp | 120 race a day = 500k | Need gold contributors | Top 20 | theb0ss.neocities.org",
-    "profileViews": 5608,
+    "profileViews": 5614,
     "leagueTier": 12,
     "racers": [
       {
@@ -813,28 +799,28 @@
         "displayName": "Ochako Uraraka",
         "role": "member",
         "joinStamp": 1795046462,
-        "allTimeRaces": 4467,
-        "wpm": 51,
+        "allTimeRaces": 4468,
+        "wpm": 50,
         "highestWPM": 81,
-        "teamRaces": 22,
-        "acc": 93.68,
+        "teamRaces": 23,
+        "acc": 93.78,
         "season": null,
         "status": "active",
-        "lastLogin": 1795296539
+        "lastLogin": 1795344377
       },
       {
         "username": "1st_speedster",
         "displayName": "Speedster-1",
         "role": "member",
         "joinStamp": 1787610133,
-        "allTimeRaces": 8815,
-        "wpm": 68,
+        "allTimeRaces": 8840,
+        "wpm": 64,
         "highestWPM": 95,
-        "teamRaces": 1268,
-        "acc": 97.32,
+        "teamRaces": 1293,
+        "acc": 97.3,
         "season": null,
         "status": "active",
-        "lastLogin": 1795233817
+        "lastLogin": 1795322097
       },
       {
         "username": "joshywashyisglossy",
@@ -981,14 +967,14 @@
         "displayName": "TheMrMe",
         "role": "member",
         "joinStamp": 1789697210,
-        "allTimeRaces": 1812,
-        "wpm": 100,
+        "allTimeRaces": 1822,
+        "wpm": 107,
         "highestWPM": 122,
-        "teamRaces": 1361,
-        "acc": 96.26,
+        "teamRaces": 1371,
+        "acc": 96.27,
         "season": null,
         "status": "active",
-        "lastLogin": 1795118449
+        "lastLogin": 1795326789
       },
       {
         "username": "fdc5e9fd49da3bb9de3d1222baab8c8f",
@@ -1009,14 +995,14 @@
         "displayName": "Sara10",
         "role": "officer",
         "joinStamp": 1763145614,
-        "allTimeRaces": 20642,
-        "wpm": 98,
+        "allTimeRaces": 20670,
+        "wpm": 91,
         "highestWPM": 123,
-        "teamRaces": 20182,
+        "teamRaces": 20210,
         "acc": 94.04,
         "season": null,
         "status": "active",
-        "lastLogin": 1795312299
+        "lastLogin": 1795323200
       },
       {
         "username": "48dc4f9e6cb59c640ebf491df47a17fd",
@@ -1093,14 +1079,14 @@
         "displayName": "Gt650,",
         "role": "officer",
         "joinStamp": 1791712871,
-        "allTimeRaces": 11573,
+        "allTimeRaces": 11822,
         "wpm": 43,
         "highestWPM": 75,
-        "teamRaces": 4143,
-        "acc": 85.68,
+        "teamRaces": 4391,
+        "acc": 85.62,
         "season": null,
         "status": "active",
-        "lastLogin": 1795266313
+        "lastLogin": 1795343099
       },
       {
         "username": "legendsince2026",
@@ -1121,14 +1107,14 @@
         "displayName": "dark type",
         "role": "member",
         "joinStamp": 1785487372,
-        "allTimeRaces": 3320,
-        "wpm": 36,
+        "allTimeRaces": 3339,
+        "wpm": 40,
         "highestWPM": 49,
-        "teamRaces": 2921,
-        "acc": 82.82,
+        "teamRaces": 2935,
+        "acc": 82.79,
         "season": null,
         "status": "active",
-        "lastLogin": 1795259357
+        "lastLogin": 1795337040
       },
       {
         "username": "500big",
@@ -1217,20 +1203,20 @@
     ],
     "aggregates": {
       "alltime": {
-        "races": 148395,
+        "races": 148723,
         "avgWPM": 68,
-        "avgAcc": 93.9,
+        "avgAcc": 93.89,
         "members": 43
       },
       "daily": {
-        "races": 638,
-        "avgWPM": 70,
-        "avgAcc": 88.15,
+        "races": 777,
+        "avgWPM": 62,
+        "avgAcc": 87.97,
         "members": 43
       },
       "season": null
     },
     "season": null,
-    "_syncedAt": 1795318305052
+    "_syncedAt": 1795348249329
   }
 }
