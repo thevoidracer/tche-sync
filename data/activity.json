@@ -1,36 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-20 23:00:00",
-      "racer": "KirbyDelta",
-      "races": 38
-    },
-    {
-      "hour": "2026-11-20 23:00:00",
-      "racer": "Nish_OUT",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-21 00:00:00",
-      "racer": "KirbyDelta",
-      "races": 49
-    },
-    {
-      "hour": "2026-11-21 00:00:00",
-      "racer": "BlazingFlowerz",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-21 01:00:00",
-      "racer": "KirbyDelta",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-21 02:00:00",
-      "racer": "Unknown",
-      "races": 4
-    },
-    {
       "hour": "2026-11-21 04:00:00",
       "racer": "Eclipse",
       "races": 68
@@ -87,5 +57,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795304238777
+  "_syncedAt": 1795318221452
 }

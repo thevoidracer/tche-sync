@@ -1,17 +1,7 @@
 {
   "racers": [
     {
-      "rank": 95,
-      "username": "kirbydelta",
-      "displayName": "KirbyDelta",
-      "races": 138,
-      "accuracy": 91.56,
-      "wpm": 75.3,
-      "points": 17392,
-      "ppr": 126
-    },
-    {
-      "rank": 142,
+      "rank": 140,
       "username": "nathanmduncan",
       "displayName": "Nathan",
       "races": 74,
@@ -21,7 +11,17 @@
       "ppr": 142
     },
     {
-      "rank": 400,
+      "rank": 202,
+      "username": "kirbydelta",
+      "displayName": "KirbyDelta",
+      "races": 50,
+      "accuracy": 94.18,
+      "wpm": 76.8,
+      "points": 6516,
+      "ppr": 130
+    },
+    {
+      "rank": 393,
       "username": "1f3436c751b4f5f64b1093338f118942",
       "displayName": "The Big Yahu",
       "races": 16,
@@ -29,37 +29,7 @@
       "wpm": 87.5,
       "points": 2172,
       "ppr": 136
-    },
-    {
-      "rank": 525,
-      "username": "jonathan711111",
-      "displayName": "Unknown",
-      "races": 4,
-      "accuracy": 95.52,
-      "wpm": 101.4,
-      "points": 576,
-      "ppr": 144
-    },
-    {
-      "rank": 542,
-      "username": "3a0b3a8cc922fae587432ade7a6160f7",
-      "displayName": "BlazingFlowerz",
-      "races": 4,
-      "accuracy": 89.5,
-      "wpm": 47.8,
-      "points": 444,
-      "ppr": 111
-    },
-    {
-      "rank": 544,
-      "username": "470256",
-      "displayName": "Nish_OUT",
-      "races": 3,
-      "accuracy": 94.51,
-      "wpm": 100.6,
-      "points": 426,
-      "ppr": 142
     }
   ],
-  "_syncedAt": 1795304234851
+  "_syncedAt": 1795318218157
 }
