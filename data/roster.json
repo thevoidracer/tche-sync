@@ -106,10 +106,10 @@
       "role": "officer",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 56,
+      "avgWPM": 55,
       "topWPM": 82,
-      "lifetimeRaces": 9566,
-      "teamRaces": 1520,
+      "lifetimeRaces": 9567,
+      "teamRaces": 1521,
       "joined": "09/09/26"
     },
     {
@@ -365,11 +365,11 @@
       "nickname": "Ace Accelerator",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 96,
+      "tier": "B",
+      "avgWPM": 88,
       "topWPM": 120,
-      "lifetimeRaces": 612,
-      "teamRaces": 369,
+      "lifetimeRaces": 628,
+      "teamRaces": 385,
       "joined": "10/23/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795348200524
+  "_syncedAt": 1795373235836
 }

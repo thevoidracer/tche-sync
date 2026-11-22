@@ -1,4 +1,25 @@
 {
-  "racers": [],
-  "_syncedAt": 1795348187846
+  "racers": [
+    {
+      "rank": 213,
+      "username": "newkeyboard512",
+      "displayName": "-HyperTyper-",
+      "races": 16,
+      "accuracy": 90.89,
+      "wpm": 89.1,
+      "points": 2102,
+      "ppr": 131
+    },
+    {
+      "rank": 376,
+      "username": "me_likey_typey",
+      "displayName": "me_likey_typey",
+      "races": 1,
+      "accuracy": 78.57,
+      "wpm": 48.8,
+      "points": 98,
+      "ppr": 98
+    }
+  ],
+  "_syncedAt": 1795373223695
 }
