@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-21 20:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
-      "hour": "2026-11-21 20:00:00",
-      "racer": "Da_B3St - 3k",
-      "races": 0
-    },
-    {
-      "hour": "2026-11-21 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 25
-    },
-    {
       "hour": "2026-11-22 16:00:00",
       "racer": "-HyperTyper-",
       "races": 12
@@ -29,8 +14,13 @@
       "hour": "2026-11-22 17:00:00",
       "racer": "-HyperTyper-",
       "races": 4
+    },
+    {
+      "hour": "2026-11-22 20:00:00",
+      "racer": "Da_B3St - 3k",
+      "races": 19
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795373235837
+  "_syncedAt": 1795391819913
 }

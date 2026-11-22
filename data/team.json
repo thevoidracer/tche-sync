@@ -5,7 +5,7 @@
   "activePercent": 84,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2772,
+  "profileViews": 2773,
   "leagueTier": 12,
   "racers": [
     {
@@ -132,7 +132,7 @@
       "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1795234430
+      "lastLogin": 1795389723
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -181,14 +181,14 @@
       "displayName": "Da_B3St - 3k",
       "role": "member",
       "joinStamp": 1795293003,
-      "allTimeRaces": 2140,
-      "wpm": 76,
+      "allTimeRaces": 2159,
+      "wpm": 79,
       "highestWPM": 100,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 19,
+      "acc": 95.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1795292344
+      "lastLogin": 1795378875
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 79533,
+      "races": 79552,
       "avgWPM": 79,
       "avgAcc": 94.95,
       "members": 45
     },
     "daily": {
-      "races": 65,
+      "races": 34,
       "avgWPM": 76,
-      "avgAcc": 93.43,
+      "avgAcc": 92.93,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795373181831
+  "_syncedAt": 1795391749778
 }
