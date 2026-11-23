@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 103,
+      "avgWPM": 100,
       "topWPM": 138,
-      "lifetimeRaces": 6221,
-      "teamRaces": 1209,
+      "lifetimeRaces": 6266,
+      "teamRaces": 1254,
       "joined": "10/21/26"
     },
     {
@@ -417,11 +417,11 @@
       "nickname": "#NitroFurze",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
-      "avgWPM": 80,
+      "tier": "C",
+      "avgWPM": 77,
       "topWPM": 110,
-      "lifetimeRaces": 9084,
-      "teamRaces": 1978,
+      "lifetimeRaces": 9210,
+      "teamRaces": 2096,
       "joined": "10/28/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795391819912
+  "_syncedAt": 1795408634738
 }

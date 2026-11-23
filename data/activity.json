@@ -19,8 +19,33 @@
       "hour": "2026-11-22 20:00:00",
       "racer": "Da_B3St - 3k",
       "races": 19
+    },
+    {
+      "hour": "2026-11-23 01:00:00",
+      "racer": "Nathan",
+      "races": 27
+    },
+    {
+      "hour": "2026-11-23 02:00:00",
+      "racer": "Eclipse",
+      "races": 33
+    },
+    {
+      "hour": "2026-11-23 02:00:00",
+      "racer": "Nathan",
+      "races": 18
+    },
+    {
+      "hour": "2026-11-23 03:00:00",
+      "racer": "Eclipse",
+      "races": 59
+    },
+    {
+      "hour": "2026-11-23 04:00:00",
+      "racer": "Eclipse",
+      "races": 26
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795391819913
+  "_syncedAt": 1795408634738
 }
