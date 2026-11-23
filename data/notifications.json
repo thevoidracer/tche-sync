@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "comp-live:1633",
+      "type": "comp-live",
+      "text": "Cash comp \"Weekly Cash Comp - Nov 23Recurring comp\" is now live!",
+      "meta": {
+        "eventId": "1633"
+      },
+      "createdAt": 1795447328373
+    },
+    {
       "key": "new-member:6454bed393d752195af763e28b24d2d7",
       "type": "new-member",
       "text": "Da_B3St - 3k joined the team.",
@@ -915,5 +924,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1795408654075
+  "_syncedAt": 1795447328373
 }

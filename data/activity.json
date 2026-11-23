@@ -43,9 +43,24 @@
     {
       "hour": "2026-11-23 04:00:00",
       "racer": "Eclipse",
-      "races": 26
+      "races": 58
+    },
+    {
+      "hour": "2026-11-23 14:00:00",
+      "racer": "nataliefinger",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-23 15:00:00",
+      "racer": "nataliefinger",
+      "races": 5
+    },
+    {
+      "hour": "2026-11-23 15:00:00",
+      "racer": "UJAADDAH",
+      "races": 1
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795408634738
+  "_syncedAt": 1795447308482
 }
