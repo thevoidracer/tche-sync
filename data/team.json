@@ -1,11 +1,11 @@
 {
   "tag": "IMT",
   "name": "Immortal Legends",
-  "members": 45,
+  "members": 44,
   "activePercent": 86,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2790,
+  "profileViews": 2793,
   "leagueTier": 12,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 6293,
-      "wpm": 99,
+      "allTimeRaces": 6319,
+      "wpm": 106,
       "highestWPM": 138,
-      "teamRaces": 1281,
+      "teamRaces": 1307,
       "acc": 95.22,
       "season": null,
       "status": "active",
-      "lastLogin": 1795475834
+      "lastLogin": 1795551171
     },
     {
       "username": "tre1typer",
@@ -209,14 +209,14 @@
       "displayName": "KirbyDelta",
       "role": "officer",
       "joinStamp": 1792077388,
-      "allTimeRaces": 9050,
-      "wpm": 75,
+      "allTimeRaces": 9100,
+      "wpm": 80,
       "highestWPM": 102,
-      "teamRaces": 3025,
-      "acc": 92.97,
+      "teamRaces": 3075,
+      "acc": 92.99,
       "season": null,
       "status": "active",
-      "lastLogin": 1795292478
+      "lastLogin": 1795542986
     },
     {
       "username": "f09fe0ef3a642c5a3f429fa873139e72",
@@ -279,14 +279,14 @@
       "displayName": "GregThe2ndFastTyper",
       "role": "member",
       "joinStamp": 1793810179,
-      "allTimeRaces": 1551,
-      "wpm": 106,
-      "highestWPM": 124,
-      "teamRaces": 351,
-      "acc": 94.9,
+      "allTimeRaces": 1578,
+      "wpm": 105,
+      "highestWPM": 128,
+      "teamRaces": 378,
+      "acc": 95.04,
       "season": null,
       "status": "active",
-      "lastLogin": 1795196604
+      "lastLogin": 1795535505
     },
     {
       "username": "sterling757",
@@ -377,14 +377,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1928,
-      "wpm": 96,
+      "allTimeRaces": 1934,
+      "wpm": 95,
       "highestWPM": 127,
-      "teamRaces": 395,
-      "acc": 90.6,
+      "teamRaces": 401,
+      "acc": 90.65,
       "season": null,
       "status": "active",
-      "lastLogin": 1795458110
+      "lastLogin": 1795533747
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -482,7 +482,7 @@
       "acc": 91.38,
       "season": null,
       "status": "active",
-      "lastLogin": 1795136285
+      "lastLogin": 1795542703
     },
     {
       "username": "a0604971cedb19bc8237c0b2bd3de21e",
@@ -503,14 +503,14 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1698,
-      "wpm": 92,
+      "allTimeRaces": 1699,
+      "wpm": 91,
       "highestWPM": 100,
-      "teamRaces": 348,
-      "acc": 97.32,
+      "teamRaces": 349,
+      "acc": 97.31,
       "season": null,
       "status": "active",
-      "lastLogin": 1795471037
+      "lastLogin": 1795549277
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -587,14 +587,14 @@
       "displayName": "RemarkableJadeCheetah",
       "role": "member",
       "joinStamp": 1794130377,
-      "allTimeRaces": 5193,
+      "allTimeRaces": 5236,
       "wpm": 94,
       "highestWPM": 112,
-      "teamRaces": 1557,
-      "acc": 91.82,
+      "teamRaces": 1600,
+      "acc": 91.84,
       "season": null,
       "status": "active",
-      "lastLogin": 1795456813
+      "lastLogin": 1795545680
     },
     {
       "username": "nataliefinger",
@@ -623,37 +623,23 @@
       "season": null,
       "status": "active",
       "lastLogin": 1795363270
-    },
-    {
-      "username": "newkeyboard512",
-      "displayName": "-HyperTyper-",
-      "role": "member",
-      "joinStamp": 1792787085,
-      "allTimeRaces": 638,
-      "wpm": 103,
-      "highestWPM": 120,
-      "teamRaces": 395,
-      "acc": 91.67,
-      "season": null,
-      "status": "active",
-      "lastLogin": 1795470271
     }
   ],
   "aggregates": {
     "alltime": {
-      "races": 79973,
+      "races": 80129,
       "avgWPM": 79,
       "avgAcc": 94.96,
-      "members": 45
+      "members": 44
     },
     "daily": {
-      "races": 224,
+      "races": 269,
       "avgWPM": 89,
-      "avgAcc": 95.41,
-      "members": 45
+      "avgAcc": 95.16,
+      "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795524286716
+  "_syncedAt": 1795560413808
 }

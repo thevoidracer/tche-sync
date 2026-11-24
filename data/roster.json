@@ -274,11 +274,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "C",
-      "avgWPM": 75,
+      "tier": "B",
+      "avgWPM": 80,
       "topWPM": 102,
-      "lifetimeRaces": 9050,
-      "teamRaces": 3025,
+      "lifetimeRaces": 9100,
+      "teamRaces": 3075,
       "joined": "10/15/26"
     },
     {
@@ -300,11 +300,11 @@
       "nickname": "Box Collector",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 91,
       "topWPM": 100,
-      "lifetimeRaces": 1698,
-      "teamRaces": 348,
+      "lifetimeRaces": 1699,
+      "teamRaces": 349,
       "joined": "10/19/26"
     },
     {
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 99,
+      "avgWPM": 106,
       "topWPM": 138,
-      "lifetimeRaces": 6293,
-      "teamRaces": 1281,
+      "lifetimeRaces": 6319,
+      "teamRaces": 1307,
       "joined": "10/21/26"
     },
     {
@@ -360,29 +360,16 @@
       "joined": "10/22/26"
     },
     {
-      "username": "newkeyboard512",
-      "displayName": "-HyperTyper-",
-      "nickname": "Ace Accelerator",
-      "role": "member",
-      "squad": "Side Hustler 100",
-      "tier": "A",
-      "avgWPM": 103,
-      "topWPM": 120,
-      "lifetimeRaces": 638,
-      "teamRaces": 395,
-      "joined": "10/23/26"
-    },
-    {
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
       "nickname": "Ghost Lap",
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 96,
+      "avgWPM": 95,
       "topWPM": 127,
-      "lifetimeRaces": 1928,
-      "teamRaces": 395,
+      "lifetimeRaces": 1934,
+      "teamRaces": 401,
       "joined": "10/24/26"
     },
     {
@@ -505,14 +492,14 @@
     {
       "username": "gregthefasttyper",
       "displayName": "GregThe2ndFastTyper",
-      "nickname": "Expert Extraordinaire",
+      "nickname": "Champion Chaser",
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 106,
-      "topWPM": 124,
-      "lifetimeRaces": 1551,
-      "teamRaces": 351,
+      "avgWPM": 105,
+      "topWPM": 128,
+      "lifetimeRaces": 1578,
+      "teamRaces": 378,
       "joined": "11/04/26"
     },
     {
@@ -563,8 +550,8 @@
       "tier": "A",
       "avgWPM": 94,
       "topWPM": 112,
-      "lifetimeRaces": 5193,
-      "teamRaces": 1557,
+      "lifetimeRaces": 5236,
+      "teamRaces": 1600,
       "joined": "11/08/26"
     },
     {
@@ -595,5 +582,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795524350474
+  "_syncedAt": 1795560484402
 }
