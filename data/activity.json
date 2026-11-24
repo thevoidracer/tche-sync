@@ -1,26 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-23 02:00:00",
-      "racer": "Eclipse",
-      "races": 33
-    },
-    {
-      "hour": "2026-11-23 02:00:00",
-      "racer": "Nathan",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-23 03:00:00",
-      "racer": "Eclipse",
-      "races": 59
-    },
-    {
-      "hour": "2026-11-23 04:00:00",
-      "racer": "Eclipse",
-      "races": 58
-    },
-    {
       "hour": "2026-11-23 14:00:00",
       "racer": "nataliefinger",
       "races": 3
@@ -99,8 +79,23 @@
       "hour": "2026-11-23 23:00:00",
       "racer": "Nathan",
       "races": 27
+    },
+    {
+      "hour": "2026-11-24 04:00:00",
+      "racer": "Eclipse",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-24 05:00:00",
+      "racer": "Eclipse",
+      "races": 41
+    },
+    {
+      "hour": "2026-11-24 06:00:00",
+      "racer": "Eclipse",
+      "races": 38
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795487223278
+  "_syncedAt": 1795524350474
 }

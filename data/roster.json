@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 90,
+    "tierA": 92,
     "tierB": 80,
     "weeklyReq": 100
   },
@@ -27,7 +27,7 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 110,
       "lifetimeRaces": 21077,
@@ -209,7 +209,7 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 90,
       "topWPM": 127,
       "lifetimeRaces": 20736,
@@ -248,7 +248,7 @@
       "nickname": "Olde School",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "A",
+      "tier": "B",
       "avgWPM": 91,
       "topWPM": 132,
       "lifetimeRaces": 7015,
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 76,
+      "avgWPM": 79,
       "topWPM": 110,
-      "lifetimeRaces": 9234,
-      "teamRaces": 2128,
+      "lifetimeRaces": 9322,
+      "teamRaces": 2216,
       "joined": "10/28/26"
     },
     {
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795487223276
+  "_syncedAt": 1795524350474
 }

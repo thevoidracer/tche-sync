@@ -52,7 +52,7 @@
         "wpm": 89.6,
         "accuracy": 97.62,
         "points": 93565,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 5,
@@ -312,7 +312,7 @@
         "wpm": 85.7,
         "accuracy": 94.17,
         "points": 16006,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 25,
@@ -507,7 +507,7 @@
         "wpm": 101.4,
         "accuracy": 95.52,
         "points": 576,
-        "tier": "A"
+        "tier": "B"
       },
       {
         "rank": 40,
@@ -549,7 +549,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795487250539
+    "_syncedAt": 1795524382293
   },
   "1633": {
     "eventId": "1633",
@@ -659,6 +659,11 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1795487246625
+    "_syncedAt": 1795524378212
+  },
+  "1637": {
+    "eventId": "1637",
+    "racers": [],
+    "_syncedAt": 1795524374309
   }
 }
