@@ -1,31 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-22 16:00:00",
-      "racer": "-HyperTyper-",
-      "races": 12
-    },
-    {
-      "hour": "2026-11-22 16:00:00",
-      "racer": "me_likey_typey",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-22 17:00:00",
-      "racer": "-HyperTyper-",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-22 20:00:00",
-      "racer": "Da_B3St - 3k",
-      "races": 19
-    },
-    {
-      "hour": "2026-11-23 01:00:00",
-      "racer": "Nathan",
-      "races": 27
-    },
-    {
       "hour": "2026-11-23 02:00:00",
       "racer": "Eclipse",
       "races": 33
@@ -33,7 +8,7 @@
     {
       "hour": "2026-11-23 02:00:00",
       "racer": "Nathan",
-      "races": 18
+      "races": 12
     },
     {
       "hour": "2026-11-23 03:00:00",
@@ -52,15 +27,80 @@
     },
     {
       "hour": "2026-11-23 15:00:00",
+      "racer": "UJAADDAH",
+      "races": 9
+    },
+    {
+      "hour": "2026-11-23 15:00:00",
       "racer": "nataliefinger",
       "races": 5
     },
     {
-      "hour": "2026-11-23 15:00:00",
+      "hour": "2026-11-23 16:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 15
+    },
+    {
+      "hour": "2026-11-23 16:00:00",
       "racer": "UJAADDAH",
       "races": 1
+    },
+    {
+      "hour": "2026-11-23 16:00:00",
+      "racer": "RemarkableJadeCheetah",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-23 18:00:00",
+      "racer": "RemarkableJadeCheetah",
+      "races": 31
+    },
+    {
+      "hour": "2026-11-23 18:00:00",
+      "racer": "UJAADDAH",
+      "races": 11
+    },
+    {
+      "hour": "2026-11-23 19:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-23 19:00:00",
+      "racer": "RationalGoldApe",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-23 19:00:00",
+      "racer": "N4RUTO",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-23 20:00:00",
+      "racer": "RationalGoldApe",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-23 21:00:00",
+      "racer": "RationalGoldApe",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-23 21:00:00",
+      "racer": "-HyperTyper-",
+      "races": 10
+    },
+    {
+      "hour": "2026-11-23 22:00:00",
+      "racer": "RationalGoldApe",
+      "races": 3
+    },
+    {
+      "hour": "2026-11-23 23:00:00",
+      "racer": "Nathan",
+      "races": 27
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795447308482
+  "_syncedAt": 1795487223278
 }

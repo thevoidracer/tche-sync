@@ -27,11 +27,11 @@
       "nickname": "Nitro Libre",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 86,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 110,
-      "lifetimeRaces": 21056,
-      "teamRaces": 3417,
+      "lifetimeRaces": 21077,
+      "teamRaces": 3438,
       "joined": "06/24/26"
     },
     {
@@ -297,14 +297,14 @@
     {
       "username": "10712a0152fd25105448b6ef1298504b",
       "displayName": "RationalGoldApe",
-      "nickname": "Original Gangster",
+      "nickname": "Box Collector",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 92,
       "topWPM": 100,
-      "lifetimeRaces": 1681,
-      "teamRaces": 331,
+      "lifetimeRaces": 1698,
+      "teamRaces": 348,
       "joined": "10/19/26"
     },
     {
@@ -314,10 +314,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 100,
+      "avgWPM": 99,
       "topWPM": 138,
-      "lifetimeRaces": 6266,
-      "teamRaces": 1254,
+      "lifetimeRaces": 6293,
+      "teamRaces": 1281,
       "joined": "10/21/26"
     },
     {
@@ -365,11 +365,11 @@
       "nickname": "Ace Accelerator",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
-      "avgWPM": 88,
+      "tier": "A",
+      "avgWPM": 103,
       "topWPM": 120,
-      "lifetimeRaces": 628,
-      "teamRaces": 385,
+      "lifetimeRaces": 638,
+      "teamRaces": 395,
       "joined": "10/23/26"
     },
     {
@@ -379,10 +379,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "A",
-      "avgWPM": 98,
+      "avgWPM": 96,
       "topWPM": 127,
-      "lifetimeRaces": 1908,
-      "teamRaces": 375,
+      "lifetimeRaces": 1928,
+      "teamRaces": 395,
       "joined": "10/24/26"
     },
     {
@@ -482,11 +482,11 @@
       "nickname": "Redline Ronin",
       "role": "member",
       "squad": "Starter Fund",
-      "tier": "C",
-      "avgWPM": 55,
+      "tier": "B",
+      "avgWPM": 85,
       "topWPM": 123,
-      "lifetimeRaces": 805,
-      "teamRaces": 1,
+      "lifetimeRaces": 807,
+      "teamRaces": 3,
       "joined": "11/03/26"
     },
     {
@@ -561,10 +561,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "A",
-      "avgWPM": 90,
+      "avgWPM": 94,
       "topWPM": 112,
-      "lifetimeRaces": 5161,
-      "teamRaces": 1525,
+      "lifetimeRaces": 5193,
+      "teamRaces": 1557,
       "joined": "11/08/26"
     },
     {
@@ -585,7 +585,7 @@
       "displayName": "Da_B3St - 3k",
       "nickname": "Any% Speedrunner",
       "role": "member",
-      "squad": null,
+      "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 79,
       "topWPM": 100,
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795447308480
+  "_syncedAt": 1795487223276
 }
