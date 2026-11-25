@@ -1,8 +1,48 @@
 {
   "1408": {
     "eventId": "1408",
-    "racers": [],
-    "_syncedAt": 1795620790940
+    "racers": [
+      {
+        "rank": 1,
+        "tag": "IMT",
+        "username": "D4_B3St",
+        "displayName": "D4_B3St",
+        "nickname": "Any% Speedrunner",
+        "squad": "Starter Fund",
+        "races": 38,
+        "wpm": 78.5,
+        "accuracy": 96,
+        "points": 5080,
+        "tier": "B"
+      },
+      {
+        "rank": 2,
+        "tag": "IMT",
+        "username": "RemarkableJadeCheetah",
+        "displayName": "RemarkableJadeCheetah",
+        "nickname": "Titan",
+        "squad": "Investor 1k",
+        "races": 9,
+        "wpm": 92.7,
+        "accuracy": 92.2,
+        "points": 1215,
+        "tier": "A"
+      },
+      {
+        "rank": 3,
+        "tag": "IMT",
+        "username": "RationalGoldApe",
+        "displayName": "RationalGoldApe",
+        "nickname": "Box Collector",
+        "squad": "Side Hustler 100",
+        "races": 3,
+        "wpm": 90.6,
+        "accuracy": 97.68,
+        "points": 426,
+        "tier": "A"
+      }
+    ],
+    "_syncedAt": 1795650510773
   },
   "1550": {
     "eventId": "1550",
@@ -118,10 +158,10 @@
         "displayName": "RemarkableJadeCheetah",
         "nickname": "Titan",
         "squad": "Investor 1k",
-        "races": 432,
-        "wpm": 89.7,
-        "accuracy": 91.44,
-        "points": 57217,
+        "races": 441,
+        "wpm": 89.8,
+        "accuracy": 91.45,
+        "points": 58433,
         "tier": "A"
       },
       {
@@ -248,10 +288,10 @@
         "displayName": "RationalGoldApe",
         "nickname": "Box Collector",
         "squad": "Side Hustler 100",
-        "races": 193,
+        "races": 196,
         "wpm": 88.6,
-        "accuracy": 97.3,
-        "points": 27094,
+        "accuracy": 97.31,
+        "points": 27520,
         "tier": "A"
       },
       {
@@ -322,6 +362,19 @@
       {
         "rank": 25,
         "tag": "IMT",
+        "username": "D4_B3St",
+        "displayName": "D4_B3St",
+        "nickname": "Any% Speedrunner",
+        "squad": "Starter Fund",
+        "races": 94,
+        "wpm": 76.8,
+        "accuracy": 94.8,
+        "points": 12335,
+        "tier": "B"
+      },
+      {
+        "rank": 26,
+        "tag": "IMT",
         "username": "nataliefinger",
         "displayName": "nataliefinger",
         "nickname": "Continue?",
@@ -331,19 +384,6 @@
         "accuracy": 95.33,
         "points": 8765,
         "tier": "A"
-      },
-      {
-        "rank": 26,
-        "tag": "IMT",
-        "username": "Da_B3St - 3k",
-        "displayName": "Da_B3St - 3k",
-        "nickname": "Any% Speedrunner",
-        "squad": "Starter Fund",
-        "races": 56,
-        "wpm": 75.7,
-        "accuracy": 93.97,
-        "points": 7254,
-        "tier": "C"
       },
       {
         "rank": 27,
@@ -541,13 +581,26 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795620798650
+    "_syncedAt": 1795650518441
   },
   "1633": {
     "eventId": "1633",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "RemarkableJadeCheetah",
+        "displayName": "RemarkableJadeCheetah",
+        "nickname": "Titan",
+        "squad": "Investor 1k",
+        "races": 84,
+        "wpm": 95.9,
+        "accuracy": 92.3,
+        "points": 11473,
+        "tier": null
+      },
+      {
+        "rank": 2,
         "tag": "IMT",
         "username": "Nathan",
         "displayName": "Nathan",
@@ -560,20 +613,20 @@
         "tier": null
       },
       {
-        "rank": 2,
+        "rank": 3,
         "tag": "IMT",
-        "username": "RemarkableJadeCheetah",
-        "displayName": "RemarkableJadeCheetah",
-        "nickname": "Titan",
-        "squad": "Investor 1k",
+        "username": "D4_B3St",
+        "displayName": "D4_B3St",
+        "nickname": "Any% Speedrunner",
+        "squad": "Starter Fund",
         "races": 75,
-        "wpm": 96.3,
-        "accuracy": 92.31,
-        "points": 10259,
+        "wpm": 76.6,
+        "accuracy": 94.71,
+        "points": 9822,
         "tier": null
       },
       {
-        "rank": 3,
+        "rank": 4,
         "tag": "IMT",
         "username": "KirbyDelta",
         "displayName": "KirbyDelta",
@@ -583,19 +636,6 @@
         "wpm": 82.1,
         "accuracy": 93.53,
         "points": 6597,
-        "tier": null
-      },
-      {
-        "rank": 4,
-        "tag": "IMT",
-        "username": "Da_B3St - 3k",
-        "displayName": "Da_B3St - 3k",
-        "nickname": "Any% Speedrunner",
-        "squad": "Starter Fund",
-        "races": 37,
-        "wpm": 74.6,
-        "accuracy": 93.36,
-        "points": 4743,
         "tier": null
       },
       {
@@ -644,10 +684,10 @@
         "displayName": "RationalGoldApe",
         "nickname": "Box Collector",
         "squad": "Side Hustler 100",
-        "races": 18,
-        "wpm": 91.4,
-        "accuracy": 97.31,
-        "points": 2552,
+        "races": 21,
+        "wpm": 91.3,
+        "accuracy": 97.36,
+        "points": 2978,
         "tier": null
       },
       {
@@ -703,6 +743,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1795620794766
+    "_syncedAt": 1795650514498
   }
 }

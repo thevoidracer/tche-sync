@@ -5,7 +5,7 @@
   "activePercent": 86,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2798,
+  "profileViews": 2801,
   "leagueTier": 12,
   "racers": [
     {
@@ -132,7 +132,7 @@
       "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1795576398
+      "lastLogin": 1795648977
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -177,18 +177,18 @@
       "lastLogin": 1795196713
     },
     {
-      "username": "6454bed393d752195af763e28b24d2d7",
-      "displayName": "Da_B3St - 3k",
+      "username": "d4_b3st",
+      "displayName": "D4_B3St",
       "role": "member",
       "joinStamp": 1795293003,
-      "allTimeRaces": 2196,
-      "wpm": 74,
+      "allTimeRaces": 2234,
+      "wpm": 80,
       "highestWPM": 100,
-      "teamRaces": 56,
-      "acc": 94.31,
+      "teamRaces": 94,
+      "acc": 95.05,
       "season": null,
       "status": "active",
-      "lastLogin": 1795566671
+      "lastLogin": 1795645591
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -503,14 +503,14 @@
       "displayName": "RationalGoldApe",
       "role": "member",
       "joinStamp": 1792430511,
-      "allTimeRaces": 1699,
+      "allTimeRaces": 1702,
       "wpm": 91,
       "highestWPM": 100,
-      "teamRaces": 349,
-      "acc": 97.31,
+      "teamRaces": 352,
+      "acc": 97.32,
       "season": null,
       "status": "active",
-      "lastLogin": 1795549277
+      "lastLogin": 1795634692
     },
     {
       "username": "9efd6f2eb56545ebe21b44eef9c2f081",
@@ -587,14 +587,14 @@
       "displayName": "RemarkableJadeCheetah",
       "role": "member",
       "joinStamp": 1794130377,
-      "allTimeRaces": 5236,
-      "wpm": 94,
+      "allTimeRaces": 5245,
+      "wpm": 92,
       "highestWPM": 112,
-      "teamRaces": 1600,
-      "acc": 91.84,
+      "teamRaces": 1609,
+      "acc": 91.85,
       "season": null,
       "status": "active",
-      "lastLogin": 1795545680
+      "lastLogin": 1795624556
     },
     {
       "username": "nataliefinger",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 80296,
+      "races": 80346,
       "avgWPM": 79,
       "avgAcc": 94.96,
       "members": 44
     },
     "daily": {
-      "races": 303,
-      "avgWPM": 86,
-      "avgAcc": 95.03,
+      "races": 215,
+      "avgWPM": 80,
+      "avgAcc": 95.71,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795620714639
+  "_syncedAt": 1795650431825
 }
