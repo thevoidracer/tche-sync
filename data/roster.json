@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 92,
+    "tierA": 91,
     "tierB": 80,
     "weeklyReq": 100
   },
@@ -248,7 +248,7 @@
       "nickname": "Olde School",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 132,
       "lifetimeRaces": 7015,
@@ -300,7 +300,7 @@
       "nickname": "Box Collector",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 91,
       "topWPM": 100,
       "lifetimeRaces": 1699,
@@ -405,10 +405,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 79,
+      "avgWPM": 76,
       "topWPM": 110,
-      "lifetimeRaces": 9322,
-      "teamRaces": 2216,
+      "lifetimeRaces": 9422,
+      "teamRaces": 2316,
       "joined": "10/28/26"
     },
     {
@@ -418,10 +418,10 @@
       "role": "member",
       "squad": "Side Hustler 100",
       "tier": "C",
-      "avgWPM": 52,
+      "avgWPM": 51,
       "topWPM": 80,
-      "lifetimeRaces": 1337,
-      "teamRaces": 235,
+      "lifetimeRaces": 1338,
+      "teamRaces": 236,
       "joined": "10/28/26"
     },
     {
@@ -574,13 +574,13 @@
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
-      "avgWPM": 79,
+      "avgWPM": 74,
       "topWPM": 100,
-      "lifetimeRaces": 2159,
-      "teamRaces": 19,
+      "lifetimeRaces": 2196,
+      "teamRaces": 56,
       "joined": "11/21/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795560484402
+  "_syncedAt": 1795583367900
 }

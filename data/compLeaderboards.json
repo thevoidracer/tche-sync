@@ -247,7 +247,7 @@
         "wpm": 88.6,
         "accuracy": 97.3,
         "points": 27094,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 20,
@@ -256,10 +256,10 @@
         "displayName": "BlazingFlowerz",
         "nickname": "Winter Warrior",
         "squad": "Side Hustler 100",
-        "races": 164,
+        "races": 165,
         "wpm": 51.2,
-        "accuracy": 91.03,
-        "points": 18752,
+        "accuracy": 91.01,
+        "points": 18858,
         "tier": "C"
       },
       {
@@ -330,6 +330,19 @@
       {
         "rank": 26,
         "tag": "IMT",
+        "username": "Da_B3St - 3k",
+        "displayName": "Da_B3St - 3k",
+        "nickname": "Any% Speedrunner",
+        "squad": "Starter Fund",
+        "races": 56,
+        "wpm": 75.7,
+        "accuracy": 93.97,
+        "points": 7254,
+        "tier": "C"
+      },
+      {
+        "rank": 27,
+        "tag": "IMT",
         "username": "certified",
         "displayName": "certified",
         "nickname": "Olde School",
@@ -341,7 +354,7 @@
         "tier": "B"
       },
       {
-        "rank": 27,
+        "rank": 28,
         "tag": "IMT",
         "username": "Victoria Ram",
         "displayName": "Victoria Ram",
@@ -354,7 +367,7 @@
         "tier": "B"
       },
       {
-        "rank": 28,
+        "rank": 29,
         "tag": "IMT",
         "username": "sterling757",
         "displayName": "sterling757",
@@ -367,7 +380,7 @@
         "tier": "B"
       },
       {
-        "rank": 29,
+        "rank": 30,
         "tag": "IMT",
         "username": "The Queen",
         "displayName": "The Queen",
@@ -380,7 +393,7 @@
         "tier": "B"
       },
       {
-        "rank": 30,
+        "rank": 31,
         "tag": "IMT",
         "username": "SKZ FIRAH",
         "displayName": "SKZ FIRAH",
@@ -393,7 +406,7 @@
         "tier": "C"
       },
       {
-        "rank": 31,
+        "rank": 32,
         "tag": "IMT",
         "username": "VOID_REIGN",
         "displayName": "VOID_REIGN",
@@ -403,19 +416,6 @@
         "wpm": 58.2,
         "accuracy": 88.8,
         "points": 2292,
-        "tier": "C"
-      },
-      {
-        "rank": 32,
-        "tag": "IMT",
-        "username": "Da_B3St - 3k",
-        "displayName": "Da_B3St - 3k",
-        "nickname": "Any% Speedrunner",
-        "squad": "Starter Fund",
-        "races": 19,
-        "wpm": 78,
-        "accuracy": 95.16,
-        "points": 2513,
         "tier": "C"
       },
       {
@@ -494,7 +494,7 @@
         "wpm": 101.4,
         "accuracy": 95.52,
         "points": 576,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 39,
@@ -536,7 +536,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795560515981
+    "_syncedAt": 1795583395920
   },
   "1633": {
     "eventId": "1633",
@@ -583,6 +583,19 @@
       {
         "rank": 4,
         "tag": "IMT",
+        "username": "Da_B3St - 3k",
+        "displayName": "Da_B3St - 3k",
+        "nickname": "Any% Speedrunner",
+        "squad": "Starter Fund",
+        "races": 37,
+        "wpm": 74.6,
+        "accuracy": 93.36,
+        "points": 4743,
+        "tier": null
+      },
+      {
+        "rank": 5,
+        "tag": "IMT",
         "username": "GregThe2ndFastTyper",
         "displayName": "GregThe2ndFastTyper",
         "nickname": "Champion Chaser",
@@ -594,7 +607,7 @@
         "tier": null
       },
       {
-        "rank": 5,
+        "rank": 6,
         "tag": "IMT",
         "username": "UJAADDAH",
         "displayName": "UJAADDAH",
@@ -607,7 +620,7 @@
         "tier": null
       },
       {
-        "rank": 6,
+        "rank": 7,
         "tag": "IMT",
         "username": "PootsyWafflebiscuits",
         "displayName": "PootsyWafflebiscuits",
@@ -620,7 +633,7 @@
         "tier": null
       },
       {
-        "rank": 7,
+        "rank": 8,
         "tag": "IMT",
         "username": "RationalGoldApe",
         "displayName": "RationalGoldApe",
@@ -633,7 +646,7 @@
         "tier": null
       },
       {
-        "rank": 8,
+        "rank": 9,
         "tag": "IMT",
         "username": "nataliefinger",
         "displayName": "nataliefinger",
@@ -646,7 +659,7 @@
         "tier": null
       },
       {
-        "rank": 9,
+        "rank": 10,
         "tag": "IMT",
         "username": "N4RUTO",
         "displayName": "N4RUTO",
@@ -657,92 +670,21 @@
         "accuracy": 93.66,
         "points": 267,
         "tier": null
-      }
-    ],
-    "_syncedAt": 1795560511897
-  },
-  "1637": {
-    "eventId": "1637",
-    "racers": [
-      {
-        "rank": 1,
-        "tag": "IMT",
-        "username": "KirbyDelta",
-        "displayName": "KirbyDelta",
-        "nickname": "Night Patrol",
-        "squad": "Dominator 2.5k",
-        "races": 50,
-        "wpm": 82.1,
-        "accuracy": 93.53,
-        "points": 6597,
-        "tier": "$300,000"
       },
       {
-        "rank": 2,
+        "rank": 11,
         "tag": "IMT",
-        "username": "RemarkableJadeCheetah",
-        "displayName": "RemarkableJadeCheetah",
-        "nickname": "Titan",
-        "squad": "Investor 1k",
-        "races": 43,
-        "wpm": 95.3,
-        "accuracy": 92.07,
-        "points": 5845,
-        "tier": "$200,000"
-      },
-      {
-        "rank": 3,
-        "tag": "IMT",
-        "username": "GregThe2ndFastTyper",
-        "displayName": "GregThe2ndFastTyper",
-        "nickname": "Champion Chaser",
-        "squad": "Side Hustler 100",
-        "races": 27,
-        "wpm": 108.1,
-        "accuracy": 96.66,
-        "points": 4020,
-        "tier": null
-      },
-      {
-        "rank": 4,
-        "tag": "IMT",
-        "username": "Nathan",
-        "displayName": "Nathan",
-        "nickname": "No Nitros Needed",
-        "squad": "Investor 1k",
-        "races": 26,
-        "wpm": 100.5,
-        "accuracy": 94.83,
-        "points": 3705,
-        "tier": null
-      },
-      {
-        "rank": 5,
-        "tag": "IMT",
-        "username": "UJAADDAH",
-        "displayName": "UJAADDAH",
-        "nickname": "Ghost Lap",
-        "squad": "Side Hustler 100",
-        "races": 6,
-        "wpm": 98,
-        "accuracy": 93.17,
-        "points": 833,
-        "tier": null
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "RationalGoldApe",
-        "displayName": "RationalGoldApe",
-        "nickname": "Box Collector",
+        "username": "BlazingFlowerz",
+        "displayName": "BlazingFlowerz",
+        "nickname": "Winter Warrior",
         "squad": "Side Hustler 100",
         "races": 1,
-        "wpm": 84.4,
-        "accuracy": 96.45,
-        "points": 137,
+        "wpm": 45,
+        "accuracy": 86.67,
+        "points": 106,
         "tier": null
       }
     ],
-    "_syncedAt": 1795560508091
+    "_syncedAt": 1795583391666
   }
 }
