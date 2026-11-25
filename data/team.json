@@ -5,7 +5,7 @@
   "activePercent": 86,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2797,
+  "profileViews": 2798,
   "leagueTier": 12,
   "racers": [
     {
@@ -55,14 +55,14 @@
       "displayName": "Nathan",
       "role": "member",
       "joinStamp": 1792542738,
-      "allTimeRaces": 6319,
-      "wpm": 106,
+      "allTimeRaces": 6341,
+      "wpm": 102,
       "highestWPM": 138,
-      "teamRaces": 1307,
+      "teamRaces": 1329,
       "acc": 95.22,
       "season": null,
       "status": "active",
-      "lastLogin": 1795551171
+      "lastLogin": 1795615579
     },
     {
       "username": "tre1typer",
@@ -265,14 +265,14 @@
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3924,
+      "allTimeRaces": 3926,
       "wpm": 89,
       "highestWPM": 120,
-      "teamRaces": 714,
+      "teamRaces": 716,
       "acc": 95.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1795408062
+      "lastLogin": 1795585227
     },
     {
       "username": "gregthefasttyper",
@@ -377,14 +377,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1934,
-      "wpm": 95,
+      "allTimeRaces": 1939,
+      "wpm": 104,
       "highestWPM": 127,
-      "teamRaces": 401,
-      "acc": 90.65,
+      "teamRaces": 406,
+      "acc": 90.66,
       "season": null,
       "status": "active",
-      "lastLogin": 1795533747
+      "lastLogin": 1795619251
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 80267,
+      "races": 80296,
       "avgWPM": 79,
       "avgAcc": 94.96,
       "members": 44
     },
     "daily": {
-      "races": 371,
-      "avgWPM": 85,
-      "avgAcc": 95.52,
+      "races": 303,
+      "avgWPM": 86,
+      "avgAcc": 95.03,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795583302501
+  "_syncedAt": 1795620714639
 }

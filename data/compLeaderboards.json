@@ -1,4 +1,9 @@
 {
+  "1408": {
+    "eventId": "1408",
+    "racers": [],
+    "_syncedAt": 1795620790940
+  },
   "1550": {
     "eventId": "1550",
     "racers": [
@@ -35,10 +40,10 @@
         "displayName": "Nathan",
         "nickname": "No Nitros Needed",
         "squad": "Investor 1k",
-        "races": 888,
+        "races": 910,
         "wpm": 99.5,
         "accuracy": 94.89,
-        "points": 126187,
+        "points": 129290,
         "tier": "A"
       },
       {
@@ -87,10 +92,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Entrepreneur 500",
-        "races": 509,
+        "races": 511,
         "wpm": 88.5,
-        "accuracy": 95.53,
-        "points": 70138,
+        "accuracy": 95.52,
+        "points": 70411,
         "tier": "B"
       },
       {
@@ -204,10 +209,10 @@
         "displayName": "UJAADDAH",
         "nickname": "Ghost Lap",
         "squad": "Side Hustler 100",
-        "races": 243,
-        "wpm": 96.4,
-        "accuracy": 89.37,
-        "points": 32188,
+        "races": 248,
+        "wpm": 96.7,
+        "accuracy": 89.4,
+        "points": 32888,
         "tier": "A"
       },
       {
@@ -536,13 +541,26 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795583395920
+    "_syncedAt": 1795620798650
   },
   "1633": {
     "eventId": "1633",
     "racers": [
       {
         "rank": 1,
+        "tag": "IMT",
+        "username": "Nathan",
+        "displayName": "Nathan",
+        "nickname": "No Nitros Needed",
+        "squad": "Investor 1k",
+        "races": 75,
+        "wpm": 98,
+        "accuracy": 94.58,
+        "points": 10570,
+        "tier": null
+      },
+      {
+        "rank": 2,
         "tag": "IMT",
         "username": "RemarkableJadeCheetah",
         "displayName": "RemarkableJadeCheetah",
@@ -552,19 +570,6 @@
         "wpm": 96.3,
         "accuracy": 92.31,
         "points": 10259,
-        "tier": null
-      },
-      {
-        "rank": 2,
-        "tag": "IMT",
-        "username": "Nathan",
-        "displayName": "Nathan",
-        "nickname": "No Nitros Needed",
-        "squad": "Investor 1k",
-        "races": 53,
-        "wpm": 98.1,
-        "accuracy": 94.53,
-        "points": 7467,
         "tier": null
       },
       {
@@ -596,6 +601,19 @@
       {
         "rank": 5,
         "tag": "IMT",
+        "username": "UJAADDAH",
+        "displayName": "UJAADDAH",
+        "nickname": "Ghost Lap",
+        "squad": "Side Hustler 100",
+        "races": 32,
+        "wpm": 100.9,
+        "accuracy": 91.63,
+        "points": 4412,
+        "tier": null
+      },
+      {
+        "rank": 6,
+        "tag": "IMT",
         "username": "GregThe2ndFastTyper",
         "displayName": "GregThe2ndFastTyper",
         "nickname": "Champion Chaser",
@@ -604,19 +622,6 @@
         "wpm": 108.1,
         "accuracy": 96.66,
         "points": 4020,
-        "tier": null
-      },
-      {
-        "rank": 6,
-        "tag": "IMT",
-        "username": "UJAADDAH",
-        "displayName": "UJAADDAH",
-        "nickname": "Ghost Lap",
-        "squad": "Side Hustler 100",
-        "races": 27,
-        "wpm": 99.7,
-        "accuracy": 91.76,
-        "points": 3713,
         "tier": null
       },
       {
@@ -661,6 +666,19 @@
       {
         "rank": 10,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Entrepreneur 500",
+        "races": 2,
+        "wpm": 91.8,
+        "accuracy": 93.46,
+        "points": 273,
+        "tier": null
+      },
+      {
+        "rank": 11,
+        "tag": "IMT",
         "username": "N4RUTO",
         "displayName": "N4RUTO",
         "nickname": "Redline Ronin",
@@ -672,7 +690,7 @@
         "tier": null
       },
       {
-        "rank": 11,
+        "rank": 12,
         "tag": "IMT",
         "username": "BlazingFlowerz",
         "displayName": "BlazingFlowerz",
@@ -685,6 +703,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1795583391666
+    "_syncedAt": 1795620794766
   }
 }

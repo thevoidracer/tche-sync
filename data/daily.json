@@ -1,7 +1,7 @@
 {
   "racers": [
     {
-      "rank": 267,
+      "rank": 246,
       "username": "kirbydelta",
       "displayName": "KirbyDelta",
       "races": 50,
@@ -11,7 +11,7 @@
       "ppr": 132
     },
     {
-      "rank": 292,
+      "rank": 273,
       "username": "fe21cb49ffd12a2f5d3de7b8373bf7a6",
       "displayName": "RemarkableJadeCheetah",
       "races": 43,
@@ -21,7 +21,7 @@
       "ppr": 136
     },
     {
-      "rank": 337,
+      "rank": 320,
       "username": "6454bed393d752195af763e28b24d2d7",
       "displayName": "Da_B3St - 3k",
       "races": 37,
@@ -31,7 +31,17 @@
       "ppr": 128
     },
     {
-      "rank": 397,
+      "rank": 333,
+      "username": "nathanmduncan",
+      "displayName": "Nathan",
+      "races": 32,
+      "accuracy": 94.98,
+      "wpm": 100.5,
+      "points": 4567,
+      "ppr": 143
+    },
+    {
+      "rank": 370,
       "username": "gregthefasttyper",
       "displayName": "GregThe2ndFastTyper",
       "races": 27,
@@ -41,27 +51,27 @@
       "ppr": 149
     },
     {
-      "rank": 421,
-      "username": "nathanmduncan",
-      "displayName": "Nathan",
-      "races": 26,
-      "accuracy": 94.83,
-      "wpm": 100.5,
-      "points": 3705,
-      "ppr": 142
-    },
-    {
-      "rank": 770,
+      "rank": 666,
       "username": "735493474a38feb614a4a76e3cde2c1a",
       "displayName": "UJAADDAH",
-      "races": 6,
-      "accuracy": 93.17,
-      "wpm": 98,
-      "points": 833,
+      "races": 9,
+      "accuracy": 91.87,
+      "wpm": 103.5,
+      "points": 1255,
       "ppr": 139
     },
     {
-      "rank": 920,
+      "rank": 838,
+      "username": "ace1inee",
+      "displayName": "asteroids",
+      "races": 2,
+      "accuracy": 93.46,
+      "wpm": 91.8,
+      "points": 273,
+      "ppr": 136
+    },
+    {
+      "rank": 882,
       "username": "10712a0152fd25105448b6ef1298504b",
       "displayName": "RationalGoldApe",
       "races": 1,
@@ -71,7 +81,7 @@
       "ppr": 137
     },
     {
-      "rank": 960,
+      "rank": 916,
       "username": "3a0b3a8cc922fae587432ade7a6160f7",
       "displayName": "BlazingFlowerz",
       "races": 1,
@@ -81,5 +91,5 @@
       "ppr": 106
     }
   ],
-  "_syncedAt": 1795583364525
+  "_syncedAt": 1795620764749
 }
