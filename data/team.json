@@ -5,22 +5,22 @@
   "activePercent": 86,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2801,
-  "leagueTier": 12,
+  "profileViews": 2804,
+  "leagueTier": 10,
   "racers": [
     {
       "username": "sidoh",
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 21077,
-      "wpm": 90,
+      "allTimeRaces": 21080,
+      "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 3438,
+      "teamRaces": 3441,
       "acc": 97.58,
       "season": null,
       "status": "active",
-      "lastLogin": 1795462092
+      "lastLogin": 1795654756
     },
     {
       "username": "jonathan711111",
@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 9422,
-      "wpm": 76,
+      "allTimeRaces": 9429,
+      "wpm": 79,
       "highestWPM": 110,
-      "teamRaces": 2316,
+      "teamRaces": 2323,
       "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1795648977
+      "lastLogin": 1795668157
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -181,14 +181,14 @@
       "displayName": "D4_B3St",
       "role": "member",
       "joinStamp": 1795293003,
-      "allTimeRaces": 2234,
-      "wpm": 80,
+      "allTimeRaces": 2284,
+      "wpm": 75,
       "highestWPM": 100,
-      "teamRaces": 94,
+      "teamRaces": 144,
       "acc": 95.05,
       "season": null,
       "status": "active",
-      "lastLogin": 1795645591
+      "lastLogin": 1795651219
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 80346,
+      "races": 80406,
       "avgWPM": 79,
       "avgAcc": 94.96,
       "members": 44
     },
     "daily": {
-      "races": 215,
-      "avgWPM": 80,
-      "avgAcc": 95.71,
+      "races": 137,
+      "avgWPM": 82,
+      "avgAcc": 95.07,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795650431825
+  "_syncedAt": 1795671855913
 }
