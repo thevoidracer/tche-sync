@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 21080,
+      "allTimeRaces": 21081,
       "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 3441,
+      "teamRaces": 3442,
       "acc": 97.58,
       "season": null,
       "status": "active",
-      "lastLogin": 1795654756
+      "lastLogin": 1795703792
     },
     {
       "username": "jonathan711111",
@@ -181,14 +181,14 @@
       "displayName": "D4_B3St",
       "role": "member",
       "joinStamp": 1795293003,
-      "allTimeRaces": 2284,
-      "wpm": 75,
+      "allTimeRaces": 2290,
+      "wpm": 78,
       "highestWPM": 100,
       "teamRaces": 144,
       "acc": 95.05,
       "season": null,
       "status": "active",
-      "lastLogin": 1795651219
+      "lastLogin": 1795707742
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
@@ -272,7 +272,7 @@
       "acc": 95.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1795585227
+      "lastLogin": 1795676080
     },
     {
       "username": "gregthefasttyper",
@@ -627,19 +627,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 80406,
+      "races": 80407,
       "avgWPM": 79,
       "avgAcc": 94.96,
       "members": 44
     },
     "daily": {
-      "races": 137,
-      "avgWPM": 82,
-      "avgAcc": 95.07,
+      "races": 109,
+      "avgWPM": 78,
+      "avgAcc": 95.35,
       "members": 44
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795671855913
+  "_syncedAt": 1795708093302
 }
