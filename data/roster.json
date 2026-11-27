@@ -40,11 +40,11 @@
       "nickname": "Original Gangster",
       "role": "officer",
       "squad": "Phantom 10k",
-      "tier": "A",
-      "avgWPM": 95,
+      "tier": "B",
+      "avgWPM": 83,
       "topWPM": 118,
-      "lifetimeRaces": 12751,
-      "teamRaces": 11941,
+      "lifetimeRaces": 12775,
+      "teamRaces": 11965,
       "joined": "07/04/26"
     },
     {
@@ -576,8 +576,8 @@
       "tier": "C",
       "avgWPM": 75,
       "topWPM": 100,
-      "lifetimeRaces": 2357,
-      "teamRaces": 217,
+      "lifetimeRaces": 2387,
+      "teamRaces": 246,
       "joined": "11/21/26"
     },
     {
@@ -589,11 +589,11 @@
       "tier": "C",
       "avgWPM": 55,
       "topWPM": 77,
-      "lifetimeRaces": 687,
-      "teamRaces": 0,
+      "lifetimeRaces": 707,
+      "teamRaces": 20,
       "joined": "11/26/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795767493703
+  "_syncedAt": 1795803601201
 }

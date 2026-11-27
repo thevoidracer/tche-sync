@@ -2,10 +2,10 @@
   "tag": "IMT",
   "name": "Immortal Legends",
   "members": 45,
-  "activePercent": 86,
+  "activePercent": 82,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2811,
+  "profileViews": 2815,
   "leagueTier": 10,
   "racers": [
     {
@@ -125,14 +125,14 @@
       "displayName": "Eclipse",
       "role": "member",
       "joinStamp": 1793174744,
-      "allTimeRaces": 9429,
-      "wpm": 79,
+      "allTimeRaces": 9570,
+      "wpm": 68,
       "highestWPM": 110,
-      "teamRaces": 2323,
+      "teamRaces": 2464,
       "acc": 97.28,
       "season": null,
       "status": "active",
-      "lastLogin": 1795668157
+      "lastLogin": 1795752431
     },
     {
       "username": "6240c5f6dad57c347bcff59a0e6afbcc",
@@ -181,28 +181,28 @@
       "displayName": "D4_B3St",
       "role": "member",
       "joinStamp": 1795293003,
-      "allTimeRaces": 2357,
+      "allTimeRaces": 2387,
       "wpm": 75,
       "highestWPM": 100,
-      "teamRaces": 217,
-      "acc": 95.15,
+      "teamRaces": 246,
+      "acc": 95.07,
       "season": null,
       "status": "active",
-      "lastLogin": 1795727956
+      "lastLogin": 1795803115
     },
     {
       "username": "75ece50e19f0ca3d92787e4a86138578",
       "displayName": "rorok09",
       "role": "officer",
       "joinStamp": 1783181238,
-      "allTimeRaces": 12751,
-      "wpm": 95,
+      "allTimeRaces": 12775,
+      "wpm": 83,
       "highestWPM": 118,
-      "teamRaces": 11941,
+      "teamRaces": 11965,
       "acc": 97.02,
       "season": null,
       "status": "active",
-      "lastLogin": 1795139144
+      "lastLogin": 1795787516
     },
     {
       "username": "kirbydelta",
@@ -265,28 +265,28 @@
       "displayName": "Osm786",
       "role": "member",
       "joinStamp": 1795732671,
-      "allTimeRaces": 687,
+      "allTimeRaces": 707,
       "wpm": 55,
       "highestWPM": 77,
-      "teamRaces": 0,
-      "acc": 0,
+      "teamRaces": 20,
+      "acc": 92.83,
       "season": null,
       "status": "active",
-      "lastLogin": 1795707251
+      "lastLogin": 1795797563
     },
     {
       "username": "ace1inee",
       "displayName": "asteroids",
       "role": "member",
       "joinStamp": 1792891485,
-      "allTimeRaces": 3926,
-      "wpm": 89,
+      "allTimeRaces": 3929,
+      "wpm": 90,
       "highestWPM": 120,
-      "teamRaces": 716,
+      "teamRaces": 719,
       "acc": 95.73,
       "season": null,
       "status": "active",
-      "lastLogin": 1795676080
+      "lastLogin": 1795764723
     },
     {
       "username": "gregthefasttyper",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 80586,
+      "races": 80803,
       "avgWPM": 79,
       "avgAcc": 94.96,
       "members": 45
     },
     "daily": {
-      "races": 238,
-      "avgWPM": 78,
-      "avgAcc": 94.35,
+      "races": 350,
+      "avgWPM": 76,
+      "avgAcc": 95.31,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795738125580
+  "_syncedAt": 1795803545864
 }
