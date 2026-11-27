@@ -1,36 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-25 16:00:00",
-      "racer": "D4_B3St",
-      "races": 16
-    },
-    {
-      "hour": "2026-11-25 16:00:00",
-      "racer": "RemarkableJadeCheetah",
-      "races": 9
-    },
-    {
-      "hour": "2026-11-25 18:00:00",
-      "racer": "D4_B3St",
-      "races": 1
-    },
-    {
-      "hour": "2026-11-25 19:00:00",
-      "racer": "D4_B3St",
-      "races": 4
-    },
-    {
-      "hour": "2026-11-25 19:00:00",
-      "racer": "RationalGoldApe",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-25 22:00:00",
-      "racer": "D4_B3St",
-      "races": 17
-    },
-    {
       "hour": "2026-11-26 00:00:00",
       "racer": "D4_B3St",
       "races": 50
@@ -49,8 +19,48 @@
       "hour": "2026-11-26 14:00:00",
       "racer": "PootsyWafflebiscuits",
       "races": 1
+    },
+    {
+      "hour": "2026-11-26 15:00:00",
+      "racer": "D4_B3St",
+      "races": 21
+    },
+    {
+      "hour": "2026-11-26 16:00:00",
+      "racer": "D4_B3St",
+      "races": 23
+    },
+    {
+      "hour": "2026-11-26 18:00:00",
+      "racer": "RemarkableJadeCheetah",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-26 21:00:00",
+      "racer": "KirbyDelta",
+      "races": 42
+    },
+    {
+      "hour": "2026-11-26 21:00:00",
+      "racer": "D4_B3St",
+      "races": 29
+    },
+    {
+      "hour": "2026-11-26 22:00:00",
+      "racer": "KirbyDelta",
+      "races": 55
+    },
+    {
+      "hour": "2026-11-26 22:00:00",
+      "racer": "Osm786",
+      "races": 0
+    },
+    {
+      "hour": "2026-11-26 23:00:00",
+      "racer": "KirbyDelta",
+      "races": 3
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795708156117
+  "_syncedAt": 1795738189714
 }

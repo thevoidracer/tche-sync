@@ -274,11 +274,11 @@
       "nickname": "Night Patrol",
       "role": "officer",
       "squad": "Dominator 2.5k",
-      "tier": "B",
-      "avgWPM": 80,
+      "tier": "C",
+      "avgWPM": 79,
       "topWPM": 102,
-      "lifetimeRaces": 9100,
-      "teamRaces": 3075,
+      "lifetimeRaces": 9200,
+      "teamRaces": 3175,
       "joined": "10/15/26"
     },
     {
@@ -547,11 +547,11 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "A",
-      "avgWPM": 92,
+      "tier": "B",
+      "avgWPM": 90,
       "topWPM": 112,
-      "lifetimeRaces": 5245,
-      "teamRaces": 1609,
+      "lifetimeRaces": 5251,
+      "teamRaces": 1615,
       "joined": "11/08/26"
     },
     {
@@ -570,17 +570,30 @@
     {
       "username": "d4_b3st",
       "displayName": "D4_B3St",
-      "nickname": "Raw Racing Recruit",
+      "nickname": "Any% Speedrunner",
       "role": "member",
       "squad": "Starter Fund",
       "tier": "C",
       "avgWPM": 75,
       "topWPM": 100,
-      "lifetimeRaces": 2287,
-      "teamRaces": 144,
+      "lifetimeRaces": 2357,
+      "teamRaces": 217,
       "joined": "11/21/26"
+    },
+    {
+      "username": "5c82f577cc0818d2b898679cfa5d9ad8",
+      "displayName": "Osm786",
+      "nickname": "Ace Accelerator",
+      "role": "member",
+      "squad": null,
+      "tier": "C",
+      "avgWPM": 55,
+      "topWPM": 77,
+      "lifetimeRaces": 687,
+      "teamRaces": 0,
+      "joined": "11/26/26"
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795708156116
+  "_syncedAt": 1795738189712
 }

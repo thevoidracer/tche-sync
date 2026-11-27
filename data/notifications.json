@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "key": "new-member:5c82f577cc0818d2b898679cfa5d9ad8",
+      "type": "new-member",
+      "text": "Osm786 joined the team.",
+      "meta": {
+        "username": "5c82f577cc0818d2b898679cfa5d9ad8"
+      },
+      "createdAt": 1795738209575
+    },
+    {
       "key": "new-member:d4_b3st",
       "type": "new-member",
       "text": "D4_B3St joined the team.",
@@ -951,5 +960,5 @@
       "createdAt": 1792534171406
     }
   ],
-  "_syncedAt": 1795708176253
+  "_syncedAt": 1795738209575
 }
