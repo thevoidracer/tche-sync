@@ -2,7 +2,7 @@
   "thresholds": {
     "minRaces": 500,
     "minWPM": 50,
-    "tierA": 91,
+    "tierA": 90,
     "tierB": 80,
     "weeklyReq": 100
   },
@@ -209,7 +209,7 @@
       "nickname": "Rodeo Scholar",
       "role": "member",
       "squad": "Side Hustler 100",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 127,
       "lifetimeRaces": 20736,
@@ -378,11 +378,11 @@
       "nickname": "A E S T H E T I C",
       "role": "member",
       "squad": "Entrepreneur 500",
-      "tier": "B",
-      "avgWPM": 89,
+      "tier": "A",
+      "avgWPM": 90,
       "topWPM": 120,
-      "lifetimeRaces": 3926,
-      "teamRaces": 716,
+      "lifetimeRaces": 3929,
+      "teamRaces": 719,
       "joined": "10/25/26"
     },
     {
@@ -405,10 +405,10 @@
       "role": "member",
       "squad": "Investor 1k",
       "tier": "C",
-      "avgWPM": 79,
+      "avgWPM": 68,
       "topWPM": 110,
-      "lifetimeRaces": 9429,
-      "teamRaces": 2323,
+      "lifetimeRaces": 9570,
+      "teamRaces": 2464,
       "joined": "10/28/26"
     },
     {
@@ -547,7 +547,7 @@
       "nickname": "Titan",
       "role": "member",
       "squad": "Investor 1k",
-      "tier": "B",
+      "tier": "A",
       "avgWPM": 90,
       "topWPM": 112,
       "lifetimeRaces": 5251,
@@ -595,5 +595,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795738189712
+  "_syncedAt": 1795767493703
 }

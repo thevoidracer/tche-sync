@@ -39,7 +39,7 @@
         "wpm": 91.7,
         "accuracy": 92.45,
         "points": 2023,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 4,
@@ -70,6 +70,19 @@
       {
         "rank": 6,
         "tag": "IMT",
+        "username": "asteroids",
+        "displayName": "asteroids",
+        "nickname": "A E S T H E T I C",
+        "squad": "Entrepreneur 500",
+        "races": 3,
+        "wpm": 93.8,
+        "accuracy": 96.4,
+        "points": 425,
+        "tier": "A"
+      },
+      {
+        "rank": 7,
+        "tag": "IMT",
         "username": "Osm786",
         "displayName": "Osm786",
         "nickname": "Ace Accelerator",
@@ -81,7 +94,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795738213487
+    "_syncedAt": 1795767516898
   },
   "1550": {
     "eventId": "1550",
@@ -171,11 +184,11 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Entrepreneur 500",
-        "races": 511,
+        "races": 514,
         "wpm": 88.5,
         "accuracy": 95.52,
-        "points": 70411,
-        "tier": "B"
+        "points": 70835,
+        "tier": "A"
       },
       {
         "rank": 8,
@@ -201,7 +214,7 @@
         "wpm": 89.8,
         "accuracy": 91.47,
         "points": 59242,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 10,
@@ -396,7 +409,7 @@
         "wpm": 85.7,
         "accuracy": 94.17,
         "points": 16006,
-        "tier": "B"
+        "tier": "A"
       },
       {
         "rank": 25,
@@ -633,7 +646,7 @@
         "tier": "C"
       }
     ],
-    "_syncedAt": 1795738221506
+    "_syncedAt": 1795767524297
   },
   "1633": {
     "eventId": "1633",
@@ -762,10 +775,10 @@
         "displayName": "asteroids",
         "nickname": "A E S T H E T I C",
         "squad": "Entrepreneur 500",
-        "races": 2,
-        "wpm": 91.8,
-        "accuracy": 93.46,
-        "points": 273,
+        "races": 5,
+        "wpm": 93,
+        "accuracy": 95.23,
+        "points": 697,
         "tier": null
       },
       {
@@ -808,6 +821,6 @@
         "tier": null
       }
     ],
-    "_syncedAt": 1795738217335
+    "_syncedAt": 1795767520589
   }
 }

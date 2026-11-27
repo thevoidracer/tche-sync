@@ -1,22 +1,18 @@
 {
-  "_syncedAt": 1795738264974,
-  "team": 1795738125580,
-  "startrack": 1795738154738,
-  "comps": 1795738159154,
-  "seasons": 1795738264974,
-  "weekly": 1795738264974,
-  "daily": 1795738264974,
-  "tournament": 1795738209572,
-  "roster": 1795738189712,
-  "activity": 1795738189714,
-  "notifications": 1795738209575,
-  "allies": [
-    "KEYCAT",
-    "THB0S"
-  ],
-  "took": 139821,
+  "_syncedAt": 1795767561355,
+  "team": null,
+  "startrack": 1795767460744,
+  "comps": 1795767464223,
+  "seasons": 1795767561355,
+  "weekly": 1795767561355,
+  "daily": 1795767561355,
+  "tournament": 1795767513287,
+  "roster": 1795767493703,
+  "activity": 1795767493704,
+  "notifications": 1795767513288,
+  "allies": [],
+  "took": 120035,
   "ok": [
-    "team",
     "startrack",
     "comps",
     "season",
@@ -27,10 +23,12 @@
     "comp-lb-1408",
     "comp-lb-1633",
     "comp-lb-1550",
-    "ally-KEYCAT",
     "ally-sr-KEYCAT",
-    "ally-THB0S",
     "ally-sr-THB0S"
   ],
-  "failed": []
+  "failed": [
+    "team: NT didn't return JSON",
+    "ally-KEYCAT: NT didn't return JSON",
+    "ally-THB0S: NT didn't return JSON"
+  ]
 }
