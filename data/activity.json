@@ -1,36 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-26 18:00:00",
-      "racer": "RemarkableJadeCheetah",
-      "races": 3
-    },
-    {
-      "hour": "2026-11-26 21:00:00",
-      "racer": "KirbyDelta",
-      "races": 42
-    },
-    {
-      "hour": "2026-11-26 21:00:00",
-      "racer": "D4_B3St",
-      "races": 29
-    },
-    {
-      "hour": "2026-11-26 22:00:00",
-      "racer": "KirbyDelta",
-      "races": 55
-    },
-    {
-      "hour": "2026-11-26 22:00:00",
-      "racer": "Osm786",
-      "races": 0
-    },
-    {
-      "hour": "2026-11-26 23:00:00",
-      "racer": "KirbyDelta",
-      "races": 3
-    },
-    {
       "hour": "2026-11-27 04:00:00",
       "racer": "Eclipse",
       "races": 74
@@ -69,8 +39,28 @@
       "hour": "2026-11-27 16:00:00",
       "racer": "D4_B3St",
       "races": 14
+    },
+    {
+      "hour": "2026-11-27 18:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 2
+    },
+    {
+      "hour": "2026-11-27 18:00:00",
+      "racer": "D4_B3St",
+      "races": 1
+    },
+    {
+      "hour": "2026-11-27 19:00:00",
+      "racer": "PootsyWafflebiscuits",
+      "races": 6
+    },
+    {
+      "hour": "2026-11-27 20:00:00",
+      "racer": "UJAADDAH",
+      "races": 9
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795803601202
+  "_syncedAt": 1795829595714
 }

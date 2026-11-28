@@ -5,7 +5,7 @@
   "activePercent": 82,
   "createdStamp": 1781128952,
   "otherInfo": "꧁IMT꧂✨3x Tournament Champs✨79.4M NTC Given✨Req: 15/join • 100/wk✨Active = CASH✨Allies: KEYCAT & THB0S✨https://tinyurl.com/IMT-Tracker",
-  "profileViews": 2815,
+  "profileViews": 2817,
   "leagueTier": 10,
   "racers": [
     {
@@ -13,14 +13,14 @@
       "displayName": "PootsyWafflebiscuits",
       "role": "officer",
       "joinStamp": 1782328567,
-      "allTimeRaces": 21081,
+      "allTimeRaces": 21089,
       "wpm": 86,
       "highestWPM": 110,
-      "teamRaces": 3442,
-      "acc": 97.58,
+      "teamRaces": 3450,
+      "acc": 97.57,
       "season": null,
       "status": "active",
-      "lastLogin": 1795703792
+      "lastLogin": 1795805856
     },
     {
       "username": "jonathan711111",
@@ -184,8 +184,8 @@
       "allTimeRaces": 2387,
       "wpm": 75,
       "highestWPM": 100,
-      "teamRaces": 246,
-      "acc": 95.07,
+      "teamRaces": 247,
+      "acc": 95.06,
       "season": null,
       "status": "active",
       "lastLogin": 1795803115
@@ -391,14 +391,14 @@
       "displayName": "UJAADDAH",
       "role": "member",
       "joinStamp": 1792806291,
-      "allTimeRaces": 1939,
-      "wpm": 104,
+      "allTimeRaces": 1948,
+      "wpm": 102,
       "highestWPM": 127,
-      "teamRaces": 406,
-      "acc": 90.66,
+      "teamRaces": 415,
+      "acc": 90.72,
       "season": null,
       "status": "active",
-      "lastLogin": 1795619251
+      "lastLogin": 1795812603
     },
     {
       "username": "61d10b8f23f7f8535f91a789fc7c0895",
@@ -641,19 +641,19 @@
   ],
   "aggregates": {
     "alltime": {
-      "races": 80803,
+      "races": 80821,
       "avgWPM": 79,
       "avgAcc": 94.96,
       "members": 45
     },
     "daily": {
-      "races": 350,
+      "races": 233,
       "avgWPM": 76,
-      "avgAcc": 95.31,
+      "avgAcc": 96.36,
       "members": 45
     },
     "season": null
   },
   "season": null,
-  "_syncedAt": 1795803545864
+  "_syncedAt": 1795829542866
 }
