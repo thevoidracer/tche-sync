@@ -1,21 +1,6 @@
 {
   "hours": [
     {
-      "hour": "2026-11-27 04:00:00",
-      "racer": "Eclipse",
-      "races": 74
-    },
-    {
-      "hour": "2026-11-27 05:00:00",
-      "racer": "Eclipse",
-      "races": 67
-    },
-    {
-      "hour": "2026-11-27 07:00:00",
-      "racer": "asteroids",
-      "races": 3
-    },
-    {
       "hour": "2026-11-27 13:00:00",
       "racer": "rorok09",
       "races": 5
@@ -62,5 +47,5 @@
     }
   ],
   "source": "ntstartrack.org",
-  "_syncedAt": 1795829595714
+  "_syncedAt": 1795858039296
 }
